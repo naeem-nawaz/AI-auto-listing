@@ -4,7 +4,7 @@ import img from '../../images/14.png';
 import img2 from '../../images/div.png';
 import { LuSparkles } from "react-icons/lu";
 
-function Welcomepage() {
+function Welcomepage({ onStart }) {
   return (
     <div>
       <div className="page">
@@ -35,7 +35,7 @@ function Welcomepage() {
             </div>
           </div>
 
-          <button className='btn'>
+          <button className='btn' onClick={onStart}>
             <span className='btnIcon'><LuSparkles /></span>
             Start Creating
           </button>

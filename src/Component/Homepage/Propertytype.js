@@ -1,9 +1,8 @@
 import React from 'react'
 import bg from '../../images/bg.jpg';
-import icon from '../../images/Icon.png';
 import img2 from '../../images/div.png';
 
-function Propertytype() {
+function Propertytype({ onSelectPropertyType, onBack }) {
   const propertyTypes = ['Apartment', 'House', 'Condo', 'Townhouse', 'Villa', 'Studio'];
 
   return (
@@ -17,7 +16,7 @@ function Propertytype() {
         </div>
 
         <div className="progressTrack">
-          <div className="progressFill"></div>
+          <div className="progressFill" style={{ width: "10%" }}></div>
         </div>
 
         <div className="chatBlock">
@@ -41,14 +40,18 @@ function Propertytype() {
 
           <div className="typeOptions">
             {propertyTypes.map((item) => (
-              <button key={item} className="typeChip">
+              <button
+                key={item}
+                className="typeChip"
+                onClick={() => onSelectPropertyType(item)}
+              >
                 {item}
               </button>
             ))}
           </div>
         </div>
 
-        <button className="backBtn" aria-label="Go back">‹</button>
+        <button className="backBtn" aria-label="Go back" onClick={onBack}>‹</button>
       </div>
     </div>
   )
