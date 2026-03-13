@@ -17,6 +17,142 @@
   padding: 32px 16px;
 }
 
+.listingModePage{
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+  background: rgba(243, 243, 243, 0.4);
+  padding: 32px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.listingModeWrap{
+  width: min(900px, 100%);
+  display: inline-flex;
+  padding: 24px 24px 15px;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  gap: 24px;
+  border-radius: 12px;
+  border: 0.7px solid rgba(213, 213, 213, 0.7);
+  background: linear-gradient(92deg, rgba(255, 255, 255, 0.7) -8.24%, rgba(255, 255, 255, 0.5) 99.9%);
+  backdrop-filter: blur(6px);
+  position: relative;
+  z-index: 1;
+}
+
+.listingModeHeader{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.listingModeHeader h1{
+  color: #2D2D2D;
+  text-align: center;
+  font-family: "DM Sans", sans-serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 38px;
+}
+
+.listingModeHeader h4{
+  color: #555;
+  text-align: center;
+  font-family: "DM Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  max-width: 760px;
+}
+
+.listingModeCards{
+  width: 100%;
+  display: flex;
+  align-items: stretch;
+  gap: 12px;
+}
+
+.listingModeCard{
+  display: flex;
+  padding: 28px 24px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  flex: 1 0 0;
+  align-self: stretch;
+  border-radius: 12px;
+  border: 1px solid #447158;
+}
+
+.manualCard{
+  background: linear-gradient(92deg, rgba(255, 255, 255, 0.7) -8.24%, rgba(255, 255, 255, 0.5) 99.9%);
+}
+
+.aiCard{
+  background: linear-gradient(90deg, #556255 -30.43%, #60A560 105.22%);
+}
+
+.listingModeCardText{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+
+.listingModeCardText h3{
+  color: #2D2D2D;
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.listingModeCardText h4{
+  color: #555;
+  font-family: "DM Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: center;
+}
+
+.aiCard .listingModeCardText h3,
+.aiCard .listingModeCardText h4{
+  color: #fff;
+}
+
+.listingCardBtn{
+  display: flex;
+  height: 40px;
+  padding: 10px 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  border-radius: 8px;
+  background: #447158;
+  border: none;
+  color: #fff;
+  font-family: "DM Sans", sans-serif;
+  cursor: pointer;
+}
+
+.listingCardBtn.lightBtn{
+  background: #fff;
+  color: #447158;
+}
+
 .pageBg{
   width: 100%;
   height: 100%;
@@ -266,6 +402,88 @@ display: flex;
 
 }
 
+.propertyGroupOptions{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 0 44px;
+}
+
+.propertyGroupChip{
+  min-width: 94px;
+  height: 40px;
+  border-radius: 200px;
+  border: 1px solid #447158;
+  background: #fff;
+  color: #447158;
+  font-family: "DM Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.activePropertyGroupChip{
+  background: #447158;
+  color: #fff;
+  opacity: 1;
+}
+
+.inactivePropertyGroupChip{
+  opacity: 0.45;
+}
+
+.propertySubTypeOptions{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 0 44px;
+}
+
+.propertySubTypeChip{
+  height: 40px;
+  border-radius: 200px;
+  border: 1px solid #447158;
+  background: #fff;
+  color: #447158;
+  font-family: "DM Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0 14px;
+  cursor: pointer;
+}
+
+.purposeOptions{
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.purposeOptionsWrap{
+  width: 100%;
+  padding-left: 44px;
+}
+
+.purposeChip{
+  min-width: 110px;
+  height: 40px;
+  border-radius: 200px;
+  border: 1px solid #447158;
+  background: #fff;
+  color: #447158;
+  font-family: "DM Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
 .typeChip{
   width: 106.3203125px;
   height: 40px;
@@ -283,6 +501,9 @@ display: flex;
   border: 1px solid rgba(68, 113, 88, 0.3);
   background: rgba(255, 255, 255, 0.95);
   cursor: pointer;
+  border-radius: 200px;
+border: 1px solid var(--Color---Primary, #447158);
+background: #FFF; 
 }
 
 .typeChip:nth-child(1){ width: 106.3203125px; }
@@ -452,21 +673,50 @@ color: rgba(68, 113, 88, 1);
   gap: 12px;
 }
 
-.sizeUnitSelect{
-  width: 220px;
+.sizeInputField{
+  width: 861px;
   height: 48px;
   border: 1px solid rgba(17, 17, 17, 0.15);
   border-radius: 12px;
-  padding: 0 12px;
   background: rgba(255, 255, 255, 0.9);
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.sizeInputField::after{
+  content: "▾";
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(68, 113, 88, 1);
+  font-size: 14px;
+  pointer-events: none;
+}
+
+.sizeUnitSelect{
+  width: 220px;
+  height: 100%;
+  border: none;
+  padding: 0 28px 0 12px;
+  background: transparent;
   font-family: "DM Sans", sans-serif;
   font-size: 14px;
   color: rgba(68, 113, 88, 1);
   outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
 }
 
 .sizeValueInput{
-  width: 629px;
+  width: calc(100% - 220px);
+  height: 100%;
+  border: none;
+  background: transparent;
+  padding: 0 16px;
 }
 
 .bedroomOptions{
@@ -639,6 +889,33 @@ line-height: 20px; /* 142.857% */
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.removeImageBtn{
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 24px;
+  height: 24px;
+  border: none;
+  border-radius: 999px;
+  background: rgba(17, 17, 17, 0.75);
+  color: #fff;
+  font-size: 16px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+  z-index: 2;
+}
+
+.imageCard:hover .removeImageBtn{
+  opacity: 1;
+  pointer-events: auto;
 }
 
 .mainBadge{
@@ -959,8 +1236,8 @@ line-height: 20px; /* 142.857% */
   align-items: center;
   flex: 1 0 0;
   border: none;
-  border-radius: 8px;
-  background: linear-gradient(90deg, #556255 -30.43%, #60A560 105.22%);
+  border-radius: 12px;
+  background: var(--Gradient, linear-gradient(90deg, #556255 -30.43%, #60A560 105.22%));
   color: #fff;
   font-family: "DM Sans", sans-serif;
   font-size: 16px;
@@ -981,6 +1258,13 @@ line-height: 20px; /* 142.857% */
   font-family: "DM Sans", sans-serif;
   font-size: 16px;
   cursor: pointer;
+}
+
+.publishStatusText{
+  margin-top: 6px;
+  font-family: "DM Sans", sans-serif;
+  font-size: 14px;
+  color: #447158;
 }
 
 .pictureContent .chatBlock{
@@ -1062,6 +1346,34 @@ line-height: 20px; /* 142.857% */
 }
 
 @media (max-width: 768px){
+  .listingModeWrap{
+    padding: 20px 16px;
+    gap: 16px;
+  }
+
+  .listingModeHeader h1{
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .listingModeHeader h4{
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .listingModeCards{
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .purposeOptionsWrap{
+    padding-left: 0;
+  }
+
+  .listingModeCard{
+    width: 100%;
+  }
+
   .chatBlock{
     margin-top: 96px;
   }
@@ -1072,6 +1384,12 @@ line-height: 20px; /* 142.857% */
 
   .typeOptions{
     margin-left: 0;
+  }
+
+  .propertyGroupOptions,
+  .propertySubTypeOptions{
+    padding: 0;
+    justify-content: flex-start;
   }
 
   .backBtn{
@@ -1086,6 +1404,18 @@ line-height: 20px; /* 142.857% */
 
   .addressInput{
     width: calc(100% - 56px);
+  }
+
+  .sizeInputField{
+    width: calc(100% - 56px);
+  }
+
+  .sizeUnitSelect{
+    width: 140px;
+  }
+
+  .sizeValueInput{
+    width: calc(100% - 140px);
   }
 
   .priceOptions{
@@ -1158,6 +1488,25 @@ line-height: 20px; /* 142.857% */
   .publishFeatures{
     flex-direction: column;
     gap: 8px;
+  }
+}
+
+@media (max-width: 480px){
+  .listingModePage{
+    padding: 16px 12px;
+  }
+
+  .listingModeWrap{
+    padding: 16px 12px;
+  }
+
+  .listingModeHeader h1{
+    font-size: 24px;
+    line-height: 28px;
+  }
+
+  .listingModeCard{
+    padding: 20px 14px;
   }
 }
 /* ============================================== */
