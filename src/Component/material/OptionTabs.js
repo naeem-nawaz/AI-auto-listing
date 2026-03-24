@@ -5,6 +5,7 @@ function OptionTabs({
   containerClassName,
   buttonClassName,
   getButtonClassName,
+  isOptionDisabled,
   onOptionClick,
 }) {
   return (
@@ -13,6 +14,7 @@ function OptionTabs({
         <button
           key={item}
           className={getButtonClassName ? getButtonClassName(item, index) : buttonClassName}
+          disabled={isOptionDisabled ? isOptionDisabled(item, index) : false}
           onClick={() => onOptionClick(item, index)}
         >
           {item}

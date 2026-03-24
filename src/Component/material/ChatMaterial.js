@@ -25,5 +25,5 @@ export function UserMessage({ children }) {
         <FaRegUser className="userTypeIcon" size={25} />
       </div>
     </div>
-  );
+  ); 
 }
