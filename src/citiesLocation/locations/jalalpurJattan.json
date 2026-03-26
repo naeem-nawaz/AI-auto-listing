@@ -1,0 +1,532 @@
+[
+  {
+      "id": 14367,
+      "name": "Jalalpur",
+      "name_l1": "جلالپور",
+      "externalID": "15856",
+      "slug": "/Jalalpur_Jattan_Jalalpur-15856",
+      "slug_l1": "/Jalalpur_Jattan_Jalalpur-15856",
+      "_geoloc": {
+          "lat": 32.642422,
+          "lng": 74.202186
+      },
+      "geography": {
+          "lat": 32.642422,
+          "lng": 74.202186
+      },
+      "geo_point": [
+          74.202186,
+          32.642422
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 165,
+              "level": 2,
+              "externalID": "11026",
+              "name": "Jalalpur Jattan",
+              "name_l1": "جلال پور جٹاں",
+              "slug": "/Jalalpur_Jattan-11026",
+              "slug_l1": "/Jalalpur_Jattan-11026"
+          },
+          {
+              "id": 14367,
+              "level": 3,
+              "externalID": "15856",
+              "name": "Jalalpur",
+              "name_l1": "جلالپور",
+              "slug": "/Jalalpur_Jattan_Jalalpur-15856",
+              "slug_l1": "/Jalalpur_Jattan_Jalalpur-15856"
+          }
+      ],
+      "hierarchyPath": "Jalalpur Jalalpur Jattan Punjab Pakistan",
+      "adCount": 30,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15856",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14367",
+      "_highlightResult": {
+          "name": {
+              "value": "Jalalpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 165,
+      "name": "Jalalpur Jattan",
+      "name_l1": "جلال پور جٹاں",
+      "externalID": "11026",
+      "slug": "/Jalalpur_Jattan-11026",
+      "slug_l1": "/Jalalpur_Jattan-11026",
+      "_geoloc": {
+          "lat": 32.641954,
+          "lng": 74.205527
+      },
+      "geography": {
+          "lat": 32.641954,
+          "lng": 74.205527
+      },
+      "geo_point": [
+          74.205527,
+          32.641954
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 165,
+              "level": 2,
+              "externalID": "11026",
+              "name": "Jalalpur Jattan",
+              "name_l1": "جلال پور جٹاں",
+              "slug": "/Jalalpur_Jattan-11026",
+              "slug_l1": "/Jalalpur_Jattan-11026"
+          }
+      ],
+      "hierarchyPath": "Jalalpur Jattan Punjab Pakistan",
+      "adCount": 30,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11026",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "165",
+      "_highlightResult": {
+          "name": {
+              "value": "Jalalpur Jattan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14368,
+      "name": "Faisal Colony",
+      "name_l1": "فیصل کالونی",
+      "externalID": "15857",
+      "slug": "/Jalalpur_Jattan_Faisal_Colony-15857",
+      "slug_l1": "/Jalalpur_Jattan_Faisal_Colony-15857",
+      "_geoloc": {
+          "lat": 32.644711,
+          "lng": 74.211354
+      },
+      "geography": {
+          "lat": 32.644711,
+          "lng": 74.211354
+      },
+      "geo_point": [
+          74.211354,
+          32.644711
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 165,
+              "level": 2,
+              "externalID": "11026",
+              "name": "Jalalpur Jattan",
+              "name_l1": "جلال پور جٹاں",
+              "slug": "/Jalalpur_Jattan-11026",
+              "slug_l1": "/Jalalpur_Jattan-11026"
+          },
+          {
+              "id": 14368,
+              "level": 3,
+              "externalID": "15857",
+              "name": "Faisal Colony",
+              "name_l1": "فیصل کالونی",
+              "slug": "/Jalalpur_Jattan_Faisal_Colony-15857",
+              "slug_l1": "/Jalalpur_Jattan_Faisal_Colony-15857"
+          }
+      ],
+      "hierarchyPath": "Faisal Colony Jalalpur Jattan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15857",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14368",
+      "_highlightResult": {
+          "name": {
+              "value": "Faisal Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5501,
+      "name": "Head Marala Road",
+      "name_l1": "ہیڈ مرالا روڈ",
+      "externalID": "11027",
+      "slug": "/Jalalpur_Jattan_Head_Marala_Road-11027",
+      "slug_l1": "/Jalalpur_Jattan_Head_Marala_Road-11027",
+      "_geoloc": {
+          "lat": 32.685114,
+          "lng": 74.333217
+      },
+      "geography": {
+          "lat": 32.685114,
+          "lng": 74.333217
+      },
+      "geo_point": [
+          74.333217,
+          32.685114
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 165,
+              "level": 2,
+              "externalID": "11026",
+              "name": "Jalalpur Jattan",
+              "name_l1": "جلال پور جٹاں",
+              "slug": "/Jalalpur_Jattan-11026",
+              "slug_l1": "/Jalalpur_Jattan-11026"
+          },
+          {
+              "id": 5501,
+              "level": 3,
+              "externalID": "11027",
+              "name": "Head Marala Road",
+              "name_l1": "ہیڈ مرالا روڈ",
+              "slug": "/Jalalpur_Jattan_Head_Marala_Road-11027",
+              "slug_l1": "/Jalalpur_Jattan_Head_Marala_Road-11027"
+          }
+      ],
+      "hierarchyPath": "Head Marala Road Jalalpur Jattan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11027",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5501",
+      "_highlightResult": {
+          "name": {
+              "value": "Head Marala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14370,
+      "name": "Mangowal",
+      "name_l1": "منگوال",
+      "externalID": "15860",
+      "slug": "/Jalalpur_Jattan_Mangowal-15860",
+      "slug_l1": "/Jalalpur_Jattan_Mangowal-15860",
+      "_geoloc": {
+          "lat": 32.658757,
+          "lng": 74.221594
+      },
+      "geography": {
+          "lat": 32.658757,
+          "lng": 74.221594
+      },
+      "geo_point": [
+          74.221594,
+          32.658757
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 165,
+              "level": 2,
+              "externalID": "11026",
+              "name": "Jalalpur Jattan",
+              "name_l1": "جلال پور جٹاں",
+              "slug": "/Jalalpur_Jattan-11026",
+              "slug_l1": "/Jalalpur_Jattan-11026"
+          },
+          {
+              "id": 14370,
+              "level": 3,
+              "externalID": "15860",
+              "name": "Mangowal",
+              "name_l1": "منگوال",
+              "slug": "/Jalalpur_Jattan_Mangowal-15860",
+              "slug_l1": "/Jalalpur_Jattan_Mangowal-15860"
+          }
+      ],
+      "hierarchyPath": "Mangowal Jalalpur Jattan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15860",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14370",
+      "_highlightResult": {
+          "name": {
+              "value": "Mangowal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14371,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "15861",
+      "slug": "/Jalalpur_Jattan_Others-15861",
+      "slug_l1": "/Jalalpur_Jattan_Others-15861",
+      "_geoloc": {
+          "lat": 32.648251,
+          "lng": 74.213777
+      },
+      "geography": {
+          "lat": 32.648251,
+          "lng": 74.213777
+      },
+      "geo_point": [
+          74.213777,
+          32.648251
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 165,
+              "level": 2,
+              "externalID": "11026",
+              "name": "Jalalpur Jattan",
+              "name_l1": "جلال پور جٹاں",
+              "slug": "/Jalalpur_Jattan-11026",
+              "slug_l1": "/Jalalpur_Jattan-11026"
+          },
+          {
+              "id": 14371,
+              "level": 3,
+              "externalID": "15861",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Jalalpur_Jattan_Others-15861",
+              "slug_l1": "/Jalalpur_Jattan_Others-15861"
+          }
+      ],
+      "hierarchyPath": "Others Jalalpur Jattan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15861",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14371",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14369,
+      "name": "Tanda Road",
+      "name_l1": "ٹنڈا روڈ",
+      "externalID": "15858",
+      "slug": "/Jalalpur_Jattan_Tanda_Road-15858",
+      "slug_l1": "/Jalalpur_Jattan_Tanda_Road-15858",
+      "_geoloc": {
+          "lat": 32.657085,
+          "lng": 74.227167
+      },
+      "geography": {
+          "lat": 32.657085,
+          "lng": 74.227167
+      },
+      "geo_point": [
+          74.227167,
+          32.657085
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 165,
+              "level": 2,
+              "externalID": "11026",
+              "name": "Jalalpur Jattan",
+              "name_l1": "جلال پور جٹاں",
+              "slug": "/Jalalpur_Jattan-11026",
+              "slug_l1": "/Jalalpur_Jattan-11026"
+          },
+          {
+              "id": 14369,
+              "level": 3,
+              "externalID": "15858",
+              "name": "Tanda Road",
+              "name_l1": "ٹنڈا روڈ",
+              "slug": "/Jalalpur_Jattan_Tanda_Road-15858",
+              "slug_l1": "/Jalalpur_Jattan_Tanda_Road-15858"
+          }
+      ],
+      "hierarchyPath": "Tanda Road Jalalpur Jattan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15858",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14369",
+      "_highlightResult": {
+          "name": {
+              "value": "Tanda Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

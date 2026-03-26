@@ -1,0 +1,455 @@
+[
+  {
+      "id": 15262,
+      "name": "Golf City",
+      "name_l1": "گالف سٹی",
+      "externalID": "16745",
+      "slug": "/Jahanian_Golf_City-16745",
+      "slug_l1": "/Jahanian_Golf_City-16745",
+      "_geoloc": {
+          "lat": 30.022867,
+          "lng": 71.82489
+      },
+      "geography": {
+          "lat": 30.022867,
+          "lng": 71.82489
+      },
+      "geo_point": [
+          71.82489,
+          30.022867
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 166,
+              "level": 2,
+              "externalID": "11126",
+              "name": "Jahanian",
+              "name_l1": "جہانیاں",
+              "slug": "/Jahanian-11126",
+              "slug_l1": "/Jahanian-11126"
+          },
+          {
+              "id": 15262,
+              "level": 3,
+              "externalID": "16745",
+              "name": "Golf City",
+              "name_l1": "گالف سٹی",
+              "slug": "/Jahanian_Golf_City-16745",
+              "slug_l1": "/Jahanian_Golf_City-16745"
+          }
+      ],
+      "hierarchyPath": "Golf City Jahanian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16745",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15262",
+      "_highlightResult": {
+          "name": {
+              "value": "Golf City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 166,
+      "name": "Jahanian",
+      "name_l1": "جہانیاں",
+      "externalID": "11126",
+      "slug": "/Jahanian-11126",
+      "slug_l1": "/Jahanian-11126",
+      "_geoloc": {
+          "lat": 30.040161,
+          "lng": 71.819394
+      },
+      "geography": {
+          "lat": 30.040161,
+          "lng": 71.819394
+      },
+      "geo_point": [
+          71.819394,
+          30.040161
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 166,
+              "level": 2,
+              "externalID": "11126",
+              "name": "Jahanian",
+              "name_l1": "جہانیاں",
+              "slug": "/Jahanian-11126",
+              "slug_l1": "/Jahanian-11126"
+          }
+      ],
+      "hierarchyPath": "Jahanian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11126",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "166",
+      "_highlightResult": {
+          "name": {
+              "value": "Jahanian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5546,
+      "name": "Khanewal Road",
+      "name_l1": "خانیوال روڈ",
+      "externalID": "11127",
+      "slug": "/Jahanian_Khanewal_Road-11127",
+      "slug_l1": "/Jahanian_Khanewal_Road-11127",
+      "_geoloc": {
+          "lat": 30.044252,
+          "lng": 71.814784
+      },
+      "geography": {
+          "lat": 30.044252,
+          "lng": 71.814784
+      },
+      "geo_point": [
+          71.814784,
+          30.044252
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 166,
+              "level": 2,
+              "externalID": "11126",
+              "name": "Jahanian",
+              "name_l1": "جہانیاں",
+              "slug": "/Jahanian-11126",
+              "slug_l1": "/Jahanian-11126"
+          },
+          {
+              "id": 5546,
+              "level": 3,
+              "externalID": "11127",
+              "name": "Khanewal Road",
+              "name_l1": "خانیوال روڈ",
+              "slug": "/Jahanian_Khanewal_Road-11127",
+              "slug_l1": "/Jahanian_Khanewal_Road-11127"
+          }
+      ],
+      "hierarchyPath": "Khanewal Road Jahanian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11127",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5546",
+      "_highlightResult": {
+          "name": {
+              "value": "Khanewal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5547,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "11128",
+      "slug": "/Jahanian_Others-11128",
+      "slug_l1": "/Jahanian_Others-11128",
+      "_geoloc": {
+          "lat": 30.040555,
+          "lng": 71.818511
+      },
+      "geography": {
+          "lat": 30.040555,
+          "lng": 71.818511
+      },
+      "geo_point": [
+          71.818511,
+          30.040555
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 166,
+              "level": 2,
+              "externalID": "11126",
+              "name": "Jahanian",
+              "name_l1": "جہانیاں",
+              "slug": "/Jahanian-11126",
+              "slug_l1": "/Jahanian-11126"
+          },
+          {
+              "id": 5547,
+              "level": 3,
+              "externalID": "11128",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Jahanian_Others-11128",
+              "slug_l1": "/Jahanian_Others-11128"
+          }
+      ],
+      "hierarchyPath": "Others Jahanian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11128",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5547",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22228,
+      "name": "Raheem Shah Jahanian Road",
+      "name_l1": "رحیم شاہ جہانیاں روڈ",
+      "externalID": "22289",
+      "slug": "/Jahanian_Raheem_Shah_Jahanian_Road-22289",
+      "slug_l1": "/Jahanian_Raheem_Shah_Jahanian_Road-22289",
+      "_geoloc": {
+          "lat": 30.041236,
+          "lng": 71.856809
+      },
+      "geography": {
+          "lat": 30.041236,
+          "lng": 71.856809
+      },
+      "geo_point": [
+          71.856809,
+          30.041236
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 166,
+              "level": 2,
+              "externalID": "11126",
+              "name": "Jahanian",
+              "name_l1": "جہانیاں",
+              "slug": "/Jahanian-11126",
+              "slug_l1": "/Jahanian-11126"
+          },
+          {
+              "id": 22228,
+              "level": 3,
+              "externalID": "22289",
+              "name": "Raheem Shah Jahanian Road",
+              "name_l1": "رحیم شاہ جہانیاں روڈ",
+              "slug": "/Jahanian_Raheem_Shah_Jahanian_Road-22289",
+              "slug_l1": "/Jahanian_Raheem_Shah_Jahanian_Road-22289"
+          }
+      ],
+      "hierarchyPath": "Raheem Shah Jahanian Road Jahanian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22289",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22228",
+      "_highlightResult": {
+          "name": {
+              "value": "Raheem Shah Jahanian Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18571,
+      "name": "Sadar Bazar Street",
+      "name_l1": "صدر بازار سٹریٹ",
+      "externalID": "19487",
+      "slug": "/Jahanian_Sadar_Bazar_Street-19487",
+      "slug_l1": "/Jahanian_Sadar_Bazar_Street-19487",
+      "_geoloc": {
+          "lat": 30.0372934,
+          "lng": 71.8150076
+      },
+      "geography": {
+          "lat": 30.0372934,
+          "lng": 71.8150076
+      },
+      "geo_point": [
+          71.8150076,
+          30.0372934
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 166,
+              "level": 2,
+              "externalID": "11126",
+              "name": "Jahanian",
+              "name_l1": "جہانیاں",
+              "slug": "/Jahanian-11126",
+              "slug_l1": "/Jahanian-11126"
+          },
+          {
+              "id": 18571,
+              "level": 3,
+              "externalID": "19487",
+              "name": "Sadar Bazar Street",
+              "name_l1": "صدر بازار سٹریٹ",
+              "slug": "/Jahanian_Sadar_Bazar_Street-19487",
+              "slug_l1": "/Jahanian_Sadar_Bazar_Street-19487"
+          }
+      ],
+      "hierarchyPath": "Sadar Bazar Street Jahanian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19487",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18571",
+      "_highlightResult": {
+          "name": {
+              "value": "Sadar Bazar Street",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

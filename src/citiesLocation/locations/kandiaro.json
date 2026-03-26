@@ -1,0 +1,224 @@
+[
+  {
+      "id": 12121,
+      "name": "Kandiaro",
+      "name_l1": "کنڈیارو",
+      "externalID": "13611",
+      "slug": "/Kandiaro-13611",
+      "slug_l1": "/Kandiaro-13611",
+      "_geoloc": {
+          "lat": 27.060012,
+          "lng": 68.208371
+      },
+      "geography": {
+          "lat": 27.060012,
+          "lng": 68.208371
+      },
+      "geo_point": [
+          68.208371,
+          27.060012
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12121,
+              "level": 2,
+              "externalID": "13611",
+              "name": "Kandiaro",
+              "name_l1": "کنڈیارو",
+              "slug": "/Kandiaro-13611",
+              "slug_l1": "/Kandiaro-13611"
+          }
+      ],
+      "hierarchyPath": "Kandiaro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13611",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12121",
+      "_highlightResult": {
+          "name": {
+              "value": "Kandiaro",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12131,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13612",
+      "slug": "/Kandiaro_Others-13612",
+      "slug_l1": "/Kandiaro_Others-13612",
+      "_geoloc": {
+          "lat": 27.058726,
+          "lng": 68.212557
+      },
+      "geography": {
+          "lat": 27.058726,
+          "lng": 68.212557
+      },
+      "geo_point": [
+          68.212557,
+          27.058726
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12121,
+              "level": 2,
+              "externalID": "13611",
+              "name": "Kandiaro",
+              "name_l1": "کنڈیارو",
+              "slug": "/Kandiaro-13611",
+              "slug_l1": "/Kandiaro-13611"
+          },
+          {
+              "id": 12131,
+              "level": 3,
+              "externalID": "13612",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Kandiaro_Others-13612",
+              "slug_l1": "/Kandiaro_Others-13612"
+          }
+      ],
+      "hierarchyPath": "Others Kandiaro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13612",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12131",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12132,
+      "name": "Shahbaz Colony",
+      "name_l1": "شہباز کالونی",
+      "externalID": "13613",
+      "slug": "/Kandiaro_Shahbaz_Colony-13613",
+      "slug_l1": "/Kandiaro_Shahbaz_Colony-13613",
+      "_geoloc": {
+          "lat": 27.056453,
+          "lng": 68.20494
+      },
+      "geography": {
+          "lat": 27.056453,
+          "lng": 68.20494
+      },
+      "geo_point": [
+          68.20494,
+          27.056453
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12121,
+              "level": 2,
+              "externalID": "13611",
+              "name": "Kandiaro",
+              "name_l1": "کنڈیارو",
+              "slug": "/Kandiaro-13611",
+              "slug_l1": "/Kandiaro-13611"
+          },
+          {
+              "id": 12132,
+              "level": 3,
+              "externalID": "13613",
+              "name": "Shahbaz Colony",
+              "name_l1": "شہباز کالونی",
+              "slug": "/Kandiaro_Shahbaz_Colony-13613",
+              "slug_l1": "/Kandiaro_Shahbaz_Colony-13613"
+          }
+      ],
+      "hierarchyPath": "Shahbaz Colony Kandiaro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13613",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12132",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahbaz Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

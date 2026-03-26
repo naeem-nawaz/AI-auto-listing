@@ -1,0 +1,224 @@
+[
+    {
+        "id": 93,
+        "name": "Chitral",
+        "name_l1": "\u0686\u062a\u0631\u0627\u0644",
+        "externalID": "1731",
+        "slug": "\/Chitral-1731",
+        "slug_l1": "\/Chitral-1731",
+        "_geoloc": {
+            "lat": 35.839246618827,
+            "lng": 71.780354976654
+        },
+        "geography": {
+            "lat": 35.839246618827,
+            "lng": 71.780354976654
+        },
+        "geo_point": [
+            71.780354976654,
+            35.839246618827
+        ],
+        "level": 2,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+                "slug": "\/Pakistan-1521",
+                "slug_l1": "\/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "\u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646 \u062e\u0648\u0627\u06c1",
+                "slug": "\/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "\/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 93,
+                "level": 2,
+                "externalID": "1731",
+                "name": "Chitral",
+                "name_l1": "\u0686\u062a\u0631\u0627\u0644",
+                "slug": "\/Chitral-1731",
+                "slug_l1": "\/Chitral-1731"
+            }
+        ],
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "1731",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "93",
+        "_highlightResult": {
+            "name": {
+                "value": "<em>C<\/em>hitral",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                    "c"
+                ]
+            }
+        }
+    },
+    {
+        "id": 6061,
+        "name": "Kalash",
+        "name_l1": "\u06a9\u06cc\u0644\u0627\u0634",
+        "externalID": "12158",
+        "slug": "\/Chitral_Kalash-12158",
+        "slug_l1": "\/Chitral_Kalash-12158",
+        "_geoloc": {
+            "lat": 35.685885,
+            "lng": 71.639467
+        },
+        "geography": {
+            "lat": 35.685885,
+            "lng": 71.639467
+        },
+        "geo_point": [
+            71.639467,
+            35.685885
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+                "slug": "\/Pakistan-1521",
+                "slug_l1": "\/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "\u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646 \u062e\u0648\u0627\u06c1",
+                "slug": "\/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "\/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 93,
+                "level": 2,
+                "externalID": "1731",
+                "name": "Chitral",
+                "name_l1": "\u0686\u062a\u0631\u0627\u0644",
+                "slug": "\/Chitral-1731",
+                "slug_l1": "\/Chitral-1731"
+            },
+            {
+                "id": 6061,
+                "level": 3,
+                "externalID": "12158",
+                "name": "Kalash",
+                "name_l1": "\u06a9\u06cc\u0644\u0627\u0634",
+                "slug": "\/Chitral_Kalash-12158",
+                "slug_l1": "\/Chitral_Kalash-12158"
+            }
+        ],
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "12158",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "6061",
+        "_highlightResult": {
+            "name": {
+                "value": "Kalash",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1255,
+        "name": "Others",
+        "name_l1": "\u062f\u06cc\u06af\u0631",
+        "externalID": "1732",
+        "slug": "\/Chitral_Others-1732",
+        "slug_l1": "\/Chitral_Others-1732",
+        "_geoloc": {
+            "lat": 35.8523,
+            "lng": 71.7871
+        },
+        "geography": {
+            "lat": 35.8523,
+            "lng": 71.7871
+        },
+        "geo_point": [
+            71.7871,
+            35.8523
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+                "slug": "\/Pakistan-1521",
+                "slug_l1": "\/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "\u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646 \u062e\u0648\u0627\u06c1",
+                "slug": "\/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "\/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 93,
+                "level": 2,
+                "externalID": "1731",
+                "name": "Chitral",
+                "name_l1": "\u0686\u062a\u0631\u0627\u0644",
+                "slug": "\/Chitral-1731",
+                "slug_l1": "\/Chitral-1731"
+            },
+            {
+                "id": 1255,
+                "level": 3,
+                "externalID": "1732",
+                "name": "Others",
+                "name_l1": "\u062f\u06cc\u06af\u0631",
+                "slug": "\/Chitral_Others-1732",
+                "slug_l1": "\/Chitral_Others-1732"
+            }
+        ],
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "1732",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1255",
+        "_highlightResult": {
+            "name": {
+                "value": "Others",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }
+]

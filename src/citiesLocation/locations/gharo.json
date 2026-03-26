@@ -1,0 +1,772 @@
+[
+  {
+      "id": 42,
+      "name": "Gharo",
+      "name_l1": "گھارو",
+      "externalID": "636",
+      "slug": "/Gharo-636",
+      "slug_l1": "/Gharo-636",
+      "_geoloc": {
+          "lat": 24.740673,
+          "lng": 67.584372
+      },
+      "geography": {
+          "lat": 24.740673,
+          "lng": 67.584372
+      },
+      "geo_point": [
+          67.584372,
+          24.740673
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          }
+      ],
+      "hierarchyPath": "Gharo Sindh Pakistan",
+      "adCount": 30,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "636",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "42",
+      "_highlightResult": {
+          "name": {
+              "value": "Gharo",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5898,
+      "name": "Keti Bunder Highway",
+      "name_l1": "کیٹی بنڈر ہائی وے",
+      "externalID": "11838",
+      "slug": "/Gharo_Keti_Bunder_Highway-11838",
+      "slug_l1": "/Gharo_Keti_Bunder_Highway-11838",
+      "_geoloc": {
+          "lat": 24.726887,
+          "lng": 67.589236
+      },
+      "geography": {
+          "lat": 24.726887,
+          "lng": 67.589236
+      },
+      "geo_point": [
+          67.589236,
+          24.726887
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          },
+          {
+              "id": 5898,
+              "level": 3,
+              "externalID": "11838",
+              "name": "Keti Bunder Highway",
+              "name_l1": "کیٹی بنڈر ہائی وے",
+              "slug": "/Gharo_Keti_Bunder_Highway-11838",
+              "slug_l1": "/Gharo_Keti_Bunder_Highway-11838"
+          }
+      ],
+      "hierarchyPath": "Keti Bunder Highway Gharo Sindh Pakistan",
+      "adCount": 15,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11838",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5898",
+      "_highlightResult": {
+          "name": {
+              "value": "Keti Bunder Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17859,
+      "name": "Lait Canal Road",
+      "name_l1": "لیٹ کینال روڈ",
+      "externalID": "18893",
+      "slug": "/Gharo_Lait_Canal_Road-18893",
+      "slug_l1": "/Gharo_Lait_Canal_Road-18893",
+      "_geoloc": {
+          "lat": 24.638122,
+          "lng": 67.593344
+      },
+      "geography": {
+          "lat": 24.638122,
+          "lng": 67.593344
+      },
+      "geo_point": [
+          67.593344,
+          24.638122
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          },
+          {
+              "id": 17859,
+              "level": 3,
+              "externalID": "18893",
+              "name": "Lait Canal Road",
+              "name_l1": "لیٹ کینال روڈ",
+              "slug": "/Gharo_Lait_Canal_Road-18893",
+              "slug_l1": "/Gharo_Lait_Canal_Road-18893"
+          }
+      ],
+      "hierarchyPath": "Lait Canal Road Gharo Sindh Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18893",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17859",
+      "_highlightResult": {
+          "name": {
+              "value": "Lait Canal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21057,
+      "name": "Sultanabad",
+      "name_l1": "سلطان آباد",
+      "externalID": "21653",
+      "slug": "/Gharo_Sultanabad-21653",
+      "slug_l1": "/Gharo_Sultanabad-21653",
+      "_geoloc": {
+          "lat": 24.731379,
+          "lng": 67.691594
+      },
+      "geography": {
+          "lat": 24.731379,
+          "lng": 67.691594
+      },
+      "geo_point": [
+          67.691594,
+          24.731379
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          },
+          {
+              "id": 21057,
+              "level": 3,
+              "externalID": "21653",
+              "name": "Sultanabad",
+              "name_l1": "سلطان آباد",
+              "slug": "/Gharo_Sultanabad-21653",
+              "slug_l1": "/Gharo_Sultanabad-21653"
+          }
+      ],
+      "hierarchyPath": "Sultanabad Gharo Sindh Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21653",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21057",
+      "_highlightResult": {
+          "name": {
+              "value": "Sultanabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21049,
+      "name": "Lait Village",
+      "name_l1": "لیت ویلج",
+      "externalID": "21645",
+      "slug": "/Gharo_Lait_Village-21645",
+      "slug_l1": "/Gharo_Lait_Village-21645",
+      "_geoloc": {
+          "lat": 24.640817879756,
+          "lng": 67.590320251809
+      },
+      "geography": {
+          "lat": 24.640817879756,
+          "lng": 67.590320251809
+      },
+      "geo_point": [
+          67.590320251809,
+          24.640817879756
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          },
+          {
+              "id": 21049,
+              "level": 3,
+              "externalID": "21645",
+              "name": "Lait Village",
+              "name_l1": "لیت ویلج",
+              "slug": "/Gharo_Lait_Village-21645",
+              "slug_l1": "/Gharo_Lait_Village-21645"
+          }
+      ],
+      "hierarchyPath": "Lait Village Gharo Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21645",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21049",
+      "_highlightResult": {
+          "name": {
+              "value": "Lait Village",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12747,
+      "name": "Satellite Town",
+      "name_l1": "سیٹلائٹ ٹاؤن",
+      "externalID": "14230",
+      "slug": "/Gharo_Keti_Bunder_Highway_Satellite_Town-14230",
+      "slug_l1": "/Gharo_Keti_Bunder_Highway_Satellite_Town-14230",
+      "_geoloc": {
+          "lat": 24.732457,
+          "lng": 67.588902
+      },
+      "geography": {
+          "lat": 24.732457,
+          "lng": 67.588902
+      },
+      "geo_point": [
+          67.588902,
+          24.732457
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          },
+          {
+              "id": 5898,
+              "level": 3,
+              "externalID": "11838",
+              "name": "Keti Bunder Highway",
+              "name_l1": "کیٹی بنڈر ہائی وے",
+              "slug": "/Gharo_Keti_Bunder_Highway-11838",
+              "slug_l1": "/Gharo_Keti_Bunder_Highway-11838"
+          },
+          {
+              "id": 12747,
+              "level": 4,
+              "externalID": "14230",
+              "name": "Satellite Town",
+              "name_l1": "سیٹلائٹ ٹاؤن",
+              "slug": "/Gharo_Keti_Bunder_Highway_Satellite_Town-14230",
+              "slug_l1": "/Gharo_Keti_Bunder_Highway_Satellite_Town-14230"
+          }
+      ],
+      "hierarchyPath": "Satellite Town Keti Bunder Highway Gharo Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14230",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12747",
+      "_highlightResult": {
+          "name": {
+              "value": "Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21050,
+      "name": "Club Road",
+      "name_l1": "کلب روڈ",
+      "externalID": "21646",
+      "slug": "/Gharo_Club_Road-21646",
+      "slug_l1": "/Gharo_Club_Road-21646",
+      "_geoloc": {
+          "lat": 24.634337093552,
+          "lng": 67.613439053185
+      },
+      "geography": {
+          "lat": 24.634337093552,
+          "lng": 67.613439053185
+      },
+      "geo_point": [
+          67.613439053185,
+          24.634337093552
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          },
+          {
+              "id": 21050,
+              "level": 3,
+              "externalID": "21646",
+              "name": "Club Road",
+              "name_l1": "کلب روڈ",
+              "slug": "/Gharo_Club_Road-21646",
+              "slug_l1": "/Gharo_Club_Road-21646"
+          }
+      ],
+      "hierarchyPath": "Club Road Gharo Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21646",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21050",
+      "_highlightResult": {
+          "name": {
+              "value": "Club Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21048,
+      "name": "Jam Branch",
+      "name_l1": "ڄام برانچ",
+      "externalID": "21644",
+      "slug": "/Gharo_Jam_Branch-21644",
+      "slug_l1": "/Gharo_Jam_Branch-21644",
+      "_geoloc": {
+          "lat": 24.67614890205,
+          "lng": 67.591303965313
+      },
+      "geography": {
+          "lat": 24.67614890205,
+          "lng": 67.591303965313
+      },
+      "geo_point": [
+          67.591303965313,
+          24.67614890205
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          },
+          {
+              "id": 21048,
+              "level": 3,
+              "externalID": "21644",
+              "name": "Jam Branch",
+              "name_l1": "ڄام برانچ",
+              "slug": "/Gharo_Jam_Branch-21644",
+              "slug_l1": "/Gharo_Jam_Branch-21644"
+          }
+      ],
+      "hierarchyPath": "Jam Branch Gharo Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21644",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21048",
+      "_highlightResult": {
+          "name": {
+              "value": "Jam Branch",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21051,
+      "name": "Ladiya",
+      "name_l1": "لديا",
+      "externalID": "21647",
+      "slug": "/Gharo_Ladiya-21647",
+      "slug_l1": "/Gharo_Ladiya-21647",
+      "_geoloc": {
+          "lat": 24.594250378836,
+          "lng": 67.610237437
+      },
+      "geography": {
+          "lat": 24.594250378836,
+          "lng": 67.610237437
+      },
+      "geo_point": [
+          67.610237437,
+          24.594250378836
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          },
+          {
+              "id": 21051,
+              "level": 3,
+              "externalID": "21647",
+              "name": "Ladiya",
+              "name_l1": "لديا",
+              "slug": "/Gharo_Ladiya-21647",
+              "slug_l1": "/Gharo_Ladiya-21647"
+          }
+      ],
+      "hierarchyPath": "Ladiya Gharo Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21647",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21051",
+      "_highlightResult": {
+          "name": {
+              "value": "Ladiya",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5901,
+      "name": "Sindh Coastal Highway",
+      "name_l1": "سندھ کوسٹل ہائی وے",
+      "externalID": "11841",
+      "slug": "/Gharo_Sindh_Coastal_Highway-11841",
+      "slug_l1": "/Gharo_Sindh_Coastal_Highway-11841",
+      "_geoloc": {
+          "lat": 24.73162,
+          "lng": 67.533807
+      },
+      "geography": {
+          "lat": 24.73162,
+          "lng": 67.533807
+      },
+      "geo_point": [
+          67.533807,
+          24.73162
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 42,
+              "level": 2,
+              "externalID": "636",
+              "name": "Gharo",
+              "name_l1": "گھارو",
+              "slug": "/Gharo-636",
+              "slug_l1": "/Gharo-636"
+          },
+          {
+              "id": 5901,
+              "level": 3,
+              "externalID": "11841",
+              "name": "Sindh Coastal Highway",
+              "name_l1": "سندھ کوسٹل ہائی وے",
+              "slug": "/Gharo_Sindh_Coastal_Highway-11841",
+              "slug_l1": "/Gharo_Sindh_Coastal_Highway-11841"
+          }
+      ],
+      "hierarchyPath": "Sindh Coastal Highway Gharo Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11841",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5901",
+      "_highlightResult": {
+          "name": {
+              "value": "Sindh Coastal Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

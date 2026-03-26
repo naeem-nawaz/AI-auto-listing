@@ -1,0 +1,147 @@
+[
+  {
+      "id": 104,
+      "name": "Nasirabad",
+      "name_l1": "ناصرآباد",
+      "externalID": "1752",
+      "slug": "/Nasirabad-1752",
+      "slug_l1": "/Nasirabad-1752",
+      "_geoloc": {
+          "lat": 26.066652138577,
+          "lng": 62.714424133301
+      },
+      "geography": {
+          "lat": 26.066652138577,
+          "lng": 62.714424133301
+      },
+      "geo_point": [
+          62.714424133301,
+          26.066652138577
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 104,
+              "level": 2,
+              "externalID": "1752",
+              "name": "Nasirabad",
+              "name_l1": "ناصرآباد",
+              "slug": "/Nasirabad-1752",
+              "slug_l1": "/Nasirabad-1752"
+          }
+      ],
+      "hierarchyPath": "Nasirabad Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1752",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "104",
+      "_highlightResult": {
+          "name": {
+              "value": "Nasirabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1264,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1754",
+      "slug": "/Nasirabad_Others-1754",
+      "slug_l1": "/Nasirabad_Others-1754",
+      "_geoloc": {
+          "lat": 28.5876,
+          "lng": 68.0478
+      },
+      "geography": {
+          "lat": 28.5876,
+          "lng": 68.0478
+      },
+      "geo_point": [
+          68.0478,
+          28.5876
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 104,
+              "level": 2,
+              "externalID": "1752",
+              "name": "Nasirabad",
+              "name_l1": "ناصرآباد",
+              "slug": "/Nasirabad-1752",
+              "slug_l1": "/Nasirabad-1752"
+          },
+          {
+              "id": 1264,
+              "level": 3,
+              "externalID": "1754",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Nasirabad_Others-1754",
+              "slug_l1": "/Nasirabad_Others-1754"
+          }
+      ],
+      "hierarchyPath": "Others Nasirabad Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1754",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1264",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

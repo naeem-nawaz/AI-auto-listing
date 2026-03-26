@@ -1,0 +1,1945 @@
+[
+  {
+      "id": 68,
+      "name": "Chiniot",
+      "name_l1": "چنیوٹ",
+      "externalID": "1469",
+      "slug": "/Chiniot-1469",
+      "slug_l1": "/Chiniot-1469",
+      "_geoloc": {
+          "lat": 31.720172915579,
+          "lng": 72.988851070404
+      },
+      "geography": {
+          "lat": 31.720172915579,
+          "lng": 72.988851070404
+      },
+      "geo_point": [
+          72.988851070404,
+          31.720172915579
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          }
+      ],
+      "hierarchyPath": "Chiniot Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1469",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "68",
+      "_highlightResult": {
+          "name": {
+              "value": "Chiniot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9303,
+      "name": "DIN Gardens",
+      "name_l1": "دن گارڈنز",
+      "externalID": "12374",
+      "slug": "/Chiniot_Sargodha_Faisalabad_Road_DIN_Gardens-12374",
+      "slug_l1": "/Chiniot_Sargodha_Faisalabad_Road_DIN_Gardens-12374",
+      "_geoloc": {
+          "lat": 31.689564,
+          "lng": 73.001392
+      },
+      "geography": {
+          "lat": 31.689564,
+          "lng": 73.001392
+      },
+      "geo_point": [
+          73.001392,
+          31.689564
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1722,
+              "level": 3,
+              "externalID": "4782",
+              "name": "Sargodha Faisalabad Road",
+              "name_l1": "سرگودھا فیصل آباد روڈ",
+              "slug": "/Chiniot_Sargodha_Faisalabad_Road-4782",
+              "slug_l1": "/Chiniot_Sargodha_Faisalabad_Road-4782"
+          },
+          {
+              "id": 9303,
+              "level": 4,
+              "externalID": "12374",
+              "name": "DIN Gardens",
+              "name_l1": "دن گارڈنز",
+              "slug": "/Chiniot_Sargodha_Faisalabad_Road_DIN_Gardens-12374",
+              "slug_l1": "/Chiniot_Sargodha_Faisalabad_Road_DIN_Gardens-12374"
+          }
+      ],
+      "hierarchyPath": "DIN Gardens Sargodha Faisalabad Road Chiniot Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12374",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9303",
+      "_highlightResult": {
+          "name": {
+              "value": "DIN Gardens",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1722,
+      "name": "Sargodha Faisalabad Road",
+      "name_l1": "سرگودھا فیصل آباد روڈ",
+      "externalID": "4782",
+      "slug": "/Chiniot_Sargodha_Faisalabad_Road-4782",
+      "slug_l1": "/Chiniot_Sargodha_Faisalabad_Road-4782",
+      "_geoloc": {
+          "lat": 31.706044,
+          "lng": 72.993321
+      },
+      "geography": {
+          "lat": 31.706044,
+          "lng": 72.993321
+      },
+      "geo_point": [
+          72.993321,
+          31.706044
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1722,
+              "level": 3,
+              "externalID": "4782",
+              "name": "Sargodha Faisalabad Road",
+              "name_l1": "سرگودھا فیصل آباد روڈ",
+              "slug": "/Chiniot_Sargodha_Faisalabad_Road-4782",
+              "slug_l1": "/Chiniot_Sargodha_Faisalabad_Road-4782"
+          }
+      ],
+      "hierarchyPath": "Sargodha Faisalabad Road Chiniot Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4782",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1722",
+      "_highlightResult": {
+          "name": {
+              "value": "Sargodha Faisalabad Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21332,
+      "name": "Chenab Avenue",
+      "name_l1": "چناب ایونیو",
+      "externalID": "21921",
+      "slug": "/Chiniot_Ring_Road_Chenab_Avenue-21921",
+      "slug_l1": "/Chiniot_Ring_Road_Chenab_Avenue-21921",
+      "_geoloc": {
+          "lat": 31.699301051003,
+          "lng": 72.985962616068
+      },
+      "geography": {
+          "lat": 31.699301051003,
+          "lng": 72.985962616068
+      },
+      "geo_point": [
+          72.985962616068,
+          31.699301051003
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 12582,
+              "level": 3,
+              "externalID": "14061",
+              "name": "Ring Road",
+              "name_l1": "رنگ روڈ",
+              "slug": "/Chiniot_Ring_Road-14061",
+              "slug_l1": "/Chiniot_Ring_Road-14061"
+          },
+          {
+              "id": 21332,
+              "level": 4,
+              "externalID": "21921",
+              "name": "Chenab Avenue",
+              "name_l1": "چناب ایونیو",
+              "slug": "/Chiniot_Ring_Road_Chenab_Avenue-21921",
+              "slug_l1": "/Chiniot_Ring_Road_Chenab_Avenue-21921"
+          }
+      ],
+      "hierarchyPath": "Chenab Avenue Ring Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21921",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21332",
+      "_highlightResult": {
+          "name": {
+              "value": "Chenab Avenue",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1718,
+      "name": "Chiniot Jhumra Road",
+      "name_l1": "چنیوٹ جھمرہ روڈ",
+      "externalID": "4778",
+      "slug": "/Chiniot_Jhumra_Road-4778",
+      "slug_l1": "/Chiniot_Jhumra_Road-4778",
+      "_geoloc": {
+          "lat": 31.706848,
+          "lng": 72.999244
+      },
+      "geography": {
+          "lat": 31.706848,
+          "lng": 72.999244
+      },
+      "geo_point": [
+          72.999244,
+          31.706848
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1718,
+              "level": 3,
+              "externalID": "4778",
+              "name": "Chiniot Jhumra Road",
+              "name_l1": "چنیوٹ جھمرہ روڈ",
+              "slug": "/Chiniot_Jhumra_Road-4778",
+              "slug_l1": "/Chiniot_Jhumra_Road-4778"
+          }
+      ],
+      "hierarchyPath": "Chiniot Jhumra Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4778",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1718",
+      "_highlightResult": {
+          "name": {
+              "value": "Chiniot Jhumra Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1719,
+      "name": "Chinioti Road",
+      "name_l1": "چنیوٹی روڈ",
+      "externalID": "4779",
+      "slug": "/Chiniot_Chinioti_Road-4779",
+      "slug_l1": "/Chiniot_Chinioti_Road-4779",
+      "_geoloc": {
+          "lat": 31.707359,
+          "lng": 72.970158
+      },
+      "geography": {
+          "lat": 31.707359,
+          "lng": 72.970158
+      },
+      "geo_point": [
+          72.970158,
+          31.707359
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1719,
+              "level": 3,
+              "externalID": "4779",
+              "name": "Chinioti Road",
+              "name_l1": "چنیوٹی روڈ",
+              "slug": "/Chiniot_Chinioti_Road-4779",
+              "slug_l1": "/Chiniot_Chinioti_Road-4779"
+          }
+      ],
+      "hierarchyPath": "Chinioti Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4779",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1719",
+      "_highlightResult": {
+          "name": {
+              "value": "Chinioti Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1720,
+      "name": "City Thana Road",
+      "name_l1": "سٹی تھانہ روڈ",
+      "externalID": "4780",
+      "slug": "/Chiniot_City_Thana_Road-4780",
+      "slug_l1": "/Chiniot_City_Thana_Road-4780",
+      "_geoloc": {
+          "lat": 31.712981,
+          "lng": 72.974868
+      },
+      "geography": {
+          "lat": 31.712981,
+          "lng": 72.974868
+      },
+      "geo_point": [
+          72.974868,
+          31.712981
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1720,
+              "level": 3,
+              "externalID": "4780",
+              "name": "City Thana Road",
+              "name_l1": "سٹی تھانہ روڈ",
+              "slug": "/Chiniot_City_Thana_Road-4780",
+              "slug_l1": "/Chiniot_City_Thana_Road-4780"
+          }
+      ],
+      "hierarchyPath": "City Thana Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4780",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1720",
+      "_highlightResult": {
+          "name": {
+              "value": "City Thana Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1721,
+      "name": "Eidgah Road",
+      "name_l1": "عیدگاہ روڈ",
+      "externalID": "4781",
+      "slug": "/Chiniot_Eidgah_Road-4781",
+      "slug_l1": "/Chiniot_Eidgah_Road-4781",
+      "_geoloc": {
+          "lat": 31.72156,
+          "lng": 72.9726
+      },
+      "geography": {
+          "lat": 31.72156,
+          "lng": 72.9726
+      },
+      "geo_point": [
+          72.9726,
+          31.72156
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1721,
+              "level": 3,
+              "externalID": "4781",
+              "name": "Eidgah Road",
+              "name_l1": "عیدگاہ روڈ",
+              "slug": "/Chiniot_Eidgah_Road-4781",
+              "slug_l1": "/Chiniot_Eidgah_Road-4781"
+          }
+      ],
+      "hierarchyPath": "Eidgah Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4781",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1721",
+      "_highlightResult": {
+          "name": {
+              "value": "Eidgah Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1723,
+      "name": "Gulshan Town",
+      "name_l1": "گلشن ٹاؤن",
+      "externalID": "4783",
+      "slug": "/Chiniot_Gulshan_Town-4783",
+      "slug_l1": "/Chiniot_Gulshan_Town-4783",
+      "_geoloc": {
+          "lat": 31.727875,
+          "lng": 72.969975
+      },
+      "geography": {
+          "lat": 31.727875,
+          "lng": 72.969975
+      },
+      "geo_point": [
+          72.969975,
+          31.727875
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1723,
+              "level": 3,
+              "externalID": "4783",
+              "name": "Gulshan Town",
+              "name_l1": "گلشن ٹاؤن",
+              "slug": "/Chiniot_Gulshan_Town-4783",
+              "slug_l1": "/Chiniot_Gulshan_Town-4783"
+          }
+      ],
+      "hierarchyPath": "Gulshan Town Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4783",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1723",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8959,
+      "name": "Gulshan-e-Chiniot Housing Scheme",
+      "name_l1": "گلشنِ چنیوٹ هاوسنگ سکیم",
+      "externalID": "11398",
+      "slug": "/Chiniot_Lahore_Road_Gulshan_e_Chiniot_Housing_Scheme-11398",
+      "slug_l1": "/Chiniot_Lahore_Road_Gulshan_e_Chiniot_Housing_Scheme-11398",
+      "_geoloc": {
+          "lat": 31.723056,
+          "lng": 73.003435
+      },
+      "geography": {
+          "lat": 31.723056,
+          "lng": 73.003435
+      },
+      "geo_point": [
+          73.003435,
+          31.723056
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1727,
+              "level": 3,
+              "externalID": "4787",
+              "name": "Lahore Road",
+              "name_l1": "لاہور روڈ",
+              "slug": "/Chiniot_Lahore_Road-4787",
+              "slug_l1": "/Chiniot_Lahore_Road-4787"
+          },
+          {
+              "id": 8959,
+              "level": 4,
+              "externalID": "11398",
+              "name": "Gulshan-e-Chiniot Housing Scheme",
+              "name_l1": "گلشنِ چنیوٹ هاوسنگ سکیم",
+              "slug": "/Chiniot_Lahore_Road_Gulshan_e_Chiniot_Housing_Scheme-11398",
+              "slug_l1": "/Chiniot_Lahore_Road_Gulshan_e_Chiniot_Housing_Scheme-11398"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Chiniot Housing Scheme Lahore Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11398",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8959",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Chiniot Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1724,
+      "name": "Jhang Chiniot Road",
+      "name_l1": "جھنگ چنیوٹ روڈ",
+      "externalID": "4784",
+      "slug": "/Chiniot_Jhang_Chiniot_Road-4784",
+      "slug_l1": "/Chiniot_Jhang_Chiniot_Road-4784",
+      "_geoloc": {
+          "lat": 31.701663,
+          "lng": 72.96297
+      },
+      "geography": {
+          "lat": 31.701663,
+          "lng": 72.96297
+      },
+      "geo_point": [
+          72.96297,
+          31.701663
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1724,
+              "level": 3,
+              "externalID": "4784",
+              "name": "Jhang Chiniot Road",
+              "name_l1": "جھنگ چنیوٹ روڈ",
+              "slug": "/Chiniot_Jhang_Chiniot_Road-4784",
+              "slug_l1": "/Chiniot_Jhang_Chiniot_Road-4784"
+          }
+      ],
+      "hierarchyPath": "Jhang Chiniot Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4784",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1724",
+      "_highlightResult": {
+          "name": {
+              "value": "Jhang Chiniot Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1725,
+      "name": "Jhang Road",
+      "name_l1": "جھنگ روڈ",
+      "externalID": "4785",
+      "slug": "/Chiniot_Jhang_Road-4785",
+      "slug_l1": "/Chiniot_Jhang_Road-4785",
+      "_geoloc": {
+          "lat": 31.706848,
+          "lng": 72.972894
+      },
+      "geography": {
+          "lat": 31.706848,
+          "lng": 72.972894
+      },
+      "geo_point": [
+          72.972894,
+          31.706848
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1725,
+              "level": 3,
+              "externalID": "4785",
+              "name": "Jhang Road",
+              "name_l1": "جھنگ روڈ",
+              "slug": "/Chiniot_Jhang_Road-4785",
+              "slug_l1": "/Chiniot_Jhang_Road-4785"
+          }
+      ],
+      "hierarchyPath": "Jhang Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4785",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1725",
+      "_highlightResult": {
+          "name": {
+              "value": "Jhang Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1726,
+      "name": "Jhumra Road",
+      "name_l1": "جھمرہ روڈ",
+      "externalID": "4786",
+      "slug": "/Chiniot_Jhumra_Road-4786",
+      "slug_l1": "/Chiniot_Jhumra_Road-4786",
+      "_geoloc": {
+          "lat": 31.714222,
+          "lng": 72.987914
+      },
+      "geography": {
+          "lat": 31.714222,
+          "lng": 72.987914
+      },
+      "geo_point": [
+          72.987914,
+          31.714222
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1726,
+              "level": 3,
+              "externalID": "4786",
+              "name": "Jhumra Road",
+              "name_l1": "جھمرہ روڈ",
+              "slug": "/Chiniot_Jhumra_Road-4786",
+              "slug_l1": "/Chiniot_Jhumra_Road-4786"
+          }
+      ],
+      "hierarchyPath": "Jhumra Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4786",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1726",
+      "_highlightResult": {
+          "name": {
+              "value": "Jhumra Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1727,
+      "name": "Lahore Road",
+      "name_l1": "لاہور روڈ",
+      "externalID": "4787",
+      "slug": "/Chiniot_Lahore_Road-4787",
+      "slug_l1": "/Chiniot_Lahore_Road-4787",
+      "_geoloc": {
+          "lat": 31.725539,
+          "lng": 72.999845
+      },
+      "geography": {
+          "lat": 31.725539,
+          "lng": 72.999845
+      },
+      "geo_point": [
+          72.999845,
+          31.725539
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1727,
+              "level": 3,
+              "externalID": "4787",
+              "name": "Lahore Road",
+              "name_l1": "لاہور روڈ",
+              "slug": "/Chiniot_Lahore_Road-4787",
+              "slug_l1": "/Chiniot_Lahore_Road-4787"
+          }
+      ],
+      "hierarchyPath": "Lahore Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4787",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1727",
+      "_highlightResult": {
+          "name": {
+              "value": "Lahore Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4846,
+      "name": "Lalian",
+      "name_l1": "لالیاں",
+      "externalID": "9858",
+      "slug": "/Chiniot_Lalian-9858",
+      "slug_l1": "/Chiniot_Lalian-9858",
+      "_geoloc": {
+          "lat": 31.824016,
+          "lng": 72.805145
+      },
+      "geography": {
+          "lat": 31.824016,
+          "lng": 72.805145
+      },
+      "geo_point": [
+          72.805145,
+          31.824016
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 4846,
+              "level": 3,
+              "externalID": "9858",
+              "name": "Lalian",
+              "name_l1": "لالیاں",
+              "slug": "/Chiniot_Lalian-9858",
+              "slug_l1": "/Chiniot_Lalian-9858"
+          }
+      ],
+      "hierarchyPath": "Lalian Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9858",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4846",
+      "_highlightResult": {
+          "name": {
+              "value": "Lalian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1728,
+      "name": "Mandir Road",
+      "name_l1": "مندر روڈ",
+      "externalID": "4788",
+      "slug": "/Chiniot_Mandir_Road-4788",
+      "slug_l1": "/Chiniot_Mandir_Road-4788",
+      "_geoloc": {
+          "lat": 31.72386,
+          "lng": 72.983809
+      },
+      "geography": {
+          "lat": 31.72386,
+          "lng": 72.983809
+      },
+      "geo_point": [
+          72.983809,
+          31.72386
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1728,
+              "level": 3,
+              "externalID": "4788",
+              "name": "Mandir Road",
+              "name_l1": "مندر روڈ",
+              "slug": "/Chiniot_Mandir_Road-4788",
+              "slug_l1": "/Chiniot_Mandir_Road-4788"
+          }
+      ],
+      "hierarchyPath": "Mandir Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4788",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1728",
+      "_highlightResult": {
+          "name": {
+              "value": "Mandir Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1729,
+      "name": "Moazzam Shah Road",
+      "name_l1": "معظم شاہ روڈ",
+      "externalID": "4789",
+      "slug": "/Chiniot_Moazzam_Shah_Road-4789",
+      "slug_l1": "/Chiniot_Moazzam_Shah_Road-4789",
+      "_geoloc": {
+          "lat": 31.731507,
+          "lng": 72.977046
+      },
+      "geography": {
+          "lat": 31.731507,
+          "lng": 72.977046
+      },
+      "geo_point": [
+          72.977046,
+          31.731507
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1729,
+              "level": 3,
+              "externalID": "4789",
+              "name": "Moazzam Shah Road",
+              "name_l1": "معظم شاہ روڈ",
+              "slug": "/Chiniot_Moazzam_Shah_Road-4789",
+              "slug_l1": "/Chiniot_Moazzam_Shah_Road-4789"
+          }
+      ],
+      "hierarchyPath": "Moazzam Shah Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4789",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1729",
+      "_highlightResult": {
+          "name": {
+              "value": "Moazzam Shah Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1730,
+      "name": "Muslim Town",
+      "name_l1": "مسلم ٹاؤن",
+      "externalID": "4790",
+      "slug": "/Chiniot_Muslim_Town-4790",
+      "slug_l1": "/Chiniot_Muslim_Town-4790",
+      "_geoloc": {
+          "lat": 31.70159,
+          "lng": 73.003407
+      },
+      "geography": {
+          "lat": 31.70159,
+          "lng": 73.003407
+      },
+      "geo_point": [
+          73.003407,
+          31.70159
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1730,
+              "level": 3,
+              "externalID": "4790",
+              "name": "Muslim Town",
+              "name_l1": "مسلم ٹاؤن",
+              "slug": "/Chiniot_Muslim_Town-4790",
+              "slug_l1": "/Chiniot_Muslim_Town-4790"
+          }
+      ],
+      "hierarchyPath": "Muslim Town Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4790",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1730",
+      "_highlightResult": {
+          "name": {
+              "value": "Muslim Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1176,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1470",
+      "slug": "/Chiniot_others-1470",
+      "slug_l1": "/Chiniot_others-1470",
+      "_geoloc": {
+          "lat": 31.7286,
+          "lng": 72.9815
+      },
+      "geography": {
+          "lat": 31.7286,
+          "lng": 72.9815
+      },
+      "geo_point": [
+          72.9815,
+          31.7286
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1176,
+              "level": 3,
+              "externalID": "1470",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Chiniot_others-1470",
+              "slug_l1": "/Chiniot_others-1470"
+          }
+      ],
+      "hierarchyPath": "Others Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1470",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1176",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1731,
+      "name": "Rajay Wala Road",
+      "name_l1": "راجے والا روڈ",
+      "externalID": "4791",
+      "slug": "/Chiniot_Rajay_Wala_Road-4791",
+      "slug_l1": "/Chiniot_Rajay_Wala_Road-4791",
+      "_geoloc": {
+          "lat": 31.716413,
+          "lng": 72.980282
+      },
+      "geography": {
+          "lat": 31.716413,
+          "lng": 72.980282
+      },
+      "geo_point": [
+          72.980282,
+          31.716413
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1731,
+              "level": 3,
+              "externalID": "4791",
+              "name": "Rajay Wala Road",
+              "name_l1": "راجے والا روڈ",
+              "slug": "/Chiniot_Rajay_Wala_Road-4791",
+              "slug_l1": "/Chiniot_Rajay_Wala_Road-4791"
+          }
+      ],
+      "hierarchyPath": "Rajay Wala Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4791",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1731",
+      "_highlightResult": {
+          "name": {
+              "value": "Rajay Wala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1732,
+      "name": "Rajoa Sadat Road",
+      "name_l1": "رجوا سادات روڈ",
+      "externalID": "4792",
+      "slug": "/Chiniot_Rajoa_Sadat_Road-4792",
+      "slug_l1": "/Chiniot_Rajoa_Sadat_Road-4792",
+      "_geoloc": {
+          "lat": 31.701736,
+          "lng": 72.976069
+      },
+      "geography": {
+          "lat": 31.701736,
+          "lng": 72.976069
+      },
+      "geo_point": [
+          72.976069,
+          31.701736
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1732,
+              "level": 3,
+              "externalID": "4792",
+              "name": "Rajoa Sadat Road",
+              "name_l1": "رجوا سادات روڈ",
+              "slug": "/Chiniot_Rajoa_Sadat_Road-4792",
+              "slug_l1": "/Chiniot_Rajoa_Sadat_Road-4792"
+          }
+      ],
+      "hierarchyPath": "Rajoa Sadat Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4792",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1732",
+      "_highlightResult": {
+          "name": {
+              "value": "Rajoa Sadat Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12582,
+      "name": "Ring Road",
+      "name_l1": "رنگ روڈ",
+      "externalID": "14061",
+      "slug": "/Chiniot_Ring_Road-14061",
+      "slug_l1": "/Chiniot_Ring_Road-14061",
+      "_geoloc": {
+          "lat": 31.704247,
+          "lng": 72.951476
+      },
+      "geography": {
+          "lat": 31.704247,
+          "lng": 72.951476
+      },
+      "geo_point": [
+          72.951476,
+          31.704247
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 12582,
+              "level": 3,
+              "externalID": "14061",
+              "name": "Ring Road",
+              "name_l1": "رنگ روڈ",
+              "slug": "/Chiniot_Ring_Road-14061",
+              "slug_l1": "/Chiniot_Ring_Road-14061"
+          }
+      ],
+      "hierarchyPath": "Ring Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14061",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12582",
+      "_highlightResult": {
+          "name": {
+              "value": "Ring Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1734,
+      "name": "Safina Mill Link Road",
+      "name_l1": "صفینہ مل لنک روڈ",
+      "externalID": "4794",
+      "slug": "/Chiniot_Safina_Mill_Link_Road-4794",
+      "slug_l1": "/Chiniot_Safina_Mill_Link_Road-4794",
+      "_geoloc": {
+          "lat": 31.813308,
+          "lng": 72.834783
+      },
+      "geography": {
+          "lat": 31.813308,
+          "lng": 72.834783
+      },
+      "geo_point": [
+          72.834783,
+          31.813308
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1734,
+              "level": 3,
+              "externalID": "4794",
+              "name": "Safina Mill Link Road",
+              "name_l1": "صفینہ مل لنک روڈ",
+              "slug": "/Chiniot_Safina_Mill_Link_Road-4794",
+              "slug_l1": "/Chiniot_Safina_Mill_Link_Road-4794"
+          }
+      ],
+      "hierarchyPath": "Safina Mill Link Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4794",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1734",
+      "_highlightResult": {
+          "name": {
+              "value": "Safina Mill Link Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1733,
+      "name": "Saharan Road",
+      "name_l1": "سہاراں روڈ",
+      "externalID": "4793",
+      "slug": "/Chiniot_Saharan_Road-4793",
+      "slug_l1": "/Chiniot_Saharan_Road-4793",
+      "_geoloc": {
+          "lat": 31.716084,
+          "lng": 72.972257
+      },
+      "geography": {
+          "lat": 31.716084,
+          "lng": 72.972257
+      },
+      "geo_point": [
+          72.972257,
+          31.716084
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1733,
+              "level": 3,
+              "externalID": "4793",
+              "name": "Saharan Road",
+              "name_l1": "سہاراں روڈ",
+              "slug": "/Chiniot_Saharan_Road-4793",
+              "slug_l1": "/Chiniot_Saharan_Road-4793"
+          }
+      ],
+      "hierarchyPath": "Saharan Road Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4793",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1733",
+      "_highlightResult": {
+          "name": {
+              "value": "Saharan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1735,
+      "name": "Satellite Town",
+      "name_l1": "سیٹیلائیٹ ٹاؤن",
+      "externalID": "4795",
+      "slug": "/Chiniot_Satellite_Town-4795",
+      "slug_l1": "/Chiniot_Satellite_Town-4795",
+      "_geoloc": {
+          "lat": 31.708016,
+          "lng": 72.988157
+      },
+      "geography": {
+          "lat": 31.708016,
+          "lng": 72.988157
+      },
+      "geo_point": [
+          72.988157,
+          31.708016
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 68,
+              "level": 2,
+              "externalID": "1469",
+              "name": "Chiniot",
+              "name_l1": "چنیوٹ",
+              "slug": "/Chiniot-1469",
+              "slug_l1": "/Chiniot-1469"
+          },
+          {
+              "id": 1735,
+              "level": 3,
+              "externalID": "4795",
+              "name": "Satellite Town",
+              "name_l1": "سیٹیلائیٹ ٹاؤن",
+              "slug": "/Chiniot_Satellite_Town-4795",
+              "slug_l1": "/Chiniot_Satellite_Town-4795"
+          }
+      ],
+      "hierarchyPath": "Satellite Town Chiniot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4795",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1735",
+      "_highlightResult": {
+          "name": {
+              "value": "Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

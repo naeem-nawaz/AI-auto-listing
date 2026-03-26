@@ -1,0 +1,455 @@
+[
+  {
+      "id": 12891,
+      "name": "Irrigation Colony",
+      "name_l1": "اریگیشن کالونی",
+      "externalID": "14332",
+      "slug": "/Sujawal_Irrigation_Colony-14332",
+      "slug_l1": "/Sujawal_Irrigation_Colony-14332",
+      "_geoloc": {
+          "lat": 24.6058,
+          "lng": 68.06842
+      },
+      "geography": {
+          "lat": 24.6058,
+          "lng": 68.06842
+      },
+      "geo_point": [
+          68.06842,
+          24.6058
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12888,
+              "level": 2,
+              "externalID": "14329",
+              "name": "Sujawal",
+              "name_l1": "سجاول",
+              "slug": "/Sujawal-14329",
+              "slug_l1": "/Sujawal-14329"
+          },
+          {
+              "id": 12891,
+              "level": 3,
+              "externalID": "14332",
+              "name": "Irrigation Colony",
+              "name_l1": "اریگیشن کالونی",
+              "slug": "/Sujawal_Irrigation_Colony-14332",
+              "slug_l1": "/Sujawal_Irrigation_Colony-14332"
+          }
+      ],
+      "hierarchyPath": "Irrigation Colony Sujawal Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14332",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12891",
+      "_highlightResult": {
+          "name": {
+              "value": "Irrigation Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12890,
+      "name": "Khawaja Colony",
+      "name_l1": "خواجہ کالونی",
+      "externalID": "14331",
+      "slug": "/Sujawal_Khawaja_Colony-14331",
+      "slug_l1": "/Sujawal_Khawaja_Colony-14331",
+      "_geoloc": {
+          "lat": 24.605243,
+          "lng": 68.072271
+      },
+      "geography": {
+          "lat": 24.605243,
+          "lng": 68.072271
+      },
+      "geo_point": [
+          68.072271,
+          24.605243
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12888,
+              "level": 2,
+              "externalID": "14329",
+              "name": "Sujawal",
+              "name_l1": "سجاول",
+              "slug": "/Sujawal-14329",
+              "slug_l1": "/Sujawal-14329"
+          },
+          {
+              "id": 12890,
+              "level": 3,
+              "externalID": "14331",
+              "name": "Khawaja Colony",
+              "name_l1": "خواجہ کالونی",
+              "slug": "/Sujawal_Khawaja_Colony-14331",
+              "slug_l1": "/Sujawal_Khawaja_Colony-14331"
+          }
+      ],
+      "hierarchyPath": "Khawaja Colony Sujawal Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14331",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12890",
+      "_highlightResult": {
+          "name": {
+              "value": "Khawaja Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12916,
+      "name": "Misri Shah Road",
+      "name_l1": "مصری شاہ روڈ",
+      "externalID": "14356",
+      "slug": "/Sujawal_Misri_Shah_Road-14356",
+      "slug_l1": "/Sujawal_Misri_Shah_Road-14356",
+      "_geoloc": {
+          "lat": 24.6070646,
+          "lng": 68.0763772
+      },
+      "geography": {
+          "lat": 24.6070646,
+          "lng": 68.0763772
+      },
+      "geo_point": [
+          68.0763772,
+          24.6070646
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12888,
+              "level": 2,
+              "externalID": "14329",
+              "name": "Sujawal",
+              "name_l1": "سجاول",
+              "slug": "/Sujawal-14329",
+              "slug_l1": "/Sujawal-14329"
+          },
+          {
+              "id": 12916,
+              "level": 3,
+              "externalID": "14356",
+              "name": "Misri Shah Road",
+              "name_l1": "مصری شاہ روڈ",
+              "slug": "/Sujawal_Misri_Shah_Road-14356",
+              "slug_l1": "/Sujawal_Misri_Shah_Road-14356"
+          }
+      ],
+      "hierarchyPath": "Misri Shah Road Sujawal Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14356",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12916",
+      "_highlightResult": {
+          "name": {
+              "value": "Misri Shah Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12889,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "14330",
+      "slug": "/Sujawal_Others-14330",
+      "slug_l1": "/Sujawal_Others-14330",
+      "_geoloc": {
+          "lat": 24.604043,
+          "lng": 68.079434
+      },
+      "geography": {
+          "lat": 24.604043,
+          "lng": 68.079434
+      },
+      "geo_point": [
+          68.079434,
+          24.604043
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12888,
+              "level": 2,
+              "externalID": "14329",
+              "name": "Sujawal",
+              "name_l1": "سجاول",
+              "slug": "/Sujawal-14329",
+              "slug_l1": "/Sujawal-14329"
+          },
+          {
+              "id": 12889,
+              "level": 3,
+              "externalID": "14330",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Sujawal_Others-14330",
+              "slug_l1": "/Sujawal_Others-14330"
+          }
+      ],
+      "hierarchyPath": "Others Sujawal Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14330",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12889",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12888,
+      "name": "Sujawal",
+      "name_l1": "سجاول",
+      "externalID": "14329",
+      "slug": "/Sujawal-14329",
+      "slug_l1": "/Sujawal-14329",
+      "_geoloc": {
+          "lat": 24.605136,
+          "lng": 68.077546
+      },
+      "geography": {
+          "lat": 24.605136,
+          "lng": 68.077546
+      },
+      "geo_point": [
+          68.077546,
+          24.605136
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12888,
+              "level": 2,
+              "externalID": "14329",
+              "name": "Sujawal",
+              "name_l1": "سجاول",
+              "slug": "/Sujawal-14329",
+              "slug_l1": "/Sujawal-14329"
+          }
+      ],
+      "hierarchyPath": "Sujawal Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14329",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12888",
+      "_highlightResult": {
+          "name": {
+              "value": "Sujawal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12917,
+      "name": "Thatta Bypass Road",
+      "name_l1": "ٹھٹھہ بائی پاس روڈ",
+      "externalID": "14357",
+      "slug": "/Sujawal_Thatta_Bypass_Road-14357",
+      "slug_l1": "/Sujawal_Thatta_Bypass_Road-14357",
+      "_geoloc": {
+          "lat": 24.607042,
+          "lng": 68.075689
+      },
+      "geography": {
+          "lat": 24.607042,
+          "lng": 68.075689
+      },
+      "geo_point": [
+          68.075689,
+          24.607042
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12888,
+              "level": 2,
+              "externalID": "14329",
+              "name": "Sujawal",
+              "name_l1": "سجاول",
+              "slug": "/Sujawal-14329",
+              "slug_l1": "/Sujawal-14329"
+          },
+          {
+              "id": 12917,
+              "level": 3,
+              "externalID": "14357",
+              "name": "Thatta Bypass Road",
+              "name_l1": "ٹھٹھہ بائی پاس روڈ",
+              "slug": "/Sujawal_Thatta_Bypass_Road-14357",
+              "slug_l1": "/Sujawal_Thatta_Bypass_Road-14357"
+          }
+      ],
+      "hierarchyPath": "Thatta Bypass Road Sujawal Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14357",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12917",
+      "_highlightResult": {
+          "name": {
+              "value": "Thatta Bypass Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

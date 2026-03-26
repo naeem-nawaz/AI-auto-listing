@@ -1,0 +1,2727 @@
+[
+  {
+      "id": 951,
+      "name": "Jamshoro",
+      "name_l1": "جامشورو",
+      "externalID": "1178",
+      "slug": "/Jamshoro-1178",
+      "slug_l1": "/Jamshoro-1178",
+      "_geoloc": {
+          "lat": 25.41692,
+          "lng": 68.269873
+      },
+      "geography": {
+          "lat": 25.41692,
+          "lng": 68.269873
+      },
+      "geo_point": [
+          68.269873,
+          25.41692
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          }
+      ],
+      "hierarchyPath": "Jamshoro Sindh Pakistan",
+      "adCount": 21,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1178",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "951",
+      "_highlightResult": {
+          "name": {
+              "value": "Jamshoro",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11608,
+      "name": "Indus Highway",
+      "name_l1": "انڈس ہائی وے",
+      "externalID": "13133",
+      "slug": "/Jamshoro_Indus_Highway-13133",
+      "slug_l1": "/Jamshoro_Indus_Highway-13133",
+      "_geoloc": {
+          "lat": 25.386443,
+          "lng": 68.275391
+      },
+      "geography": {
+          "lat": 25.386443,
+          "lng": 68.275391
+      },
+      "geo_point": [
+          68.275391,
+          25.386443
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          }
+      ],
+      "hierarchyPath": "Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13133",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11608",
+      "_highlightResult": {
+          "name": {
+              "value": "Indus Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11616,
+      "name": "Sindh University Employees Cooperative Housing Society",
+      "name_l1": "سندھ یونیورسٹی ایمپلائز کوآپریٹیو ہاؤسنگ سوسائٹی",
+      "externalID": "13142",
+      "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142",
+      "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142",
+      "_geoloc": {
+          "lat": 25.410518,
+          "lng": 68.275141
+      },
+      "geography": {
+          "lat": 25.410518,
+          "lng": 68.275141
+      },
+      "geo_point": [
+          68.275141,
+          25.410518
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11616,
+              "level": 3,
+              "externalID": "13142",
+              "name": "Sindh University Employees Cooperative Housing Society",
+              "name_l1": "سندھ یونیورسٹی ایمپلائز کوآپریٹیو ہاؤسنگ سوسائٹی",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142"
+          }
+      ],
+      "hierarchyPath": "Sindh University Employees Cooperative Housing Society Jamshoro Sindh Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13142",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11616",
+      "_highlightResult": {
+          "name": {
+              "value": "Sindh University Employees Cooperative Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11611,
+      "name": "Muhammadi Town Housing Scheme",
+      "name_l1": "محمدی ٹاؤن ہاؤسنگ سکیم",
+      "externalID": "13135",
+      "slug": "/Jamshoro_Indus_Highway_Muhammadi_Town_Housing_Scheme-13135",
+      "slug_l1": "/Jamshoro_Indus_Highway_Muhammadi_Town_Housing_Scheme-13135",
+      "_geoloc": {
+          "lat": 25.388254,
+          "lng": 68.276944
+      },
+      "geography": {
+          "lat": 25.388254,
+          "lng": 68.276944
+      },
+      "geo_point": [
+          68.276944,
+          25.388254
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 11611,
+              "level": 4,
+              "externalID": "13135",
+              "name": "Muhammadi Town Housing Scheme",
+              "name_l1": "محمدی ٹاؤن ہاؤسنگ سکیم",
+              "slug": "/Jamshoro_Indus_Highway_Muhammadi_Town_Housing_Scheme-13135",
+              "slug_l1": "/Jamshoro_Indus_Highway_Muhammadi_Town_Housing_Scheme-13135"
+          }
+      ],
+      "hierarchyPath": "Muhammadi Town Housing Scheme Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13135",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11611",
+      "_highlightResult": {
+          "name": {
+              "value": "Muhammadi Town Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11609,
+      "name": "Mehran University Employees Cooperative Housing Society",
+      "name_l1": "مہران یونیورسٹی ایمپلائز کوآپریٹیو ہاؤسنگ سوسائٹی",
+      "externalID": "13136",
+      "slug": "/Jamshoro_Mehran_University_Employees_Cooperative_Housing_Society-13136",
+      "slug_l1": "/Jamshoro_Mehran_University_Employees_Cooperative_Housing_Society-13136",
+      "_geoloc": {
+          "lat": 25.394464,
+          "lng": 68.263818
+      },
+      "geography": {
+          "lat": 25.394464,
+          "lng": 68.263818
+      },
+      "geo_point": [
+          68.263818,
+          25.394464
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11609,
+              "level": 3,
+              "externalID": "13136",
+              "name": "Mehran University Employees Cooperative Housing Society",
+              "name_l1": "مہران یونیورسٹی ایمپلائز کوآپریٹیو ہاؤسنگ سوسائٹی",
+              "slug": "/Jamshoro_Mehran_University_Employees_Cooperative_Housing_Society-13136",
+              "slug_l1": "/Jamshoro_Mehran_University_Employees_Cooperative_Housing_Society-13136"
+          }
+      ],
+      "hierarchyPath": "Mehran University Employees Cooperative Housing Society Jamshoro Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13136",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11609",
+      "_highlightResult": {
+          "name": {
+              "value": "Mehran University Employees Cooperative Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14392,
+      "name": "Cadet College Petaro Road",
+      "name_l1": "کیڈٹ کالج پٹارو روڈ",
+      "externalID": "15886",
+      "slug": "/Jamshoro_Cadet_College_Petaro_Road-15886",
+      "slug_l1": "/Jamshoro_Cadet_College_Petaro_Road-15886",
+      "_geoloc": {
+          "lat": 25.433932,
+          "lng": 68.281332
+      },
+      "geography": {
+          "lat": 25.433932,
+          "lng": 68.281332
+      },
+      "geo_point": [
+          68.281332,
+          25.433932
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 14392,
+              "level": 3,
+              "externalID": "15886",
+              "name": "Cadet College Petaro Road",
+              "name_l1": "کیڈٹ کالج پٹارو روڈ",
+              "slug": "/Jamshoro_Cadet_College_Petaro_Road-15886",
+              "slug_l1": "/Jamshoro_Cadet_College_Petaro_Road-15886"
+          }
+      ],
+      "hierarchyPath": "Cadet College Petaro Road Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15886",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14392",
+      "_highlightResult": {
+          "name": {
+              "value": "Cadet College Petaro Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11622,
+      "name": "Down Town",
+      "name_l1": "ڈون ٹاؤن",
+      "externalID": "13146",
+      "slug": "/Jamshoro_Indus_Highway_Down_Town-13146",
+      "slug_l1": "/Jamshoro_Indus_Highway_Down_Town-13146",
+      "_geoloc": {
+          "lat": 25.380623,
+          "lng": 68.279495
+      },
+      "geography": {
+          "lat": 25.380623,
+          "lng": 68.279495
+      },
+      "geo_point": [
+          68.279495,
+          25.380623
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 11622,
+              "level": 4,
+              "externalID": "13146",
+              "name": "Down Town",
+              "name_l1": "ڈون ٹاؤن",
+              "slug": "/Jamshoro_Indus_Highway_Down_Town-13146",
+              "slug_l1": "/Jamshoro_Indus_Highway_Down_Town-13146"
+          }
+      ],
+      "hierarchyPath": "Down Town Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13146",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11622",
+      "_highlightResult": {
+          "name": {
+              "value": "Down Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18475,
+      "name": "Education City",
+      "name_l1": "ایجوکیشن سٹی",
+      "externalID": "19381",
+      "slug": "/Jamshoro_Indus_Highway_Education_City-19381",
+      "slug_l1": "/Jamshoro_Indus_Highway_Education_City-19381",
+      "_geoloc": {
+          "lat": 25.4427312,
+          "lng": 68.2727313
+      },
+      "geography": {
+          "lat": 25.4427312,
+          "lng": 68.2727313
+      },
+      "geo_point": [
+          68.2727313,
+          25.4427312
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 18475,
+              "level": 4,
+              "externalID": "19381",
+              "name": "Education City",
+              "name_l1": "ایجوکیشن سٹی",
+              "slug": "/Jamshoro_Indus_Highway_Education_City-19381",
+              "slug_l1": "/Jamshoro_Indus_Highway_Education_City-19381"
+          }
+      ],
+      "hierarchyPath": "Education City Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19381",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18475",
+      "_highlightResult": {
+          "name": {
+              "value": "Education City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14422,
+      "name": "Gulshan-e-Shahbaz - Sector A4",
+      "name_l1": "گلشنِ شہباز ۔ سیکٹر اے4",
+      "externalID": "15927",
+      "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_A4-15927",
+      "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_A4-15927",
+      "_geoloc": {
+          "lat": 25.38169,
+          "lng": 68.242946
+      },
+      "geography": {
+          "lat": 25.38169,
+          "lng": 68.242946
+      },
+      "geo_point": [
+          68.242946,
+          25.38169
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11613,
+              "level": 3,
+              "externalID": "13138",
+              "name": "Karachi - Hyderabad Motorway",
+              "name_l1": "کراچی - حیدرآباد موٹر وے",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway-13138"
+          },
+          {
+              "id": 11911,
+              "level": 4,
+              "externalID": "13432",
+              "name": "Gulshan-e-Shahbaz Housing Scheme",
+              "name_l1": "گلشن۔اے۔شہباز ہاؤسنگ سکیم",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432"
+          },
+          {
+              "id": 14422,
+              "level": 5,
+              "externalID": "15927",
+              "name": "Gulshan-e-Shahbaz - Sector A4",
+              "name_l1": "گلشنِ شہباز ۔ سیکٹر اے4",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_A4-15927",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_A4-15927"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Shahbaz - Sector A4 Gulshan-e-Shahbaz Housing Scheme Karachi - Hyderabad Motorway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15927",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14422",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Shahbaz - Sector A4",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14418,
+      "name": "Gulshan-e-Shahbaz - Sector A5",
+      "name_l1": "گلشنِ شہباز ۔ سیکٹر اے5",
+      "externalID": "15923",
+      "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_A5-15923",
+      "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_A5-15923",
+      "_geoloc": {
+          "lat": 25.385912,
+          "lng": 68.253031
+      },
+      "geography": {
+          "lat": 25.385912,
+          "lng": 68.253031
+      },
+      "geo_point": [
+          68.253031,
+          25.385912
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11613,
+              "level": 3,
+              "externalID": "13138",
+              "name": "Karachi - Hyderabad Motorway",
+              "name_l1": "کراچی - حیدرآباد موٹر وے",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway-13138"
+          },
+          {
+              "id": 11911,
+              "level": 4,
+              "externalID": "13432",
+              "name": "Gulshan-e-Shahbaz Housing Scheme",
+              "name_l1": "گلشن۔اے۔شہباز ہاؤسنگ سکیم",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432"
+          },
+          {
+              "id": 14418,
+              "level": 5,
+              "externalID": "15923",
+              "name": "Gulshan-e-Shahbaz - Sector A5",
+              "name_l1": "گلشنِ شہباز ۔ سیکٹر اے5",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_A5-15923",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_A5-15923"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Shahbaz - Sector A5 Gulshan-e-Shahbaz Housing Scheme Karachi - Hyderabad Motorway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15923",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14418",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Shahbaz - Sector A5",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14419,
+      "name": "Gulshan-e-Shahbaz - Sector B5",
+      "name_l1": "گلشنِ شہباز ۔ سیکٹر بی5",
+      "externalID": "15924",
+      "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_B5-15924",
+      "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_B5-15924",
+      "_geoloc": {
+          "lat": 25.379941,
+          "lng": 68.254405
+      },
+      "geography": {
+          "lat": 25.379941,
+          "lng": 68.254405
+      },
+      "geo_point": [
+          68.254405,
+          25.379941
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11613,
+              "level": 3,
+              "externalID": "13138",
+              "name": "Karachi - Hyderabad Motorway",
+              "name_l1": "کراچی - حیدرآباد موٹر وے",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway-13138"
+          },
+          {
+              "id": 11911,
+              "level": 4,
+              "externalID": "13432",
+              "name": "Gulshan-e-Shahbaz Housing Scheme",
+              "name_l1": "گلشن۔اے۔شہباز ہاؤسنگ سکیم",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432"
+          },
+          {
+              "id": 14419,
+              "level": 5,
+              "externalID": "15924",
+              "name": "Gulshan-e-Shahbaz - Sector B5",
+              "name_l1": "گلشنِ شہباز ۔ سیکٹر بی5",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_B5-15924",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_B5-15924"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Shahbaz - Sector B5 Gulshan-e-Shahbaz Housing Scheme Karachi - Hyderabad Motorway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15924",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14419",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Shahbaz - Sector B5",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14420,
+      "name": "Gulshan-e-Shahbaz - Sector B6",
+      "name_l1": "گلشنِ شہباز ۔ سیکٹر بی6",
+      "externalID": "15925",
+      "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_B6-15925",
+      "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_B6-15925",
+      "_geoloc": {
+          "lat": 25.384889,
+          "lng": 68.259855
+      },
+      "geography": {
+          "lat": 25.384889,
+          "lng": 68.259855
+      },
+      "geo_point": [
+          68.259855,
+          25.384889
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11613,
+              "level": 3,
+              "externalID": "13138",
+              "name": "Karachi - Hyderabad Motorway",
+              "name_l1": "کراچی - حیدرآباد موٹر وے",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway-13138"
+          },
+          {
+              "id": 11911,
+              "level": 4,
+              "externalID": "13432",
+              "name": "Gulshan-e-Shahbaz Housing Scheme",
+              "name_l1": "گلشن۔اے۔شہباز ہاؤسنگ سکیم",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432"
+          },
+          {
+              "id": 14420,
+              "level": 5,
+              "externalID": "15925",
+              "name": "Gulshan-e-Shahbaz - Sector B6",
+              "name_l1": "گلشنِ شہباز ۔ سیکٹر بی6",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_B6-15925",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_B6-15925"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Shahbaz - Sector B6 Gulshan-e-Shahbaz Housing Scheme Karachi - Hyderabad Motorway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15925",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14420",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Shahbaz - Sector B6",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14421,
+      "name": "Gulshan-e-Shahbaz - Sector C5",
+      "name_l1": "گلشنِ شہباز ۔ سیکٹر سی5",
+      "externalID": "15926",
+      "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_C5-15926",
+      "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_C5-15926",
+      "_geoloc": {
+          "lat": 25.373082,
+          "lng": 68.259254
+      },
+      "geography": {
+          "lat": 25.373082,
+          "lng": 68.259254
+      },
+      "geo_point": [
+          68.259254,
+          25.373082
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11613,
+              "level": 3,
+              "externalID": "13138",
+              "name": "Karachi - Hyderabad Motorway",
+              "name_l1": "کراچی - حیدرآباد موٹر وے",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway-13138"
+          },
+          {
+              "id": 11911,
+              "level": 4,
+              "externalID": "13432",
+              "name": "Gulshan-e-Shahbaz Housing Scheme",
+              "name_l1": "گلشن۔اے۔شہباز ہاؤسنگ سکیم",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432"
+          },
+          {
+              "id": 14421,
+              "level": 5,
+              "externalID": "15926",
+              "name": "Gulshan-e-Shahbaz - Sector C5",
+              "name_l1": "گلشنِ شہباز ۔ سیکٹر سی5",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_C5-15926",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme_Gulshan_e_Shahbaz___Sector_C5-15926"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Shahbaz - Sector C5 Gulshan-e-Shahbaz Housing Scheme Karachi - Hyderabad Motorway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15926",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14421",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Shahbaz - Sector C5",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11911,
+      "name": "Gulshan-e-Shahbaz Housing Scheme",
+      "name_l1": "گلشن۔اے۔شہباز ہاؤسنگ سکیم",
+      "externalID": "13432",
+      "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432",
+      "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432",
+      "_geoloc": {
+          "lat": 25.381574,
+          "lng": 68.238332
+      },
+      "geography": {
+          "lat": 25.381574,
+          "lng": 68.238332
+      },
+      "geo_point": [
+          68.238332,
+          25.381574
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11613,
+              "level": 3,
+              "externalID": "13138",
+              "name": "Karachi - Hyderabad Motorway",
+              "name_l1": "کراچی - حیدرآباد موٹر وے",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway-13138"
+          },
+          {
+              "id": 11911,
+              "level": 4,
+              "externalID": "13432",
+              "name": "Gulshan-e-Shahbaz Housing Scheme",
+              "name_l1": "گلشن۔اے۔شہباز ہاؤسنگ سکیم",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Gulshan_e_Shahbaz_Housing_Scheme-13432"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Shahbaz Housing Scheme Karachi - Hyderabad Motorway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13432",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11911",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Shahbaz Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11610,
+      "name": "Indus City Housing Scheme",
+      "name_l1": "انڈس سٹی ہاؤسنگ سکیم",
+      "externalID": "13134",
+      "slug": "/Jamshoro_Indus_Highway_Indus_City_Housing_Scheme-13134",
+      "slug_l1": "/Jamshoro_Indus_Highway_Indus_City_Housing_Scheme-13134",
+      "_geoloc": {
+          "lat": 25.390839,
+          "lng": 68.27398
+      },
+      "geography": {
+          "lat": 25.390839,
+          "lng": 68.27398
+      },
+      "geo_point": [
+          68.27398,
+          25.390839
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 11610,
+              "level": 4,
+              "externalID": "13134",
+              "name": "Indus City Housing Scheme",
+              "name_l1": "انڈس سٹی ہاؤسنگ سکیم",
+              "slug": "/Jamshoro_Indus_Highway_Indus_City_Housing_Scheme-13134",
+              "slug_l1": "/Jamshoro_Indus_Highway_Indus_City_Housing_Scheme-13134"
+          }
+      ],
+      "hierarchyPath": "Indus City Housing Scheme Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13134",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11610",
+      "_highlightResult": {
+          "name": {
+              "value": "Indus City Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11620,
+      "name": "Jadda Town",
+      "name_l1": "جدا ٹاؤن",
+      "externalID": "13145",
+      "slug": "/Jamshoro_Jadda_Town-13145",
+      "slug_l1": "/Jamshoro_Jadda_Town-13145",
+      "_geoloc": {
+          "lat": 25.386231,
+          "lng": 68.251961
+      },
+      "geography": {
+          "lat": 25.386231,
+          "lng": 68.251961
+      },
+      "geo_point": [
+          68.251961,
+          25.386231
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11620,
+              "level": 3,
+              "externalID": "13145",
+              "name": "Jadda Town",
+              "name_l1": "جدا ٹاؤن",
+              "slug": "/Jamshoro_Jadda_Town-13145",
+              "slug_l1": "/Jamshoro_Jadda_Town-13145"
+          }
+      ],
+      "hierarchyPath": "Jadda Town Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13145",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11620",
+      "_highlightResult": {
+          "name": {
+              "value": "Jadda Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11613,
+      "name": "Karachi - Hyderabad Motorway",
+      "name_l1": "کراچی - حیدرآباد موٹر وے",
+      "externalID": "13138",
+      "slug": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+      "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+      "_geoloc": {
+          "lat": 25.389052,
+          "lng": 68.246685
+      },
+      "geography": {
+          "lat": 25.389052,
+          "lng": 68.246685
+      },
+      "geo_point": [
+          68.246685,
+          25.389052
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11613,
+              "level": 3,
+              "externalID": "13138",
+              "name": "Karachi - Hyderabad Motorway",
+              "name_l1": "کراچی - حیدرآباد موٹر وے",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway-13138"
+          }
+      ],
+      "hierarchyPath": "Karachi - Hyderabad Motorway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13138",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11613",
+      "_highlightResult": {
+          "name": {
+              "value": "Karachi - Hyderabad Motorway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11624,
+      "name": "Makka Town",
+      "name_l1": "مکہ ٹاؤن",
+      "externalID": "13148",
+      "slug": "/Jamshoro_Indus_Highway_Makka_Town-13148",
+      "slug_l1": "/Jamshoro_Indus_Highway_Makka_Town-13148",
+      "_geoloc": {
+          "lat": 25.382959,
+          "lng": 68.281155
+      },
+      "geography": {
+          "lat": 25.382959,
+          "lng": 68.281155
+      },
+      "geo_point": [
+          68.281155,
+          25.382959
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 11624,
+              "level": 4,
+              "externalID": "13148",
+              "name": "Makka Town",
+              "name_l1": "مکہ ٹاؤن",
+              "slug": "/Jamshoro_Indus_Highway_Makka_Town-13148",
+              "slug_l1": "/Jamshoro_Indus_Highway_Makka_Town-13148"
+          }
+      ],
+      "hierarchyPath": "Makka Town Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13148",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11624",
+      "_highlightResult": {
+          "name": {
+              "value": "Makka Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11617,
+      "name": "Mehran Dream City",
+      "name_l1": "مہران ڈریم سٹی",
+      "externalID": "13139",
+      "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Mehran_Dream_City-13139",
+      "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Mehran_Dream_City-13139",
+      "_geoloc": {
+          "lat": 25.39032,
+          "lng": 68.253517
+      },
+      "geography": {
+          "lat": 25.39032,
+          "lng": 68.253517
+      },
+      "geo_point": [
+          68.253517,
+          25.39032
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11613,
+              "level": 3,
+              "externalID": "13138",
+              "name": "Karachi - Hyderabad Motorway",
+              "name_l1": "کراچی - حیدرآباد موٹر وے",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway-13138",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway-13138"
+          },
+          {
+              "id": 11617,
+              "level": 4,
+              "externalID": "13139",
+              "name": "Mehran Dream City",
+              "name_l1": "مہران ڈریم سٹی",
+              "slug": "/Jamshoro_Karachi___Hyderabad_Motorway_Mehran_Dream_City-13139",
+              "slug_l1": "/Jamshoro_Karachi___Hyderabad_Motorway_Mehran_Dream_City-13139"
+          }
+      ],
+      "hierarchyPath": "Mehran Dream City Karachi - Hyderabad Motorway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13139",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11617",
+      "_highlightResult": {
+          "name": {
+              "value": "Mehran Dream City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21443,
+      "name": "Mountain Homes",
+      "name_l1": "ماؤنٹین ہومز",
+      "externalID": "22028",
+      "slug": "/Jamshoro_Indus_Highway_Mountain_Homes-22028",
+      "slug_l1": "/Jamshoro_Indus_Highway_Mountain_Homes-22028",
+      "_geoloc": {
+          "lat": 25.457843,
+          "lng": 68.268491
+      },
+      "geography": {
+          "lat": 25.457843,
+          "lng": 68.268491
+      },
+      "geo_point": [
+          68.268491,
+          25.457843
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 21443,
+              "level": 4,
+              "externalID": "22028",
+              "name": "Mountain Homes",
+              "name_l1": "ماؤنٹین ہومز",
+              "slug": "/Jamshoro_Indus_Highway_Mountain_Homes-22028",
+              "slug_l1": "/Jamshoro_Indus_Highway_Mountain_Homes-22028"
+          }
+      ],
+      "hierarchyPath": "Mountain Homes Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22028",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21443",
+      "_highlightResult": {
+          "name": {
+              "value": "Mountain Homes",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11556,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13081",
+      "slug": "/Jamshoro_Others-13081",
+      "slug_l1": "/Jamshoro_Others-13081",
+      "_geoloc": {
+          "lat": 25.442848,
+          "lng": 68.274868
+      },
+      "geography": {
+          "lat": 25.442848,
+          "lng": 68.274868
+      },
+      "geo_point": [
+          68.274868,
+          25.442848
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11556,
+              "level": 3,
+              "externalID": "13081",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Jamshoro_Others-13081",
+              "slug_l1": "/Jamshoro_Others-13081"
+          }
+      ],
+      "hierarchyPath": "Others Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13081",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11556",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11623,
+      "name": "Rehman Town",
+      "name_l1": "رحمان ٹاؤن",
+      "externalID": "13147",
+      "slug": "/Jamshoro_Indus_Highway_Rehman_Town-13147",
+      "slug_l1": "/Jamshoro_Indus_Highway_Rehman_Town-13147",
+      "_geoloc": {
+          "lat": 25.384006,
+          "lng": 68.276443
+      },
+      "geography": {
+          "lat": 25.384006,
+          "lng": 68.276443
+      },
+      "geo_point": [
+          68.276443,
+          25.384006
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 11623,
+              "level": 4,
+              "externalID": "13147",
+              "name": "Rehman Town",
+              "name_l1": "رحمان ٹاؤن",
+              "slug": "/Jamshoro_Indus_Highway_Rehman_Town-13147",
+              "slug_l1": "/Jamshoro_Indus_Highway_Rehman_Town-13147"
+          }
+      ],
+      "hierarchyPath": "Rehman Town Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13147",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11623",
+      "_highlightResult": {
+          "name": {
+              "value": "Rehman Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11612,
+      "name": "Sangam City",
+      "name_l1": "سنگم سٹی",
+      "externalID": "13137",
+      "slug": "/Jamshoro_Indus_Highway_Sangam_City-13137",
+      "slug_l1": "/Jamshoro_Indus_Highway_Sangam_City-13137",
+      "_geoloc": {
+          "lat": 25.382636,
+          "lng": 68.279937
+      },
+      "geography": {
+          "lat": 25.382636,
+          "lng": 68.279937
+      },
+      "geo_point": [
+          68.279937,
+          25.382636
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 11612,
+              "level": 4,
+              "externalID": "13137",
+              "name": "Sangam City",
+              "name_l1": "سنگم سٹی",
+              "slug": "/Jamshoro_Indus_Highway_Sangam_City-13137",
+              "slug_l1": "/Jamshoro_Indus_Highway_Sangam_City-13137"
+          }
+      ],
+      "hierarchyPath": "Sangam City Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13137",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11612",
+      "_highlightResult": {
+          "name": {
+              "value": "Sangam City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11621,
+      "name": "SDA",
+      "name_l1": "ایس ڈی اے",
+      "externalID": "13149",
+      "slug": "/Jamshoro_SDA-13149",
+      "slug_l1": "/Jamshoro_SDA-13149",
+      "_geoloc": {
+          "lat": 25.390189,
+          "lng": 68.259398
+      },
+      "geography": {
+          "lat": 25.390189,
+          "lng": 68.259398
+      },
+      "geo_point": [
+          68.259398,
+          25.390189
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11621,
+              "level": 3,
+              "externalID": "13149",
+              "name": "SDA",
+              "name_l1": "ایس ڈی اے",
+              "slug": "/Jamshoro_SDA-13149",
+              "slug_l1": "/Jamshoro_SDA-13149"
+          }
+      ],
+      "hierarchyPath": "SDA Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13149",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11621",
+      "_highlightResult": {
+          "name": {
+              "value": "SDA",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14417,
+      "name": "Sehwan Sarkar City",
+      "name_l1": "سہون سرکار سٹی",
+      "externalID": "15922",
+      "slug": "/Jamshoro_Indus_Highway_Sehwan_Sarkar_City-15922",
+      "slug_l1": "/Jamshoro_Indus_Highway_Sehwan_Sarkar_City-15922",
+      "_geoloc": {
+          "lat": 25.481897,
+          "lng": 68.272819
+      },
+      "geography": {
+          "lat": 25.481897,
+          "lng": 68.272819
+      },
+      "geo_point": [
+          68.272819,
+          25.481897
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 14417,
+              "level": 4,
+              "externalID": "15922",
+              "name": "Sehwan Sarkar City",
+              "name_l1": "سہون سرکار سٹی",
+              "slug": "/Jamshoro_Indus_Highway_Sehwan_Sarkar_City-15922",
+              "slug_l1": "/Jamshoro_Indus_Highway_Sehwan_Sarkar_City-15922"
+          }
+      ],
+      "hierarchyPath": "Sehwan Sarkar City Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15922",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14417",
+      "_highlightResult": {
+          "name": {
+              "value": "Sehwan Sarkar City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20522,
+      "name": "Sindh University Employees Society Phase 1 - Block B",
+      "name_l1": "سندھ یونیورسٹی ایمپلائز سوسائٹی فیز 1 - بلاک بی",
+      "externalID": "21182",
+      "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_B-21182",
+      "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_B-21182",
+      "_geoloc": {
+          "lat": 25.40976292,
+          "lng": 68.27616442
+      },
+      "geography": {
+          "lat": 25.40976292,
+          "lng": 68.27616442
+      },
+      "geo_point": [
+          68.27616442,
+          25.40976292
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11616,
+              "level": 3,
+              "externalID": "13142",
+              "name": "Sindh University Employees Cooperative Housing Society",
+              "name_l1": "سندھ یونیورسٹی ایمپلائز کوآپریٹیو ہاؤسنگ سوسائٹی",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142"
+          },
+          {
+              "id": 11618,
+              "level": 4,
+              "externalID": "13143",
+              "name": "Sindh University Society - Phase 1",
+              "name_l1": "سندھ یونیورسٹی سوسائٹی - فیز 1",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143"
+          },
+          {
+              "id": 20522,
+              "level": 5,
+              "externalID": "21182",
+              "name": "Sindh University Employees Society Phase 1 - Block B",
+              "name_l1": "سندھ یونیورسٹی ایمپلائز سوسائٹی فیز 1 - بلاک بی",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_B-21182",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_B-21182"
+          }
+      ],
+      "hierarchyPath": "Sindh University Employees Society Phase 1 - Block B Sindh University Society - Phase 1 Sindh University Employees Cooperative Housing Society Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21182",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20522",
+      "_highlightResult": {
+          "name": {
+              "value": "Sindh University Employees Society Phase 1 - Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20521,
+      "name": "Sindh University Employees Society Phase 1 - Block C",
+      "name_l1": "سندھ یونیورسٹی ایمپلائز سوسائٹی فیز 1 - بلاک سی",
+      "externalID": "21181",
+      "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_C-21181",
+      "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_C-21181",
+      "_geoloc": {
+          "lat": 25.40795896,
+          "lng": 68.27446813
+      },
+      "geography": {
+          "lat": 25.40795896,
+          "lng": 68.27446813
+      },
+      "geo_point": [
+          68.27446813,
+          25.40795896
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11616,
+              "level": 3,
+              "externalID": "13142",
+              "name": "Sindh University Employees Cooperative Housing Society",
+              "name_l1": "سندھ یونیورسٹی ایمپلائز کوآپریٹیو ہاؤسنگ سوسائٹی",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142"
+          },
+          {
+              "id": 11618,
+              "level": 4,
+              "externalID": "13143",
+              "name": "Sindh University Society - Phase 1",
+              "name_l1": "سندھ یونیورسٹی سوسائٹی - فیز 1",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143"
+          },
+          {
+              "id": 20521,
+              "level": 5,
+              "externalID": "21181",
+              "name": "Sindh University Employees Society Phase 1 - Block C",
+              "name_l1": "سندھ یونیورسٹی ایمپلائز سوسائٹی فیز 1 - بلاک سی",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_C-21181",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_C-21181"
+          }
+      ],
+      "hierarchyPath": "Sindh University Employees Society Phase 1 - Block C Sindh University Society - Phase 1 Sindh University Employees Cooperative Housing Society Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21181",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20521",
+      "_highlightResult": {
+          "name": {
+              "value": "Sindh University Employees Society Phase 1 - Block C",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20520,
+      "name": "Sindh University Employees Society Phase 1 - Block A",
+      "name_l1": "سندھ یونیورسٹی ایمپلائز سوسائٹی فیز 1 - بلاک اے",
+      "externalID": "21180",
+      "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_A-21180",
+      "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_A-21180",
+      "_geoloc": {
+          "lat": 25.40970584,
+          "lng": 68.27208183
+      },
+      "geography": {
+          "lat": 25.40970584,
+          "lng": 68.27208183
+      },
+      "geo_point": [
+          68.27208183,
+          25.40970584
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11616,
+              "level": 3,
+              "externalID": "13142",
+              "name": "Sindh University Employees Cooperative Housing Society",
+              "name_l1": "سندھ یونیورسٹی ایمپلائز کوآپریٹیو ہاؤسنگ سوسائٹی",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142"
+          },
+          {
+              "id": 11618,
+              "level": 4,
+              "externalID": "13143",
+              "name": "Sindh University Society - Phase 1",
+              "name_l1": "سندھ یونیورسٹی سوسائٹی - فیز 1",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143"
+          },
+          {
+              "id": 20520,
+              "level": 5,
+              "externalID": "21180",
+              "name": "Sindh University Employees Society Phase 1 - Block A",
+              "name_l1": "سندھ یونیورسٹی ایمپلائز سوسائٹی فیز 1 - بلاک اے",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_A-21180",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1_Sindh_University_Employees_Society_Phase_1___Block_A-21180"
+          }
+      ],
+      "hierarchyPath": "Sindh University Employees Society Phase 1 - Block A Sindh University Society - Phase 1 Sindh University Employees Cooperative Housing Society Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21180",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20520",
+      "_highlightResult": {
+          "name": {
+              "value": "Sindh University Employees Society Phase 1 - Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11618,
+      "name": "Sindh University Society - Phase 1",
+      "name_l1": "سندھ یونیورسٹی سوسائٹی - فیز 1",
+      "externalID": "13143",
+      "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143",
+      "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143",
+      "_geoloc": {
+          "lat": 25.409666,
+          "lng": 68.272995
+      },
+      "geography": {
+          "lat": 25.409666,
+          "lng": 68.272995
+      },
+      "geo_point": [
+          68.272995,
+          25.409666
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11616,
+              "level": 3,
+              "externalID": "13142",
+              "name": "Sindh University Employees Cooperative Housing Society",
+              "name_l1": "سندھ یونیورسٹی ایمپلائز کوآپریٹیو ہاؤسنگ سوسائٹی",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142"
+          },
+          {
+              "id": 11618,
+              "level": 4,
+              "externalID": "13143",
+              "name": "Sindh University Society - Phase 1",
+              "name_l1": "سندھ یونیورسٹی سوسائٹی - فیز 1",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_1-13143"
+          }
+      ],
+      "hierarchyPath": "Sindh University Society - Phase 1 Sindh University Employees Cooperative Housing Society Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13143",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11618",
+      "_highlightResult": {
+          "name": {
+              "value": "Sindh University Society - Phase 1",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11619,
+      "name": "Sindh University Society - Phase 2",
+      "name_l1": "سندھ یونیورسٹی سوسائٹی - فیز 2",
+      "externalID": "13144",
+      "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_2-13144",
+      "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_2-13144",
+      "_geoloc": {
+          "lat": 25.412379,
+          "lng": 68.280248
+      },
+      "geography": {
+          "lat": 25.412379,
+          "lng": 68.280248
+      },
+      "geo_point": [
+          68.280248,
+          25.412379
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11616,
+              "level": 3,
+              "externalID": "13142",
+              "name": "Sindh University Employees Cooperative Housing Society",
+              "name_l1": "سندھ یونیورسٹی ایمپلائز کوآپریٹیو ہاؤسنگ سوسائٹی",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society-13142"
+          },
+          {
+              "id": 11619,
+              "level": 4,
+              "externalID": "13144",
+              "name": "Sindh University Society - Phase 2",
+              "name_l1": "سندھ یونیورسٹی سوسائٹی - فیز 2",
+              "slug": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_2-13144",
+              "slug_l1": "/Jamshoro_Sindh_University_Employees_Cooperative_Housing_Society_Sindh_University_Society___Phase_2-13144"
+          }
+      ],
+      "hierarchyPath": "Sindh University Society - Phase 2 Sindh University Employees Cooperative Housing Society Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13144",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11619",
+      "_highlightResult": {
+          "name": {
+              "value": "Sindh University Society - Phase 2",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11607,
+      "name": "Twin City SDA",
+      "name_l1": "ٹوئن سٹی ایس ڈی اے",
+      "externalID": "13132",
+      "slug": "/Jamshoro_Twin_City_SDA-13132",
+      "slug_l1": "/Jamshoro_Twin_City_SDA-13132",
+      "_geoloc": {
+          "lat": 25.385964,
+          "lng": 68.272058
+      },
+      "geography": {
+          "lat": 25.385964,
+          "lng": 68.272058
+      },
+      "geo_point": [
+          68.272058,
+          25.385964
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11607,
+              "level": 3,
+              "externalID": "13132",
+              "name": "Twin City SDA",
+              "name_l1": "ٹوئن سٹی ایس ڈی اے",
+              "slug": "/Jamshoro_Twin_City_SDA-13132",
+              "slug_l1": "/Jamshoro_Twin_City_SDA-13132"
+          }
+      ],
+      "hierarchyPath": "Twin City SDA Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13132",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11607",
+      "_highlightResult": {
+          "name": {
+              "value": "Twin City SDA",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14416,
+      "name": "Zam Zam City",
+      "name_l1": "زم زم سٹی",
+      "externalID": "15921",
+      "slug": "/Jamshoro_Indus_Highway_Zam_Zam_City-15921",
+      "slug_l1": "/Jamshoro_Indus_Highway_Zam_Zam_City-15921",
+      "_geoloc": {
+          "lat": 25.447346,
+          "lng": 68.270522
+      },
+      "geography": {
+          "lat": 25.447346,
+          "lng": 68.270522
+      },
+      "geo_point": [
+          68.270522,
+          25.447346
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 951,
+              "level": 2,
+              "externalID": "1178",
+              "name": "Jamshoro",
+              "name_l1": "جامشورو",
+              "slug": "/Jamshoro-1178",
+              "slug_l1": "/Jamshoro-1178"
+          },
+          {
+              "id": 11608,
+              "level": 3,
+              "externalID": "13133",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jamshoro_Indus_Highway-13133",
+              "slug_l1": "/Jamshoro_Indus_Highway-13133"
+          },
+          {
+              "id": 14416,
+              "level": 4,
+              "externalID": "15921",
+              "name": "Zam Zam City",
+              "name_l1": "زم زم سٹی",
+              "slug": "/Jamshoro_Indus_Highway_Zam_Zam_City-15921",
+              "slug_l1": "/Jamshoro_Indus_Highway_Zam_Zam_City-15921"
+          }
+      ],
+      "hierarchyPath": "Zam Zam City Indus Highway Jamshoro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15921",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14416",
+      "_highlightResult": {
+          "name": {
+              "value": "Zam Zam City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

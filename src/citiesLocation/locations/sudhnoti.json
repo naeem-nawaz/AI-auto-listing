@@ -1,0 +1,147 @@
+[
+  {
+      "id": 1269,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1760",
+      "slug": "/Sudhnoti_Others-1760",
+      "slug_l1": "/Sudhnoti_Others-1760",
+      "_geoloc": {
+          "lat": 33.706,
+          "lng": 73.7242
+      },
+      "geography": {
+          "lat": 33.706,
+          "lng": 73.7242
+      },
+      "geo_point": [
+          73.7242,
+          33.706
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 100,
+              "level": 2,
+              "externalID": "1745",
+              "name": "Sudhnoti",
+              "name_l1": "سدھنوتی",
+              "slug": "/Sudhnoti-1745",
+              "slug_l1": "/Sudhnoti-1745"
+          },
+          {
+              "id": 1269,
+              "level": 3,
+              "externalID": "1760",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Sudhnoti_Others-1760",
+              "slug_l1": "/Sudhnoti_Others-1760"
+          }
+      ],
+      "hierarchyPath": "Others Sudhnoti Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1760",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1269",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 100,
+      "name": "Sudhnoti",
+      "name_l1": "سدھنوتی",
+      "externalID": "1745",
+      "slug": "/Sudhnoti-1745",
+      "slug_l1": "/Sudhnoti-1745",
+      "_geoloc": {
+          "lat": 33.692923653746,
+          "lng": 73.699378967285
+      },
+      "geography": {
+          "lat": 33.692923653746,
+          "lng": 73.699378967285
+      },
+      "geo_point": [
+          73.699378967285,
+          33.692923653746
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 100,
+              "level": 2,
+              "externalID": "1745",
+              "name": "Sudhnoti",
+              "name_l1": "سدھنوتی",
+              "slug": "/Sudhnoti-1745",
+              "slug_l1": "/Sudhnoti-1745"
+          }
+      ],
+      "hierarchyPath": "Sudhnoti Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1745",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "100",
+      "_highlightResult": {
+          "name": {
+              "value": "Sudhnoti",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

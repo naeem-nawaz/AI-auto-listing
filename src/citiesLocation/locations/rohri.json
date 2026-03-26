@@ -1,0 +1,147 @@
+[
+  {
+      "id": 1252,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1726",
+      "slug": "/Rohri_Others-1726",
+      "slug_l1": "/Rohri_Others-1726",
+      "_geoloc": {
+          "lat": 27.6752,
+          "lng": 68.9003
+      },
+      "geography": {
+          "lat": 27.6752,
+          "lng": 68.9003
+      },
+      "geo_point": [
+          68.9003,
+          27.6752
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 90,
+              "level": 2,
+              "externalID": "1725",
+              "name": "Rohri",
+              "name_l1": "روہڑی",
+              "slug": "/Rohri-1725",
+              "slug_l1": "/Rohri-1725"
+          },
+          {
+              "id": 1252,
+              "level": 3,
+              "externalID": "1726",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Rohri_Others-1726",
+              "slug_l1": "/Rohri_Others-1726"
+          }
+      ],
+      "hierarchyPath": "Others Rohri Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1726",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1252",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 90,
+      "name": "Rohri",
+      "name_l1": "روہڑی",
+      "externalID": "1725",
+      "slug": "/Rohri-1725",
+      "slug_l1": "/Rohri-1725",
+      "_geoloc": {
+          "lat": 27.679708745078,
+          "lng": 68.899319171906
+      },
+      "geography": {
+          "lat": 27.679708745078,
+          "lng": 68.899319171906
+      },
+      "geo_point": [
+          68.899319171906,
+          27.679708745078
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 90,
+              "level": 2,
+              "externalID": "1725",
+              "name": "Rohri",
+              "name_l1": "روہڑی",
+              "slug": "/Rohri-1725",
+              "slug_l1": "/Rohri-1725"
+          }
+      ],
+      "hierarchyPath": "Rohri Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1725",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "90",
+      "_highlightResult": {
+          "name": {
+              "value": "Rohri",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

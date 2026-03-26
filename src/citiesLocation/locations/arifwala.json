@@ -1,0 +1,1460 @@
+[
+  {
+      "id": 12978,
+      "name": "Aashiyana City Block A",
+      "name_l1": "آشیانہ سٹی بلاک اے",
+      "externalID": "14417",
+      "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_A-14417",
+      "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_A-14417",
+      "_geoloc": {
+          "lat": 30.30559469,
+          "lng": 73.09640058
+      },
+      "geography": {
+          "lat": 30.30559469,
+          "lng": 73.09640058
+      },
+      "geo_point": [
+          73.09640058,
+          30.30559469
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 5348,
+              "level": 3,
+              "externalID": "10752",
+              "name": "Pakpattan Road",
+              "name_l1": "پاکپتن روڈ",
+              "slug": "/Arifwala_Pakpattan_Road-10752",
+              "slug_l1": "/Arifwala_Pakpattan_Road-10752"
+          },
+          {
+              "id": 8842,
+              "level": 4,
+              "externalID": "11058",
+              "name": "Ashiyana City Housing Scheme",
+              "name_l1": "آشیانہ سِٹی ہاوسنگ سکیم",
+              "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058",
+              "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058"
+          },
+          {
+              "id": 12978,
+              "level": 5,
+              "externalID": "14417",
+              "name": "Aashiyana City Block A",
+              "name_l1": "آشیانہ سٹی بلاک اے",
+              "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_A-14417",
+              "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_A-14417"
+          }
+      ],
+      "hierarchyPath": "Aashiyana City Block A Ashiyana City Housing Scheme Pakpattan Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14417",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12978",
+      "_highlightResult": {
+          "name": {
+              "value": "Aashiyana City Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12979,
+      "name": "Aashiyana City Block B",
+      "name_l1": "آشیانہ سٹی بلاک بی",
+      "externalID": "14418",
+      "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_B-14418",
+      "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_B-14418",
+      "_geoloc": {
+          "lat": 30.30276547,
+          "lng": 73.09624464
+      },
+      "geography": {
+          "lat": 30.30276547,
+          "lng": 73.09624464
+      },
+      "geo_point": [
+          73.09624464,
+          30.30276547
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 5348,
+              "level": 3,
+              "externalID": "10752",
+              "name": "Pakpattan Road",
+              "name_l1": "پاکپتن روڈ",
+              "slug": "/Arifwala_Pakpattan_Road-10752",
+              "slug_l1": "/Arifwala_Pakpattan_Road-10752"
+          },
+          {
+              "id": 8842,
+              "level": 4,
+              "externalID": "11058",
+              "name": "Ashiyana City Housing Scheme",
+              "name_l1": "آشیانہ سِٹی ہاوسنگ سکیم",
+              "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058",
+              "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058"
+          },
+          {
+              "id": 12979,
+              "level": 5,
+              "externalID": "14418",
+              "name": "Aashiyana City Block B",
+              "name_l1": "آشیانہ سٹی بلاک بی",
+              "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_B-14418",
+              "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_B-14418"
+          }
+      ],
+      "hierarchyPath": "Aashiyana City Block B Ashiyana City Housing Scheme Pakpattan Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14418",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12979",
+      "_highlightResult": {
+          "name": {
+              "value": "Aashiyana City Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12980,
+      "name": "Aashiyana City Block C",
+      "name_l1": "آشیانہ سٹی بلاک سی",
+      "externalID": "14419",
+      "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_C-14419",
+      "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_C-14419",
+      "_geoloc": {
+          "lat": 30.30346485,
+          "lng": 73.09428401
+      },
+      "geography": {
+          "lat": 30.30346485,
+          "lng": 73.09428401
+      },
+      "geo_point": [
+          73.09428401,
+          30.30346485
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 5348,
+              "level": 3,
+              "externalID": "10752",
+              "name": "Pakpattan Road",
+              "name_l1": "پاکپتن روڈ",
+              "slug": "/Arifwala_Pakpattan_Road-10752",
+              "slug_l1": "/Arifwala_Pakpattan_Road-10752"
+          },
+          {
+              "id": 8842,
+              "level": 4,
+              "externalID": "11058",
+              "name": "Ashiyana City Housing Scheme",
+              "name_l1": "آشیانہ سِٹی ہاوسنگ سکیم",
+              "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058",
+              "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058"
+          },
+          {
+              "id": 12980,
+              "level": 5,
+              "externalID": "14419",
+              "name": "Aashiyana City Block C",
+              "name_l1": "آشیانہ سٹی بلاک سی",
+              "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_C-14419",
+              "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme_Aashiyana_City_Block_C-14419"
+          }
+      ],
+      "hierarchyPath": "Aashiyana City Block C Ashiyana City Housing Scheme Pakpattan Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14419",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12980",
+      "_highlightResult": {
+          "name": {
+              "value": "Aashiyana City Block C",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20927,
+      "name": "Al Makkah Citi",
+      "name_l1": "ال مکّہ سٹی",
+      "externalID": "21525",
+      "slug": "/Arifwala_Burewala_Road_Al_Makkah_Citi-21525",
+      "slug_l1": "/Arifwala_Burewala_Road_Al_Makkah_Citi-21525",
+      "_geoloc": {
+          "lat": 30.284637900039,
+          "lng": 73.023309042152
+      },
+      "geography": {
+          "lat": 30.284637900039,
+          "lng": 73.023309042152
+      },
+      "geo_point": [
+          73.023309042152,
+          30.284637900039
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 5076,
+              "level": 3,
+              "externalID": "10261",
+              "name": "Burewala Road",
+              "name_l1": "بورے والا روڈ",
+              "slug": "/Arifwala_Burewala_Road-10261",
+              "slug_l1": "/Arifwala_Burewala_Road-10261"
+          },
+          {
+              "id": 20927,
+              "level": 4,
+              "externalID": "21525",
+              "name": "Al Makkah Citi",
+              "name_l1": "ال مکّہ سٹی",
+              "slug": "/Arifwala_Burewala_Road_Al_Makkah_Citi-21525",
+              "slug_l1": "/Arifwala_Burewala_Road_Al_Makkah_Citi-21525"
+          }
+      ],
+      "hierarchyPath": "Al Makkah Citi Burewala Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21525",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20927",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Makkah Citi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 138,
+      "name": "Arifwala",
+      "name_l1": "عارف والا",
+      "externalID": "9517",
+      "slug": "/Arifwala-9517",
+      "slug_l1": "/Arifwala-9517",
+      "_geoloc": {
+          "lat": 30.293327,
+          "lng": 73.062726
+      },
+      "geography": {
+          "lat": 30.293327,
+          "lng": 73.062726
+      },
+      "geo_point": [
+          73.062726,
+          30.293327
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          }
+      ],
+      "hierarchyPath": "Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9517",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "138",
+      "_highlightResult": {
+          "name": {
+              "value": "Arifwala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8842,
+      "name": "Ashiyana City Housing Scheme",
+      "name_l1": "آشیانہ سِٹی ہاوسنگ سکیم",
+      "externalID": "11058",
+      "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058",
+      "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058",
+      "_geoloc": {
+          "lat": 30.30399092,
+          "lng": 73.09587364
+      },
+      "geography": {
+          "lat": 30.30399092,
+          "lng": 73.09587364
+      },
+      "geo_point": [
+          73.09587364,
+          30.30399092
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 5348,
+              "level": 3,
+              "externalID": "10752",
+              "name": "Pakpattan Road",
+              "name_l1": "پاکپتن روڈ",
+              "slug": "/Arifwala_Pakpattan_Road-10752",
+              "slug_l1": "/Arifwala_Pakpattan_Road-10752"
+          },
+          {
+              "id": 8842,
+              "level": 4,
+              "externalID": "11058",
+              "name": "Ashiyana City Housing Scheme",
+              "name_l1": "آشیانہ سِٹی ہاوسنگ سکیم",
+              "slug": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058",
+              "slug_l1": "/Arifwala_Pakpattan_Road_Ashiyana_City_Housing_Scheme-11058"
+          }
+      ],
+      "hierarchyPath": "Ashiyana City Housing Scheme Pakpattan Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11058",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "8842",
+      "_highlightResult": {
+          "name": {
+              "value": "Ashiyana City Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5292,
+      "name": "Bahawalnagar Bypass Road",
+      "name_l1": "بہاولنگر بائی پاس روڈ",
+      "externalID": "10676",
+      "slug": "/Arifwala_Bahawalnagar_Bypass_Road-10676",
+      "slug_l1": "/Arifwala_Bahawalnagar_Bypass_Road-10676",
+      "_geoloc": {
+          "lat": 30.2928,
+          "lng": 73.07248
+      },
+      "geography": {
+          "lat": 30.2928,
+          "lng": 73.07248
+      },
+      "geo_point": [
+          73.07248,
+          30.2928
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 5292,
+              "level": 3,
+              "externalID": "10676",
+              "name": "Bahawalnagar Bypass Road",
+              "name_l1": "بہاولنگر بائی پاس روڈ",
+              "slug": "/Arifwala_Bahawalnagar_Bypass_Road-10676",
+              "slug_l1": "/Arifwala_Bahawalnagar_Bypass_Road-10676"
+          }
+      ],
+      "hierarchyPath": "Bahawalnagar Bypass Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10676",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5292",
+      "_highlightResult": {
+          "name": {
+              "value": "Bahawalnagar Bypass Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5076,
+      "name": "Burewala Road",
+      "name_l1": "بورے والا روڈ",
+      "externalID": "10261",
+      "slug": "/Arifwala_Burewala_Road-10261",
+      "slug_l1": "/Arifwala_Burewala_Road-10261",
+      "_geoloc": {
+          "lat": 30.29388,
+          "lng": 73.046605
+      },
+      "geography": {
+          "lat": 30.29388,
+          "lng": 73.046605
+      },
+      "geo_point": [
+          73.046605,
+          30.29388
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 5076,
+              "level": 3,
+              "externalID": "10261",
+              "name": "Burewala Road",
+              "name_l1": "بورے والا روڈ",
+              "slug": "/Arifwala_Burewala_Road-10261",
+              "slug_l1": "/Arifwala_Burewala_Road-10261"
+          }
+      ],
+      "hierarchyPath": "Burewala Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10261",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5076",
+      "_highlightResult": {
+          "name": {
+              "value": "Burewala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8481,
+      "name": "Defence City Housing",
+      "name_l1": "ڈیفینس سٹی ہاوسنگ",
+      "externalID": "9859",
+      "slug": "/Arifwala_Burewala_Road_Defence_City_Housing-9859",
+      "slug_l1": "/Arifwala_Burewala_Road_Defence_City_Housing-9859",
+      "_geoloc": {
+          "lat": 30.29713,
+          "lng": 73.053134
+      },
+      "geography": {
+          "lat": 30.29713,
+          "lng": 73.053134
+      },
+      "geo_point": [
+          73.053134,
+          30.29713
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 5076,
+              "level": 3,
+              "externalID": "10261",
+              "name": "Burewala Road",
+              "name_l1": "بورے والا روڈ",
+              "slug": "/Arifwala_Burewala_Road-10261",
+              "slug_l1": "/Arifwala_Burewala_Road-10261"
+          },
+          {
+              "id": 8481,
+              "level": 4,
+              "externalID": "9859",
+              "name": "Defence City Housing",
+              "name_l1": "ڈیفینس سٹی ہاوسنگ",
+              "slug": "/Arifwala_Burewala_Road_Defence_City_Housing-9859",
+              "slug_l1": "/Arifwala_Burewala_Road_Defence_City_Housing-9859"
+          }
+      ],
+      "hierarchyPath": "Defence City Housing Burewala Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9859",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8481",
+      "_highlightResult": {
+          "name": {
+              "value": "Defence City Housing",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19360,
+      "name": "F Block",
+      "name_l1": "ایف بلاک",
+      "externalID": "20242",
+      "slug": "/Arifwala_F_Block-20242",
+      "slug_l1": "/Arifwala_F_Block-20242",
+      "_geoloc": {
+          "lat": 30.289078,
+          "lng": 73.067245
+      },
+      "geography": {
+          "lat": 30.289078,
+          "lng": 73.067245
+      },
+      "geo_point": [
+          73.067245,
+          30.289078
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 19360,
+              "level": 3,
+              "externalID": "20242",
+              "name": "F Block",
+              "name_l1": "ایف بلاک",
+              "slug": "/Arifwala_F_Block-20242",
+              "slug_l1": "/Arifwala_F_Block-20242"
+          }
+      ],
+      "hierarchyPath": "F Block Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20242",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19360",
+      "_highlightResult": {
+          "name": {
+              "value": "F Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18452,
+      "name": "Ghulam Muhammad Town",
+      "name_l1": "غلام محمد ٹاؤن",
+      "externalID": "19366",
+      "slug": "/Arifwala_Ghulam_Muhammad_Town-19366",
+      "slug_l1": "/Arifwala_Ghulam_Muhammad_Town-19366",
+      "_geoloc": {
+          "lat": 30.302071,
+          "lng": 73.053072
+      },
+      "geography": {
+          "lat": 30.302071,
+          "lng": 73.053072
+      },
+      "geo_point": [
+          73.053072,
+          30.302071
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 18452,
+              "level": 3,
+              "externalID": "19366",
+              "name": "Ghulam Muhammad Town",
+              "name_l1": "غلام محمد ٹاؤن",
+              "slug": "/Arifwala_Ghulam_Muhammad_Town-19366",
+              "slug_l1": "/Arifwala_Ghulam_Muhammad_Town-19366"
+          }
+      ],
+      "hierarchyPath": "Ghulam Muhammad Town Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19366",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18452",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghulam Muhammad Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18449,
+      "name": "Gulshan-e-Sultan Housing Scheme",
+      "name_l1": "گلشن سلطان ہاؤسنگ سکیم",
+      "externalID": "19365",
+      "slug": "/Arifwala_Gulshan_e_Sultan_Housing_Scheme-19365",
+      "slug_l1": "/Arifwala_Gulshan_e_Sultan_Housing_Scheme-19365",
+      "_geoloc": {
+          "lat": 30.2894218,
+          "lng": 73.082474
+      },
+      "geography": {
+          "lat": 30.2894218,
+          "lng": 73.082474
+      },
+      "geo_point": [
+          73.082474,
+          30.2894218
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 18449,
+              "level": 3,
+              "externalID": "19365",
+              "name": "Gulshan-e-Sultan Housing Scheme",
+              "name_l1": "گلشن سلطان ہاؤسنگ سکیم",
+              "slug": "/Arifwala_Gulshan_e_Sultan_Housing_Scheme-19365",
+              "slug_l1": "/Arifwala_Gulshan_e_Sultan_Housing_Scheme-19365"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Sultan Housing Scheme Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19365",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18449",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Sultan Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19359,
+      "name": "Karkhana Bazar",
+      "name_l1": "کارخانہ بازار",
+      "externalID": "20241",
+      "slug": "/Arifwala_Karkhana_Bazar-20241",
+      "slug_l1": "/Arifwala_Karkhana_Bazar-20241",
+      "_geoloc": {
+          "lat": 30.28881,
+          "lng": 73.0645
+      },
+      "geography": {
+          "lat": 30.28881,
+          "lng": 73.0645
+      },
+      "geo_point": [
+          73.0645,
+          30.28881
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 19359,
+              "level": 3,
+              "externalID": "20241",
+              "name": "Karkhana Bazar",
+              "name_l1": "کارخانہ بازار",
+              "slug": "/Arifwala_Karkhana_Bazar-20241",
+              "slug_l1": "/Arifwala_Karkhana_Bazar-20241"
+          }
+      ],
+      "hierarchyPath": "Karkhana Bazar Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20241",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19359",
+      "_highlightResult": {
+          "name": {
+              "value": "Karkhana Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18503,
+      "name": "Mohla Colony",
+      "name_l1": "موہلا کالونی",
+      "externalID": "19419",
+      "slug": "/Arifwala_Mohla_Colony-19419",
+      "slug_l1": "/Arifwala_Mohla_Colony-19419",
+      "_geoloc": {
+          "lat": 30.280845,
+          "lng": 73.069333
+      },
+      "geography": {
+          "lat": 30.280845,
+          "lng": 73.069333
+      },
+      "geo_point": [
+          73.069333,
+          30.280845
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 18503,
+              "level": 3,
+              "externalID": "19419",
+              "name": "Mohla Colony",
+              "name_l1": "موہلا کالونی",
+              "slug": "/Arifwala_Mohla_Colony-19419",
+              "slug_l1": "/Arifwala_Mohla_Colony-19419"
+          }
+      ],
+      "hierarchyPath": "Mohla Colony Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19419",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18503",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohla Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11765,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13290",
+      "slug": "/Arifwala_Others-13290",
+      "slug_l1": "/Arifwala_Others-13290",
+      "_geoloc": {
+          "lat": 30.28975,
+          "lng": 73.052214
+      },
+      "geography": {
+          "lat": 30.28975,
+          "lng": 73.052214
+      },
+      "geo_point": [
+          73.052214,
+          30.28975
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 11765,
+              "level": 3,
+              "externalID": "13290",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Arifwala_Others-13290",
+              "slug_l1": "/Arifwala_Others-13290"
+          }
+      ],
+      "hierarchyPath": "Others Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13290",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11765",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5348,
+      "name": "Pakpattan Road",
+      "name_l1": "پاکپتن روڈ",
+      "externalID": "10752",
+      "slug": "/Arifwala_Pakpattan_Road-10752",
+      "slug_l1": "/Arifwala_Pakpattan_Road-10752",
+      "_geoloc": {
+          "lat": 30.299785,
+          "lng": 73.070069
+      },
+      "geography": {
+          "lat": 30.299785,
+          "lng": 73.070069
+      },
+      "geo_point": [
+          73.070069,
+          30.299785
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 5348,
+              "level": 3,
+              "externalID": "10752",
+              "name": "Pakpattan Road",
+              "name_l1": "پاکپتن روڈ",
+              "slug": "/Arifwala_Pakpattan_Road-10752",
+              "slug_l1": "/Arifwala_Pakpattan_Road-10752"
+          }
+      ],
+      "hierarchyPath": "Pakpattan Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10752",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5348",
+      "_highlightResult": {
+          "name": {
+              "value": "Pakpattan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11764,
+      "name": "Sahiwal Road",
+      "name_l1": "ساہیوال روڈ",
+      "externalID": "13289",
+      "slug": "/Arifwala_Sahiwal_Road-13289",
+      "slug_l1": "/Arifwala_Sahiwal_Road-13289",
+      "_geoloc": {
+          "lat": 30.300896,
+          "lng": 73.051759
+      },
+      "geography": {
+          "lat": 30.300896,
+          "lng": 73.051759
+      },
+      "geo_point": [
+          73.051759,
+          30.300896
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 11764,
+              "level": 3,
+              "externalID": "13289",
+              "name": "Sahiwal Road",
+              "name_l1": "ساہیوال روڈ",
+              "slug": "/Arifwala_Sahiwal_Road-13289",
+              "slug_l1": "/Arifwala_Sahiwal_Road-13289"
+          }
+      ],
+      "hierarchyPath": "Sahiwal Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13289",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11764",
+      "_highlightResult": {
+          "name": {
+              "value": "Sahiwal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11763,
+      "name": "Tehsil Road",
+      "name_l1": "تحصیل روڈ",
+      "externalID": "13288",
+      "slug": "/Arifwala_Tehsil_Road-13288",
+      "slug_l1": "/Arifwala_Tehsil_Road-13288",
+      "_geoloc": {
+          "lat": 30.292493,
+          "lng": 73.06679
+      },
+      "geography": {
+          "lat": 30.292493,
+          "lng": 73.06679
+      },
+      "geo_point": [
+          73.06679,
+          30.292493
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 138,
+              "level": 2,
+              "externalID": "9517",
+              "name": "Arifwala",
+              "name_l1": "عارف والا",
+              "slug": "/Arifwala-9517",
+              "slug_l1": "/Arifwala-9517"
+          },
+          {
+              "id": 11763,
+              "level": 3,
+              "externalID": "13288",
+              "name": "Tehsil Road",
+              "name_l1": "تحصیل روڈ",
+              "slug": "/Arifwala_Tehsil_Road-13288",
+              "slug_l1": "/Arifwala_Tehsil_Road-13288"
+          }
+      ],
+      "hierarchyPath": "Tehsil Road Arifwala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13288",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11763",
+      "_highlightResult": {
+          "name": {
+              "value": "Tehsil Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+      "id": 21028,
+      "name": "Mehrabpur",
+      "name_l1": "محراب پور",
+      "externalID": "21624",
+      "slug": "/Mehrabpur-21624",
+      "slug_l1": "/Mehrabpur-21624",
+      "_geoloc": {
+          "lat": 27.09891,
+          "lng": 68.421314
+      },
+      "geography": {
+          "lat": 27.09891,
+          "lng": 68.421314
+      },
+      "geo_point": [
+          68.421314,
+          27.09891
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 21028,
+              "level": 2,
+              "externalID": "21624",
+              "name": "Mehrabpur",
+              "name_l1": "محراب پور",
+              "slug": "/Mehrabpur-21624",
+              "slug_l1": "/Mehrabpur-21624"
+          }
+      ],
+      "hierarchyPath": "Mehrabpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21624",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "21028",
+      "_highlightResult": {
+          "name": {
+              "value": "Mehrabpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21013,
+      "name": "New Behlani Al Siddique Town",
+      "name_l1": "نیو بہلانی الصدیق ٹاؤن",
+      "externalID": "21610",
+      "slug": "/Naushahro_Feroze_New_Behlani_Al_Siddique_Town-21610",
+      "slug_l1": "/Naushahro_Feroze_New_Behlani_Al_Siddique_Town-21610",
+      "_geoloc": {
+          "lat": 27.106055454608,
+          "lng": 68.33727919341
+      },
+      "geography": {
+          "lat": 27.106055454608,
+          "lng": 68.33727919341
+      },
+      "geo_point": [
+          68.33727919341,
+          27.106055454608
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 21028,
+              "level": 2,
+              "externalID": "21624",
+              "name": "Mehrabpur",
+              "name_l1": "محراب پور",
+              "slug": "/Mehrabpur-21624",
+              "slug_l1": "/Mehrabpur-21624"
+          },
+          {
+              "id": 21013,
+              "level": 3,
+              "externalID": "21610",
+              "name": "New Behlani Al Siddique Town",
+              "name_l1": "نیو بہلانی الصدیق ٹاؤن",
+              "slug": "/Naushahro_Feroze_New_Behlani_Al_Siddique_Town-21610",
+              "slug_l1": "/Naushahro_Feroze_New_Behlani_Al_Siddique_Town-21610"
+          }
+      ],
+      "hierarchyPath": "New Behlani Al Siddique Town Mehrabpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21610",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21013",
+      "_highlightResult": {
+          "name": {
+              "value": "New Behlani Al Siddique Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21033,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "21629",
+      "slug": "/Mehrabpur_Others-21629",
+      "slug_l1": "/Mehrabpur_Others-21629",
+      "_geoloc": {
+          "lat": 27.097262843469,
+          "lng": 68.422807379016
+      },
+      "geography": {
+          "lat": 27.097262843469,
+          "lng": 68.422807379016
+      },
+      "geo_point": [
+          68.422807379016,
+          27.097262843469
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 21028,
+              "level": 2,
+              "externalID": "21624",
+              "name": "Mehrabpur",
+              "name_l1": "محراب پور",
+              "slug": "/Mehrabpur-21624",
+              "slug_l1": "/Mehrabpur-21624"
+          },
+          {
+              "id": 21033,
+              "level": 3,
+              "externalID": "21629",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Mehrabpur_Others-21629",
+              "slug_l1": "/Mehrabpur_Others-21629"
+          }
+      ],
+      "hierarchyPath": "Others Mehrabpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21629",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21033",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

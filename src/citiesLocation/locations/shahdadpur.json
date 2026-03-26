@@ -1,0 +1,532 @@
+[
+  {
+      "id": 18430,
+      "name": "Hala - Shahdadpur Road",
+      "name_l1": "ہالا شہداد پور روڈ",
+      "externalID": "19344",
+      "slug": "/Shahdadpur_Hala___Shahdadpur_Road-19344",
+      "slug_l1": "/Shahdadpur_Hala___Shahdadpur_Road-19344",
+      "_geoloc": {
+          "lat": 25.9186547,
+          "lng": 68.6139635
+      },
+      "geography": {
+          "lat": 25.9186547,
+          "lng": 68.6139635
+      },
+      "geo_point": [
+          68.6139635,
+          25.9186547
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 132,
+              "level": 2,
+              "externalID": "9029",
+              "name": "Shahdadpur",
+              "name_l1": "شہدادپور",
+              "slug": "/Shahdadpur-9029",
+              "slug_l1": "/Shahdadpur-9029"
+          },
+          {
+              "id": 18430,
+              "level": 3,
+              "externalID": "19344",
+              "name": "Hala - Shahdadpur Road",
+              "name_l1": "ہالا شہداد پور روڈ",
+              "slug": "/Shahdadpur_Hala___Shahdadpur_Road-19344",
+              "slug_l1": "/Shahdadpur_Hala___Shahdadpur_Road-19344"
+          }
+      ],
+      "hierarchyPath": "Hala - Shahdadpur Road Shahdadpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19344",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18430",
+      "_highlightResult": {
+          "name": {
+              "value": "Hala - Shahdadpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12661,
+      "name": "Insaf City",
+      "name_l1": "انصاف سٹی",
+      "externalID": "14139",
+      "slug": "/Shahdadpur_Insaf_City-14139",
+      "slug_l1": "/Shahdadpur_Insaf_City-14139",
+      "_geoloc": {
+          "lat": 25.920218,
+          "lng": 68.617496
+      },
+      "geography": {
+          "lat": 25.920218,
+          "lng": 68.617496
+      },
+      "geo_point": [
+          68.617496,
+          25.920218
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 132,
+              "level": 2,
+              "externalID": "9029",
+              "name": "Shahdadpur",
+              "name_l1": "شہدادپور",
+              "slug": "/Shahdadpur-9029",
+              "slug_l1": "/Shahdadpur-9029"
+          },
+          {
+              "id": 12661,
+              "level": 3,
+              "externalID": "14139",
+              "name": "Insaf City",
+              "name_l1": "انصاف سٹی",
+              "slug": "/Shahdadpur_Insaf_City-14139",
+              "slug_l1": "/Shahdadpur_Insaf_City-14139"
+          }
+      ],
+      "hierarchyPath": "Insaf City Shahdadpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14139",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12661",
+      "_highlightResult": {
+          "name": {
+              "value": "Insaf City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12660,
+      "name": "Janipura",
+      "name_l1": "جانی پورہ",
+      "externalID": "14138",
+      "slug": "/Shahdadpur_Janipura-14138",
+      "slug_l1": "/Shahdadpur_Janipura-14138",
+      "_geoloc": {
+          "lat": 25.923648,
+          "lng": 68.615969
+      },
+      "geography": {
+          "lat": 25.923648,
+          "lng": 68.615969
+      },
+      "geo_point": [
+          68.615969,
+          25.923648
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 132,
+              "level": 2,
+              "externalID": "9029",
+              "name": "Shahdadpur",
+              "name_l1": "شہدادپور",
+              "slug": "/Shahdadpur-9029",
+              "slug_l1": "/Shahdadpur-9029"
+          },
+          {
+              "id": 12660,
+              "level": 3,
+              "externalID": "14138",
+              "name": "Janipura",
+              "name_l1": "جانی پورہ",
+              "slug": "/Shahdadpur_Janipura-14138",
+              "slug_l1": "/Shahdadpur_Janipura-14138"
+          }
+      ],
+      "hierarchyPath": "Janipura Shahdadpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14138",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12660",
+      "_highlightResult": {
+          "name": {
+              "value": "Janipura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12659,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "14137",
+      "slug": "/Shahdadpur_Others-14137",
+      "slug_l1": "/Shahdadpur_Others-14137",
+      "_geoloc": {
+          "lat": 25.923209,
+          "lng": 68.621992
+      },
+      "geography": {
+          "lat": 25.923209,
+          "lng": 68.621992
+      },
+      "geo_point": [
+          68.621992,
+          25.923209
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 132,
+              "level": 2,
+              "externalID": "9029",
+              "name": "Shahdadpur",
+              "name_l1": "شہدادپور",
+              "slug": "/Shahdadpur-9029",
+              "slug_l1": "/Shahdadpur-9029"
+          },
+          {
+              "id": 12659,
+              "level": 3,
+              "externalID": "14137",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Shahdadpur_Others-14137",
+              "slug_l1": "/Shahdadpur_Others-14137"
+          }
+      ],
+      "hierarchyPath": "Others Shahdadpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14137",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12659",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14432,
+      "name": "Police Training College Shahdadpur",
+      "name_l1": "پولیس ٹریننگ کالج شہداد پور",
+      "externalID": "15945",
+      "slug": "/Shahdadpur_Police_Training_College_Shahdadpur-15945",
+      "slug_l1": "/Shahdadpur_Police_Training_College_Shahdadpur-15945",
+      "_geoloc": {
+          "lat": 25.924994,
+          "lng": 68.644941
+      },
+      "geography": {
+          "lat": 25.924994,
+          "lng": 68.644941
+      },
+      "geo_point": [
+          68.644941,
+          25.924994
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 132,
+              "level": 2,
+              "externalID": "9029",
+              "name": "Shahdadpur",
+              "name_l1": "شہدادپور",
+              "slug": "/Shahdadpur-9029",
+              "slug_l1": "/Shahdadpur-9029"
+          },
+          {
+              "id": 14432,
+              "level": 3,
+              "externalID": "15945",
+              "name": "Police Training College Shahdadpur",
+              "name_l1": "پولیس ٹریننگ کالج شہداد پور",
+              "slug": "/Shahdadpur_Police_Training_College_Shahdadpur-15945",
+              "slug_l1": "/Shahdadpur_Police_Training_College_Shahdadpur-15945"
+          }
+      ],
+      "hierarchyPath": "Police Training College Shahdadpur Shahdadpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15945",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14432",
+      "_highlightResult": {
+          "name": {
+              "value": "Police Training College Shahdadpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 132,
+      "name": "Shahdadpur",
+      "name_l1": "شہدادپور",
+      "externalID": "9029",
+      "slug": "/Shahdadpur-9029",
+      "slug_l1": "/Shahdadpur-9029",
+      "_geoloc": {
+          "lat": 25.923361,
+          "lng": 68.620818
+      },
+      "geography": {
+          "lat": 25.923361,
+          "lng": 68.620818
+      },
+      "geo_point": [
+          68.620818,
+          25.923361
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 132,
+              "level": 2,
+              "externalID": "9029",
+              "name": "Shahdadpur",
+              "name_l1": "شہدادپور",
+              "slug": "/Shahdadpur-9029",
+              "slug_l1": "/Shahdadpur-9029"
+          }
+      ],
+      "hierarchyPath": "Shahdadpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9029",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "132",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahdadpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12658,
+      "name": "Society Town",
+      "name_l1": "سوسائٹی ٹاؤن",
+      "externalID": "14136",
+      "slug": "/Shahdadpur_Society_Town-14136",
+      "slug_l1": "/Shahdadpur_Society_Town-14136",
+      "_geoloc": {
+          "lat": 25.917904,
+          "lng": 68.620659
+      },
+      "geography": {
+          "lat": 25.917904,
+          "lng": 68.620659
+      },
+      "geo_point": [
+          68.620659,
+          25.917904
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 132,
+              "level": 2,
+              "externalID": "9029",
+              "name": "Shahdadpur",
+              "name_l1": "شہدادپور",
+              "slug": "/Shahdadpur-9029",
+              "slug_l1": "/Shahdadpur-9029"
+          },
+          {
+              "id": 12658,
+              "level": 3,
+              "externalID": "14136",
+              "name": "Society Town",
+              "name_l1": "سوسائٹی ٹاؤن",
+              "slug": "/Shahdadpur_Society_Town-14136",
+              "slug_l1": "/Shahdadpur_Society_Town-14136"
+          }
+      ],
+      "hierarchyPath": "Society Town Shahdadpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14136",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12658",
+      "_highlightResult": {
+          "name": {
+              "value": "Society Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

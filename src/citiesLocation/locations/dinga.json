@@ -1,0 +1,464 @@
+[
+  {
+      "id": 21076,
+      "name": "Dhaka Colony",
+      "name_l1": "ڈھاکہ کالونی",
+      "externalID": "21672",
+      "slug": "/Dinga_Dhaka_Colony-21672",
+      "slug_l1": "/Dinga_Dhaka_Colony-21672",
+      "_geoloc": {
+          "lat": 32.641302852485,
+          "lng": 73.715995186515
+      },
+      "geography": {
+          "lat": 32.641302852485,
+          "lng": 73.715995186515
+      },
+      "geo_point": [
+          73.715995186515,
+          32.641302852485
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 21074,
+              "level": 2,
+              "externalID": "21670",
+              "name": "Dinga",
+              "name_l1": "ڈنگہ",
+              "slug": "/Dinga-21670",
+              "slug_l1": "/Dinga-21670"
+          },
+          {
+              "id": 21076,
+              "level": 3,
+              "externalID": "21672",
+              "name": "Dhaka Colony",
+              "name_l1": "ڈھاکہ کالونی",
+              "slug": "/Dinga_Dhaka_Colony-21672",
+              "slug_l1": "/Dinga_Dhaka_Colony-21672"
+          }
+      ],
+      "hierarchyPath": "Dhaka Colony Dinga Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21672",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21076",
+      "_highlightResult": {
+          "name": {
+              "value": "Dhaka Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21074,
+      "name": "Dinga",
+      "name_l1": "ڈنگہ",
+      "externalID": "21670",
+      "slug": "/Dinga-21670",
+      "slug_l1": "/Dinga-21670",
+      "_geoloc": {
+          "lat": 32.6392,
+          "lng": 73.7254
+      },
+      "geography": {
+          "lat": 32.6392,
+          "lng": 73.7254
+      },
+      "geo_point": [
+          73.7254,
+          32.6392
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 21074,
+              "level": 2,
+              "externalID": "21670",
+              "name": "Dinga",
+              "name_l1": "ڈنگہ",
+              "slug": "/Dinga-21670",
+              "slug_l1": "/Dinga-21670"
+          }
+      ],
+      "hierarchyPath": "Dinga Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21670",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "21074",
+      "_highlightResult": {
+          "name": {
+              "value": "Dinga",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21078,
+      "name": "Dinga - Mangowal Road",
+      "name_l1": "ڈنگہ - منگووال روڈ",
+      "externalID": "21674",
+      "slug": "/Dinga_Dinga___Mangowal_Road-21674",
+      "slug_l1": "/Dinga_Dinga___Mangowal_Road-21674",
+      "_geoloc": {
+          "lat": 32.630998,
+          "lng": 73.731115
+      },
+      "geography": {
+          "lat": 32.630998,
+          "lng": 73.731115
+      },
+      "geo_point": [
+          73.731115,
+          32.630998
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 21074,
+              "level": 2,
+              "externalID": "21670",
+              "name": "Dinga",
+              "name_l1": "ڈنگہ",
+              "slug": "/Dinga-21670",
+              "slug_l1": "/Dinga-21670"
+          },
+          {
+              "id": 21078,
+              "level": 3,
+              "externalID": "21674",
+              "name": "Dinga - Mangowal Road",
+              "name_l1": "ڈنگہ - منگووال روڈ",
+              "slug": "/Dinga_Dinga___Mangowal_Road-21674",
+              "slug_l1": "/Dinga_Dinga___Mangowal_Road-21674"
+          }
+      ],
+      "hierarchyPath": "Dinga - Mangowal Road Dinga Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21674",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "21078",
+      "_highlightResult": {
+          "name": {
+              "value": "Dinga - Mangowal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21079,
+      "name": "Eiffel City",
+      "name_l1": "ایفل سٹی",
+      "externalID": "21675",
+      "slug": "/Dinga_Dinga___Mangowal_Road_Eiffel_City-21675",
+      "slug_l1": "/Dinga_Dinga___Mangowal_Road_Eiffel_City-21675",
+      "_geoloc": {
+          "lat": 32.630698570274,
+          "lng": 73.728609745727
+      },
+      "geography": {
+          "lat": 32.630698570274,
+          "lng": 73.728609745727
+      },
+      "geo_point": [
+          73.728609745727,
+          32.630698570274
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 21074,
+              "level": 2,
+              "externalID": "21670",
+              "name": "Dinga",
+              "name_l1": "ڈنگہ",
+              "slug": "/Dinga-21670",
+              "slug_l1": "/Dinga-21670"
+          },
+          {
+              "id": 21078,
+              "level": 3,
+              "externalID": "21674",
+              "name": "Dinga - Mangowal Road",
+              "name_l1": "ڈنگہ - منگووال روڈ",
+              "slug": "/Dinga_Dinga___Mangowal_Road-21674",
+              "slug_l1": "/Dinga_Dinga___Mangowal_Road-21674"
+          },
+          {
+              "id": 21079,
+              "level": 4,
+              "externalID": "21675",
+              "name": "Eiffel City",
+              "name_l1": "ایفل سٹی",
+              "slug": "/Dinga_Dinga___Mangowal_Road_Eiffel_City-21675",
+              "slug_l1": "/Dinga_Dinga___Mangowal_Road_Eiffel_City-21675"
+          }
+      ],
+      "hierarchyPath": "Eiffel City Dinga - Mangowal Road Dinga Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21675",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21079",
+      "_highlightResult": {
+          "name": {
+              "value": "Eiffel City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21075,
+      "name": "Madina Colony",
+      "name_l1": "مدینہ کالونی",
+      "externalID": "21671",
+      "slug": "/Dinga_Madina_Colony-21671",
+      "slug_l1": "/Dinga_Madina_Colony-21671",
+      "_geoloc": {
+          "lat": 32.644461683023,
+          "lng": 73.715821457866
+      },
+      "geography": {
+          "lat": 32.644461683023,
+          "lng": 73.715821457866
+      },
+      "geo_point": [
+          73.715821457866,
+          32.644461683023
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 21074,
+              "level": 2,
+              "externalID": "21670",
+              "name": "Dinga",
+              "name_l1": "ڈنگہ",
+              "slug": "/Dinga-21670",
+              "slug_l1": "/Dinga-21670"
+          },
+          {
+              "id": 21075,
+              "level": 3,
+              "externalID": "21671",
+              "name": "Madina Colony",
+              "name_l1": "مدینہ کالونی",
+              "slug": "/Dinga_Madina_Colony-21671",
+              "slug_l1": "/Dinga_Madina_Colony-21671"
+          }
+      ],
+      "hierarchyPath": "Madina Colony Dinga Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21671",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21075",
+      "_highlightResult": {
+          "name": {
+              "value": "Madina Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21077,
+      "name": "Saifal Road",
+      "name_l1": "سیفل روڈ",
+      "externalID": "21673",
+      "slug": "/Dinga_Saifal_Road-21673",
+      "slug_l1": "/Dinga_Saifal_Road-21673",
+      "_geoloc": {
+          "lat": 32.637989078766,
+          "lng": 73.7163500925
+      },
+      "geography": {
+          "lat": 32.637989078766,
+          "lng": 73.7163500925
+      },
+      "geo_point": [
+          73.7163500925,
+          32.637989078766
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 21074,
+              "level": 2,
+              "externalID": "21670",
+              "name": "Dinga",
+              "name_l1": "ڈنگہ",
+              "slug": "/Dinga-21670",
+              "slug_l1": "/Dinga-21670"
+          },
+          {
+              "id": 21077,
+              "level": 3,
+              "externalID": "21673",
+              "name": "Saifal Road",
+              "name_l1": "سیفل روڈ",
+              "slug": "/Dinga_Saifal_Road-21673",
+              "slug_l1": "/Dinga_Saifal_Road-21673"
+          }
+      ],
+      "hierarchyPath": "Saifal Road Dinga Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21673",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21077",
+      "_highlightResult": {
+          "name": {
+              "value": "Saifal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

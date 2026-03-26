@@ -1,0 +1,695 @@
+[
+  {
+      "id": 12496,
+      "name": "Barnala",
+      "name_l1": "برنالا",
+      "externalID": "13977",
+      "slug": "/Barnala-13977",
+      "slug_l1": "/Barnala-13977",
+      "_geoloc": {
+          "lat": 32.869586,
+          "lng": 74.245213
+      },
+      "geography": {
+          "lat": 32.869586,
+          "lng": 74.245213
+      },
+      "geo_point": [
+          74.245213,
+          32.869586
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 12496,
+              "level": 2,
+              "externalID": "13977",
+              "name": "Barnala",
+              "name_l1": "برنالا",
+              "slug": "/Barnala-13977",
+              "slug_l1": "/Barnala-13977"
+          }
+      ],
+      "hierarchyPath": "Barnala Azad Kashmir Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13977",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12496",
+      "_highlightResult": {
+          "name": {
+              "value": "Barnala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12497,
+      "name": "Feroz Housing Scheme",
+      "name_l1": "فیروز ہاؤسنگ سکیم",
+      "externalID": "13978",
+      "slug": "/Barnala_Feroz_Housing_Scheme-13978",
+      "slug_l1": "/Barnala_Feroz_Housing_Scheme-13978",
+      "_geoloc": {
+          "lat": 32.864883,
+          "lng": 74.27458
+      },
+      "geography": {
+          "lat": 32.864883,
+          "lng": 74.27458
+      },
+      "geo_point": [
+          74.27458,
+          32.864883
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 12496,
+              "level": 2,
+              "externalID": "13977",
+              "name": "Barnala",
+              "name_l1": "برنالا",
+              "slug": "/Barnala-13977",
+              "slug_l1": "/Barnala-13977"
+          },
+          {
+              "id": 12497,
+              "level": 3,
+              "externalID": "13978",
+              "name": "Feroz Housing Scheme",
+              "name_l1": "فیروز ہاؤسنگ سکیم",
+              "slug": "/Barnala_Feroz_Housing_Scheme-13978",
+              "slug_l1": "/Barnala_Feroz_Housing_Scheme-13978"
+          }
+      ],
+      "hierarchyPath": "Feroz Housing Scheme Barnala Azad Kashmir Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13978",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12497",
+      "_highlightResult": {
+          "name": {
+              "value": "Feroz Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12787,
+      "name": "Awan Sharif Road",
+      "name_l1": "اعوان شریف روڈ",
+      "externalID": "14268",
+      "slug": "/Barnala_Awan_Sharif_Road-14268",
+      "slug_l1": "/Barnala_Awan_Sharif_Road-14268",
+      "_geoloc": {
+          "lat": 32.8677,
+          "lng": 74.236401
+      },
+      "geography": {
+          "lat": 32.8677,
+          "lng": 74.236401
+      },
+      "geo_point": [
+          74.236401,
+          32.8677
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 12496,
+              "level": 2,
+              "externalID": "13977",
+              "name": "Barnala",
+              "name_l1": "برنالا",
+              "slug": "/Barnala-13977",
+              "slug_l1": "/Barnala-13977"
+          },
+          {
+              "id": 12787,
+              "level": 3,
+              "externalID": "14268",
+              "name": "Awan Sharif Road",
+              "name_l1": "اعوان شریف روڈ",
+              "slug": "/Barnala_Awan_Sharif_Road-14268",
+              "slug_l1": "/Barnala_Awan_Sharif_Road-14268"
+          }
+      ],
+      "hierarchyPath": "Awan Sharif Road Barnala Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14268",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12787",
+      "_highlightResult": {
+          "name": {
+              "value": "Awan Sharif Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12783,
+      "name": "Banni Road",
+      "name_l1": "بنی روڈ",
+      "externalID": "14264",
+      "slug": "/Barnala_Banni_Road-14264",
+      "slug_l1": "/Barnala_Banni_Road-14264",
+      "_geoloc": {
+          "lat": 32.869696,
+          "lng": 74.245579
+      },
+      "geography": {
+          "lat": 32.869696,
+          "lng": 74.245579
+      },
+      "geo_point": [
+          74.245579,
+          32.869696
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 12496,
+              "level": 2,
+              "externalID": "13977",
+              "name": "Barnala",
+              "name_l1": "برنالا",
+              "slug": "/Barnala-13977",
+              "slug_l1": "/Barnala-13977"
+          },
+          {
+              "id": 12783,
+              "level": 3,
+              "externalID": "14264",
+              "name": "Banni Road",
+              "name_l1": "بنی روڈ",
+              "slug": "/Barnala_Banni_Road-14264",
+              "slug_l1": "/Barnala_Banni_Road-14264"
+          }
+      ],
+      "hierarchyPath": "Banni Road Barnala Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14264",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12783",
+      "_highlightResult": {
+          "name": {
+              "value": "Banni Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21248,
+      "name": "Jail Road",
+      "name_l1": "جیل روڈ",
+      "externalID": "21838",
+      "slug": "/Barnala_Main_Bazar_Road_Jail_Road-21838",
+      "slug_l1": "/Barnala_Main_Bazar_Road_Jail_Road-21838",
+      "_geoloc": {
+          "lat": 32.87564265,
+          "lng": 74.21568688
+      },
+      "geography": {
+          "lat": 32.87564265,
+          "lng": 74.21568688
+      },
+      "geo_point": [
+          74.21568688,
+          32.87564265
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 12496,
+              "level": 2,
+              "externalID": "13977",
+              "name": "Barnala",
+              "name_l1": "برنالا",
+              "slug": "/Barnala-13977",
+              "slug_l1": "/Barnala-13977"
+          },
+          {
+              "id": 12784,
+              "level": 3,
+              "externalID": "14265",
+              "name": "Main Bazar Road",
+              "name_l1": "مین بازار روڈ",
+              "slug": "/Barnala_Main_Bazar_Road-14265",
+              "slug_l1": "/Barnala_Main_Bazar_Road-14265"
+          },
+          {
+              "id": 21248,
+              "level": 4,
+              "externalID": "21838",
+              "name": "Jail Road",
+              "name_l1": "جیل روڈ",
+              "slug": "/Barnala_Main_Bazar_Road_Jail_Road-21838",
+              "slug_l1": "/Barnala_Main_Bazar_Road_Jail_Road-21838"
+          }
+      ],
+      "hierarchyPath": "Jail Road Main Bazar Road Barnala Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21838",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21248",
+      "_highlightResult": {
+          "name": {
+              "value": "Jail Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12784,
+      "name": "Main Bazar Road",
+      "name_l1": "مین بازار روڈ",
+      "externalID": "14265",
+      "slug": "/Barnala_Main_Bazar_Road-14265",
+      "slug_l1": "/Barnala_Main_Bazar_Road-14265",
+      "_geoloc": {
+          "lat": 32.870804,
+          "lng": 74.246694
+      },
+      "geography": {
+          "lat": 32.870804,
+          "lng": 74.246694
+      },
+      "geo_point": [
+          74.246694,
+          32.870804
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 12496,
+              "level": 2,
+              "externalID": "13977",
+              "name": "Barnala",
+              "name_l1": "برنالا",
+              "slug": "/Barnala-13977",
+              "slug_l1": "/Barnala-13977"
+          },
+          {
+              "id": 12784,
+              "level": 3,
+              "externalID": "14265",
+              "name": "Main Bazar Road",
+              "name_l1": "مین بازار روڈ",
+              "slug": "/Barnala_Main_Bazar_Road-14265",
+              "slug_l1": "/Barnala_Main_Bazar_Road-14265"
+          }
+      ],
+      "hierarchyPath": "Main Bazar Road Barnala Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14265",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12784",
+      "_highlightResult": {
+          "name": {
+              "value": "Main Bazar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12782,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "14263",
+      "slug": "/Barnala_Others-14263",
+      "slug_l1": "/Barnala_Others-14263",
+      "_geoloc": {
+          "lat": 32.871543,
+          "lng": 74.245595
+      },
+      "geography": {
+          "lat": 32.871543,
+          "lng": 74.245595
+      },
+      "geo_point": [
+          74.245595,
+          32.871543
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 12496,
+              "level": 2,
+              "externalID": "13977",
+              "name": "Barnala",
+              "name_l1": "برنالا",
+              "slug": "/Barnala-13977",
+              "slug_l1": "/Barnala-13977"
+          },
+          {
+              "id": 12782,
+              "level": 3,
+              "externalID": "14263",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Barnala_Others-14263",
+              "slug_l1": "/Barnala_Others-14263"
+          }
+      ],
+      "hierarchyPath": "Others Barnala Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14263",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12782",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12785,
+      "name": "Thub Road",
+      "name_l1": "تھب روڈ",
+      "externalID": "14266",
+      "slug": "/Barnala_Thub_Road-14266",
+      "slug_l1": "/Barnala_Thub_Road-14266",
+      "_geoloc": {
+          "lat": 32.87311,
+          "lng": 74.24763
+      },
+      "geography": {
+          "lat": 32.87311,
+          "lng": 74.24763
+      },
+      "geo_point": [
+          74.24763,
+          32.87311
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 12496,
+              "level": 2,
+              "externalID": "13977",
+              "name": "Barnala",
+              "name_l1": "برنالا",
+              "slug": "/Barnala-13977",
+              "slug_l1": "/Barnala-13977"
+          },
+          {
+              "id": 12785,
+              "level": 3,
+              "externalID": "14266",
+              "name": "Thub Road",
+              "name_l1": "تھب روڈ",
+              "slug": "/Barnala_Thub_Road-14266",
+              "slug_l1": "/Barnala_Thub_Road-14266"
+          }
+      ],
+      "hierarchyPath": "Thub Road Barnala Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14266",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12785",
+      "_highlightResult": {
+          "name": {
+              "value": "Thub Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12786,
+      "name": "Tibba Road",
+      "name_l1": "تبّہ روڈ",
+      "externalID": "14267",
+      "slug": "/Barnala_Tibba_Road-14267",
+      "slug_l1": "/Barnala_Tibba_Road-14267",
+      "_geoloc": {
+          "lat": 32.870251,
+          "lng": 74.251202
+      },
+      "geography": {
+          "lat": 32.870251,
+          "lng": 74.251202
+      },
+      "geo_point": [
+          74.251202,
+          32.870251
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 12496,
+              "level": 2,
+              "externalID": "13977",
+              "name": "Barnala",
+              "name_l1": "برنالا",
+              "slug": "/Barnala-13977",
+              "slug_l1": "/Barnala-13977"
+          },
+          {
+              "id": 12786,
+              "level": 3,
+              "externalID": "14267",
+              "name": "Tibba Road",
+              "name_l1": "تبّہ روڈ",
+              "slug": "/Barnala_Tibba_Road-14267",
+              "slug_l1": "/Barnala_Tibba_Road-14267"
+          }
+      ],
+      "hierarchyPath": "Tibba Road Barnala Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14267",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12786",
+      "_highlightResult": {
+          "name": {
+              "value": "Tibba Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

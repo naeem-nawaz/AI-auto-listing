@@ -6,7 +6,9 @@ import {
   LuBath,
   LuBedDouble,
   LuCheck,
+  LuMail,
   LuMapPin,
+  LuPhone,
   LuPlus,
   LuRuler,
   LuSend,
@@ -28,6 +30,7 @@ import {
   PURPOSE_OPTIONS,
   SIZE_UNITS,
 } from '../material/materialData';
+import citiesList from '../../citiesLocation/citiesList/cities.json';
 
 const CHATBOT_PURPOSE_OPTIONS = ['Sell', 'Rent', 'Lease'];
 const CHATBOT_PROPERTY_TYPE_OPTIONS = ['Home', 'Commercial', 'Plot'];
@@ -36,7 +39,7 @@ const CHATBOT_SUB_TYPE_OPTIONS = {
   Commercial: COMMERCIAL_PROPERTY_TYPES,
   Plot: PLOT_PROPERTY_TYPES,
 };
-const PAKISTANI_PROPERTY_AGENT_FIRST_MESSAGE = "👋 Hello! I'm your AI property listing assistant. I'll help you create a professional listing in just a few simple steps. Let's get started!";
+const PAKISTANI_PROPERTY_AGENT_FIRST_MESSAGE = "👋 Assalam-o-Alaikum! Main aapka AI property assistant hoon. Aap jo details dein ge main unhein smartly pick karunga, aur sirf missing cheezain hi puchunga.";
 const PAKISTANI_PROPERTY_AGENT_FIRST_QUESTION = 'For what purpose are you listing this property?';
 
 function formatPriceWithRs(value) {
@@ -55,6 +58,80 @@ function getFeatureText(features) {
   return 'Security';
 }
 
+function getLocationAwareFeatures({ features, address, propertyType, purpose }) {
+  const normalize = (value) => String(value || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  const locationText = normalize(address);
+  const typeText = normalize(propertyType);
+  const purposeText = normalize(purpose);
+
+  const explicit = Array.isArray(features)
+    ? features.map((item) => String(item || '').trim()).filter(Boolean)
+    : String(features || '')
+      .split(/,|\/|\||;|\band\b/gi)
+      .map((item) => item.replace(/\s+/g, ' ').trim())
+      .filter(Boolean);
+
+  const merged = [];
+  const pushUnique = (value) => {
+    const clean = String(value || '').replace(/\s+/g, ' ').trim();
+    if (!clean) return;
+    const exists = merged.some((item) => item.toLowerCase() === clean.toLowerCase());
+    if (!exists) merged.push(clean);
+  };
+
+  const areaRules = [
+    { pattern: /\bdha\b|\bphase\b/, features: ['Secure Gated Community', 'Premium Infrastructure', 'Parks and Community Facilities'] },
+    { pattern: /\bbahria\b/, features: ['Planned Community', '24/7 Security', 'Commercial Hub Nearby'] },
+    { pattern: /\bgulberg\b/, features: ['Central Urban Location', 'Corporate and Retail Access', 'High-End Neighborhood'] },
+    { pattern: /\bmodel town\b/, features: ['Mature Residential Area', 'Wide Roads and Green Belts', 'Schools and Markets Nearby'] },
+    { pattern: /\bjohar town\b/, features: ['Strong Rental Demand', 'Universities and Offices Nearby', 'Well-Connected Roads'] },
+    { pattern: /\bwapda town\b/, features: ['Family-Oriented Neighborhood', 'Developed Streets and Utilities', 'Daily Essentials Nearby'] },
+    { pattern: /\bparagon\b/, features: ['Gated Society Lifestyle', 'Good Future Appreciation', 'Main Road Connectivity'] },
+    { pattern: /\baskari\b/, features: ['Secure Environment', 'Community Parks', 'Organized Layout'] },
+    { pattern: /\bmain road\b|\broad\b|\bavenue\b/, features: ['Main Road Frontage', 'Easy Commercial Access', 'Better Visibility'] },
+  ];
+  const cityRules = [
+    { pattern: /\blahore\b/, features: ['High Buyer Activity', 'Strong Resale Potential'] },
+    { pattern: /\bkarachi\b/, features: ['Commercial Opportunity', 'High Demand Catchment'] },
+    { pattern: /\bislamabad\b|\brawalpindi\b/, features: ['Planned Sectors Access', 'Strong Long-Term Value'] },
+  ];
+
+  const matchedAreaRule = areaRules.find((rule) => rule.pattern.test(locationText));
+  if (matchedAreaRule) matchedAreaRule.features.forEach(pushUnique);
+  const matchedCityRule = cityRules.find((rule) => rule.pattern.test(locationText));
+  if (matchedCityRule) matchedCityRule.features.forEach(pushUnique);
+
+  if (!matchedAreaRule && locationText) {
+    if (/(society|sector|block|town|city|colony)/i.test(locationText)) {
+      pushUnique('Developed Neighborhood');
+      pushUnique('Near Daily Essentials');
+    }
+    if (/(road|street|avenue|highway)/i.test(locationText)) {
+      pushUnique('Main Road Access');
+    }
+    pushUnique('Prime Location');
+  }
+
+  if (typeText.includes('plot')) {
+    pushUnique('Ready for Construction');
+    pushUnique('Investment-Friendly Area');
+  } else if (/(shop|office|commercial|warehouse|factory)/i.test(typeText)) {
+    pushUnique('Commercial Activity Nearby');
+    pushUnique('High Footfall Potential');
+  } else {
+    pushUnique('Family-Friendly Environment');
+  }
+
+  if (purposeText.includes('rent')) pushUnique('Strong Rental Demand');
+  if (purposeText.includes('sell')) pushUnique('High Resale Potential');
+
+  // Keep user-given features as high-priority additions.
+  explicit.forEach(pushUnique);
+
+  if (!merged.length) return ['Security', 'Prime Location', 'Near Daily Essentials'];
+  return merged.slice(0, 3);
+}
+
 function normalizeApiBase(url) {
   return String(url || '').replace(/\/+$/, '');
 }
@@ -69,6 +146,320 @@ function mapPurposeToSlug(purpose) {
   if (slug === 'rent') return 'rent';
   if (slug === 'lease') return 'lease';
   return 'sell';
+}
+
+function buildAutoListingTitle({ size, sizeUnit, propertyType, purpose, address }) {
+  const purposeText = String(purpose || 'Sell').toLowerCase();
+  const purposeLabel = purposeText === 'rent' ? 'for Rent' : purposeText === 'lease' ? 'for Lease' : 'for Sale';
+  const sizeText = size ? `${size} ${sizeUnit || ''}`.trim() : '';
+  const safeType = String(propertyType || 'Property').trim() || 'Property';
+  const cleanAddress = getDisplayLocationFromAddress(address);
+  const locationText = cleanAddress || 'Pakistan';
+  return `${sizeText ? `${sizeText} ` : ''}${safeType} ${purposeLabel} in ${locationText}`.replace(/\s+/g, ' ').trim();
+}
+
+function buildAutoListingDescription({
+  purpose,
+  propertyType,
+  address,
+  size,
+  sizeUnit,
+  bedrooms,
+  bathrooms,
+  features,
+  price,
+}) {
+  const purposeText = String(purpose || 'Sell').toLowerCase();
+  const purposeLabel = purposeText === 'rent' ? 'for rent' : purposeText === 'lease' ? 'for lease' : 'for sale';
+  const safeType = String(propertyType || 'property').trim() || 'property';
+  const locationText = getDisplayLocationFromAddress(address) || 'a prime location in Pakistan';
+  const sizeText = size ? `${size} ${sizeUnit || ''}`.trim() : '';
+  const roomsText = [
+    bedrooms ? `${bedrooms} bedrooms` : '',
+    bathrooms ? `${bathrooms} bathrooms` : '',
+  ].filter(Boolean).join(' and ');
+  const featureText = String(features || '').trim();
+  const priceText = String(price || '').trim();
+
+  const base = [
+    `A well-maintained ${safeType} ${purposeLabel} in ${locationText}.`,
+    sizeText ? `The property offers ${sizeText} of usable area with a practical and comfortable layout.` : '',
+    roomsText ? `It includes ${roomsText}, making it suitable for family living and long-term convenience.` : '',
+    featureText ? `Key highlights include ${featureText}.` : 'The home provides strong everyday utility and a livable layout for end-users.',
+    priceText ? `The asking price is ${priceText}.` : '',
+    'This listing is a solid opportunity for genuine buyers and investors seeking location value, functionality, and future potential. Contact now to schedule a visit.',
+  ].filter(Boolean);
+
+  return base.join(' ').replace(/\s+/g, ' ').trim();
+}
+
+function parseAddressParts(addressText, cityRecords = []) {
+  const fullAddress = String(addressText || '').replace(/\s+/g, ' ').replace(/^[,.:\s-]+|[,.:\s-]+$/g, '').trim();
+  if (!fullAddress) {
+    return { fullAddress: '', cityName: '', areaName: '' };
+  }
+
+  const normalized = fullAddress.toLowerCase();
+  const normalizeLoose = (value) => String(value || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  const levenshtein = (a, b) => {
+    const s = String(a || '');
+    const t = String(b || '');
+    const m = s.length;
+    const n = t.length;
+    if (!m) return n;
+    if (!n) return m;
+    const dp = Array.from({ length: m + 1 }, () => Array(n + 1).fill(0));
+    for (let i = 0; i <= m; i += 1) dp[i][0] = i;
+    for (let j = 0; j <= n; j += 1) dp[0][j] = j;
+    for (let i = 1; i <= m; i += 1) {
+      for (let j = 1; j <= n; j += 1) {
+        const cost = s[i - 1] === t[j - 1] ? 0 : 1;
+        dp[i][j] = Math.min(
+          dp[i - 1][j] + 1,
+          dp[i][j - 1] + 1,
+          dp[i - 1][j - 1] + cost
+        );
+      }
+    }
+    return dp[m][n];
+  };
+  const similarity = (a, b) => {
+    const x = normalizeLoose(a);
+    const y = normalizeLoose(b);
+    if (!x || !y) return 0;
+    const distance = levenshtein(x, y);
+    return 1 - (distance / Math.max(x.length, y.length));
+  };
+
+  const allCities = [...(Array.isArray(cityRecords) ? cityRecords : [])]
+    .map((item) => ({
+      city: String(item?.city || '').trim(),
+      appCode: String(item?.app_code || '').trim(),
+      geo: item?.geo_location || null,
+    }))
+    .filter((item) => item.city);
+  let matchedCity = [...allCities]
+    .sort((a, b) => b.city.length - a.city.length)
+    .find((item) => normalized.includes(item.city.toLowerCase()));
+  let matchedCityToken = matchedCity?.city || '';
+
+  if (!matchedCity) {
+    const normalizedWords = normalizeLoose(fullAddress).split(' ').filter(Boolean);
+    let best = null;
+    let bestScore = 0;
+    allCities.forEach((cityItem) => {
+      const cityWordCount = normalizeLoose(cityItem.city).split(' ').filter(Boolean).length || 1;
+      for (let i = 0; i <= normalizedWords.length - cityWordCount; i += 1) {
+        const phrase = normalizedWords.slice(i, i + cityWordCount).join(' ');
+        const score = similarity(phrase, cityItem.city);
+        if (score > bestScore) {
+          bestScore = score;
+          best = cityItem;
+          matchedCityToken = phrase;
+        }
+      }
+    });
+    if (best && bestScore >= 0.8) {
+      matchedCity = best;
+    }
+  }
+
+  const cityName = matchedCity?.city || '';
+  const cityCode = matchedCity?.appCode || '';
+  const latitude = matchedCity?.geo?.latitude;
+  const longitude = matchedCity?.geo?.longitude;
+
+  let areaName = '';
+  if (cityName) {
+    const escapeRegex = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const cityVariants = [cityName, matchedCityToken]
+      .map((value) => String(value || '').trim())
+      .filter(Boolean);
+    areaName = cityVariants.reduce((acc, cityVariant) => {
+      const cityRegex = new RegExp(`\\b${escapeRegex(cityVariant)}\\b`, 'ig');
+      return acc.replace(cityRegex, ' ');
+    }, fullAddress)
+      .replace(/\s*,\s*/g, ' ')
+      .replace(/\s+/g, ' ')
+      .replace(/^[,.:\s-]+|[,.:\s-]+$/g, '')
+      .trim();
+  }
+
+  if (!areaName && fullAddress.includes(',')) {
+    areaName = fullAddress
+      .split(',')
+      .slice(0, -1)
+      .join(',')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
+  return { fullAddress, cityName, cityCode, areaName, latitude, longitude, cityToken: matchedCityToken };
+}
+
+function getDisplayLocationFromAddress(addressText) {
+  const raw = String(addressText || '').replace(/\s+/g, ' ').replace(/^[,.:\s-]+|[,.:\s-]+$/g, '').trim();
+  if (!raw) return '';
+  const parsed = parseAddressParts(raw, citiesList);
+  const cityName = String(parsed?.cityName || '').trim();
+  const areaKeywordMatches = raw.match(/(?:dha\s*(?:phase|pahse|phse)\s*\d+|model\s*town|[a-z0-9]+\s*town|[a-z0-9]+\s*block\s*[a-z0-9]+|[a-z0-9]+\s*sector\s*[a-z0-9]+|[a-z0-9]+\s*society|[a-z0-9]+\s*scheme|[a-z0-9]+\s*colony|[a-z0-9]+\s*road|[a-z0-9]+\s*street|[a-z0-9]+\s*avenue)/ig) || [];
+  const hintedArea = String(areaKeywordMatches[areaKeywordMatches.length - 1] || '').replace(/\s+/g, ' ').trim();
+  const parsedArea = String(parsed?.areaName || '').replace(/\s+/g, ' ').trim();
+  let areaName = hintedArea;
+
+  const normalizeAreaLabel = (value) =>
+    String(value || '')
+      .replace(/\b(?:pahse|phse)\b/gi, 'Phase')
+      .replace(/\s+/g, ' ')
+      .trim();
+
+  // Heuristic: if city exists but area was not detected, use nearby words before city.
+  if (!areaName && cityName) {
+    const aroundLocationMatch = raw.match(new RegExp(`(?:location|located|area)\\s*(?:is|ha|hai|:)?\\s*([^,]{2,60})\\s*${cityName}`, 'i'));
+    const aroundLocationArea = String(aroundLocationMatch?.[1] || '')
+      .replace(/\b(?:ma|mein|main|ka|ki|ke|jis|or|aur|ha|hai|hain|ho|cha|chahta|chata|chahte|krna|karna|reha|raha|price|sale|sell|rent|lease|house|plot|shop|flat|makan)\b/gi, ' ')
+      .replace(/\b\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet)\b/gi, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (aroundLocationArea) areaName = aroundLocationArea;
+  }
+
+  if (!areaName && cityName) {
+    const dhaPhrase = raw.match(/\bdha\s*(?:phase|pahse|phse)\s*\d+\b/i);
+    if (dhaPhrase?.[0]) areaName = dhaPhrase[0];
+  }
+
+  if (!areaName && parsedArea) {
+    const parsedAreaClean = String(parsedArea)
+      .replace(/\b(?:ma|mein|main|ka|ki|ke|jis|or|aur|ha|hai|hain|ho|cha|chahta|chata|chahte|krna|karna|reha|raha|price|sale|sell|rent|lease|house|plot|shop|flat|makan|location|located)\b/gi, ' ')
+      .replace(/\b\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet)\b/gi, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (parsedAreaClean && parsedAreaClean.split(' ').length <= 4) {
+      areaName = parsedAreaClean;
+    }
+  }
+
+  if (!areaName && cityName) {
+    const cityIndex = raw.toLowerCase().lastIndexOf(cityName.toLowerCase());
+    if (cityIndex > 0) {
+      const beforeCity = raw.slice(0, cityIndex).replace(/\s+/g, ' ').trim();
+      const chunks = beforeCity
+        .split(/,|\bin\b|\bma\b|\bmain\b|\blocated\b|\bat\b/gi)
+        .map((item) => item.replace(/\s+/g, ' ').trim())
+        .filter(Boolean);
+      const candidate = chunks[chunks.length - 1] || '';
+      const cleanedCandidate = candidate
+        .replace(/\b(?:house|flat|plot|home|commercial|sale|sell|rent|lease|price|bed|bedroom|bath|bathroom|parking|feature|with|or|jis|ki|ka|ha|hain|hoon|chahta|chata|krna|location|located|area|is)\b/gi, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+      if (cleanedCandidate && cleanedCandidate.length >= 3) {
+        areaName = cleanedCandidate;
+      }
+    }
+  }
+
+  // Final cleanup to avoid raw prompt text leaking into location.
+  const cleanedArea = String(areaName || '')
+    .replace(/\b(?:ma|main|mein|or|aur|jis|ki|ka|ha|hai|hain|hoon|cha|chahta|chata|chahte|krna|karna|reha|raha|price|sale|sell|rent|lease|plot|house|shop|flat|makan|location|located)\b/gi, ' ')
+    .replace(/\b\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet)\b/gi, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  const isAreaReasonable = cleanedArea && cleanedArea.length <= 40 && cleanedArea.split(' ').length <= 5;
+  areaName = isAreaReasonable ? normalizeAreaLabel(cleanedArea) : '';
+
+  if (cityName && areaName) return `${areaName}, ${cityName}`.replace(/\s+/g, ' ').trim();
+  if (cityName) return cityName;
+  if (areaName) return areaName;
+  return '';
+}
+
+function getCityLocationFileName(cityName) {
+  const words = String(cityName || '')
+    .replace(/[^a-zA-Z0-9 ]+/g, ' ')
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean);
+  if (!words.length) return '';
+  const [first, ...rest] = words;
+  return `${first.charAt(0).toLowerCase()}${first.slice(1)}${rest
+    .map((word) => `${word.charAt(0).toUpperCase()}${word.slice(1)}`)
+    .join('')}`;
+}
+
+async function resolveAreaMetadata(cityName, areaName) {
+  const normalizedArea = String(areaName || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  if (!cityName || !normalizedArea) return null;
+  const fileName = getCityLocationFileName(cityName);
+  if (!fileName) return null;
+  try {
+    const module = await import(`../../citiesLocation/locations/${fileName}.json`);
+    const locations = Array.isArray(module?.default) ? module.default : [];
+    if (!locations.length) return null;
+    const normalize = (value) => String(value || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+    const simplify = (value) =>
+      normalize(value)
+        .replace(/\b(?:city|town|society|scheme|colony|block|sector|phase|road|street|avenue)\b/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+    const levenshtein = (a, b) => {
+      const s = String(a || '');
+      const t = String(b || '');
+      const m = s.length;
+      const n = t.length;
+      if (!m) return n;
+      if (!n) return m;
+      const dp = Array.from({ length: m + 1 }, () => Array(n + 1).fill(0));
+      for (let i = 0; i <= m; i += 1) dp[i][0] = i;
+      for (let j = 0; j <= n; j += 1) dp[0][j] = j;
+      for (let i = 1; i <= m; i += 1) {
+        for (let j = 1; j <= n; j += 1) {
+          const cost = s[i - 1] === t[j - 1] ? 0 : 1;
+          dp[i][j] = Math.min(
+            dp[i - 1][j] + 1,
+            dp[i][j - 1] + 1,
+            dp[i - 1][j - 1] + cost
+          );
+        }
+      }
+      return dp[m][n];
+    };
+    const similarityScore = (a, b) => {
+      const x = String(a || '').trim();
+      const y = String(b || '').trim();
+      if (!x || !y) return 0;
+      const distance = levenshtein(x, y);
+      return 1 - (distance / Math.max(x.length, y.length));
+    };
+
+    const exact = locations.find((item) => normalize(item?.name) === normalizedArea);
+    if (exact) return exact;
+    const contains = locations.find((item) => normalize(item?.name).includes(normalizedArea));
+    if (contains) return contains;
+    const reverseContains = locations.find((item) => normalizedArea.includes(normalize(item?.name)));
+    if (reverseContains) return reverseContains;
+
+    const simplifiedTarget = simplify(normalizedArea);
+    let bestMatch = null;
+    let bestScore = 0;
+    locations.forEach((item) => {
+      const locationName = normalize(item?.name);
+      if (!locationName) return;
+      const simplifiedLocation = simplify(locationName);
+      const score = Math.max(
+        similarityScore(normalizedArea, locationName),
+        similarityScore(simplifiedTarget, simplifiedLocation)
+      );
+      if (score > bestScore) {
+        bestScore = score;
+        bestMatch = item;
+      }
+    });
+
+    return bestScore >= 0.72 ? bestMatch : null;
+  } catch {
+    return null;
+  }
 }
 
 function safeParseJson(value) {
@@ -224,29 +615,31 @@ function ListingModePage({ onAiListing, onManualListing }) {
     <div className="listingModePage">
       <img src={bg} alt="Background pattern" className="pageBg" />
       <div className="listingModeWrap">
-        <div className="listingModeHeader">
-          <h1>Choose How You Want to Create Your Property Listing</h1>
-          <h4>
-            Post your property manually or let our AI guide you step-by-step through a smart, conversational process.
-            Select your preferred method to continue and get your listing live faster.
-          </h4>
-        </div>
-
-        <div className="listingModeCards">
-          <div className="listingModeCard manualCard">
-            <div className="listingModeCardText">
-              <h3>Manual Listing</h3>
-              <h4>Write articles on any topic instantly.</h4>
-            </div>
-            <button className="listingCardBtn" onClick={onManualListing}>Click here</button>
+        <div className="listingModePanel">
+          <div className="listingModeHeader">
+            <h1>Choose How You Want to Create Your Property Listing</h1>
+            <h4>
+              Post your property manually or let our AI guide you step-by-step through a smart, conversational process.
+              Select your preferred method to continue and get your listing live faster.
+            </h4>
           </div>
 
-          <div className="listingModeCard aiCard">
-            <div className="listingModeCardText">
-              <h3>AI based Listing</h3>
-              <h4>Analyze data with AI-driven insights.</h4>
+          <div className="listingModeCards">
+            <div className="listingModeCard manualCard">
+              <div className="listingModeCardText">
+                <h3>Manual Listing</h3>
+                <h4>Write articles on any topic instantly.</h4>
+              </div>
+              <button className="listingCardBtn" onClick={onManualListing}>Click here</button>
             </div>
-            <button className="listingCardBtn lightBtn" onClick={onAiListing}>Click here</button>
+
+            <div className="listingModeCard aiCard">
+              <div className="listingModeCardText">
+                <h3>AI based Listing</h3>
+                <h4>Analyze data with AI-driven insights.</h4>
+              </div>
+              <button className="listingCardBtn lightBtn" onClick={onAiListing}>Click here</button>
+            </div>
           </div>
         </div>
       </div>
@@ -256,7 +649,7 @@ function ListingModePage({ onAiListing, onManualListing }) {
 
 function WelcomePage({ onStart, welcomeName }) {
   const welcomeText = `Welcome, ${welcomeName || 'John'}`;
-  const subtitleText = 'Not sure where to begin? Our smart assistant will ask simple questions to create your listing.';
+  const subtitleText = 'Not sure where to begin? Our smart assistant will ask simple questions  to create your listing.';
   const assistantText = "👋 Hello! I'm your AI property listing assistant. I'll help you create a professional listing in simple steps.";
 
   const welcomeWords = welcomeText.split(' ');
@@ -323,7 +716,12 @@ function WelcomePage({ onStart, welcomeName }) {
           ))}
         </h1>
         <p className="welcomeAnimatedSubtitle">
-          {subtitleWords.slice(0, subtitleVisibleCount).join(' ')}
+          {subtitleWords.slice(0, subtitleVisibleCount).map((word, index) => (
+            <React.Fragment key={`${word}-${index}`}>
+              {word}
+              {word.toLowerCase() === 'questions' ? <br /> : ' '}
+            </React.Fragment>
+          ))}
         </p>
         <div className="layout welcomeAnimatedAssistant">
           <div className="bot">
@@ -769,14 +1167,10 @@ function UploadPage({ features, onBack, onUploadComplete }) {
   );
 }
 
-function PicturePage({ features, images, onBack, onAddMoreImages, onRemoveImage, onContinue }) {
+function PicturePage({ images, onBack, onAddMoreImages, onRemoveImage, onContinue }) {
   const fileInputRef = useRef(null);
   return (
-    <PropertyLayout stepText="Step 10 of 10" progressPercent={100} onBack={onBack} pageClassName="picturePage" contentClassName="pictureContent">
-      <div className="chatBlock">
-        <UserMessage>{getFeatureText(features)}</UserMessage>
-        <BotMessage bubbleClassName="questionBubble featuresQuestionBubble">Great! I&apos;ve added {getFeatureText(features)}.</BotMessage>
-      </div>
+    <PropertyLayout stepText="" progressPercent={100} showProgress={false} onBack={onBack} pageClassName="picturePage" contentClassName="pictureContent">
       <div className="picturePanel">
         <input
           ref={fileInputRef}
@@ -822,7 +1216,7 @@ function PicturePage({ features, images, onBack, onAddMoreImages, onRemoveImage,
 
 function GeneratePage({ onComplete }) {
   useEffect(() => {
-    const timer = setTimeout(() => onComplete?.(), 1800);
+    const timer = setTimeout(() => onComplete?.(), 5000);
     return () => clearTimeout(timer);
   }, [onComplete]);
   return (
@@ -920,6 +1314,45 @@ function AiContentDraftPage({
       .join(', ');
 
     return `Presenting a well-maintained ${propertyType} in ${address}, available for ${purpose} at ${price}. ${specs ? `The property offers ${specs}, designed for practical and comfortable living. ` : ''}${features ? `Key highlights include ${features}.` : 'Its layout and location make it a strong fit for both families and investors.'}`.trim();
+  };
+
+  const getWordCount = (text) =>
+    String(text || '')
+      .trim()
+      .split(/\s+/)
+      .filter(Boolean).length;
+
+  const finalizeSentence = (text) => {
+    const cleaned = String(text || '').replace(/\s+/g, ' ').trim();
+    if (!cleaned) return '';
+    return /[.!?]$/.test(cleaned) ? cleaned : `${cleaned}.`;
+  };
+
+  const constrainDescriptionLength = (text, minWords = 100, maxWords = 130) => {
+    let normalized = String(text || '').replace(/\s+/g, ' ').trim();
+    if (!normalized) normalized = getLocalFallbackDescription();
+
+    const basePadding = [
+      listingContext?.address ? `Located in ${listingContext.address}, this listing stands out for convenience, daily accessibility, and long-term value potential.` : '',
+      listingContext?.size ? `The offered area of ${listingContext.size} ${listingContext?.sizeUnit || ''}`.trim() + ' supports practical use and future planning flexibility.' : '',
+      listingContext?.price ? `The quoted price of ${listingContext.price} is aligned with current market expectations for serious buyers and investors.` : '',
+      `Overall, this is a dependable option for clients seeking a balanced property with solid usability, location strength, and investment potential in Pakistan's active real-estate market.`,
+    ].filter(Boolean);
+
+    while (getWordCount(normalized) < minWords) {
+      const nextSentence = basePadding.shift() || 'Contact now to schedule a visit and review full details before this opportunity is gone.';
+      normalized = `${finalizeSentence(normalized)} ${nextSentence}`.trim();
+    }
+
+    let words = String(normalized).trim().split(/\s+/).filter(Boolean);
+    if (words.length > maxWords) {
+      words = words.slice(0, maxWords);
+      normalized = words.join(' ');
+    } else {
+      normalized = words.join(' ');
+    }
+
+    return finalizeSentence(normalized);
   };
 
   const normalizeForCompare = (text) =>
@@ -1048,8 +1481,8 @@ function AiContentDraftPage({
     return cleanedDescription;
   };
 
-  const buildPromptFacts = () => {
-    const facts = {
+  const buildPromptFacts = (mode = 'all') => {
+    const baseFacts = {
       purpose: listingContext?.purpose || 'Sell',
       propertyType: listingContext?.propertyType || 'Property',
       address: listingContext?.address || 'Prime Location',
@@ -1064,6 +1497,15 @@ function AiContentDraftPage({
         : listingContext?.features || '',
     };
 
+    const facts = mode === 'title'
+      ? {
+        address: baseFacts.address,
+        city: baseFacts.city,
+        size: baseFacts.size,
+        sizeUnit: baseFacts.sizeUnit,
+      }
+      : baseFacts;
+
     return Object.entries(facts)
       .filter(([, value]) => String(value || '').trim())
       .map(([key, value]) => `${key}: ${value}`)
@@ -1074,7 +1516,7 @@ function AiContentDraftPage({
     const cleaned = String(text || '')
       .replace(/^["'`]+|["'`]+$/g, '')
       .replace(/^\s*(title|description)\s*:\s*/i, '')
-      .replace(/^[\-\*\d.)]+\s*/gm, '')
+      .replace(/^[-*\d.)]+\s*/gm, '')
       .replace(/\s+/g, ' ')
       .trim();
 
@@ -1098,7 +1540,7 @@ function AiContentDraftPage({
     const recentDescriptionsText = recentDescriptions.length
       ? recentDescriptions.slice(0, 5).map((item, index) => `${index + 1}. ${item}`).join('\n')
       : 'N/A';
-    const promptFacts = buildPromptFacts();
+    const promptFacts = buildPromptFacts(mode);
     const userPrompt = mode === 'title'
       ? `Write one professional property listing title using these facts:
 ${promptFacts || 'No structured facts available.'}
@@ -1110,8 +1552,9 @@ ${recentTitlesText}
 Rules:
 - Output exactly one line and only the title text.
 - Keep it 7 to 12 words.
-- Mention property type and location naturally.
+- Mention size and location naturally.
 - Tone must be professional and market-ready.
+- Do not mention bedrooms, bathrooms, or features.
 - Use a clearly different phrasing pattern from previous/recent titles.
 - No emojis, hashtags, quotation marks, or markdown.`
       : `Write one professional property listing description using these facts:
@@ -1122,7 +1565,7 @@ Recent descriptions already used (avoid repeating words/patterns):
 ${recentDescriptionsText}
 
 Rules:
-- Output one paragraph only (60 to 95 words).
+- Output one paragraph only (100 to 130 words).
 - Keep it polished, trustworthy, and sales-ready.
 - Include key value points from available facts (location, size/specs, highlights, purpose).
 - End with a soft call-to-action suitable for a listing.
@@ -1209,13 +1652,17 @@ Rules:
       });
       const aiRequest = requestOpenAIText('description');
       const [, generatedText] = await Promise.all([minDelay, aiRequest]);
-      const safeDescription = ensureUniqueDescription(
-        sanitizeAiText(generatedText, 'description') || getLocalFallbackDescription()
+      const safeDescription = constrainDescriptionLength(
+        ensureUniqueDescription(
+          sanitizeAiText(generatedText, 'description') || getLocalFallbackDescription()
+        )
       );
       saveDescriptionToHistory(safeDescription);
       onDescriptionGenerated(safeDescription);
     } catch (error) {
-      const fallbackDescription = ensureUniqueDescription(getLocalFallbackDescription());
+      const fallbackDescription = constrainDescriptionLength(
+        ensureUniqueDescription(getLocalFallbackDescription())
+      );
       saveDescriptionToHistory(fallbackDescription);
       onDescriptionGenerated(fallbackDescription);
       if (isNetworkError(error)) {
@@ -1348,15 +1795,28 @@ function AiChatbotListingPage({
   onSetBathrooms,
   onSetFeature,
   onUploadImages,
+  onResetImages,
   onSetContactNumber,
   onSetEmail,
+  onContinueAfterImages,
 }) {
 
   const [messages, setMessages] = useState([]);
   const [inputText, setInputText] = useState('');
   const [isReplyLoading, setIsReplyLoading] = useState(false);
+  const [addressDropdownOpen, setAddressDropdownOpen] = useState(false);
+  const [selectedCityForAddress, setSelectedCityForAddress] = useState('');
+  const [cityAreas, setCityAreas] = useState([]);
+  const [isAreasLoading, setIsAreasLoading] = useState(false);
+  const [areasLoadError, setAreasLoadError] = useState('');
+  const [isImageDragActive, setIsImageDragActive] = useState(false);
+  const [isImageOnlyView, setIsImageOnlyView] = useState(false);
+  const [editingMessageIndex, setEditingMessageIndex] = useState(null);
+  const [editingMessageText, setEditingMessageText] = useState('');
   const messagesEndRef = useRef(null);
   const imageInputRef = useRef(null);
+  const composerInputRef = useRef(null);
+  const imageFlowSnapshotRef = useRef([]);
 
   const [draft, setDraft] = useState({
     purpose: selectedPurpose || '',
@@ -1391,6 +1851,10 @@ function AiChatbotListingPage({
     'images',
   ];
 
+  const allCityNames = Array.isArray(citiesList)
+    ? Array.from(new Set(citiesList.map((item) => String(item?.city || '').trim()).filter(Boolean)))
+    : [];
+
   const withTimeout = (promise, timeoutMs = 25000) => {
     let timeoutId;
     return Promise.race([
@@ -1417,6 +1881,12 @@ function AiChatbotListingPage({
   const isCommercialType = (data) => {
     return getPropertyGroup(data?.propertyType) === 'Commercial';
   };
+  const isShopType = (data) => {
+    const subType = normalizeType(data?.subType);
+    const propertyType = normalizeType(data?.propertyType);
+    return subType.includes('shop') || propertyType.includes('shop');
+  };
+  const shouldSkipAmenityQuestions = (data) => isPlotType(data) || isShopType(data);
 
   const hasProfileContact = Boolean((profileContactNumber || '').trim() || (profileEmail || '').trim());
 
@@ -1424,10 +1894,11 @@ function AiChatbotListingPage({
     for (const key of stageOrder) {
       if (key === 'subType') {
         const group = getPropertyGroup(data?.propertyType);
+        if (group === 'Plot' || isShopType(data)) continue;
         if (!String(group || '').trim()) continue;
         if (String(data?.subType || '').trim()) continue;
       }
-      if ((key === 'bedrooms' || key === 'bathrooms') && isPlotType(data)) continue;
+      if ((key === 'bedrooms' || key === 'bathrooms' || key === 'features') && shouldSkipAmenityQuestions(data)) continue;
       if (key === 'useProfileContact' && !hasProfileContact) continue;
       if ((key === 'email' || key === 'contactNumber') && data?.useProfileContact === 'yes') continue;
       if (String(data?.[key] || '').trim()) continue;
@@ -1438,28 +1909,84 @@ function AiChatbotListingPage({
 
   const getPromptForStage = (stage) => {
     if (stage === 'purpose') return PAKISTANI_PROPERTY_AGENT_FIRST_QUESTION;
-    if (stage === 'propertyType') return 'Property type batayein.';
-    if (stage === 'subType') return 'Property sub-type batayein.';
-    if (stage === 'address') return 'Location/address kya hai?';
-    if (stage === 'size') return 'Area batayein (unit ke sath).';
-    if (stage === 'price') return 'Price in PKR batayein.';
-    if (stage === 'bedrooms') return isCommercialType(draft) ? 'Bedrooms kitne hain? (Skip allowed)' : 'Bedrooms kitne hain?';
-    if (stage === 'bathrooms') return isCommercialType(draft) ? 'Bathrooms kitne hain? (Skip allowed)' : 'Bathrooms kitne hain?';
-    if (stage === 'features') return 'Key features batayein (comma se separate kar sakte hain).';
-    if (stage === 'useProfileContact') return 'Kya profile contact use karna hai?';
-    if (stage === 'email') return 'Apna valid email address batayein.';
-    if (stage === 'contactNumber') return 'Apna phone number batayein (3XXXXXXXXX).';
-    if (stage === 'images') return 'Please upload property images. Aap neeche "Upload Images" button se files upload kar sakte hain.';
-    return 'Great. Listing details complete ho gayi hain.';
+    if (stage === 'propertyType') return 'Great. Property kis category mein hai — Home, Commercial ya Plot?';
+    if (stage === 'subType') return 'Nice. Ab is ka exact sub-type batayein (jaise House, Shop, Office, etc.).';
+    if (stage === 'address') return 'Perfect. Location share karein (Area, City).';
+    if (stage === 'size') return 'Area size batayein (jaise 5 Marla, 10 Marla, 1 Kanal).';
+    if (stage === 'price') {
+      const purpose = String(draft?.purpose || '').toLowerCase();
+      if (purpose === 'sell') return 'Expected price kitni rakhna chahte hain?';
+      if (purpose === 'rent') return 'Expected rent kitna rakhna chahte hain?';
+      if (purpose === 'lease') return 'Expected lease amount kitna rakhna chahte hain?';
+      return 'Expected amount kitna rakhna chahte hain?';
+    }
+    if (stage === 'bedrooms') return isCommercialType(draft) ? 'Bedrooms kitne hain? (Agar apply nahi karta to skip kar dein.)' : 'Bedrooms kitne hain?';
+    if (stage === 'bathrooms') return isCommercialType(draft) ? 'Bathrooms kitne hain? (Agar apply nahi karta to skip kar dein.)' : 'Bathrooms kitne hain?';
+    if (stage === 'features') return 'Key features batayein (comma se alag likh sakte hain).';
+    if (stage === 'useProfileContact') return 'Kya profile wala contact use karna hai?';
+    if (stage === 'email') return 'Email address share karein.';
+    if (stage === 'contactNumber') return 'Contact number share karein (03XXXXXXXXX).';
+    if (stage === 'images') return 'Ab images upload karein — click karein ya drag and drop kar dein.';
+    return 'Excellent. Basic listing details complete ho gayi hain.';
   };
 
+  const getInvalidStageReply = (stage) => {
+    const stageHints = {
+      purpose: 'Sell, Rent ya Lease mein se ek choose karein.',
+      propertyType: 'Home, Commercial ya Plot type mention karein.',
+      subType: 'House, Flat, Shop, Office jaisa sub-type likhein.',
+      address: 'Area aur city ke sath location batayein, jaise DHA Phase 6, Lahore.',
+      size: 'Size number + unit likhein, jaise 5 Marla.',
+      price: 'Price/rent number mein batayein, jaise Rs 3500000 ya rent 35000.',
+      bedrooms: 'Bedrooms ki ginti number mein batayein.',
+      bathrooms: 'Bathrooms ki ginti number mein batayein.',
+      features: '2-3 features likh dein, jaise parking, security, corner.',
+      email: 'Valid email format dein, jaise name@email.com.',
+      contactNumber: 'Valid mobile number dein, jaise 03XXXXXXXXX.',
+    };
+    const hint = stageHints[stage] || 'Thori si aur clear detail share karein.';
+    return `Mujhe is point par thori clear detail chahiye. ${hint}`;
+  };
+
+  const normalizeInputForUnderstanding = (text) =>
+    String(text || '')
+      .toLowerCase()
+      .replace(/[^\w\s]/g, ' ')
+      .replace(/\b(?:mai|main|mein|mn|mna)\b/g, ' ')
+      .replace(/\b(?:ghr|ghar|makan|makaan|home)\b/g, ' house ')
+      .replace(/\b(?:bechna|bechni|bechne|farokht|farokhti)\b/g, ' sell ')
+      .replace(/\b(?:kiraya|kiraye|kiray|kraya|kraye|ijara|ijarah)\b/g, ' rent ')
+      .replace(/\b(?:dena|dene|daina)\b/g, ' ')
+      .replace(/\b(?:dukan)\b/g, ' shop ')
+      .replace(/\b(?:daftar)\b/g, ' office ')
+      .replace(/\b(?:zameen|qita|qita zameen)\b/g, ' plot ')
+      .replace(/\b(?:jaga|jgah|jagah|location|loc)\b/g, ' location ')
+      .replace(/\b(?:kamra|kamray|kamre)\b/g, ' bedroom ')
+      .replace(/\b(?:wash room|washroom|bath room|ghusalkhana)\b/g, ' bathroom ')
+      .replace(/\b(?:attach|attached)\b/g, ' attached ')
+      .replace(/\s+/g, ' ')
+      .trim();
+
   const parsePurpose = (text) => {
-    const raw = String(text || '').trim().toLowerCase();
+    const raw = normalizeInputForUnderstanding(text);
     if (!raw) return '';
-    if (raw.includes('sell')) return 'Sell';
-    if (raw.includes('lease')) return 'Lease';
-    if (raw.includes('rent')) return 'Rent';
-    if (raw.includes('buy')) return 'Sell';
+    const normalized = raw.replace(/\s+/g, ' ').trim();
+    const hasAny = (keywords) => keywords.some((keyword) => normalized.includes(keyword));
+
+    const sellKeywords = [
+      'sell', 'sale', 'for sale', 'selling', 'bechna', 'bechni', 'bechne', 'farokht',
+    ];
+    const rentKeywords = [
+      'rent', 'for rent', 'kiraya', 'kiraye', 'kiray', 'rent dena', 'rent pe',
+    ];
+    const leaseKeywords = [
+      'lease', 'ijara', 'ijarah',
+    ];
+
+    if (hasAny(leaseKeywords)) return 'Lease';
+    if (hasAny(rentKeywords)) return 'Rent';
+    if (hasAny(sellKeywords)) return 'Sell';
+    if (normalized.includes('buy') || normalized.includes('khareed')) return 'Sell';
     return '';
   };
 
@@ -1470,21 +1997,36 @@ function AiChatbotListingPage({
       .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
       .join(' ');
 
-  const parseSize = (text) => {
+  const parseSize = (text, options = {}) => {
+    const { allowBareNumber = false } = options;
     const raw = String(text || '').trim();
-    const numberMatch = raw.match(/\d+(\.\d+)?/);
-    if (!numberMatch) return null;
-    const value = numberMatch[0];
+    if (!raw) return null;
     const lower = raw.toLowerCase();
 
-    let unit = 'Marla';
-    if (lower.includes('kanal')) unit = 'Kanal';
-    else if (lower.includes('sq ft') || lower.includes('square feet') || lower.includes('feet')) unit = 'Square Feet ( Sq. Ft.)';
-    else if (lower.includes('sq yd') || lower.includes('square yard') || lower.includes('square yards')) unit = 'Square Yards ( Sq. Yd.)';
-    else if (lower.includes('sq m') || lower.includes('square meter') || lower.includes('square meters')) unit = 'Square Meters ( Sq. M.)';
-    else if (lower.includes('marla')) unit = 'Marla';
+    const explicitPatterns = [
+      { unit: 'Kanal', regex: /(\d+(?:\.\d+)?)\s*kanal\b/i },
+      { unit: 'Marla', regex: /(\d+(?:\.\d+)?)\s*marla\b/i },
+      { unit: 'Square Feet ( Sq. Ft.)', regex: /(\d+(?:\.\d+)?)\s*(?:sq\.?\s*ft|square\s*feet|feet)\b/i },
+      { unit: 'Square Feet ( Sq. Ft.)', regex: /(?:sq\.?\s*ft|square\s*feet|feet)\s*(\d+(?:\.\d+)?)/i },
+      { unit: 'Square Yards ( Sq. Yd.)', regex: /(\d+(?:\.\d+)?)\s*(?:sq\.?\s*yd|square\s*yards?)\b/i },
+      { unit: 'Square Yards ( Sq. Yd.)', regex: /(?:sq\.?\s*yd|square\s*yards?)\s*(\d+(?:\.\d+)?)/i },
+      { unit: 'Square Meters ( Sq. M.)', regex: /(\d+(?:\.\d+)?)\s*(?:sq\.?\s*m|square\s*meters?)\b/i },
+      { unit: 'Square Meters ( Sq. M.)', regex: /(?:sq\.?\s*m|square\s*meters?)\s*(\d+(?:\.\d+)?)/i },
+    ];
 
-    return { value, unit };
+    for (const pattern of explicitPatterns) {
+      const match = raw.match(pattern.regex);
+      if (match?.[1]) {
+        return { value: match[1], unit: pattern.unit };
+      }
+    }
+
+    const hasSizeHint = /\b(?:size|area)\b/i.test(lower);
+    if (!allowBareNumber && !hasSizeHint) return null;
+
+    const numberMatch = raw.match(/\d+(?:\.\d+)?/);
+    if (!numberMatch) return null;
+    return { value: numberMatch[0], unit: 'Marla' };
   };
 
   const inferPropertyTypeFromText = (text) => {
@@ -1510,13 +2052,26 @@ function AiChatbotListingPage({
       'factory',
     ];
 
-    const lower = raw.toLowerCase();
+    const lower = normalizeInputForUnderstanding(raw);
+    const normalized = lower.replace(/\s+/g, ' ').trim();
     const matched = knownTypes.find((item) => lower.includes(item));
     if (matched) {
       if (matched === 'apartment') return 'Apartment';
       if (matched === 'farm house' || matched === 'farmhouse') return 'Farm House';
       return toDisplayCase(matched);
     }
+
+    // Roman-Urdu / local wording support.
+    const localTypeMatchers = [
+      { keywords: ['house'], type: 'House' },
+      { keywords: ['dukan', 'shop'], type: 'Shop' },
+      { keywords: ['daftar', 'office'], type: 'Office' },
+      { keywords: ['plot'], type: 'Plot' },
+      { keywords: ['flat', 'apartment'], type: 'Apartment' },
+      { keywords: ['villa'], type: 'Villa' },
+    ];
+    const localMatch = localTypeMatchers.find((item) => item.keywords.some((keyword) => normalized.includes(keyword)));
+    if (localMatch) return localMatch.type;
 
     // Fallback for short custom types only.
     const cleaned = raw
@@ -1546,18 +2101,28 @@ function AiChatbotListingPage({
   const parsePriceFromText = (text) => {
     const raw = String(text || '').trim();
     const lower = raw.toLowerCase();
-    const priceHints = ['rs', 'pkr', 'price', 'budget', 'lakh', 'lac', 'crore', 'million', 'billion', 'k', 'm'];
-    const hasPriceHint = priceHints.some((item) => lower.includes(item));
+    const normalized = normalizeInputForUnderstanding(raw);
+    const hasCurrencyHint = /\b(?:rs|pkr|price|budget|rent|lease|amount|lakh|lac|crore|million|billion)\b/i.test(lower)
+      || /\b(?:rent|lease)\b/i.test(normalized);
+    const hasCompactNumberHint = /\b\d+(?:\.\d+)?\s*(?:k|m)\b/i.test(lower);
+    const hasPriceHint = hasCurrencyHint || hasCompactNumberHint;
     if (!hasPriceHint) return '';
-
-    const formatted = formatPriceWithRs(raw);
-    return formatted || '';
+    const hintMatch = raw.match(/(?:price|rs|pkr)\s*[:-]?\s*(\d[\d,]*(?:\.\d+)?(?:\s*(?:lakh|lac|crore|million|billion|k|m))?)/i);
+    if (hintMatch?.[1]) return formatPriceWithRs(hintMatch[1]);
+    const candidates = [...raw.matchAll(/\d[\d,]*(?:\.\d+)?(?:\s*(?:lakh|lac|crore|million|billion|k|m))?/gi)]
+      .map((item) => String(item?.[0] || '').trim())
+      .filter(Boolean);
+    if (!candidates.length) return '';
+    const best = candidates.sort((a, b) => b.replace(/[^\d]/g, '').length - a.replace(/[^\d]/g, '').length)[0];
+    return formatPriceWithRs(best);
   };
 
   const parseAddressFromText = (text, force = false) => {
     const raw = String(text || '').trim();
     if (!raw) return '';
-    const lower = raw.toLowerCase();
+    const lower = normalizeInputForUnderstanding(raw);
+    const normalizedLocation = getDisplayLocationFromAddress(raw);
+    if (normalizedLocation) return normalizedLocation;
 
     const locationHints = [
       'dha', 'phase', 'block', 'sector', 'town', 'city', 'road', 'street', 'avenue',
@@ -1583,7 +2148,51 @@ function AiChatbotListingPage({
       .replace(/\s+/g, ' ')
       .trim();
 
-    return candidate.length >= 4 ? candidate : '';
+    const cleaned = candidate.length >= 4 ? candidate : '';
+    const normalized = getDisplayLocationFromAddress(cleaned);
+    if (normalized) return normalized;
+    if (!force) return '';
+    const explicitLocationPattern = /\b(?:dha|phase|pahse|phse|block|sector|town|society|scheme|colony|road|street|avenue|city|lahore|karachi|islamabad|rawalpindi|faisalabad|multan|peshawar|quetta|sialkot|gujranwala|hyderabad)\b/i;
+    return explicitLocationPattern.test(cleaned) ? cleaned : '';
+  };
+
+  const parseCountByKeywords = (text, keywords = []) => {
+    const raw = normalizeInputForUnderstanding(text);
+    if (!raw || !keywords.length) return '';
+    const keywordPattern = keywords.join('|');
+
+    // e.g. "5 bedroom", "5 hi bathroom", "5 room hain"
+    const numberBeforeKeyword = raw.match(
+      new RegExp(`\\b(\\d+)\\b(?:\\s+\\w+){0,3}\\s*(?:${keywordPattern})\\b`, 'i')
+    );
+    if (numberBeforeKeyword) return numberBeforeKeyword[1];
+
+    // e.g. "bedrooms 5", "bathroom total 4"
+    const keywordBeforeNumber = raw.match(
+      new RegExp(`\\b(?:${keywordPattern})\\b(?:\\s+\\w+){0,3}\\s*(\\d+)\\b`, 'i')
+    );
+    if (keywordBeforeNumber) return keywordBeforeNumber[1];
+
+    return '';
+  };
+
+  const parseBedroomsFromText = (text) => {
+    return parseCountByKeywords(text, ['bed', 'beds', 'bedroom', 'bedrooms', 'room', 'rooms', 'kamra', 'kamray', 'kamre']);
+  };
+
+  const parseBathroomsFromText = (text) => {
+    return parseCountByKeywords(text, ['bath', 'baths', 'bathroom', 'bathrooms', 'washroom', 'washrooms', 'ghusalkhana']);
+  };
+
+  const parseFeaturesFromText = (text) => {
+    const raw = String(text || '').toLowerCase();
+    if (!raw) return '';
+    const featureHints = [];
+    if (/\bparking\b/.test(raw)) featureHints.push('Parking');
+    if (/\bgarden\b/.test(raw)) featureHints.push('Garden');
+    if (/\bsecurity\b/.test(raw)) featureHints.push('Security');
+    if (/\bgas\b/.test(raw)) featureHints.push('Gas');
+    return featureHints.join(', ');
   };
 
   const extractFactsFromText = (text, currentDraft, stage) => {
@@ -1593,20 +2202,29 @@ function AiChatbotListingPage({
     const next = {};
     const purpose = parsePurpose(raw);
     const propertyType = inferPropertyTypeFromText(raw);
+    const inferredGroup = getPropertyGroup(currentDraft?.propertyType || propertyType);
+    const inferredSubType = inferSubTypeFromText(raw, inferredGroup);
     const parsedSize = parseSize(raw);
     const parsedPrice = parsePriceFromText(raw);
     const parsedAddress = parseAddressFromText(raw, stage === 'address');
+    const parsedBedrooms = parseBedroomsFromText(raw);
+    const parsedBathrooms = parseBathroomsFromText(raw);
+    const parsedFeatures = parseFeaturesFromText(raw);
     const parsedContactNumber = parseContactNumber(raw);
     const parsedEmail = parseEmail(raw);
 
     if (!currentDraft.purpose && purpose) next.purpose = purpose;
     if (!currentDraft.propertyType && propertyType) next.propertyType = propertyType;
+    if (!currentDraft.subType && inferredSubType) next.subType = inferredSubType;
     if (!currentDraft.size && parsedSize) {
       next.size = parsedSize.value;
       next.sizeUnit = parsedSize.unit;
     }
     if (!currentDraft.price && parsedPrice) next.price = parsedPrice;
     if (!currentDraft.address && parsedAddress) next.address = parsedAddress;
+    if (!currentDraft.bedrooms && parsedBedrooms) next.bedrooms = parsedBedrooms;
+    if (!currentDraft.bathrooms && parsedBathrooms) next.bathrooms = parsedBathrooms;
+    if (!currentDraft.features && parsedFeatures) next.features = parsedFeatures;
     if (!currentDraft.contactNumber && parsedContactNumber) next.contactNumber = parsedContactNumber;
     if (!currentDraft.email && parsedEmail) next.email = parsedEmail;
 
@@ -1667,15 +2285,19 @@ function AiChatbotListingPage({
     }
 
     if (stage === 'address') {
-      return { ok: true, nextDraft: { ...currentDraft, address: trimmed } };
+      const address = parseAddressFromText(trimmed, true) || getDisplayLocationFromAddress(trimmed);
+      if (!address) return { ok: false, nextDraft: currentDraft };
+      return { ok: true, nextDraft: { ...currentDraft, address } };
     }
 
     if (stage === 'price') {
-      return { ok: true, nextDraft: { ...currentDraft, price: formatPriceWithRs(trimmed) } };
+      const price = parsePriceFromText(trimmed) || (/^\d[\d,]*$/.test(trimmed) ? formatPriceWithRs(trimmed) : '');
+      if (!price) return { ok: false, nextDraft: currentDraft };
+      return { ok: true, nextDraft: { ...currentDraft, price } };
     }
 
     if (stage === 'size') {
-      const parsed = parseSize(trimmed);
+      const parsed = parseSize(trimmed, { allowBareNumber: true });
       if (!parsed) return { ok: false, nextDraft: currentDraft };
       return {
         ok: true,
@@ -1691,14 +2313,18 @@ function AiChatbotListingPage({
       if (isCommercialType(currentDraft) && /^skip$/i.test(trimmed)) {
         return { ok: true, nextDraft: { ...currentDraft, bedrooms: 'Skip' } };
       }
-      return { ok: true, nextDraft: { ...currentDraft, bedrooms: trimmed } };
+      const bedrooms = parseBedroomsFromText(trimmed) || (/^\d+$/.test(trimmed) ? trimmed : '');
+      if (!bedrooms) return { ok: false, nextDraft: currentDraft };
+      return { ok: true, nextDraft: { ...currentDraft, bedrooms } };
     }
 
     if (stage === 'bathrooms') {
       if (isCommercialType(currentDraft) && /^skip$/i.test(trimmed)) {
         return { ok: true, nextDraft: { ...currentDraft, bathrooms: 'Skip' } };
       }
-      return { ok: true, nextDraft: { ...currentDraft, bathrooms: trimmed } };
+      const bathrooms = parseBathroomsFromText(trimmed) || (/^\d+$/.test(trimmed) ? trimmed : '');
+      if (!bathrooms) return { ok: false, nextDraft: currentDraft };
+      return { ok: true, nextDraft: { ...currentDraft, bathrooms } };
     }
     if (stage === 'useProfileContact') {
       const lower = trimmed.toLowerCase();
@@ -1785,13 +2411,74 @@ function AiChatbotListingPage({
     return lines.join('\n');
   };
 
+  const getProfessionalLocation = (addressText) => {
+    const raw = String(addressText || '').replace(/\s+/g, ' ').trim();
+    if (!raw) return 'a prime location in Pakistan';
+    const lower = raw.toLowerCase();
+
+    const cityMatch = [...allCityNames]
+      .sort((a, b) => b.length - a.length)
+      .find((city) => lower.includes(String(city).toLowerCase()));
+
+    const localityMatch = raw.match(
+      /\b([a-z0-9\s-]{2,40}\b(?:town|phase|block|sector|society|scheme|colony|city|road|street|avenue)\b(?:\s*[a-z0-9-]{0,20})?)/i
+    );
+
+    if (cityMatch && localityMatch) {
+      return `${toDisplayCase(localityMatch[1].trim())}, ${cityMatch}`;
+    }
+    if (cityMatch) return cityMatch;
+    if (localityMatch) return toDisplayCase(localityMatch[1].trim());
+
+    return 'a prime location in Pakistan';
+  };
+
+  const enforceMinDescriptionWords = (text, data, minWords = 100) => {
+    let normalized = String(text || '').replace(/\s+/g, ' ').trim();
+    if (!normalized) normalized = 'A professionally prepared property listing is ready for serious buyers and investors.';
+
+    const locationText = getProfessionalLocation(data?.address);
+    const countWords = (value) => String(value || '').trim().split(/\s+/).filter(Boolean).length;
+    const details = [
+      `The location in ${locationText} offers convenient access to daily facilities, transport links, and a dependable neighborhood environment for long-term living.`,
+      data?.size ? `With an area of ${data.size} ${data?.sizeUnit || ''}`.trim() + ', the property supports practical planning, comfortable use, and flexible future improvements.' : '',
+      data?.price ? `The asking price of ${data.price} is positioned to attract genuine buyers while maintaining strong value for both end-users and investment-focused clients.` : '',
+      'Overall, this listing combines location quality, functional specifications, and market relevance, making it a solid option for anyone looking for a reliable property opportunity.',
+      'For complete details, visit scheduling, and document discussion, please get in touch today so this opportunity can be reviewed without delay.',
+    ].filter(Boolean);
+
+    while (countWords(normalized) < minWords) {
+      const nextLine = details.shift() || 'Reach out now to discuss terms and secure this listing at the earliest convenience.';
+      normalized = `${normalized} ${nextLine}`.replace(/\s+/g, ' ').trim();
+    }
+
+    return /[.!?]$/.test(normalized) ? normalized : `${normalized}.`;
+  };
+
   const buildListingSummaryText = (data) => {
-    const title = `${data?.size ? `${data.size} ${data?.sizeUnit || ''} ` : ''}${data?.propertyType || 'Property'} in ${data?.address || 'Pakistan'}`.trim();
-    const description = [
-      `${data?.purpose || 'Sell'} listing for ${data?.propertyType || 'property'} in ${data?.address || 'a prime area'}.`,
-      data?.price ? `Price: ${data.price}.` : '',
-      `${data?.bedrooms && data?.bedrooms !== 'Skip' ? `${data.bedrooms} beds, ` : ''}${data?.bathrooms && data?.bathrooms !== 'Skip' ? `${data.bathrooms} baths, ` : ''}${data?.features ? `features: ${data.features}.` : ''}`.trim(),
+    const locationText = getProfessionalLocation(data?.address);
+    const propertyTypeText = data?.subType || data?.propertyType || 'Property';
+    const purposeText = (data?.purpose || 'Sell').toLowerCase();
+    const purposeLabel = purposeText === 'rent' ? 'for Rent' : purposeText === 'lease' ? 'for Lease' : 'for Sale';
+    const sizeText = data?.size ? `${data.size} ${data?.sizeUnit || ''}`.trim() : '';
+    const hasBedrooms = Boolean(data?.bedrooms && data?.bedrooms !== 'Skip');
+    const hasBathrooms = Boolean(data?.bathrooms && data?.bathrooms !== 'Skip');
+    const title = `${sizeText ? `${sizeText} ` : ''}${propertyTypeText} ${purposeLabel} in ${locationText}`.replace(/\s+/g, ' ').trim();
+
+    const highlights = [
+      data?.size ? `The property spans ${sizeText}.` : '',
+      hasBedrooms || hasBathrooms
+        ? `It offers ${[
+          hasBedrooms ? `${data.bedrooms} bedrooms` : '',
+          hasBathrooms ? `${data.bathrooms} bathrooms` : '',
+        ].filter(Boolean).join(' and ')}.`
+        : '',
+      data?.features ? `Notable features include ${data.features}.` : '',
+      data?.price ? `The asking price is ${data.price}.` : '',
     ].filter(Boolean).join(' ');
+
+    const baseDescription = `Presenting a well-maintained ${propertyTypeText} ${purposeLabel.toLowerCase()} in ${locationText}. ${highlights} This listing is ideal for buyers and investors seeking a practical property in a strong location with everyday convenience and long-term value potential.`;
+    const description = enforceMinDescriptionWords(baseDescription, data, 100);
 
     return `Title: ${title}\nDescription: ${description}\nPlease upload photos to continue.`;
   };
@@ -1808,6 +2495,167 @@ function AiChatbotListingPage({
       return 'Description me pehle location benefit, phir size/specs, phir key features aur end me simple call-to-action rakhein.';
     }
     return 'Aap specific sawal poochain, main listing ko aur strong banane ke liye targeted suggestion dunga.';
+  };
+
+  const detectResponseStyle = (text) => {
+    const raw = String(text || '').toLowerCase();
+    if (!raw) return 'english';
+    if (/[\u0600-\u06FF]/.test(raw)) return 'urdu';
+    const romanUrduHints = ['ma', 'mein', 'main', 'ha', 'hai', 'hain', 'jis', 'ki', 'ka', 'krna', 'chahta', 'chata', 'sale', 'plot', 'lahore', 'bahawalpur'];
+    const englishHints = ['i want', 'i am', 'please', 'my property', 'located in', 'for sale', 'for rent', 'price', 'size'];
+    const romanScore = romanUrduHints.reduce((acc, item) => (raw.includes(item) ? acc + 1 : acc), 0);
+    const englishScore = englishHints.reduce((acc, item) => (raw.includes(item) ? acc + 1 : acc), 0);
+    return romanScore > englishScore ? 'romanUrdu' : 'english';
+  };
+
+  const buildConfirmationTemplate = ({
+    style,
+    sizeLabel,
+    readableType,
+    readablePurpose,
+    priceLabel,
+    locationLabel,
+    bedroomsLabel,
+    bathroomsLabel,
+  }) => {
+    const purposeUrduText = readablePurpose === 'rent' ? 'rent ke liye' : readablePurpose === 'lease' ? 'lease ke liye' : 'sale ke liye';
+    const subjectUrdu = `${sizeLabel ? `${sizeLabel} ka ` : ''}${readableType}`.replace(/\s+/g, ' ').trim();
+    const subjectEnglish = `${sizeLabel ? `${sizeLabel} ` : ''}${readableType}`.replace(/\s+/g, ' ').trim();
+
+    if (style === 'romanUrdu' || style === 'urdu') {
+      const details = [];
+      if (priceLabel) {
+        if (readablePurpose === 'rent') details.push(`jis ka rent ${priceLabel} hai`);
+        else if (readablePurpose === 'lease') details.push(`jis ka lease amount ${priceLabel} hai`);
+        else details.push(`jis ki price ${priceLabel} hai`);
+      }
+      if (locationLabel) details.push(`location ${locationLabel} hai`);
+      if (bedroomsLabel && bathroomsLabel) {
+        details.push(`${bedroomsLabel} bedrooms aur ${bathroomsLabel} bathrooms hain`);
+      } else if (bedroomsLabel) {
+        details.push(`${bedroomsLabel} bedrooms mention kiye gaye hain`);
+      } else if (bathroomsLabel) {
+        details.push(`${bathroomsLabel} bathrooms mention kiye gaye hain`);
+      }
+      const detailsText = details.length ? `, ${details.join(' aur ')}` : '';
+      return `Perfect! Aap ${subjectUrdu} ${purposeUrduText} list karna chahte hain${detailsText}.`;
+    }
+
+    const englishDetails = [];
+    if (priceLabel) {
+      if (readablePurpose === 'rent') englishDetails.push(`with a rent of ${priceLabel}`);
+      else if (readablePurpose === 'lease') englishDetails.push(`with a lease amount of ${priceLabel}`);
+      else englishDetails.push(`with an asking price of ${priceLabel}`);
+    }
+    if (locationLabel) englishDetails.push(`located in ${locationLabel}`);
+    if (bedroomsLabel && bathroomsLabel) englishDetails.push(`featuring ${bedroomsLabel} bedrooms and ${bathroomsLabel} bathrooms`);
+    else if (bedroomsLabel) englishDetails.push(`featuring ${bedroomsLabel} bedrooms`);
+    else if (bathroomsLabel) englishDetails.push(`featuring ${bathroomsLabel} bathrooms`);
+    const englishDetailText = englishDetails.length ? ` ${englishDetails.join(' and ')}.` : '.';
+    return `Great! You want to list ${subjectEnglish} for ${readablePurpose}${englishDetailText}`;
+  };
+
+  const summarizeCapturedFacts = (previousDraft, nextDraft, userText = '') => {
+    const picked = [];
+    const prev = previousDraft || {};
+    const next = nextDraft || {};
+    const isNewValue = (key) => {
+      const before = String(prev?.[key] || '').trim();
+      const after = String(next?.[key] || '').trim();
+      return !before && !!after;
+    };
+
+    if (isNewValue('purpose')) picked.push('purpose');
+    if (isNewValue('propertyType')) picked.push('property type');
+    if (isNewValue('subType')) picked.push('sub-type');
+    if (isNewValue('address')) picked.push('location');
+    if (isNewValue('size')) picked.push('size');
+    if (isNewValue('price')) picked.push('price');
+    if (isNewValue('bedrooms')) picked.push('bedrooms');
+    if (isNewValue('bathrooms')) picked.push('bathrooms');
+    if (isNewValue('features')) picked.push('features');
+
+    if (!picked.length) return '';
+
+    const purposeText = String(next?.purpose || '').toLowerCase();
+    const readablePurpose = purposeText === 'rent' ? 'rent' : purposeText === 'lease' ? 'lease' : 'sale';
+    const typeLabel = String(next?.subType || next?.propertyType || 'property').trim().toLowerCase();
+    const readableType = typeLabel || 'property';
+    const sizeLabel = next?.size ? `${next.size} ${next?.sizeUnit || ''}`.trim() : '';
+    const priceLabel = String(next?.price || '').trim();
+    const parsedLocation = parseAddressParts(next?.address, citiesList);
+    const displayLocation = getDisplayLocationFromAddress(next?.address);
+    const locationLabel = parsedLocation?.cityName
+      ? `${String(parsedLocation?.areaName || displayLocation || '').replace(/\s+/g, ' ').trim().replace(new RegExp(`\\b${String(parsedLocation.cityName).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'ig'), '').replace(/\s+/g, ' ').trim().replace(/[,\s]+$/g, '')}, ${parsedLocation.cityName}`
+          .replace(/^,\s*/, '')
+          .replace(/\s+,/g, ',')
+          .replace(/\s+/g, ' ')
+          .trim()
+      : displayLocation;
+    const bedroomsLabel = String(next?.bedrooms || '').trim();
+    const bathroomsLabel = String(next?.bathrooms || '').trim();
+    const style = detectResponseStyle(userText);
+
+    const hasStructuredSummary = Boolean(sizeLabel || priceLabel || locationLabel || bedroomsLabel || bathroomsLabel || isNewValue('purpose') || isNewValue('propertyType') || isNewValue('subType'));
+    if (hasStructuredSummary) {
+      return buildConfirmationTemplate({
+        style,
+        sizeLabel,
+        readableType,
+        readablePurpose,
+        priceLabel,
+        locationLabel,
+        bedroomsLabel,
+        bathroomsLabel,
+      });
+    }
+    const compact = picked.slice(0, 4).join(', ');
+    if (style === 'romanUrdu' || style === 'urdu') {
+      return `Perfect! Main ne aap ki ${compact} details note kar li hain.`;
+    }
+    return `Great! I have captured your ${compact}.`;
+  };
+
+  const toLocationFileName = (cityName) => {
+    const words = String(cityName || '')
+      .replace(/[^a-zA-Z0-9 ]+/g, ' ')
+      .trim()
+      .split(/\s+/)
+      .filter(Boolean);
+    if (!words.length) return '';
+    const [first, ...rest] = words;
+    return `${first.charAt(0).toLowerCase()}${first.slice(1)}${rest
+      .map((word) => `${word.charAt(0).toUpperCase()}${word.slice(1)}`)
+      .join('')}`;
+  };
+
+  const loadAreasForCity = async (cityName) => {
+    const fileName = toLocationFileName(cityName);
+    if (!fileName) {
+      setCityAreas([]);
+      setAreasLoadError('City areas file not found.');
+      return;
+    }
+
+    setIsAreasLoading(true);
+    setAreasLoadError('');
+    setCityAreas([]);
+    try {
+      const module = await import(`../../citiesLocation/locations/${fileName}.json`);
+      const rawAreas = Array.isArray(module?.default) ? module.default : [];
+      const areaNames = Array.from(
+        new Set(rawAreas.map((item) => String(item?.name || '').replace(/\s+/g, ' ').trim()).filter(Boolean))
+      );
+      setCityAreas(areaNames);
+      if (!areaNames.length) {
+        setAreasLoadError('No areas found for selected city.');
+      }
+    } catch {
+      setAreasLoadError('No areas file found for selected city.');
+      setCityAreas([]);
+    } finally {
+      setIsAreasLoading(false);
+    }
   };
 
   const requestAiDiscussionReply = async (userText, history) => {
@@ -1875,13 +2723,31 @@ function AiChatbotListingPage({
     }
   }, [messages, isReplyLoading]);
 
-  const handleSend = async () => {
-    const userText = inputText.trim();
+  const handleSend = async (overrideText, options = {}) => {
+    const editMessageIndex = Number.isInteger(options?.editMessageIndex) ? options.editMessageIndex : null;
+    const isEventLikeOverride = Boolean(
+      overrideText
+      && typeof overrideText === 'object'
+      && (typeof overrideText.preventDefault === 'function' || Object.prototype.hasOwnProperty.call(overrideText, 'target'))
+    );
+    const hasDirectOverride = !isEventLikeOverride
+      && overrideText !== undefined
+      && overrideText !== null
+      && (typeof overrideText === 'string' || typeof overrideText === 'number');
+    const userText = String(hasDirectOverride ? overrideText : inputText).trim();
     if (!userText || isReplyLoading) return;
 
     const userMessage = { role: 'user', text: userText };
     setInputText('');
-    setMessages((prev) => [...prev, userMessage]);
+    if (editMessageIndex !== null) {
+      setMessages((prev) => prev.map((item, index) => (
+        index === editMessageIndex && item?.role === 'user'
+          ? { ...item, text: userText }
+          : item
+      )));
+    } else {
+      setMessages((prev) => [...prev, userMessage]);
+    }
 
     const stage = getCurrentStage(draft);
     const inferredFacts = extractFactsFromText(userText, draft, stage);
@@ -1893,7 +2759,7 @@ function AiChatbotListingPage({
         if (!ok) {
           setMessages((prev) => [
             ...prev,
-            { role: 'assistant', text: `Please valid ${stage} batayein. ${getPromptForStage(stage)}` },
+            { role: 'assistant', text: getInvalidStageReply(stage) },
           ]);
           return;
         }
@@ -1903,7 +2769,7 @@ function AiChatbotListingPage({
       if (!String(workingDraft[stage] || '').trim()) {
         setMessages((prev) => [
           ...prev,
-          { role: 'assistant', text: `Please valid ${stage} batayein. ${getPromptForStage(stage)}` },
+          { role: 'assistant', text: getInvalidStageReply(stage) },
         ]);
         return;
       }
@@ -1912,29 +2778,42 @@ function AiChatbotListingPage({
       syncDraftToParent(workingDraft);
 
       const nextStage = getCurrentStage(workingDraft);
+      const ackText = summarizeCapturedFacts(draft, workingDraft, userText);
       if (nextStage === 'images') {
         setMessages((prev) => [
           ...prev,
+          ...(ackText ? [{ role: 'assistant', text: ackText }] : []),
           { role: 'assistant', text: buildListingSummaryText(workingDraft) },
           { role: 'assistant', text: getPromptForStage('images') },
         ]);
       } else if (nextStage === 'complete') {
         setMessages((prev) => [
           ...prev,
+          ...(ackText ? [{ role: 'assistant', text: ackText }] : []),
           {
             role: 'assistant',
-            text: 'Great! Basic listing details complete ho gayi hain. Ab aap mujh se koi bhi sawal kar sakte hain (pricing, title, description, strategy).',
+            text: 'Great! Basic listing details complete ho gayi hain. Ab aap title, description, pricing ya listing strategy par mujh se direct mashwara le sakte hain.',
           },
         ]);
       } else {
-        setMessages((prev) => [...prev, { role: 'assistant', text: getPromptForStage(nextStage) }]);
+        setMessages((prev) => [
+          ...prev,
+          ...(ackText ? [{ role: 'assistant', text: ackText }] : []),
+          { role: 'assistant', text: getPromptForStage(nextStage) },
+        ]);
       }
       return;
     }
 
     setIsReplyLoading(true);
     try {
-      const historyForAi = [...messages, userMessage];
+      const historyForAi = editMessageIndex !== null
+        ? messages.map((item, index) => (
+          index === editMessageIndex && item?.role === 'user'
+            ? { ...item, text: userText }
+            : item
+        ))
+        : [...messages, userMessage];
       const reply = await withTimeout(requestAiDiscussionReply(userText, historyForAi), 25000);
       setMessages((prev) => [...prev, { role: 'assistant', text: reply || getFallbackReply(userText) }]);
     } catch {
@@ -1944,12 +2823,52 @@ function AiChatbotListingPage({
     }
   };
 
+  const handleAddressCitySelect = (cityName) => {
+    if (isReplyLoading) return;
+    const pickedCity = String(cityName || '').trim();
+    if (!pickedCity) return;
+    setSelectedCityForAddress(pickedCity);
+    setInputText('');
+    loadAreasForCity(pickedCity);
+  };
+
+  const handleAddressAreaSelect = (areaName) => {
+    if (isReplyLoading) return;
+    const pickedArea = String(areaName || '').trim();
+    if (!pickedArea || !selectedCityForAddress) return;
+    const composedAddress = `${pickedArea}, ${selectedCityForAddress}`;
+    setAddressDropdownOpen(false);
+    setSelectedCityForAddress('');
+    setCityAreas([]);
+    setAreasLoadError('');
+    handleSend(composedAddress);
+  };
+
+  const handleEditPreviousUserMessage = (messageText, messageIndex) => {
+    const value = String(messageText || '');
+    if (!value) return;
+    setEditingMessageIndex(messageIndex);
+    setEditingMessageText(value);
+  };
+
+  const handleCancelMessageEdit = () => {
+    setEditingMessageIndex(null);
+    setEditingMessageText('');
+  };
+
+  const handleSubmitMessageEdit = async () => {
+    const edited = String(editingMessageText || '').trim();
+    if (!edited || isReplyLoading || editingMessageIndex === null) return;
+    const targetIndex = editingMessageIndex;
+    handleCancelMessageEdit();
+    await handleSend(edited, { editMessageIndex: targetIndex });
+  };
+
   const handleUploadImagesClick = () => {
     if (imageInputRef.current) imageInputRef.current.click();
   };
 
-  const handleImagesSelected = (event) => {
-    const files = Array.from(event.target.files || []);
+  const processSelectedImages = (files) => {
     if (!files.length) return;
 
     onUploadImages(files);
@@ -1965,37 +2884,60 @@ function AiChatbotListingPage({
     const fileLabel = files.length === 1 ? '1 image' : `${files.length} images`;
     const uploadedMessage = `Uploaded ${fileLabel} successfully.`;
     const followup = nextStage === 'complete'
-      ? 'Great! Basic listing details complete ho gayi hain. Ab aap mujh se koi bhi sawal kar sakte hain (pricing, title, description, strategy).'
+      ? 'Great! Basic listing details complete ho gayi hain. Ab aap title, description, pricing ya listing strategy par mujh se direct mashwara le sakte hain.'
       : getPromptForStage(nextStage);
 
+    imageFlowSnapshotRef.current = messages;
     setMessages((prev) => [
       ...prev,
       { role: 'user', text: uploadedMessage },
       { role: 'assistant', text: followup },
     ]);
 
+    setIsImageOnlyView(true);
+
     if (imageInputRef.current) imageInputRef.current.value = '';
   };
 
-  const handleSkipImages = () => {
-    if (isReplyLoading) return;
-    const stage = getCurrentStage(draft);
-    if (stage !== 'images') return;
+  const handleImagesSelected = (event) => {
+    const files = Array.from(event.target.files || []);
+    processSelectedImages(files);
+  };
 
-    const nextDraft = { ...draft, images: 'skip' };
-    setDraft(nextDraft);
-    syncDraftToParent(nextDraft);
+  const handleImageDrop = (event) => {
+    event.preventDefault();
+    setIsImageDragActive(false);
+    const files = Array.from(event.dataTransfer?.files || []);
+    processSelectedImages(files);
+  };
 
-    const nextStage = getCurrentStage(nextDraft);
-    const followup = nextStage === 'complete'
-      ? 'Great! Basic listing details complete ho gayi hain. Ab aap mujh se koi bhi sawal kar sakte hain (pricing, title, description, strategy).'
-      : getPromptForStage(nextStage);
+  const handleImageOnlyContinue = () => {
+    const hasUploadedImages =
+      (selectedUploadedImages?.length || 0) > 0 ||
+      String(draft?.images || '').startsWith('uploaded:');
+    if (!hasUploadedImages) {
+      setMessages((prev) => [
+        ...prev,
+        { role: 'assistant', text: 'Please upload at least one image to continue.' },
+      ]);
+      return;
+    }
 
-    setMessages((prev) => [
-      ...prev,
-      { role: 'user', text: 'Skip images for now' },
-      { role: 'assistant', text: followup },
-    ]);
+    if (typeof onContinueAfterImages === 'function') {
+      onContinueAfterImages();
+      return;
+    }
+    setIsImageOnlyView(false);
+  };
+
+  const handleImageOnlyBack = () => {
+    setIsImageOnlyView(false);
+    setIsImageDragActive(false);
+    setDraft((prev) => ({ ...prev, images: '' }));
+    if (typeof onResetImages === 'function') onResetImages();
+    if (Array.isArray(imageFlowSnapshotRef.current) && imageFlowSnapshotRef.current.length) {
+      setMessages(imageFlowSnapshotRef.current);
+    }
   };
 
   const handlePurposeQuickSelect = (purposeValue) => {
@@ -2015,7 +2957,7 @@ function AiChatbotListingPage({
 
     const nextStage = getCurrentStage(nextDraft);
     const followup = nextStage === 'complete'
-      ? 'Great! Basic listing details complete ho gayi hain. Ab aap mujh se koi bhi sawal kar sakte hain.'
+      ? 'Great! Basic listing details complete ho gayi hain. Ab aap title, description ya pricing par agla sawal pooch sakte hain.'
       : `Great, aap ne ${purposeText} choose kiya. ${getPromptForStage(nextStage)}`;
 
     setMessages((prev) => [...prev, userMessage, { role: 'assistant', text: followup }]);
@@ -2075,7 +3017,100 @@ function AiChatbotListingPage({
     setMessages((prev) => [...prev, userMessage, { role: 'assistant', text: getPromptForStage(nextStage) }]);
   };
 
+  const handleBedroomQuickSelect = (value, index) => {
+    if (isReplyLoading) return;
+    const stage = getCurrentStage(draft);
+    if (stage !== 'bedrooms') return;
+
+    const selectedValue = index === 5 ? '6' : String(value || '').trim();
+    if (!selectedValue) return;
+    const userMessage = { role: 'user', text: selectedValue };
+    const { ok, nextDraft } = applyAnswerToDraft('bedrooms', selectedValue, draft);
+    if (!ok) return;
+
+    setDraft(nextDraft);
+    syncDraftToParent(nextDraft);
+    const nextStage = getCurrentStage(nextDraft);
+    setMessages((prev) => [...prev, userMessage, { role: 'assistant', text: getPromptForStage(nextStage) }]);
+  };
+
+  const handleBathroomQuickSelect = (value, index) => {
+    if (isReplyLoading) return;
+    const stage = getCurrentStage(draft);
+    if (stage !== 'bathrooms') return;
+
+    const selectedValue = index === 5 ? '6' : String(value || '').trim();
+    if (!selectedValue) return;
+    const userMessage = { role: 'user', text: selectedValue };
+    const { ok, nextDraft } = applyAnswerToDraft('bathrooms', selectedValue, draft);
+    if (!ok) return;
+
+    setDraft(nextDraft);
+    syncDraftToParent(nextDraft);
+    const nextStage = getCurrentStage(nextDraft);
+    setMessages((prev) => [...prev, userMessage, { role: 'assistant', text: getPromptForStage(nextStage) }]);
+  };
+
   const activeStage = getCurrentStage(draft);
+  const addressSearch = String(inputText || '').trim().toLowerCase();
+  const filteredCities = allCityNames
+    .filter((name) => name.toLowerCase().includes(addressSearch))
+    .slice(0, 24);
+  const filteredAreas = cityAreas
+    .filter((name) => name.toLowerCase().includes(addressSearch))
+    .slice(0, 30);
+
+  useEffect(() => {
+    if (activeStage === 'address') return;
+    setAddressDropdownOpen(false);
+    setSelectedCityForAddress('');
+    setCityAreas([]);
+    setAreasLoadError('');
+  }, [activeStage]);
+
+  if (isImageOnlyView) {
+    return (
+      <PropertyLayout
+        stepText=""
+        progressPercent={0}
+        showProgress={false}
+        onBack={handleImageOnlyBack}
+        pageClassName="picturePage"
+        contentClassName="pictureContent"
+      >
+        <div className="picturePanel">
+          <input
+            ref={imageInputRef}
+            type="file"
+            className="hiddenUploadInput"
+            accept=".png,.jpg,.jpeg,.gif"
+            multiple
+            onChange={handleImagesSelected}
+          />
+          <button className="uploadArea pictureUploadArea" onClick={handleUploadImagesClick}>
+            <span className="uploadIconWrap"><LuUpload /></span>
+            <span className="uploadText">Click to upload or drag and drop</span>
+            <span className="uploadHint">PNG, JPG, GIF up to 10MB</span>
+          </button>
+          {!!selectedUploadedImages?.length && (
+            <div className="imageGrid">
+              {selectedUploadedImages.map((item, index) => (
+                <div key={`${item}-${index}`} className="imageCard">
+                  <img src={item} alt={`Uploaded ${index + 1}`} className="imageThumb" />
+                  {index === 0 && <span className="mainBadge">Main</span>}
+                </div>
+              ))}
+              <button className="imageCard addImageCard" onClick={handleUploadImagesClick}>
+                <LuPlus />
+                <span>Add more</span>
+              </button>
+            </div>
+          )}
+          <button className="continueBtn" onClick={handleImageOnlyContinue}>Continue & Preview</button>
+        </div>
+      </PropertyLayout>
+    );
+  }
 
   return (
     <PropertyLayout
@@ -2093,7 +3128,18 @@ function AiChatbotListingPage({
                 <AssistantTypewriterText text={message.text} />
               </BotMessage>
             ) : (
-              <UserMessage key={`u-${index}`}>{message.text}</UserMessage>
+              <UserMessage
+                key={`u-${index}`}
+                onEditStart={() => handleEditPreviousUserMessage(message.text, index)}
+                isEditing={editingMessageIndex === index}
+                editValue={editingMessageText}
+                onEditValueChange={setEditingMessageText}
+                onEditCancel={handleCancelMessageEdit}
+                onEditSubmit={handleSubmitMessageEdit}
+                isSendDisabled={isReplyLoading || !String(editingMessageText || '').trim()}
+              >
+                {message.text}
+              </UserMessage>
             )
           )}
           {isReplyLoading && (
@@ -2143,6 +3189,22 @@ function AiChatbotListingPage({
             ))}
           </div>
         )}
+        {activeStage === 'bedrooms' && (
+          <OptionTabs
+            options={BEDROOM_OPTIONS}
+            containerClassName="bedroomOptions"
+            buttonClassName="bedroomChip"
+            onOptionClick={(item, index) => handleBedroomQuickSelect(item, index)}
+          />
+        )}
+        {activeStage === 'bathrooms' && (
+          <OptionTabs
+            options={BATHROOM_OPTIONS}
+            containerClassName="bedroomOptions"
+            buttonClassName="bedroomChip"
+            onOptionClick={(item, index) => handleBathroomQuickSelect(item, index)}
+          />
+        )}
         {activeStage === 'useProfileContact' && hasProfileContact && (
           <div className="aiPurposeInlineOptions">
             <button
@@ -2164,31 +3226,40 @@ function AiChatbotListingPage({
           </div>
         )}
         {activeStage === 'images' && (
-          <div className="aiPurposeInlineOptions">
-            <button
-              type="button"
-              className="purposeChip aiQuickPurposeBtn"
-              onClick={handleUploadImagesClick}
-              disabled={isReplyLoading}
-            >
-              Upload Images
-            </button>
-            <button
-              type="button"
-              className="purposeChip aiQuickPurposeBtn"
-              onClick={handleSkipImages}
-              disabled={isReplyLoading}
-            >
-              Skip
-            </button>
+          <div className="aiImageUploadPanel">
             <input
               ref={imageInputRef}
               type="file"
               accept="image/*"
               multiple
-              style={{ display: 'none' }}
+              className="hiddenUploadInput"
               onChange={handleImagesSelected}
             />
+            <div
+              className={`aiImageDropZone ${isImageDragActive ? 'aiImageDropZoneActive' : ''}`}
+              onClick={handleUploadImagesClick}
+              onDragOver={(event) => {
+                event.preventDefault();
+                if (!isImageDragActive) setIsImageDragActive(true);
+              }}
+              onDragLeave={(event) => {
+                event.preventDefault();
+                setIsImageDragActive(false);
+              }}
+              onDrop={handleImageDrop}
+              role="button"
+              tabIndex={0}
+              onKeyDown={(event) => {
+                if (event.key === 'Enter' || event.key === ' ') {
+                  event.preventDefault();
+                  handleUploadImagesClick();
+                }
+              }}
+            >
+              <span className="uploadIconWrap"><LuUpload /></span>
+              <span className="uploadText">Click to upload or drag and drop</span>
+              <span className="uploadHint">PNG, JPG, GIF up to 10MB</span>
+            </div>
           </div>
         )}
           <div ref={messagesEndRef}></div>
@@ -2197,19 +3268,108 @@ function AiChatbotListingPage({
         <div className="aiChatbotComposerBar">
           <div className="aiChatbotInputRow">
             <input
+              ref={composerInputRef}
               className="addressInput aiChatbotTextInput"
-              placeholder="Yahan apna message likhein..."
+              placeholder={activeStage === 'address' ? 'Select your city or area...' : 'Type your message here...'}
               value={inputText}
-              onChange={(event) => setInputText(event.target.value)}
+              onChange={(event) => {
+                setInputText(event.target.value);
+                if (activeStage === 'address') {
+                  setAddressDropdownOpen(true);
+                }
+              }}
+              onFocus={() => {
+                if (activeStage === 'address') {
+                  setAddressDropdownOpen(true);
+                }
+              }}
+              onBlur={() => {
+                if (activeStage !== 'address') return;
+                setTimeout(() => setAddressDropdownOpen(false), 120);
+              }}
               onKeyDown={(event) => {
-                if (event.key === 'Enter') handleSend();
+                if (event.key === 'Enter') {
+                  event.preventDefault();
+                  handleSend();
+                }
               }}
               disabled={isReplyLoading}
             />
-            <button className="sendBtn aiChatbotSendBtn" onClick={handleSend} disabled={isReplyLoading || !inputText.trim()}>
+            <button className="sendBtn aiChatbotSendBtn" onClick={() => handleSend()} disabled={isReplyLoading || !inputText.trim()}>
               <LuSend />
             </button>
           </div>
+          {activeStage === 'address' && addressDropdownOpen && (
+            <div className="addressDropdownPanel">
+              {!selectedCityForAddress && (
+                <>
+                  <div className="addressDropdownTitle">Select City</div>
+                  {filteredCities.map((cityName) => (
+                    <button
+                      key={cityName}
+                      type="button"
+                      className="addressDropdownItem"
+                      disabled={isReplyLoading}
+                      onMouseDown={(event) => event.preventDefault()}
+                      onClick={() => handleAddressCitySelect(cityName)}
+                    >
+                      {cityName}
+                    </button>
+                  ))}
+                  {!filteredCities.length && (
+                    <button type="button" className="addressDropdownItem addressDropdownEmptyItem" disabled>
+                      No matching city found
+                    </button>
+                  )}
+                </>
+              )}
+
+              {selectedCityForAddress && (
+                <>
+                  <div className="addressDropdownTitle">Select Area</div>
+                  <button
+                    type="button"
+                    className="addressDropdownItem addressDropdownBackItem"
+                    disabled={isReplyLoading}
+                    onMouseDown={(event) => event.preventDefault()}
+                    onClick={() => {
+                      setSelectedCityForAddress('');
+                      setCityAreas([]);
+                      setAreasLoadError('');
+                      setInputText('');
+                    }}
+                  >
+                    Change City
+                  </button>
+                  <button type="button" className="addressDropdownItem addressDropdownPinnedItem" disabled>
+                    {selectedCityForAddress}
+                  </button>
+                  {isAreasLoading && (
+                    <button type="button" className="addressDropdownItem addressDropdownEmptyItem" disabled>
+                      Loading areas...
+                    </button>
+                  )}
+                  {!isAreasLoading && filteredAreas.map((areaName) => (
+                    <button
+                      key={areaName}
+                      type="button"
+                      className="addressDropdownItem"
+                      disabled={isReplyLoading}
+                      onMouseDown={(event) => event.preventDefault()}
+                      onClick={() => handleAddressAreaSelect(areaName)}
+                    >
+                      {areaName}
+                    </button>
+                  ))}
+                  {!isAreasLoading && !filteredAreas.length && (
+                    <button type="button" className="addressDropdownItem addressDropdownEmptyItem" disabled>
+                      {areasLoadError || 'No matching area found'}
+                    </button>
+                  )}
+                </>
+              )}
+            </div>
+          )}
         </div>
       </div>
     </PropertyLayout>
@@ -2218,6 +3378,9 @@ function AiChatbotListingPage({
 
 function PublishPage({
   title,
+  description,
+  propertyGroup,
+  purpose,
   propertyType,
   address,
   price,
@@ -2225,14 +3388,30 @@ function PublishPage({
   sizeUnit,
   bedrooms,
   bathrooms,
+  contactNumber,
+  email,
   features,
   images,
   onPublish,
+  onEditNavigate,
   publishLoading,
   publishMessage,
 }) {
   const heroImage = images?.[0] || '';
   const formattedSize = size ? `${size} ${sizeUnit || ''}`.trim() : '850 sq ft';
+
+  const normalizedGroup = String(propertyGroup || '').toLowerCase();
+  const normalizedType = String(propertyType || '').toLowerCase();
+  const hideAmenityMeta = normalizedGroup.includes('plot')
+    || normalizedGroup.includes('commercial')
+    || normalizedType.includes('plot')
+    || normalizedType.includes('commercial');
+  const featureItems = getLocationAwareFeatures({
+    features,
+    address,
+    propertyType,
+    purpose,
+  });
   return (
     <div className="publishPageWrap">
       <div className="publishCard">
@@ -2251,9 +3430,14 @@ function PublishPage({
             <div className="publishPriceBlock">
               <h3>{price || 'Rs 350,000'}</h3>
               <p className="publishAddress"><LuMapPin /> {address || '123 Main St, Downtown'}</p>
+              <h2 className="publishDescriptionHeading">Description</h2>
+              <p className="publishDescription">{description || 'A professional property description will appear here after generation.'}</p>
             </div>
           </div>
-          <div className="publishMeta">
+          <div
+            className="publishMeta"
+            style={{ gridTemplateColumns: hideAmenityMeta ? 'repeat(1, 1fr)' : 'repeat(3, 1fr)' }}
+          >
             <div className="publishMetaItem">
               <span><LuRuler /></span>
               <div className="publishMetaText">
@@ -2261,32 +3445,53 @@ function PublishPage({
                 <em>{formattedSize}</em>
               </div>
             </div>
+            {!hideAmenityMeta && (
+              <div className="publishMetaItem">
+                <span><LuBedDouble /></span>
+                <div className="publishMetaText">
+                  <strong>Bedrooms</strong>
+                  <em>{bedrooms || '5'}</em>
+                </div>
+              </div>
+            )}
+            {!hideAmenityMeta && (
+              <div className="publishMetaItem">
+                <span><LuBath /></span>
+                <div className="publishMetaText">
+                  <strong>Bathrooms</strong>
+                  <em>{bathrooms || '4'}</em>
+                </div>
+              </div>
+            )}
+          </div>
+          <h4 className="publishContactHeading">Contact Details</h4>
+          <div className="publishContactMeta">
             <div className="publishMetaItem">
-              <span><LuBedDouble /></span>
+              <span><LuPhone /></span>
               <div className="publishMetaText">
-                <strong>Bedrooms</strong>
-                <em>{bedrooms || '5'}</em>
+                <em>{contactNumber || 'Not provided'}</em>
               </div>
             </div>
             <div className="publishMetaItem">
-              <span><LuBath /></span>
+              <span><LuMail /></span>
               <div className="publishMetaText">
-                <strong>Bathrooms</strong>
-                <em>{bathrooms || '4'}</em>
+                <em>{email || 'Not provided'}</em>
               </div>
             </div>
           </div>
           <h4>Key Features</h4>
           <div className="publishFeatures">
-            <span><span className="publishFeatureIcon"><LuCheck /></span> {getFeatureText(features)}</span>
-            <span><span className="publishFeatureIcon"><LuCheck /></span> Walk-in Closets</span>
-            <span><span className="publishFeatureIcon"><LuCheck /></span> Gym/Fitness Center</span>
+            {featureItems.map((item) => (
+              <span key={item}><span className="publishFeatureIcon"><LuCheck /></span> {item}</span>
+            ))}
           </div>
           <div className="publishActions">
             <button className="publishBtn" onClick={onPublish} disabled={publishLoading}>
               <LuSparkles /> {publishLoading ? 'Publishing...' : 'Publish Listing'}
             </button>
-            <button className="saveBtn">Save for later</button>
+            <button className="saveBtn" type="button" onClick={onEditNavigate}>
+              Edit Listing
+            </button>
           </div>
           {publishMessage && (
             <p className="publishStatusText">{publishMessage}</p>
@@ -2348,22 +3553,92 @@ function PropertyFlow() {
     const contactNumber = toApiPakistanPhone(rawContactNumber) || '+923331234567';
     const userEmail = selectedEmail || getEmailFromUser(authUser) || 'dummy@property.com';
 
+    const effectiveAddress = String(selectedAddress || '').trim() || 'Pakistan';
+    const cleanedLocation = getDisplayLocationFromAddress(effectiveAddress) || effectiveAddress;
+    const parsedAddressRaw = parseAddressParts(effectiveAddress, citiesList);
+    const parsedAddress = parseAddressParts(cleanedLocation, citiesList);
+    const finalCityName = parsedAddress.cityName || parsedAddressRaw.cityName || '';
+    const finalCityCode = parsedAddress.cityCode || parsedAddressRaw.cityCode || 'LHR';
+    const fallbackAreaFromComma = String(effectiveAddress || '')
+      .split(',')
+      .slice(0, -1)
+      .join(',')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const fallbackAreaFromCleanedLocation = finalCityName
+      ? String(cleanedLocation || '')
+        .replace(new RegExp(`\\b${String(finalCityName).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'ig'), ' ')
+        .replace(/\s*,\s*/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+      : '';
+    const finalAreaName = (
+      parsedAddress.areaName
+      || parsedAddressRaw.areaName
+      || fallbackAreaFromCleanedLocation
+      || fallbackAreaFromComma
+    )
+      .replace(/\s+/g, ' ')
+      .trim();
+    const finalAddress = finalCityName && finalAreaName
+      ? `${finalAreaName}, ${finalCityName}`.replace(/\s+/g, ' ').trim()
+      : cleanedLocation;
+    const areaMeta = await resolveAreaMetadata(finalCityName, finalAreaName);
+    const effectiveTitle = String(generatedTitle || '').trim() || buildAutoListingTitle({
+      size: selectedSize,
+      sizeUnit: selectedSizeUnit,
+      propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
+      purpose: selectedPurpose,
+      address: finalAddress,
+    });
+    const effectiveDescription = String(generatedDescription || '').trim() || buildAutoListingDescription({
+      purpose: selectedPurpose,
+      propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
+      address: finalAddress,
+      size: selectedSize,
+      sizeUnit: selectedSizeUnit,
+      bedrooms: selectedBedrooms,
+      bathrooms: selectedBathrooms,
+      features: selectedFeature,
+      price: selectedPrice,
+    });
+    const resolvedLocationValue = areaMeta?.id || areaMeta?.externalID || finalAddress || finalAreaName;
+
     const payload = {
       property_type_id: 1,
       property_type_slug: mapPurposeToSlug(selectedPurpose),
       category_id: 1,
       sub_category_id: 1,
-      city_code: 'LHR',
+      city_code: finalCityCode,
       plot_number: '123',
       area_size: selectedSize,
       unit_area: selectedSizeUnit,
       price: getNumericPrice(selectedPrice),
       currency: 'PKR',
-      title: generatedTitle || `${selectedPropertyType} for ${selectedPurpose}`,
-      description: generatedDescription,
+      title: effectiveTitle,
+      description: effectiveDescription,
+      property_description: effectiveDescription,
       contacts: [contactNumber],
       ...(userEmail ? { email: userEmail } : {}),
-      address: selectedAddress,
+      address: finalAddress,
+      location: resolvedLocationValue,
+      property_location: resolvedLocationValue,
+      location_text: finalAddress || finalAreaName,
+      property_location_text: finalAddress || finalAreaName,
+      city: finalAddress || finalCityName,
+      city_name: finalAddress || finalCityName,
+      city_only: finalCityName,
+      city_with_area: finalAddress || finalCityName,
+      area: finalAreaName,
+      area_name: finalAreaName,
+      location_name: finalAddress || finalAreaName,
+      locality: finalAddress || finalAreaName,
+      locality_name: finalAddress || finalAreaName,
+      ...(areaMeta?.id ? { location_id: areaMeta.id, area_id: areaMeta.id, locality_id: areaMeta.id } : {}),
+      ...(areaMeta?.externalID ? { location_external_id: areaMeta.externalID, area_external_id: areaMeta.externalID } : {}),
+      ...(areaMeta?.slug ? { location_slug: areaMeta.slug, area_slug: areaMeta.slug } : {}),
+      ...(parsedAddress.latitude !== undefined ? { latitude: parsedAddress.latitude } : {}),
+      ...(parsedAddress.longitude !== undefined ? { longitude: parsedAddress.longitude } : {}),
       bedrooms: selectedBedrooms,
       bathrooms: selectedBathrooms,
       features: Array.isArray(selectedFeature) ? selectedFeature : [selectedFeature],
@@ -2527,8 +3802,48 @@ function PropertyFlow() {
             setUploadedImageFiles((prev) => [...prev, ...files]);
             setUploadedImages((prev) => [...prev, ...newImages]);
           }}
+          onResetImages={() => {
+            setUploadedImages((prev) => {
+              prev.forEach((item) => {
+                if (typeof item === 'string' && item.startsWith('blob:')) {
+                  URL.revokeObjectURL(item);
+                }
+              });
+              return [];
+            });
+            setUploadedImageFiles([]);
+          }}
           onSetContactNumber={setSelectedContactNumber}
           onSetEmail={setSelectedEmail}
+          onContinueAfterImages={() => {
+            if (!String(generatedTitle || '').trim()) {
+              setGeneratedTitle(
+                buildAutoListingTitle({
+                  size: selectedSize,
+                  sizeUnit: selectedSizeUnit,
+                  propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
+                  purpose: selectedPurpose,
+                  address: selectedAddress,
+                })
+              );
+            }
+            if (!String(generatedDescription || '').trim()) {
+              setGeneratedDescription(
+                buildAutoListingDescription({
+                  purpose: selectedPurpose,
+                  propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
+                  address: selectedAddress,
+                  size: selectedSize,
+                  sizeUnit: selectedSizeUnit,
+                  bedrooms: selectedBedrooms,
+                  bathrooms: selectedBathrooms,
+                  features: selectedFeature,
+                  price: selectedPrice,
+                })
+              );
+            }
+            setCurrentPage('genrate');
+          }}
         />
       );
     case 'listingMode':
@@ -2644,17 +3959,39 @@ function PropertyFlow() {
     case 'publish':
       return (
         <PublishPage
-          title={generatedTitle || `${selectedPropertyType} for ${selectedPurpose}`}
+          title={generatedTitle || buildAutoListingTitle({
+            size: selectedSize,
+            sizeUnit: selectedSizeUnit,
+            propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
+            purpose: selectedPurpose,
+            address: selectedAddress,
+          })}
+          description={generatedDescription || buildAutoListingDescription({
+            propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
+            purpose: selectedPurpose,
+            address: selectedAddress,
+            size: selectedSize,
+            sizeUnit: selectedSizeUnit,
+            bedrooms: selectedBedrooms,
+            bathrooms: selectedBathrooms,
+            features: selectedFeature,
+            price: selectedPrice,
+          })}
+          propertyGroup={selectedPropertyGroup}
+          purpose={selectedPurpose}
           propertyType={selectedPropertyType}
-          address={selectedAddress}
+          address={getDisplayLocationFromAddress(selectedAddress)}
           price={selectedPrice}
           size={selectedSize}
           sizeUnit={selectedSizeUnit}
           bedrooms={selectedBedrooms}
           bathrooms={selectedBathrooms}
+          contactNumber={selectedContactNumber || profileContactNumber}
+          email={selectedEmail || profileEmail}
           features={selectedFeature}
           images={uploadedImages}
           onPublish={handlePublishListing}
+          onEditNavigate={() => setCurrentPage('chatbot')}
           publishLoading={publishLoading}
           publishMessage={publishMessage}
         />

@@ -1,0 +1,70 @@
+[
+  {
+      "id": 16502,
+      "name": "Wana",
+      "name_l1": "وانا",
+      "externalID": "17744",
+      "slug": "/Wana-17744",
+      "slug_l1": "/Wana-17744",
+      "_geoloc": {
+          "lat": 32.29543,
+          "lng": 69.576004
+      },
+      "geography": {
+          "lat": 32.29543,
+          "lng": 69.576004
+      },
+      "geo_point": [
+          69.576004,
+          32.29543
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 16502,
+              "level": 2,
+              "externalID": "17744",
+              "name": "Wana",
+              "name_l1": "وانا",
+              "slug": "/Wana-17744",
+              "slug_l1": "/Wana-17744"
+          }
+      ],
+      "hierarchyPath": "Wana Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17744",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16502",
+      "_highlightResult": {
+          "name": {
+              "value": "Wana",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

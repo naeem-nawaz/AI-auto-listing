@@ -1,0 +1,70 @@
+[
+  {
+      "id": 16493,
+      "name": "Miran Shah",
+      "name_l1": "میران شاہ",
+      "externalID": "17735",
+      "slug": "/Miran_Shah-17735",
+      "slug_l1": "/Miran_Shah-17735",
+      "_geoloc": {
+          "lat": 32.982818,
+          "lng": 70.120949
+      },
+      "geography": {
+          "lat": 32.982818,
+          "lng": 70.120949
+      },
+      "geo_point": [
+          70.120949,
+          32.982818
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 16493,
+              "level": 2,
+              "externalID": "17735",
+              "name": "Miran Shah",
+              "name_l1": "میران شاہ",
+              "slug": "/Miran_Shah-17735",
+              "slug_l1": "/Miran_Shah-17735"
+          }
+      ],
+      "hierarchyPath": "Miran Shah Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17735",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16493",
+      "_highlightResult": {
+          "name": {
+              "value": "Miran Shah",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

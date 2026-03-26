@@ -1,0 +1,2674 @@
+[
+  {
+      "id": 6289,
+      "name": "Jamaldin Wali Road",
+      "name_l1": "جمال الدین ولی روڈ",
+      "externalID": "12650",
+      "slug": "/Sadiqabad_Jamaldin_Wali_Road-12650",
+      "slug_l1": "/Sadiqabad_Jamaldin_Wali_Road-12650",
+      "_geoloc": {
+          "lat": 28.328725,
+          "lng": 70.11795
+      },
+      "geography": {
+          "lat": 28.328725,
+          "lng": 70.11795
+      },
+      "geo_point": [
+          70.11795,
+          28.328725
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 6289,
+              "level": 3,
+              "externalID": "12650",
+              "name": "Jamaldin Wali Road",
+              "name_l1": "جمال الدین ولی روڈ",
+              "slug": "/Sadiqabad_Jamaldin_Wali_Road-12650",
+              "slug_l1": "/Sadiqabad_Jamaldin_Wali_Road-12650"
+          }
+      ],
+      "hierarchyPath": "Jamaldin Wali Road Sadiqabad Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12650",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6289",
+      "_highlightResult": {
+          "name": {
+              "value": "Jamaldin Wali Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 139,
+      "name": "Sadiqabad",
+      "name_l1": "صادق آباد",
+      "externalID": "9538",
+      "slug": "/Sadiqabad-9538",
+      "slug_l1": "/Sadiqabad-9538",
+      "_geoloc": {
+          "lat": 28.306716,
+          "lng": 70.131959
+      },
+      "geography": {
+          "lat": 28.306716,
+          "lng": 70.131959
+      },
+      "geo_point": [
+          70.131959,
+          28.306716
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          }
+      ],
+      "hierarchyPath": "Sadiqabad Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9538",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "139",
+      "_highlightResult": {
+          "name": {
+              "value": "Sadiqabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9412,
+      "name": "Satellite Town",
+      "name_l1": "سیٹلائٹ ٹاؤن",
+      "externalID": "12651",
+      "slug": "/Sadiqabad_Jamaldin_Wali_Road_Satellite_Town-12651",
+      "slug_l1": "/Sadiqabad_Jamaldin_Wali_Road_Satellite_Town-12651",
+      "_geoloc": {
+          "lat": 28.321833,
+          "lng": 70.124566
+      },
+      "geography": {
+          "lat": 28.321833,
+          "lng": 70.124566
+      },
+      "geo_point": [
+          70.124566,
+          28.321833
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 6289,
+              "level": 3,
+              "externalID": "12650",
+              "name": "Jamaldin Wali Road",
+              "name_l1": "جمال الدین ولی روڈ",
+              "slug": "/Sadiqabad_Jamaldin_Wali_Road-12650",
+              "slug_l1": "/Sadiqabad_Jamaldin_Wali_Road-12650"
+          },
+          {
+              "id": 9412,
+              "level": 4,
+              "externalID": "12651",
+              "name": "Satellite Town",
+              "name_l1": "سیٹلائٹ ٹاؤن",
+              "slug": "/Sadiqabad_Jamaldin_Wali_Road_Satellite_Town-12651",
+              "slug_l1": "/Sadiqabad_Jamaldin_Wali_Road_Satellite_Town-12651"
+          }
+      ],
+      "hierarchyPath": "Satellite Town Jamaldin Wali Road Sadiqabad Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12651",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9412",
+      "_highlightResult": {
+          "name": {
+              "value": "Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4981,
+      "name": "Ahmadpur Lumma",
+      "name_l1": "احمد پور لمما",
+      "externalID": "10076",
+      "slug": "/Sadiqabad_Ahmadpur_Lumma-10076",
+      "slug_l1": "/Sadiqabad_Ahmadpur_Lumma-10076",
+      "_geoloc": {
+          "lat": 28.317819,
+          "lng": 70.052654
+      },
+      "geography": {
+          "lat": 28.317819,
+          "lng": 70.052654
+      },
+      "geo_point": [
+          70.052654,
+          28.317819
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 4981,
+              "level": 3,
+              "externalID": "10076",
+              "name": "Ahmadpur Lumma",
+              "name_l1": "احمد پور لمما",
+              "slug": "/Sadiqabad_Ahmadpur_Lumma-10076",
+              "slug_l1": "/Sadiqabad_Ahmadpur_Lumma-10076"
+          }
+      ],
+      "hierarchyPath": "Ahmadpur Lumma Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10076",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "4981",
+      "_highlightResult": {
+          "name": {
+              "value": "Ahmadpur Lumma",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6288,
+      "name": "Ajmal Town",
+      "name_l1": "اجمل ٹاؤن",
+      "externalID": "12649",
+      "slug": "/Sadiqabad_Ajmal_Town-12649",
+      "slug_l1": "/Sadiqabad_Ajmal_Town-12649",
+      "_geoloc": {
+          "lat": 28.29612,
+          "lng": 70.138253
+      },
+      "geography": {
+          "lat": 28.29612,
+          "lng": 70.138253
+      },
+      "geo_point": [
+          70.138253,
+          28.29612
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 6288,
+              "level": 3,
+              "externalID": "12649",
+              "name": "Ajmal Town",
+              "name_l1": "اجمل ٹاؤن",
+              "slug": "/Sadiqabad_Ajmal_Town-12649",
+              "slug_l1": "/Sadiqabad_Ajmal_Town-12649"
+          }
+      ],
+      "hierarchyPath": "Ajmal Town Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12649",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6288",
+      "_highlightResult": {
+          "name": {
+              "value": "Ajmal Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12248,
+      "name": "Akbar Town",
+      "name_l1": "اکبر ٹاؤن",
+      "externalID": "13729",
+      "slug": "/Sadiqabad_Akbar_Town-13729",
+      "slug_l1": "/Sadiqabad_Akbar_Town-13729",
+      "_geoloc": {
+          "lat": 28.311955,
+          "lng": 70.136927
+      },
+      "geography": {
+          "lat": 28.311955,
+          "lng": 70.136927
+      },
+      "geo_point": [
+          70.136927,
+          28.311955
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 12248,
+              "level": 3,
+              "externalID": "13729",
+              "name": "Akbar Town",
+              "name_l1": "اکبر ٹاؤن",
+              "slug": "/Sadiqabad_Akbar_Town-13729",
+              "slug_l1": "/Sadiqabad_Akbar_Town-13729"
+          }
+      ],
+      "hierarchyPath": "Akbar Town Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13729",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12248",
+      "_highlightResult": {
+          "name": {
+              "value": "Akbar Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18699,
+      "name": "Al Hassan City",
+      "name_l1": "الحسن سٹی",
+      "externalID": "19612",
+      "slug": "/Sadiqabad_Tillu_Road_Al_Hassan_City-19612",
+      "slug_l1": "/Sadiqabad_Tillu_Road_Al_Hassan_City-19612",
+      "_geoloc": {
+          "lat": 28.2866326,
+          "lng": 70.1236709
+      },
+      "geography": {
+          "lat": 28.2866326,
+          "lng": 70.1236709
+      },
+      "geo_point": [
+          70.1236709,
+          28.2866326
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 11250,
+              "level": 3,
+              "externalID": "12840",
+              "name": "Tillu Road",
+              "name_l1": "تللو روڈ",
+              "slug": "/Sadiqabad_Tillu_Road-12840",
+              "slug_l1": "/Sadiqabad_Tillu_Road-12840"
+          },
+          {
+              "id": 18699,
+              "level": 4,
+              "externalID": "19612",
+              "name": "Al Hassan City",
+              "name_l1": "الحسن سٹی",
+              "slug": "/Sadiqabad_Tillu_Road_Al_Hassan_City-19612",
+              "slug_l1": "/Sadiqabad_Tillu_Road_Al_Hassan_City-19612"
+          }
+      ],
+      "hierarchyPath": "Al Hassan City Tillu Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19612",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18699",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Hassan City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4974,
+      "name": "Allama Iqbal Road",
+      "name_l1": "علامہ اقبال روڈ",
+      "externalID": "10068",
+      "slug": "/Sadiqabad_Allama_Iqbal_Road-10068",
+      "slug_l1": "/Sadiqabad_Allama_Iqbal_Road-10068",
+      "_geoloc": {
+          "lat": 28.300225,
+          "lng": 70.1332
+      },
+      "geography": {
+          "lat": 28.300225,
+          "lng": 70.1332
+      },
+      "geo_point": [
+          70.1332,
+          28.300225
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 4974,
+              "level": 3,
+              "externalID": "10068",
+              "name": "Allama Iqbal Road",
+              "name_l1": "علامہ اقبال روڈ",
+              "slug": "/Sadiqabad_Allama_Iqbal_Road-10068",
+              "slug_l1": "/Sadiqabad_Allama_Iqbal_Road-10068"
+          }
+      ],
+      "hierarchyPath": "Allama Iqbal Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10068",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4974",
+      "_highlightResult": {
+          "name": {
+              "value": "Allama Iqbal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18700,
+      "name": "Bagh-e-Bahisht",
+      "name_l1": "باغِ بہشت",
+      "externalID": "19615",
+      "slug": "/Sadiqabad_Bagh_e_Bahisht-19615",
+      "slug_l1": "/Sadiqabad_Bagh_e_Bahisht-19615",
+      "_geoloc": {
+          "lat": 28.260626,
+          "lng": 70.086386
+      },
+      "geography": {
+          "lat": 28.260626,
+          "lng": 70.086386
+      },
+      "geo_point": [
+          70.086386,
+          28.260626
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 18700,
+              "level": 3,
+              "externalID": "19615",
+              "name": "Bagh-e-Bahisht",
+              "name_l1": "باغِ بہشت",
+              "slug": "/Sadiqabad_Bagh_e_Bahisht-19615",
+              "slug_l1": "/Sadiqabad_Bagh_e_Bahisht-19615"
+          }
+      ],
+      "hierarchyPath": "Bagh-e-Bahisht Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19615",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18700",
+      "_highlightResult": {
+          "name": {
+              "value": "Bagh-e-Bahisht",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18697,
+      "name": "Canal View Housing Colony",
+      "name_l1": "کینال ویو ہاؤسنگ کالونی",
+      "externalID": "19613",
+      "slug": "/Sadiqabad_Canal_View_Housing_Colony-19613",
+      "slug_l1": "/Sadiqabad_Canal_View_Housing_Colony-19613",
+      "_geoloc": {
+          "lat": 28.300491,
+          "lng": 70.141412
+      },
+      "geography": {
+          "lat": 28.300491,
+          "lng": 70.141412
+      },
+      "geo_point": [
+          70.141412,
+          28.300491
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 18697,
+              "level": 3,
+              "externalID": "19613",
+              "name": "Canal View Housing Colony",
+              "name_l1": "کینال ویو ہاؤسنگ کالونی",
+              "slug": "/Sadiqabad_Canal_View_Housing_Colony-19613",
+              "slug_l1": "/Sadiqabad_Canal_View_Housing_Colony-19613"
+          }
+      ],
+      "hierarchyPath": "Canal View Housing Colony Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19613",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18697",
+      "_highlightResult": {
+          "name": {
+              "value": "Canal View Housing Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17867,
+      "name": "Chak 148 P",
+      "name_l1": "چک 148پی",
+      "externalID": "18901",
+      "slug": "/Sadiqabad_Chak_148_P-18901",
+      "slug_l1": "/Sadiqabad_Chak_148_P-18901",
+      "_geoloc": {
+          "lat": 28.2790406,
+          "lng": 70.2162544
+      },
+      "geography": {
+          "lat": 28.2790406,
+          "lng": 70.2162544
+      },
+      "geo_point": [
+          70.2162544,
+          28.2790406
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 17867,
+              "level": 3,
+              "externalID": "18901",
+              "name": "Chak 148 P",
+              "name_l1": "چک 148پی",
+              "slug": "/Sadiqabad_Chak_148_P-18901",
+              "slug_l1": "/Sadiqabad_Chak_148_P-18901"
+          }
+      ],
+      "hierarchyPath": "Chak 148 P Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18901",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17867",
+      "_highlightResult": {
+          "name": {
+              "value": "Chak 148 P",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18698,
+      "name": "Chief Residencia",
+      "name_l1": "چیف ریزیڈنشیا",
+      "externalID": "19614",
+      "slug": "/Sadiqabad_Chief_Residencia-19614",
+      "slug_l1": "/Sadiqabad_Chief_Residencia-19614",
+      "_geoloc": {
+          "lat": 28.299141,
+          "lng": 70.1399665
+      },
+      "geography": {
+          "lat": 28.299141,
+          "lng": 70.1399665
+      },
+      "geo_point": [
+          70.1399665,
+          28.299141
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 18698,
+              "level": 3,
+              "externalID": "19614",
+              "name": "Chief Residencia",
+              "name_l1": "چیف ریزیڈنشیا",
+              "slug": "/Sadiqabad_Chief_Residencia-19614",
+              "slug_l1": "/Sadiqabad_Chief_Residencia-19614"
+          }
+      ],
+      "hierarchyPath": "Chief Residencia Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19614",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18698",
+      "_highlightResult": {
+          "name": {
+              "value": "Chief Residencia",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5157,
+      "name": "Dreamland Housing Society",
+      "name_l1": "ڈریم لینڈ ہاؤسنگ سوسائٹی",
+      "externalID": "10381",
+      "slug": "/Sadiqabad_Dreamland_Housing_Society-10381",
+      "slug_l1": "/Sadiqabad_Dreamland_Housing_Society-10381",
+      "_geoloc": {
+          "lat": 28.331495,
+          "lng": 70.13672
+      },
+      "geography": {
+          "lat": 28.331495,
+          "lng": 70.13672
+      },
+      "geo_point": [
+          70.13672,
+          28.331495
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 5157,
+              "level": 3,
+              "externalID": "10381",
+              "name": "Dreamland Housing Society",
+              "name_l1": "ڈریم لینڈ ہاؤسنگ سوسائٹی",
+              "slug": "/Sadiqabad_Dreamland_Housing_Society-10381",
+              "slug_l1": "/Sadiqabad_Dreamland_Housing_Society-10381"
+          }
+      ],
+      "hierarchyPath": "Dreamland Housing Society Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10381",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5157",
+      "_highlightResult": {
+          "name": {
+              "value": "Dreamland Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4972,
+      "name": "Ghalla Mandi",
+      "name_l1": "غلہ منڈی",
+      "externalID": "10066",
+      "slug": "/Sadiqabad_Ghalla_Mandi-10066",
+      "slug_l1": "/Sadiqabad_Ghalla_Mandi-10066",
+      "_geoloc": {
+          "lat": 28.302893,
+          "lng": 70.132556
+      },
+      "geography": {
+          "lat": 28.302893,
+          "lng": 70.132556
+      },
+      "geo_point": [
+          70.132556,
+          28.302893
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 4972,
+              "level": 3,
+              "externalID": "10066",
+              "name": "Ghalla Mandi",
+              "name_l1": "غلہ منڈی",
+              "slug": "/Sadiqabad_Ghalla_Mandi-10066",
+              "slug_l1": "/Sadiqabad_Ghalla_Mandi-10066"
+          }
+      ],
+      "hierarchyPath": "Ghalla Mandi Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10066",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4972",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghalla Mandi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11988,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "13510",
+      "slug": "/Sadiqabad_GT_Road-13510",
+      "slug_l1": "/Sadiqabad_GT_Road-13510",
+      "_geoloc": {
+          "lat": 28.304399,
+          "lng": 70.111261
+      },
+      "geography": {
+          "lat": 28.304399,
+          "lng": 70.111261
+      },
+      "geo_point": [
+          70.111261,
+          28.304399
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 11988,
+              "level": 3,
+              "externalID": "13510",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sadiqabad_GT_Road-13510",
+              "slug_l1": "/Sadiqabad_GT_Road-13510"
+          }
+      ],
+      "hierarchyPath": "GT Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13510",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11988",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18701,
+      "name": "Haider Colony",
+      "name_l1": "حیدر کالونی",
+      "externalID": "19616",
+      "slug": "/Sadiqabad_Haider_Colony-19616",
+      "slug_l1": "/Sadiqabad_Haider_Colony-19616",
+      "_geoloc": {
+          "lat": 28.309978,
+          "lng": 70.106214
+      },
+      "geography": {
+          "lat": 28.309978,
+          "lng": 70.106214
+      },
+      "geo_point": [
+          70.106214,
+          28.309978
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 18701,
+              "level": 3,
+              "externalID": "19616",
+              "name": "Haider Colony",
+              "name_l1": "حیدر کالونی",
+              "slug": "/Sadiqabad_Haider_Colony-19616",
+              "slug_l1": "/Sadiqabad_Haider_Colony-19616"
+          }
+      ],
+      "hierarchyPath": "Haider Colony Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19616",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18701",
+      "_highlightResult": {
+          "name": {
+              "value": "Haider Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4975,
+      "name": "Hospital Road",
+      "name_l1": "ہوسپٹل روڈ",
+      "externalID": "10069",
+      "slug": "/Sadiqabad_Hospital_Road-10069",
+      "slug_l1": "/Sadiqabad_Hospital_Road-10069",
+      "_geoloc": {
+          "lat": 28.309922,
+          "lng": 70.129781
+      },
+      "geography": {
+          "lat": 28.309922,
+          "lng": 70.129781
+      },
+      "geo_point": [
+          70.129781,
+          28.309922
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 4975,
+              "level": 3,
+              "externalID": "10069",
+              "name": "Hospital Road",
+              "name_l1": "ہوسپٹل روڈ",
+              "slug": "/Sadiqabad_Hospital_Road-10069",
+              "slug_l1": "/Sadiqabad_Hospital_Road-10069"
+          }
+      ],
+      "hierarchyPath": "Hospital Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10069",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4975",
+      "_highlightResult": {
+          "name": {
+              "value": "Hospital Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22099,
+      "name": "Indus City Housing Society",
+      "name_l1": "انڈس سٹی ہاؤسنگ سوسائٹی",
+      "externalID": "22165",
+      "slug": "/Sadiqabad_Ahmadpur_Lumma_Indus_city_Housing_Society-22165",
+      "slug_l1": "/Sadiqabad_Ahmadpur_Lumma_Indus_city_Housing_Society-22165",
+      "_geoloc": {
+          "lat": 28.316382,
+          "lng": 70.063073
+      },
+      "geography": {
+          "lat": 28.316382,
+          "lng": 70.063073
+      },
+      "geo_point": [
+          70.063073,
+          28.316382
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 4981,
+              "level": 3,
+              "externalID": "10076",
+              "name": "Ahmadpur Lumma",
+              "name_l1": "احمد پور لمما",
+              "slug": "/Sadiqabad_Ahmadpur_Lumma-10076",
+              "slug_l1": "/Sadiqabad_Ahmadpur_Lumma-10076"
+          },
+          {
+              "id": 22099,
+              "level": 4,
+              "externalID": "22165",
+              "name": "Indus City Housing Society",
+              "name_l1": "انڈس سٹی ہاؤسنگ سوسائٹی",
+              "slug": "/Sadiqabad_Ahmadpur_Lumma_Indus_city_Housing_Society-22165",
+              "slug_l1": "/Sadiqabad_Ahmadpur_Lumma_Indus_city_Housing_Society-22165"
+          }
+      ],
+      "hierarchyPath": "Indus City Housing Society Ahmadpur Lumma Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22165",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22099",
+      "_highlightResult": {
+          "name": {
+              "value": "Indus City Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22098,
+      "name": "Indus Commercial",
+      "name_l1": "انڈس کمرشل",
+      "externalID": "22164",
+      "slug": "/Sadiqabad_Ahmadpur_Lumma_Indus_Commercial-22164",
+      "slug_l1": "/Sadiqabad_Ahmadpur_Lumma_Indus_Commercial-22164",
+      "_geoloc": {
+          "lat": 28.316423,
+          "lng": 70.063204
+      },
+      "geography": {
+          "lat": 28.316423,
+          "lng": 70.063204
+      },
+      "geo_point": [
+          70.063204,
+          28.316423
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 4981,
+              "level": 3,
+              "externalID": "10076",
+              "name": "Ahmadpur Lumma",
+              "name_l1": "احمد پور لمما",
+              "slug": "/Sadiqabad_Ahmadpur_Lumma-10076",
+              "slug_l1": "/Sadiqabad_Ahmadpur_Lumma-10076"
+          },
+          {
+              "id": 22098,
+              "level": 4,
+              "externalID": "22164",
+              "name": "Indus Commercial",
+              "name_l1": "انڈس کمرشل",
+              "slug": "/Sadiqabad_Ahmadpur_Lumma_Indus_Commercial-22164",
+              "slug_l1": "/Sadiqabad_Ahmadpur_Lumma_Indus_Commercial-22164"
+          }
+      ],
+      "hierarchyPath": "Indus Commercial Ahmadpur Lumma Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22164",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22098",
+      "_highlightResult": {
+          "name": {
+              "value": "Indus Commercial",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9413,
+      "name": "Jinnah Town",
+      "name_l1": "جناح ٹاؤن",
+      "externalID": "12652",
+      "slug": "/Sadiqabad_Manthar_Road_Jinnah_Town-12652",
+      "slug_l1": "/Sadiqabad_Manthar_Road_Jinnah_Town-12652",
+      "_geoloc": {
+          "lat": 28.296765,
+          "lng": 70.134183
+      },
+      "geography": {
+          "lat": 28.296765,
+          "lng": 70.134183
+      },
+      "geo_point": [
+          70.134183,
+          28.296765
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 6186,
+              "level": 3,
+              "externalID": "12403",
+              "name": "Manthar Road",
+              "name_l1": "منتھر روڈ",
+              "slug": "/Sadiqabad_Manthar_Road-12403",
+              "slug_l1": "/Sadiqabad_Manthar_Road-12403"
+          },
+          {
+              "id": 9413,
+              "level": 4,
+              "externalID": "12652",
+              "name": "Jinnah Town",
+              "name_l1": "جناح ٹاؤن",
+              "slug": "/Sadiqabad_Manthar_Road_Jinnah_Town-12652",
+              "slug_l1": "/Sadiqabad_Manthar_Road_Jinnah_Town-12652"
+          }
+      ],
+      "hierarchyPath": "Jinnah Town Manthar Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12652",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9413",
+      "_highlightResult": {
+          "name": {
+              "value": "Jinnah Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18702,
+      "name": "Kacha Sadiqabad Road",
+      "name_l1": "کچا صادق آباد روڈ",
+      "externalID": "19617",
+      "slug": "/Sadiqabad_Kacha_Sadiqabad_Road-19617",
+      "slug_l1": "/Sadiqabad_Kacha_Sadiqabad_Road-19617",
+      "_geoloc": {
+          "lat": 28.329486,
+          "lng": 70.144747
+      },
+      "geography": {
+          "lat": 28.329486,
+          "lng": 70.144747
+      },
+      "geo_point": [
+          70.144747,
+          28.329486
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 18702,
+              "level": 3,
+              "externalID": "19617",
+              "name": "Kacha Sadiqabad Road",
+              "name_l1": "کچا صادق آباد روڈ",
+              "slug": "/Sadiqabad_Kacha_Sadiqabad_Road-19617",
+              "slug_l1": "/Sadiqabad_Kacha_Sadiqabad_Road-19617"
+          }
+      ],
+      "hierarchyPath": "Kacha Sadiqabad Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19617",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18702",
+      "_highlightResult": {
+          "name": {
+              "value": "Kacha Sadiqabad Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5138,
+      "name": "KLP Road",
+      "name_l1": "کے ایل پی روڈ",
+      "externalID": "10341",
+      "slug": "/Sadiqabad_KLP_Road-10341",
+      "slug_l1": "/Sadiqabad_KLP_Road-10341",
+      "_geoloc": {
+          "lat": 28.314735,
+          "lng": 70.127525
+      },
+      "geography": {
+          "lat": 28.314735,
+          "lng": 70.127525
+      },
+      "geo_point": [
+          70.127525,
+          28.314735
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 5138,
+              "level": 3,
+              "externalID": "10341",
+              "name": "KLP Road",
+              "name_l1": "کے ایل پی روڈ",
+              "slug": "/Sadiqabad_KLP_Road-10341",
+              "slug_l1": "/Sadiqabad_KLP_Road-10341"
+          }
+      ],
+      "hierarchyPath": "KLP Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10341",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5138",
+      "_highlightResult": {
+          "name": {
+              "value": "KLP Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4878,
+      "name": "Kot Sabzal",
+      "name_l1": "کوٹ سبزل",
+      "externalID": "9903",
+      "slug": "/Sadiqabad_Kot_Sabzal-9903",
+      "slug_l1": "/Sadiqabad_Kot_Sabzal-9903",
+      "_geoloc": {
+          "lat": 28.2114,
+          "lng": 69.89369
+      },
+      "geography": {
+          "lat": 28.2114,
+          "lng": 69.89369
+      },
+      "geo_point": [
+          69.89369,
+          28.2114
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 4878,
+              "level": 3,
+              "externalID": "9903",
+              "name": "Kot Sabzal",
+              "name_l1": "کوٹ سبزل",
+              "slug": "/Sadiqabad_Kot_Sabzal-9903",
+              "slug_l1": "/Sadiqabad_Kot_Sabzal-9903"
+          }
+      ],
+      "hierarchyPath": "Kot Sabzal Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9903",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4878",
+      "_highlightResult": {
+          "name": {
+              "value": "Kot Sabzal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6186,
+      "name": "Manthar Road",
+      "name_l1": "منتھر روڈ",
+      "externalID": "12403",
+      "slug": "/Sadiqabad_Manthar_Road-12403",
+      "slug_l1": "/Sadiqabad_Manthar_Road-12403",
+      "_geoloc": {
+          "lat": 28.248222,
+          "lng": 70.157522
+      },
+      "geography": {
+          "lat": 28.248222,
+          "lng": 70.157522
+      },
+      "geo_point": [
+          70.157522,
+          28.248222
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 6186,
+              "level": 3,
+              "externalID": "12403",
+              "name": "Manthar Road",
+              "name_l1": "منتھر روڈ",
+              "slug": "/Sadiqabad_Manthar_Road-12403",
+              "slug_l1": "/Sadiqabad_Manthar_Road-12403"
+          }
+      ],
+      "hierarchyPath": "Manthar Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12403",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6186",
+      "_highlightResult": {
+          "name": {
+              "value": "Manthar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18703,
+      "name": "Mazhar Farid Colony",
+      "name_l1": "مظہر فرید کالونی",
+      "externalID": "19618",
+      "slug": "/Sadiqabad_Mazhar_Farid_Colony-19618",
+      "slug_l1": "/Sadiqabad_Mazhar_Farid_Colony-19618",
+      "_geoloc": {
+          "lat": 28.312174,
+          "lng": 70.131342
+      },
+      "geography": {
+          "lat": 28.312174,
+          "lng": 70.131342
+      },
+      "geo_point": [
+          70.131342,
+          28.312174
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 18703,
+              "level": 3,
+              "externalID": "19618",
+              "name": "Mazhar Farid Colony",
+              "name_l1": "مظہر فرید کالونی",
+              "slug": "/Sadiqabad_Mazhar_Farid_Colony-19618",
+              "slug_l1": "/Sadiqabad_Mazhar_Farid_Colony-19618"
+          }
+      ],
+      "hierarchyPath": "Mazhar Farid Colony Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19618",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18703",
+      "_highlightResult": {
+          "name": {
+              "value": "Mazhar Farid Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18704,
+      "name": "Model City Housing Scheme",
+      "name_l1": "ماڈل سٹی ہاؤسنگ سکیم",
+      "externalID": "19619",
+      "slug": "/Sadiqabad_Model_City_Housing_Scheme-19619",
+      "slug_l1": "/Sadiqabad_Model_City_Housing_Scheme-19619",
+      "_geoloc": {
+          "lat": 28.335316,
+          "lng": 70.132473
+      },
+      "geography": {
+          "lat": 28.335316,
+          "lng": 70.132473
+      },
+      "geo_point": [
+          70.132473,
+          28.335316
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 18704,
+              "level": 3,
+              "externalID": "19619",
+              "name": "Model City Housing Scheme",
+              "name_l1": "ماڈل سٹی ہاؤسنگ سکیم",
+              "slug": "/Sadiqabad_Model_City_Housing_Scheme-19619",
+              "slug_l1": "/Sadiqabad_Model_City_Housing_Scheme-19619"
+          }
+      ],
+      "hierarchyPath": "Model City Housing Scheme Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19619",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18704",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18705,
+      "name": "Model Commercial Zone",
+      "name_l1": "ماڈل کمرشل زون",
+      "externalID": "19620",
+      "slug": "/Sadiqabad_Model_Commercial_Zone-19620",
+      "slug_l1": "/Sadiqabad_Model_Commercial_Zone-19620",
+      "_geoloc": {
+          "lat": 28.31104,
+          "lng": 70.126109
+      },
+      "geography": {
+          "lat": 28.31104,
+          "lng": 70.126109
+      },
+      "geo_point": [
+          70.126109,
+          28.31104
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 18705,
+              "level": 3,
+              "externalID": "19620",
+              "name": "Model Commercial Zone",
+              "name_l1": "ماڈل کمرشل زون",
+              "slug": "/Sadiqabad_Model_Commercial_Zone-19620",
+              "slug_l1": "/Sadiqabad_Model_Commercial_Zone-19620"
+          }
+      ],
+      "hierarchyPath": "Model Commercial Zone Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19620",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18705",
+      "_highlightResult": {
+          "name": {
+              "value": "Model Commercial Zone",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5133,
+      "name": "Model Town",
+      "name_l1": "ماڈل ٹاؤن",
+      "externalID": "10336",
+      "slug": "/Sadiqabad_Model_Town-10336",
+      "slug_l1": "/Sadiqabad_Model_Town-10336",
+      "_geoloc": {
+          "lat": 28.30125,
+          "lng": 70.110269
+      },
+      "geography": {
+          "lat": 28.30125,
+          "lng": 70.110269
+      },
+      "geo_point": [
+          70.110269,
+          28.30125
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 5133,
+              "level": 3,
+              "externalID": "10336",
+              "name": "Model Town",
+              "name_l1": "ماڈل ٹاؤن",
+              "slug": "/Sadiqabad_Model_Town-10336",
+              "slug_l1": "/Sadiqabad_Model_Town-10336"
+          }
+      ],
+      "hierarchyPath": "Model Town Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10336",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5133",
+      "_highlightResult": {
+          "name": {
+              "value": "Model Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9315,
+      "name": "Officers Colony",
+      "name_l1": "آفیسرز کالونی",
+      "externalID": "12404",
+      "slug": "/Sadiqabad_Manthar_Road_Officers_Colony-12404",
+      "slug_l1": "/Sadiqabad_Manthar_Road_Officers_Colony-12404",
+      "_geoloc": {
+          "lat": 28.244339,
+          "lng": 70.145716
+      },
+      "geography": {
+          "lat": 28.244339,
+          "lng": 70.145716
+      },
+      "geo_point": [
+          70.145716,
+          28.244339
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 6186,
+              "level": 3,
+              "externalID": "12403",
+              "name": "Manthar Road",
+              "name_l1": "منتھر روڈ",
+              "slug": "/Sadiqabad_Manthar_Road-12403",
+              "slug_l1": "/Sadiqabad_Manthar_Road-12403"
+          },
+          {
+              "id": 9315,
+              "level": 4,
+              "externalID": "12404",
+              "name": "Officers Colony",
+              "name_l1": "آفیسرز کالونی",
+              "slug": "/Sadiqabad_Manthar_Road_Officers_Colony-12404",
+              "slug_l1": "/Sadiqabad_Manthar_Road_Officers_Colony-12404"
+          }
+      ],
+      "hierarchyPath": "Officers Colony Manthar Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12404",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9315",
+      "_highlightResult": {
+          "name": {
+              "value": "Officers Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4982,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "10077",
+      "slug": "/Sadiqabad_Others-10077",
+      "slug_l1": "/Sadiqabad_Others-10077",
+      "_geoloc": {
+          "lat": 28.305092,
+          "lng": 70.128457
+      },
+      "geography": {
+          "lat": 28.305092,
+          "lng": 70.128457
+      },
+      "geo_point": [
+          70.128457,
+          28.305092
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 4982,
+              "level": 3,
+              "externalID": "10077",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Sadiqabad_Others-10077",
+              "slug_l1": "/Sadiqabad_Others-10077"
+          }
+      ],
+      "hierarchyPath": "Others Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10077",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4982",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5806,
+      "name": "Rashidabad",
+      "name_l1": "رشید آباد",
+      "externalID": "11647",
+      "slug": "/Sadiqabad_Rashidabad-11647",
+      "slug_l1": "/Sadiqabad_Rashidabad-11647",
+      "_geoloc": {
+          "lat": 28.296963,
+          "lng": 70.142141
+      },
+      "geography": {
+          "lat": 28.296963,
+          "lng": 70.142141
+      },
+      "geo_point": [
+          70.142141,
+          28.296963
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 5806,
+              "level": 3,
+              "externalID": "11647",
+              "name": "Rashidabad",
+              "name_l1": "رشید آباد",
+              "slug": "/Sadiqabad_Rashidabad-11647",
+              "slug_l1": "/Sadiqabad_Rashidabad-11647"
+          }
+      ],
+      "hierarchyPath": "Rashidabad Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11647",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5806",
+      "_highlightResult": {
+          "name": {
+              "value": "Rashidabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5638,
+      "name": "Sadiqabad Bypass",
+      "name_l1": "صادق آباد بائی پاس",
+      "externalID": "11276",
+      "slug": "/Sadiqabad_Sadiqabad_Bypass-11276",
+      "slug_l1": "/Sadiqabad_Sadiqabad_Bypass-11276",
+      "_geoloc": {
+          "lat": 28.320759,
+          "lng": 70.100798
+      },
+      "geography": {
+          "lat": 28.320759,
+          "lng": 70.100798
+      },
+      "geo_point": [
+          70.100798,
+          28.320759
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 5638,
+              "level": 3,
+              "externalID": "11276",
+              "name": "Sadiqabad Bypass",
+              "name_l1": "صادق آباد بائی پاس",
+              "slug": "/Sadiqabad_Sadiqabad_Bypass-11276",
+              "slug_l1": "/Sadiqabad_Sadiqabad_Bypass-11276"
+          }
+      ],
+      "hierarchyPath": "Sadiqabad Bypass Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11276",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5638",
+      "_highlightResult": {
+          "name": {
+              "value": "Sadiqabad Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19074,
+      "name": "Shafqat Garden",
+      "name_l1": "شفقت گارڈن",
+      "externalID": "19988",
+      "slug": "/Sadiqabad_GT_Road_Shafqat_Garden-19988",
+      "slug_l1": "/Sadiqabad_GT_Road_Shafqat_Garden-19988",
+      "_geoloc": {
+          "lat": 28.299773,
+          "lng": 70.105692
+      },
+      "geography": {
+          "lat": 28.299773,
+          "lng": 70.105692
+      },
+      "geo_point": [
+          70.105692,
+          28.299773
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 11988,
+              "level": 3,
+              "externalID": "13510",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sadiqabad_GT_Road-13510",
+              "slug_l1": "/Sadiqabad_GT_Road-13510"
+          },
+          {
+              "id": 19074,
+              "level": 4,
+              "externalID": "19988",
+              "name": "Shafqat Garden",
+              "name_l1": "شفقت گارڈن",
+              "slug": "/Sadiqabad_GT_Road_Shafqat_Garden-19988",
+              "slug_l1": "/Sadiqabad_GT_Road_Shafqat_Garden-19988"
+          }
+      ],
+      "hierarchyPath": "Shafqat Garden GT Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19988",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19074",
+      "_highlightResult": {
+          "name": {
+              "value": "Shafqat Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11250,
+      "name": "Tillu Road",
+      "name_l1": "تللو روڈ",
+      "externalID": "12840",
+      "slug": "/Sadiqabad_Tillu_Road-12840",
+      "slug_l1": "/Sadiqabad_Tillu_Road-12840",
+      "_geoloc": {
+          "lat": 28.28766,
+          "lng": 70.123114
+      },
+      "geography": {
+          "lat": 28.28766,
+          "lng": 70.123114
+      },
+      "geo_point": [
+          70.123114,
+          28.28766
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 139,
+              "level": 2,
+              "externalID": "9538",
+              "name": "Sadiqabad",
+              "name_l1": "صادق آباد",
+              "slug": "/Sadiqabad-9538",
+              "slug_l1": "/Sadiqabad-9538"
+          },
+          {
+              "id": 11250,
+              "level": 3,
+              "externalID": "12840",
+              "name": "Tillu Road",
+              "name_l1": "تللو روڈ",
+              "slug": "/Sadiqabad_Tillu_Road-12840",
+              "slug_l1": "/Sadiqabad_Tillu_Road-12840"
+          }
+      ],
+      "hierarchyPath": "Tillu Road Sadiqabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12840",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11250",
+      "_highlightResult": {
+          "name": {
+              "value": "Tillu Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+      "id": 18427,
+      "name": "Ashiyana e Rehmat",
+      "name_l1": "آشیانہ رحمت",
+      "externalID": "19341",
+      "slug": "/Tando_Adam_Ashiyana_e_Rehmat-19341",
+      "slug_l1": "/Tando_Adam_Ashiyana_e_Rehmat-19341",
+      "_geoloc": {
+          "lat": 25.7514736,
+          "lng": 68.6696195
+      },
+      "geography": {
+          "lat": 25.7514736,
+          "lng": 68.6696195
+      },
+      "geo_point": [
+          68.6696195,
+          25.7514736
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 131,
+              "level": 2,
+              "externalID": "9028",
+              "name": "Tando Adam",
+              "name_l1": "ٹنڈو آدم",
+              "slug": "/Tando_Adam-9028",
+              "slug_l1": "/Tando_Adam-9028"
+          },
+          {
+              "id": 18427,
+              "level": 3,
+              "externalID": "19341",
+              "name": "Ashiyana e Rehmat",
+              "name_l1": "آشیانہ رحمت",
+              "slug": "/Tando_Adam_Ashiyana_e_Rehmat-19341",
+              "slug_l1": "/Tando_Adam_Ashiyana_e_Rehmat-19341"
+          }
+      ],
+      "hierarchyPath": "Ashiyana e Rehmat Tando Adam Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19341",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18427",
+      "_highlightResult": {
+          "name": {
+              "value": "Ashiyana e Rehmat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12770,
+      "name": "Mangwar Colony",
+      "name_l1": "منگوار کالونی",
+      "externalID": "14251",
+      "slug": "/Tando_Adam_Mangwar_Colony-14251",
+      "slug_l1": "/Tando_Adam_Mangwar_Colony-14251",
+      "_geoloc": {
+          "lat": 25.75465,
+          "lng": 68.668946
+      },
+      "geography": {
+          "lat": 25.75465,
+          "lng": 68.668946
+      },
+      "geo_point": [
+          68.668946,
+          25.75465
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 131,
+              "level": 2,
+              "externalID": "9028",
+              "name": "Tando Adam",
+              "name_l1": "ٹنڈو آدم",
+              "slug": "/Tando_Adam-9028",
+              "slug_l1": "/Tando_Adam-9028"
+          },
+          {
+              "id": 12770,
+              "level": 3,
+              "externalID": "14251",
+              "name": "Mangwar Colony",
+              "name_l1": "منگوار کالونی",
+              "slug": "/Tando_Adam_Mangwar_Colony-14251",
+              "slug_l1": "/Tando_Adam_Mangwar_Colony-14251"
+          }
+      ],
+      "hierarchyPath": "Mangwar Colony Tando Adam Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14251",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12770",
+      "_highlightResult": {
+          "name": {
+              "value": "Mangwar Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12768,
+      "name": "Others",
+      "name_l1": "ادرذ",
+      "externalID": "14249",
+      "slug": "/Tando_Adam_Others-14249",
+      "slug_l1": "/Tando_Adam_Others-14249",
+      "_geoloc": {
+          "lat": 25.76877,
+          "lng": 68.6566
+      },
+      "geography": {
+          "lat": 25.76877,
+          "lng": 68.6566
+      },
+      "geo_point": [
+          68.6566,
+          25.76877
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 131,
+              "level": 2,
+              "externalID": "9028",
+              "name": "Tando Adam",
+              "name_l1": "ٹنڈو آدم",
+              "slug": "/Tando_Adam-9028",
+              "slug_l1": "/Tando_Adam-9028"
+          },
+          {
+              "id": 12768,
+              "level": 3,
+              "externalID": "14249",
+              "name": "Others",
+              "name_l1": "ادرذ",
+              "slug": "/Tando_Adam_Others-14249",
+              "slug_l1": "/Tando_Adam_Others-14249"
+          }
+      ],
+      "hierarchyPath": "Others Tando Adam Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14249",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12768",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 131,
+      "name": "Tando Adam",
+      "name_l1": "ٹنڈو آدم",
+      "externalID": "9028",
+      "slug": "/Tando_Adam-9028",
+      "slug_l1": "/Tando_Adam-9028",
+      "_geoloc": {
+          "lat": 25.764907,
+          "lng": 68.663201
+      },
+      "geography": {
+          "lat": 25.764907,
+          "lng": 68.663201
+      },
+      "geo_point": [
+          68.663201,
+          25.764907
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 131,
+              "level": 2,
+              "externalID": "9028",
+              "name": "Tando Adam",
+              "name_l1": "ٹنڈو آدم",
+              "slug": "/Tando_Adam-9028",
+              "slug_l1": "/Tando_Adam-9028"
+          }
+      ],
+      "hierarchyPath": "Tando Adam Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9028",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "131",
+      "_highlightResult": {
+          "name": {
+              "value": "Tando Adam",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12771,
+      "name": "Tando Adam Bypass",
+      "name_l1": "ٹنڈو آدم بائی پاس",
+      "externalID": "14252",
+      "slug": "/Tando_Adam_Tando_Adam_Bypass-14252",
+      "slug_l1": "/Tando_Adam_Tando_Adam_Bypass-14252",
+      "_geoloc": {
+          "lat": 25.756444,
+          "lng": 68.648496
+      },
+      "geography": {
+          "lat": 25.756444,
+          "lng": 68.648496
+      },
+      "geo_point": [
+          68.648496,
+          25.756444
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 131,
+              "level": 2,
+              "externalID": "9028",
+              "name": "Tando Adam",
+              "name_l1": "ٹنڈو آدم",
+              "slug": "/Tando_Adam-9028",
+              "slug_l1": "/Tando_Adam-9028"
+          },
+          {
+              "id": 12771,
+              "level": 3,
+              "externalID": "14252",
+              "name": "Tando Adam Bypass",
+              "name_l1": "ٹنڈو آدم بائی پاس",
+              "slug": "/Tando_Adam_Tando_Adam_Bypass-14252",
+              "slug_l1": "/Tando_Adam_Tando_Adam_Bypass-14252"
+          }
+      ],
+      "hierarchyPath": "Tando Adam Bypass Tando Adam Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14252",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12771",
+      "_highlightResult": {
+          "name": {
+              "value": "Tando Adam Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12769,
+      "name": "Toor Colony",
+      "name_l1": "ٹور کالونی",
+      "externalID": "14250",
+      "slug": "/Tando_Adam_Toor_Colony-14250",
+      "slug_l1": "/Tando_Adam_Toor_Colony-14250",
+      "_geoloc": {
+          "lat": 25.755218,
+          "lng": 68.647483
+      },
+      "geography": {
+          "lat": 25.755218,
+          "lng": 68.647483
+      },
+      "geo_point": [
+          68.647483,
+          25.755218
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 131,
+              "level": 2,
+              "externalID": "9028",
+              "name": "Tando Adam",
+              "name_l1": "ٹنڈو آدم",
+              "slug": "/Tando_Adam-9028",
+              "slug_l1": "/Tando_Adam-9028"
+          },
+          {
+              "id": 12769,
+              "level": 3,
+              "externalID": "14250",
+              "name": "Toor Colony",
+              "name_l1": "ٹور کالونی",
+              "slug": "/Tando_Adam_Toor_Colony-14250",
+              "slug_l1": "/Tando_Adam_Toor_Colony-14250"
+          }
+      ],
+      "hierarchyPath": "Toor Colony Tando Adam Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14250",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12769",
+      "_highlightResult": {
+          "name": {
+              "value": "Toor Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

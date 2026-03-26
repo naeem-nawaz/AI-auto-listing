@@ -1,0 +1,1107 @@
+[
+  {
+      "id": 171,
+      "name": "Charsadda",
+      "name_l1": "چارسدہ",
+      "externalID": "11420",
+      "slug": "/Charsadda-11420",
+      "slug_l1": "/Charsadda-11420",
+      "_geoloc": {
+          "lat": 34.165943,
+          "lng": 71.754297
+      },
+      "geography": {
+          "lat": 34.165943,
+          "lng": 71.754297
+      },
+      "geo_point": [
+          71.754297,
+          34.165943
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          }
+      ],
+      "hierarchyPath": "Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11420",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "171",
+      "_highlightResult": {
+          "name": {
+              "value": "Charsadda",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18456,
+      "name": "Mardan Road",
+      "name_l1": "مردان روڈ",
+      "externalID": "19370",
+      "slug": "/Charsadda_Mardan_Road-19370",
+      "slug_l1": "/Charsadda_Mardan_Road-19370",
+      "_geoloc": {
+          "lat": 34.1541707,
+          "lng": 71.7558353
+      },
+      "geography": {
+          "lat": 34.1541707,
+          "lng": 71.7558353
+      },
+      "geo_point": [
+          71.7558353,
+          34.1541707
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 18456,
+              "level": 3,
+              "externalID": "19370",
+              "name": "Mardan Road",
+              "name_l1": "مردان روڈ",
+              "slug": "/Charsadda_Mardan_Road-19370",
+              "slug_l1": "/Charsadda_Mardan_Road-19370"
+          }
+      ],
+      "hierarchyPath": "Mardan Road Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19370",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18456",
+      "_highlightResult": {
+          "name": {
+              "value": "Mardan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18457,
+      "name": "Turangzai Baba Town",
+      "name_l1": "ترنگزئی بابا ٹاؤن",
+      "externalID": "19374",
+      "slug": "/Charsadda_Turangzai_Baba_Town-19374",
+      "slug_l1": "/Charsadda_Turangzai_Baba_Town-19374",
+      "_geoloc": {
+          "lat": 34.1315422,
+          "lng": 71.775121
+      },
+      "geography": {
+          "lat": 34.1315422,
+          "lng": 71.775121
+      },
+      "geo_point": [
+          71.775121,
+          34.1315422
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 18457,
+              "level": 3,
+              "externalID": "19374",
+              "name": "Turangzai Baba Town",
+              "name_l1": "ترنگزئی بابا ٹاؤن",
+              "slug": "/Charsadda_Turangzai_Baba_Town-19374",
+              "slug_l1": "/Charsadda_Turangzai_Baba_Town-19374"
+          }
+      ],
+      "hierarchyPath": "Turangzai Baba Town Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19374",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18457",
+      "_highlightResult": {
+          "name": {
+              "value": "Turangzai Baba Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18419,
+      "name": "Behlola",
+      "name_l1": "بہلولہ",
+      "externalID": "19333",
+      "slug": "/Charsadda_Behlola-19333",
+      "slug_l1": "/Charsadda_Behlola-19333",
+      "_geoloc": {
+          "lat": 34.247764,
+          "lng": 71.851491
+      },
+      "geography": {
+          "lat": 34.247764,
+          "lng": 71.851491
+      },
+      "geo_point": [
+          71.851491,
+          34.247764
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 18419,
+              "level": 3,
+              "externalID": "19333",
+              "name": "Behlola",
+              "name_l1": "بہلولہ",
+              "slug": "/Charsadda_Behlola-19333",
+              "slug_l1": "/Charsadda_Behlola-19333"
+          }
+      ],
+      "hierarchyPath": "Behlola Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19333",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18419",
+      "_highlightResult": {
+          "name": {
+              "value": "Behlola",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18454,
+      "name": "Charsadda Road",
+      "name_l1": "چارسدہ روڈ",
+      "externalID": "19368",
+      "slug": "/Charsadda_Charsadda_Road-19368",
+      "slug_l1": "/Charsadda_Charsadda_Road-19368",
+      "_geoloc": {
+          "lat": 34.154823,
+          "lng": 71.73557
+      },
+      "geography": {
+          "lat": 34.154823,
+          "lng": 71.73557
+      },
+      "geo_point": [
+          71.73557,
+          34.154823
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 18454,
+              "level": 3,
+              "externalID": "19368",
+              "name": "Charsadda Road",
+              "name_l1": "چارسدہ روڈ",
+              "slug": "/Charsadda_Charsadda_Road-19368",
+              "slug_l1": "/Charsadda_Charsadda_Road-19368"
+          }
+      ],
+      "hierarchyPath": "Charsadda Road Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19368",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18454",
+      "_highlightResult": {
+          "name": {
+              "value": "Charsadda Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18458,
+      "name": "Ghani Khan Road",
+      "name_l1": "غنی خان روڈ",
+      "externalID": "19375",
+      "slug": "/Charsadda_Ghani_Khan_Road-19375",
+      "slug_l1": "/Charsadda_Ghani_Khan_Road-19375",
+      "_geoloc": {
+          "lat": 34.1708253,
+          "lng": 71.7779966
+      },
+      "geography": {
+          "lat": 34.1708253,
+          "lng": 71.7779966
+      },
+      "geo_point": [
+          71.7779966,
+          34.1708253
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 18458,
+              "level": 3,
+              "externalID": "19375",
+              "name": "Ghani Khan Road",
+              "name_l1": "غنی خان روڈ",
+              "slug": "/Charsadda_Ghani_Khan_Road-19375",
+              "slug_l1": "/Charsadda_Ghani_Khan_Road-19375"
+          }
+      ],
+      "hierarchyPath": "Ghani Khan Road Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19375",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18458",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghani Khan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18453,
+      "name": "Gharibabad",
+      "name_l1": "غریب آباد",
+      "externalID": "19367",
+      "slug": "/Charsadda_Gharibabad-19367",
+      "slug_l1": "/Charsadda_Gharibabad-19367",
+      "_geoloc": {
+          "lat": 34.142507,
+          "lng": 71.786709
+      },
+      "geography": {
+          "lat": 34.142507,
+          "lng": 71.786709
+      },
+      "geo_point": [
+          71.786709,
+          34.142507
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 18453,
+              "level": 3,
+              "externalID": "19367",
+              "name": "Gharibabad",
+              "name_l1": "غریب آباد",
+              "slug": "/Charsadda_Gharibabad-19367",
+              "slug_l1": "/Charsadda_Gharibabad-19367"
+          }
+      ],
+      "hierarchyPath": "Gharibabad Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19367",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18453",
+      "_highlightResult": {
+          "name": {
+              "value": "Gharibabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18462,
+      "name": "Kulla Dheri",
+      "name_l1": "کلہ ڈھیری",
+      "externalID": "19376",
+      "slug": "/Charsadda_Kulla_Dheri-19376",
+      "slug_l1": "/Charsadda_Kulla_Dheri-19376",
+      "_geoloc": {
+          "lat": 34.159124,
+          "lng": 71.773759
+      },
+      "geography": {
+          "lat": 34.159124,
+          "lng": 71.773759
+      },
+      "geo_point": [
+          71.773759,
+          34.159124
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 18462,
+              "level": 3,
+              "externalID": "19376",
+              "name": "Kulla Dheri",
+              "name_l1": "کلہ ڈھیری",
+              "slug": "/Charsadda_Kulla_Dheri-19376",
+              "slug_l1": "/Charsadda_Kulla_Dheri-19376"
+          }
+      ],
+      "hierarchyPath": "Kulla Dheri Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19376",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18462",
+      "_highlightResult": {
+          "name": {
+              "value": "Kulla Dheri",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22036,
+      "name": "Malik Gardens",
+      "name_l1": "ملک گارڈنز",
+      "externalID": "22106",
+      "slug": "/Charsadda_NIsata_Nisata_Road_Malik_Gardens-22106",
+      "slug_l1": "/Charsadda_NIsata_Nisata_Road_Malik_Gardens-22106",
+      "_geoloc": {
+          "lat": 34.098258006018,
+          "lng": 71.804650282176
+      },
+      "geography": {
+          "lat": 34.098258006018,
+          "lng": 71.804650282176
+      },
+      "geo_point": [
+          71.804650282176,
+          34.098258006018
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 22034,
+              "level": 3,
+              "externalID": "22104",
+              "name": "NIsata",
+              "name_l1": "نیساٹا",
+              "slug": "/Charsadda_NIsata-22104",
+              "slug_l1": "/Charsadda_NIsata-22104"
+          },
+          {
+              "id": 22035,
+              "level": 4,
+              "externalID": "22105",
+              "name": "Nisata Road",
+              "name_l1": "نستا روڈ",
+              "slug": "/Charsadda_NIsata_Nisata_Road-22105",
+              "slug_l1": "/Charsadda_NIsata_Nisata_Road-22105"
+          },
+          {
+              "id": 22036,
+              "level": 5,
+              "externalID": "22106",
+              "name": "Malik Gardens",
+              "name_l1": "ملک گارڈنز",
+              "slug": "/Charsadda_NIsata_Nisata_Road_Malik_Gardens-22106",
+              "slug_l1": "/Charsadda_NIsata_Nisata_Road_Malik_Gardens-22106"
+          }
+      ],
+      "hierarchyPath": "Malik Gardens Nisata Road NIsata Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22106",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22036",
+      "_highlightResult": {
+          "name": {
+              "value": "Malik Gardens",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22034,
+      "name": "NIsata",
+      "name_l1": "نیساٹا",
+      "externalID": "22104",
+      "slug": "/Charsadda_NIsata-22104",
+      "slug_l1": "/Charsadda_NIsata-22104",
+      "_geoloc": {
+          "lat": 34.109566,
+          "lng": 71.806717
+      },
+      "geography": {
+          "lat": 34.109566,
+          "lng": 71.806717
+      },
+      "geo_point": [
+          71.806717,
+          34.109566
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 22034,
+              "level": 3,
+              "externalID": "22104",
+              "name": "NIsata",
+              "name_l1": "نیساٹا",
+              "slug": "/Charsadda_NIsata-22104",
+              "slug_l1": "/Charsadda_NIsata-22104"
+          }
+      ],
+      "hierarchyPath": "NIsata Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22104",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "22034",
+      "_highlightResult": {
+          "name": {
+              "value": "NIsata",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22035,
+      "name": "Nisata Road",
+      "name_l1": "نستا روڈ",
+      "externalID": "22105",
+      "slug": "/Charsadda_NIsata_Nisata_Road-22105",
+      "slug_l1": "/Charsadda_NIsata_Nisata_Road-22105",
+      "_geoloc": {
+          "lat": 34.10822,
+          "lng": 71.804529
+      },
+      "geography": {
+          "lat": 34.10822,
+          "lng": 71.804529
+      },
+      "geo_point": [
+          71.804529,
+          34.10822
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 22034,
+              "level": 3,
+              "externalID": "22104",
+              "name": "NIsata",
+              "name_l1": "نیساٹا",
+              "slug": "/Charsadda_NIsata-22104",
+              "slug_l1": "/Charsadda_NIsata-22104"
+          },
+          {
+              "id": 22035,
+              "level": 4,
+              "externalID": "22105",
+              "name": "Nisata Road",
+              "name_l1": "نستا روڈ",
+              "slug": "/Charsadda_NIsata_Nisata_Road-22105",
+              "slug_l1": "/Charsadda_NIsata_Nisata_Road-22105"
+          }
+      ],
+      "hierarchyPath": "Nisata Road NIsata Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22105",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "22035",
+      "_highlightResult": {
+          "name": {
+              "value": "Nisata Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18455,
+      "name": "Nowshera Road",
+      "name_l1": "نوشہرہ روڈ",
+      "externalID": "19369",
+      "slug": "/Charsadda_Nowshera_Road-19369",
+      "slug_l1": "/Charsadda_Nowshera_Road-19369",
+      "_geoloc": {
+          "lat": 34.148018,
+          "lng": 71.752664
+      },
+      "geography": {
+          "lat": 34.148018,
+          "lng": 71.752664
+      },
+      "geo_point": [
+          71.752664,
+          34.148018
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 18455,
+              "level": 3,
+              "externalID": "19369",
+              "name": "Nowshera Road",
+              "name_l1": "نوشہرہ روڈ",
+              "slug": "/Charsadda_Nowshera_Road-19369",
+              "slug_l1": "/Charsadda_Nowshera_Road-19369"
+          }
+      ],
+      "hierarchyPath": "Nowshera Road Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19369",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18455",
+      "_highlightResult": {
+          "name": {
+              "value": "Nowshera Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11757,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13282",
+      "slug": "/Charsadda_Others-13282",
+      "slug_l1": "/Charsadda_Others-13282",
+      "_geoloc": {
+          "lat": 34.161401,
+          "lng": 71.754342
+      },
+      "geography": {
+          "lat": 34.161401,
+          "lng": 71.754342
+      },
+      "geo_point": [
+          71.754342,
+          34.161401
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 11757,
+              "level": 3,
+              "externalID": "13282",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Charsadda_Others-13282",
+              "slug_l1": "/Charsadda_Others-13282"
+          }
+      ],
+      "hierarchyPath": "Others Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13282",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11757",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18466,
+      "name": "Utmanzai",
+      "name_l1": "اتمانزئ",
+      "externalID": "19377",
+      "slug": "/Charsadda_Charsadda_Road_Utmanzai-19377",
+      "slug_l1": "/Charsadda_Charsadda_Road_Utmanzai-19377",
+      "_geoloc": {
+          "lat": 34.2184,
+          "lng": 71.44858
+      },
+      "geography": {
+          "lat": 34.2184,
+          "lng": 71.44858
+      },
+      "geo_point": [
+          71.44858,
+          34.2184
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 171,
+              "level": 2,
+              "externalID": "11420",
+              "name": "Charsadda",
+              "name_l1": "چارسدہ",
+              "slug": "/Charsadda-11420",
+              "slug_l1": "/Charsadda-11420"
+          },
+          {
+              "id": 18454,
+              "level": 3,
+              "externalID": "19368",
+              "name": "Charsadda Road",
+              "name_l1": "چارسدہ روڈ",
+              "slug": "/Charsadda_Charsadda_Road-19368",
+              "slug_l1": "/Charsadda_Charsadda_Road-19368"
+          },
+          {
+              "id": 18466,
+              "level": 4,
+              "externalID": "19377",
+              "name": "Utmanzai",
+              "name_l1": "اتمانزئ",
+              "slug": "/Charsadda_Charsadda_Road_Utmanzai-19377",
+              "slug_l1": "/Charsadda_Charsadda_Road_Utmanzai-19377"
+          }
+      ],
+      "hierarchyPath": "Utmanzai Charsadda Road Charsadda Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19377",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18466",
+      "_highlightResult": {
+          "name": {
+              "value": "Utmanzai",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

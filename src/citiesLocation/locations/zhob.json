@@ -1,0 +1,147 @@
+[
+  {
+      "id": 1259,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1740",
+      "slug": "/Zhob_Others-1740",
+      "slug_l1": "/Zhob_Others-1740",
+      "_geoloc": {
+          "lat": 31.3413,
+          "lng": 69.4487
+      },
+      "geography": {
+          "lat": 31.3413,
+          "lng": 69.4487
+      },
+      "geo_point": [
+          69.4487,
+          31.3413
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 96,
+              "level": 2,
+              "externalID": "1739",
+              "name": "Zhob",
+              "name_l1": "زوب",
+              "slug": "/Zhob-1739",
+              "slug_l1": "/Zhob-1739"
+          },
+          {
+              "id": 1259,
+              "level": 3,
+              "externalID": "1740",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Zhob_Others-1740",
+              "slug_l1": "/Zhob_Others-1740"
+          }
+      ],
+      "hierarchyPath": "Others Zhob Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1740",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1259",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 96,
+      "name": "Zhob",
+      "name_l1": "زوب",
+      "externalID": "1739",
+      "slug": "/Zhob-1739",
+      "slug_l1": "/Zhob-1739",
+      "_geoloc": {
+          "lat": 31.3498620695,
+          "lng": 69.450309276581
+      },
+      "geography": {
+          "lat": 31.3498620695,
+          "lng": 69.450309276581
+      },
+      "geo_point": [
+          69.450309276581,
+          31.3498620695
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 96,
+              "level": 2,
+              "externalID": "1739",
+              "name": "Zhob",
+              "name_l1": "زوب",
+              "slug": "/Zhob-1739",
+              "slug_l1": "/Zhob-1739"
+          }
+      ],
+      "hierarchyPath": "Zhob Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1739",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "96",
+      "_highlightResult": {
+          "name": {
+              "value": "Zhob",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

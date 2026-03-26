@@ -1,0 +1,301 @@
+[
+  {
+      "id": 12134,
+      "name": "Mallahabad",
+      "name_l1": "ملہا آباد",
+      "externalID": "13616",
+      "slug": "/Shahpur_Chakar_Mallahabad-13616",
+      "slug_l1": "/Shahpur_Chakar_Mallahabad-13616",
+      "_geoloc": {
+          "lat": 26.157212,
+          "lng": 68.651697
+      },
+      "geography": {
+          "lat": 26.157212,
+          "lng": 68.651697
+      },
+      "geo_point": [
+          68.651697,
+          26.157212
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12122,
+              "level": 2,
+              "externalID": "13614",
+              "name": "Shahpur Chakar",
+              "name_l1": "شاہ پور چاکر",
+              "slug": "/Shahpur_Chakar-13614",
+              "slug_l1": "/Shahpur_Chakar-13614"
+          },
+          {
+              "id": 12134,
+              "level": 3,
+              "externalID": "13616",
+              "name": "Mallahabad",
+              "name_l1": "ملہا آباد",
+              "slug": "/Shahpur_Chakar_Mallahabad-13616",
+              "slug_l1": "/Shahpur_Chakar_Mallahabad-13616"
+          }
+      ],
+      "hierarchyPath": "Mallahabad Shahpur Chakar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13616",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12134",
+      "_highlightResult": {
+          "name": {
+              "value": "Mallahabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18436,
+      "name": "Nawabshah-Shahpur Chakar Road",
+      "name_l1": "نواب شاہ شاہ پور چاکر روڈ",
+      "externalID": "19350",
+      "slug": "/Shahpur_Chakar_Nawabshah_Shahpur_Chakar_Road-19350",
+      "slug_l1": "/Shahpur_Chakar_Nawabshah_Shahpur_Chakar_Road-19350",
+      "_geoloc": {
+          "lat": 26.1542246,
+          "lng": 68.6568367
+      },
+      "geography": {
+          "lat": 26.1542246,
+          "lng": 68.6568367
+      },
+      "geo_point": [
+          68.6568367,
+          26.1542246
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12122,
+              "level": 2,
+              "externalID": "13614",
+              "name": "Shahpur Chakar",
+              "name_l1": "شاہ پور چاکر",
+              "slug": "/Shahpur_Chakar-13614",
+              "slug_l1": "/Shahpur_Chakar-13614"
+          },
+          {
+              "id": 18436,
+              "level": 3,
+              "externalID": "19350",
+              "name": "Nawabshah-Shahpur Chakar Road",
+              "name_l1": "نواب شاہ شاہ پور چاکر روڈ",
+              "slug": "/Shahpur_Chakar_Nawabshah_Shahpur_Chakar_Road-19350",
+              "slug_l1": "/Shahpur_Chakar_Nawabshah_Shahpur_Chakar_Road-19350"
+          }
+      ],
+      "hierarchyPath": "Nawabshah-Shahpur Chakar Road Shahpur Chakar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19350",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18436",
+      "_highlightResult": {
+          "name": {
+              "value": "Nawabshah-Shahpur Chakar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12133,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13615",
+      "slug": "/Shahpur_Chakar_Others-13615",
+      "slug_l1": "/Shahpur_Chakar_Others-13615",
+      "_geoloc": {
+          "lat": 26.156453,
+          "lng": 68.652733
+      },
+      "geography": {
+          "lat": 26.156453,
+          "lng": 68.652733
+      },
+      "geo_point": [
+          68.652733,
+          26.156453
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12122,
+              "level": 2,
+              "externalID": "13614",
+              "name": "Shahpur Chakar",
+              "name_l1": "شاہ پور چاکر",
+              "slug": "/Shahpur_Chakar-13614",
+              "slug_l1": "/Shahpur_Chakar-13614"
+          },
+          {
+              "id": 12133,
+              "level": 3,
+              "externalID": "13615",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Shahpur_Chakar_Others-13615",
+              "slug_l1": "/Shahpur_Chakar_Others-13615"
+          }
+      ],
+      "hierarchyPath": "Others Shahpur Chakar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13615",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12133",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12122,
+      "name": "Shahpur Chakar",
+      "name_l1": "شاہ پور چاکر",
+      "externalID": "13614",
+      "slug": "/Shahpur_Chakar-13614",
+      "slug_l1": "/Shahpur_Chakar-13614",
+      "_geoloc": {
+          "lat": 26.155859,
+          "lng": 68.651145
+      },
+      "geography": {
+          "lat": 26.155859,
+          "lng": 68.651145
+      },
+      "geo_point": [
+          68.651145,
+          26.155859
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12122,
+              "level": 2,
+              "externalID": "13614",
+              "name": "Shahpur Chakar",
+              "name_l1": "شاہ پور چاکر",
+              "slug": "/Shahpur_Chakar-13614",
+              "slug_l1": "/Shahpur_Chakar-13614"
+          }
+      ],
+      "hierarchyPath": "Shahpur Chakar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13614",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12122",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahpur Chakar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

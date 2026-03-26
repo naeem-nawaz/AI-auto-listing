@@ -1,0 +1,3770 @@
+[
+  {
+      "id": 3668,
+      "name": "Kanju Township",
+      "name_l1": "کانجو ٹاؤن شپ",
+      "externalID": "7802",
+      "slug": "/Swat_Kanju_Township-7802",
+      "slug_l1": "/Swat_Kanju_Township-7802",
+      "_geoloc": {
+          "lat": 34.829587,
+          "lng": 72.34417
+      },
+      "geography": {
+          "lat": 34.829587,
+          "lng": 72.34417
+      },
+      "geo_point": [
+          72.34417,
+          34.829587
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3668,
+              "level": 3,
+              "externalID": "7802",
+              "name": "Kanju Township",
+              "name_l1": "کانجو ٹاؤن شپ",
+              "slug": "/Swat_Kanju_Township-7802",
+              "slug_l1": "/Swat_Kanju_Township-7802"
+          }
+      ],
+      "hierarchyPath": "Kanju Township Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7802",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "3668",
+      "_highlightResult": {
+          "name": {
+              "value": "Kanju Township",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3673,
+      "name": "Malam Jabba Road",
+      "name_l1": "مالم جبہ روڈ",
+      "externalID": "7807",
+      "slug": "/Swat_Malam_Jabba_Road-7807",
+      "slug_l1": "/Swat_Malam_Jabba_Road-7807",
+      "_geoloc": {
+          "lat": 34.844257,
+          "lng": 72.563238
+      },
+      "geography": {
+          "lat": 34.844257,
+          "lng": 72.563238
+      },
+      "geo_point": [
+          72.563238,
+          34.844257
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3673,
+              "level": 3,
+              "externalID": "7807",
+              "name": "Malam Jabba Road",
+              "name_l1": "مالم جبہ روڈ",
+              "slug": "/Swat_Malam_Jabba_Road-7807",
+              "slug_l1": "/Swat_Malam_Jabba_Road-7807"
+          }
+      ],
+      "hierarchyPath": "Malam Jabba Road Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7807",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3673",
+      "_highlightResult": {
+          "name": {
+              "value": "Malam Jabba Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 70,
+      "name": "Swat",
+      "name_l1": "سوات",
+      "externalID": "1506",
+      "slug": "/Swat-1506",
+      "slug_l1": "/Swat-1506",
+      "_geoloc": {
+          "lat": 34.807033,
+          "lng": 72.355392
+      },
+      "geography": {
+          "lat": 34.807033,
+          "lng": 72.355392
+      },
+      "geo_point": [
+          72.355392,
+          34.807033
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          }
+      ],
+      "hierarchyPath": "Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1506",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "70",
+      "_highlightResult": {
+          "name": {
+              "value": "Swat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3648,
+      "name": "Airport Road",
+      "name_l1": "ائیرپورٹ روڈ",
+      "externalID": "7782",
+      "slug": "/Swat_Airport_Road-7782",
+      "slug_l1": "/Swat_Airport_Road-7782",
+      "_geoloc": {
+          "lat": 34.816657,
+          "lng": 72.363145
+      },
+      "geography": {
+          "lat": 34.816657,
+          "lng": 72.363145
+      },
+      "geo_point": [
+          72.363145,
+          34.816657
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3648,
+              "level": 3,
+              "externalID": "7782",
+              "name": "Airport Road",
+              "name_l1": "ائیرپورٹ روڈ",
+              "slug": "/Swat_Airport_Road-7782",
+              "slug_l1": "/Swat_Airport_Road-7782"
+          }
+      ],
+      "hierarchyPath": "Airport Road Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7782",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3648",
+      "_highlightResult": {
+          "name": {
+              "value": "Airport Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3649,
+      "name": "Alamganj",
+      "name_l1": "علم گنج",
+      "externalID": "7783",
+      "slug": "/Swat_Alamganj-7783",
+      "slug_l1": "/Swat_Alamganj-7783",
+      "_geoloc": {
+          "lat": 34.90339,
+          "lng": 72.457581
+      },
+      "geography": {
+          "lat": 34.90339,
+          "lng": 72.457581
+      },
+      "geo_point": [
+          72.457581,
+          34.90339
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3649,
+              "level": 3,
+              "externalID": "7783",
+              "name": "Alamganj",
+              "name_l1": "علم گنج",
+              "slug": "/Swat_Alamganj-7783",
+              "slug_l1": "/Swat_Alamganj-7783"
+          }
+      ],
+      "hierarchyPath": "Alamganj Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7783",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3649",
+      "_highlightResult": {
+          "name": {
+              "value": "Alamganj",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3650,
+      "name": "Aligram",
+      "name_l1": "علی گرام",
+      "externalID": "7784",
+      "slug": "/Swat_Aligram-7784",
+      "slug_l1": "/Swat_Aligram-7784",
+      "_geoloc": {
+          "lat": 34.984159,
+          "lng": 72.332211
+      },
+      "geography": {
+          "lat": 34.984159,
+          "lng": 72.332211
+      },
+      "geo_point": [
+          72.332211,
+          34.984159
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3650,
+              "level": 3,
+              "externalID": "7784",
+              "name": "Aligram",
+              "name_l1": "علی گرام",
+              "slug": "/Swat_Aligram-7784",
+              "slug_l1": "/Swat_Aligram-7784"
+          }
+      ],
+      "hierarchyPath": "Aligram Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7784",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3650",
+      "_highlightResult": {
+          "name": {
+              "value": "Aligram",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3651,
+      "name": "Amankot",
+      "name_l1": "امن کوٹ",
+      "externalID": "7785",
+      "slug": "/Swat_Amankot-7785",
+      "slug_l1": "/Swat_Amankot-7785",
+      "_geoloc": {
+          "lat": 34.764179,
+          "lng": 72.348976
+      },
+      "geography": {
+          "lat": 34.764179,
+          "lng": 72.348976
+      },
+      "geo_point": [
+          72.348976,
+          34.764179
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3651,
+              "level": 3,
+              "externalID": "7785",
+              "name": "Amankot",
+              "name_l1": "امن کوٹ",
+              "slug": "/Swat_Amankot-7785",
+              "slug_l1": "/Swat_Amankot-7785"
+          }
+      ],
+      "hierarchyPath": "Amankot Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7785",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3651",
+      "_highlightResult": {
+          "name": {
+              "value": "Amankot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3652,
+      "name": "Amlookdara",
+      "name_l1": "املوک درہ",
+      "externalID": "7786",
+      "slug": "/Swat_Amlookdara-7786",
+      "slug_l1": "/Swat_Amlookdara-7786",
+      "_geoloc": {
+          "lat": 34.650438,
+          "lng": 72.280426
+      },
+      "geography": {
+          "lat": 34.650438,
+          "lng": 72.280426
+      },
+      "geo_point": [
+          72.280426,
+          34.650438
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3652,
+              "level": 3,
+              "externalID": "7786",
+              "name": "Amlookdara",
+              "name_l1": "املوک درہ",
+              "slug": "/Swat_Amlookdara-7786",
+              "slug_l1": "/Swat_Amlookdara-7786"
+          }
+      ],
+      "hierarchyPath": "Amlookdara Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7786",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3652",
+      "_highlightResult": {
+          "name": {
+              "value": "Amlookdara",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3653,
+      "name": "Bagh Deri Road",
+      "name_l1": "باغ دیری روڈ",
+      "externalID": "7787",
+      "slug": "/Swat_Bagh_Deri_Road-7787",
+      "slug_l1": "/Swat_Bagh_Deri_Road-7787",
+      "_geoloc": {
+          "lat": 35.048075,
+          "lng": 72.470992
+      },
+      "geography": {
+          "lat": 35.048075,
+          "lng": 72.470992
+      },
+      "geo_point": [
+          72.470992,
+          35.048075
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3653,
+              "level": 3,
+              "externalID": "7787",
+              "name": "Bagh Deri Road",
+              "name_l1": "باغ دیری روڈ",
+              "slug": "/Swat_Bagh_Deri_Road-7787",
+              "slug_l1": "/Swat_Bagh_Deri_Road-7787"
+          }
+      ],
+      "hierarchyPath": "Bagh Deri Road Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7787",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3653",
+      "_highlightResult": {
+          "name": {
+              "value": "Bagh Deri Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3654,
+      "name": "Bahrain Road",
+      "name_l1": "بحرین روڈ",
+      "externalID": "7788",
+      "slug": "/Swat_Bahrain_Road-7788",
+      "slug_l1": "/Swat_Bahrain_Road-7788",
+      "_geoloc": {
+          "lat": 35.043349,
+          "lng": 72.480068
+      },
+      "geography": {
+          "lat": 35.043349,
+          "lng": 72.480068
+      },
+      "geo_point": [
+          72.480068,
+          35.043349
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3654,
+              "level": 3,
+              "externalID": "7788",
+              "name": "Bahrain Road",
+              "name_l1": "بحرین روڈ",
+              "slug": "/Swat_Bahrain_Road-7788",
+              "slug_l1": "/Swat_Bahrain_Road-7788"
+          }
+      ],
+      "hierarchyPath": "Bahrain Road Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7788",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "3654",
+      "_highlightResult": {
+          "name": {
+              "value": "Bahrain Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3655,
+      "name": "Bara Bandal",
+      "name_l1": "بارا بندل",
+      "externalID": "7789",
+      "slug": "/Swat_Bara_Bandal-7789",
+      "slug_l1": "/Swat_Bara_Bandal-7789",
+      "_geoloc": {
+          "lat": 34.825077,
+          "lng": 72.390175
+      },
+      "geography": {
+          "lat": 34.825077,
+          "lng": 72.390175
+      },
+      "geo_point": [
+          72.390175,
+          34.825077
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3655,
+              "level": 3,
+              "externalID": "7789",
+              "name": "Bara Bandal",
+              "name_l1": "بارا بندل",
+              "slug": "/Swat_Bara_Bandal-7789",
+              "slug_l1": "/Swat_Bara_Bandal-7789"
+          }
+      ],
+      "hierarchyPath": "Bara Bandal Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7789",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3655",
+      "_highlightResult": {
+          "name": {
+              "value": "Bara Bandal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3656,
+      "name": "Bara Samai",
+      "name_l1": "بارا سمائی",
+      "externalID": "7790",
+      "slug": "/Swat_Bara_Samai-7790",
+      "slug_l1": "/Swat_Bara_Samai-7790",
+      "_geoloc": {
+          "lat": 34.933793,
+          "lng": 72.226181
+      },
+      "geography": {
+          "lat": 34.933793,
+          "lng": 72.226181
+      },
+      "geo_point": [
+          72.226181,
+          34.933793
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3656,
+              "level": 3,
+              "externalID": "7790",
+              "name": "Bara Samai",
+              "name_l1": "بارا سمائی",
+              "slug": "/Swat_Bara_Samai-7790",
+              "slug_l1": "/Swat_Bara_Samai-7790"
+          }
+      ],
+      "hierarchyPath": "Bara Samai Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7790",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3656",
+      "_highlightResult": {
+          "name": {
+              "value": "Bara Samai",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3657,
+      "name": "Baramah",
+      "name_l1": "باراماہ",
+      "externalID": "7791",
+      "slug": "/Swat_Baramah-7791",
+      "slug_l1": "/Swat_Baramah-7791",
+      "_geoloc": {
+          "lat": 34.769538,
+          "lng": 72.373066
+      },
+      "geography": {
+          "lat": 34.769538,
+          "lng": 72.373066
+      },
+      "geo_point": [
+          72.373066,
+          34.769538
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3657,
+              "level": 3,
+              "externalID": "7791",
+              "name": "Baramah",
+              "name_l1": "باراماہ",
+              "slug": "/Swat_Baramah-7791",
+              "slug_l1": "/Swat_Baramah-7791"
+          }
+      ],
+      "hierarchyPath": "Baramah Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7791",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3657",
+      "_highlightResult": {
+          "name": {
+              "value": "Baramah",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3658,
+      "name": "Bayshonai Kalay",
+      "name_l1": "بے شونائی کالے",
+      "externalID": "7792",
+      "slug": "/Swat_Bayshonai_Kalay-7792",
+      "slug_l1": "/Swat_Bayshonai_Kalay-7792",
+      "_geoloc": {
+          "lat": 34.629253,
+          "lng": 72.431774
+      },
+      "geography": {
+          "lat": 34.629253,
+          "lng": 72.431774
+      },
+      "geo_point": [
+          72.431774,
+          34.629253
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3658,
+              "level": 3,
+              "externalID": "7792",
+              "name": "Bayshonai Kalay",
+              "name_l1": "بے شونائی کالے",
+              "slug": "/Swat_Bayshonai_Kalay-7792",
+              "slug_l1": "/Swat_Bayshonai_Kalay-7792"
+          }
+      ],
+      "hierarchyPath": "Bayshonai Kalay Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7792",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3658",
+      "_highlightResult": {
+          "name": {
+              "value": "Bayshonai Kalay",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3659,
+      "name": "Bazkhela",
+      "name_l1": "بزخیلہ",
+      "externalID": "7793",
+      "slug": "/Swat_Bazkhela-7793",
+      "slug_l1": "/Swat_Bazkhela-7793",
+      "_geoloc": {
+          "lat": 35.012564,
+          "lng": 72.437611
+      },
+      "geography": {
+          "lat": 35.012564,
+          "lng": 72.437611
+      },
+      "geo_point": [
+          72.437611,
+          35.012564
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3659,
+              "level": 3,
+              "externalID": "7793",
+              "name": "Bazkhela",
+              "name_l1": "بزخیلہ",
+              "slug": "/Swat_Bazkhela-7793",
+              "slug_l1": "/Swat_Bazkhela-7793"
+          }
+      ],
+      "hierarchyPath": "Bazkhela Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7793",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3659",
+      "_highlightResult": {
+          "name": {
+              "value": "Bazkhela",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16015,
+      "name": "Cedar Valley",
+      "name_l1": "سڈر ویلی",
+      "externalID": "17300",
+      "slug": "/Swat_Kalam_Cedar_Valley-17300",
+      "slug_l1": "/Swat_Kalam_Cedar_Valley-17300",
+      "_geoloc": {
+          "lat": 35.457082724764,
+          "lng": 72.582014135237
+      },
+      "geography": {
+          "lat": 35.457082724764,
+          "lng": 72.582014135237
+      },
+      "geo_point": [
+          72.582014135237,
+          35.457082724764
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 6265,
+              "level": 3,
+              "externalID": "12588",
+              "name": "Kalam",
+              "name_l1": "کالام",
+              "slug": "/Swat_Kalam-12588",
+              "slug_l1": "/Swat_Kalam-12588"
+          },
+          {
+              "id": 16015,
+              "level": 4,
+              "externalID": "17300",
+              "name": "Cedar Valley",
+              "name_l1": "سڈر ویلی",
+              "slug": "/Swat_Kalam_Cedar_Valley-17300",
+              "slug_l1": "/Swat_Kalam_Cedar_Valley-17300"
+          }
+      ],
+      "hierarchyPath": "Cedar Valley Kalam Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17300",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16015",
+      "_highlightResult": {
+          "name": {
+              "value": "Cedar Valley",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3660,
+      "name": "Charbagh",
+      "name_l1": "چارباغ",
+      "externalID": "7794",
+      "slug": "/Swat_Charbagh-7794",
+      "slug_l1": "/Swat_Charbagh-7794",
+      "_geoloc": {
+          "lat": 34.834659,
+          "lng": 72.4403
+      },
+      "geography": {
+          "lat": 34.834659,
+          "lng": 72.4403
+      },
+      "geo_point": [
+          72.4403,
+          34.834659
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3660,
+              "level": 3,
+              "externalID": "7794",
+              "name": "Charbagh",
+              "name_l1": "چارباغ",
+              "slug": "/Swat_Charbagh-7794",
+              "slug_l1": "/Swat_Charbagh-7794"
+          }
+      ],
+      "hierarchyPath": "Charbagh Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7794",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3660",
+      "_highlightResult": {
+          "name": {
+              "value": "Charbagh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3661,
+      "name": "Dangram",
+      "name_l1": "دنگرم",
+      "externalID": "7795",
+      "slug": "/Swat_Dangram-7795",
+      "slug_l1": "/Swat_Dangram-7795",
+      "_geoloc": {
+          "lat": 34.755999,
+          "lng": 72.406368
+      },
+      "geography": {
+          "lat": 34.755999,
+          "lng": 72.406368
+      },
+      "geo_point": [
+          72.406368,
+          34.755999
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3661,
+              "level": 3,
+              "externalID": "7795",
+              "name": "Dangram",
+              "name_l1": "دنگرم",
+              "slug": "/Swat_Dangram-7795",
+              "slug_l1": "/Swat_Dangram-7795"
+          }
+      ],
+      "hierarchyPath": "Dangram Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7795",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3661",
+      "_highlightResult": {
+          "name": {
+              "value": "Dangram",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3662,
+      "name": "Dir Road",
+      "name_l1": "دِیر روڈ",
+      "externalID": "7796",
+      "slug": "/Swat_Dir_Road-7796",
+      "slug_l1": "/Swat_Dir_Road-7796",
+      "_geoloc": {
+          "lat": 35.006255,
+          "lng": 72.347717
+      },
+      "geography": {
+          "lat": 35.006255,
+          "lng": 72.347717
+      },
+      "geo_point": [
+          72.347717,
+          35.006255
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3662,
+              "level": 3,
+              "externalID": "7796",
+              "name": "Dir Road",
+              "name_l1": "دِیر روڈ",
+              "slug": "/Swat_Dir_Road-7796",
+              "slug_l1": "/Swat_Dir_Road-7796"
+          }
+      ],
+      "hierarchyPath": "Dir Road Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7796",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3662",
+      "_highlightResult": {
+          "name": {
+              "value": "Dir Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3663,
+      "name": "Gamon Road",
+      "name_l1": "گاموں روڈ",
+      "externalID": "7797",
+      "slug": "/Swat_Gamon_Road-7797",
+      "slug_l1": "/Swat_Gamon_Road-7797",
+      "_geoloc": {
+          "lat": 34.688442,
+          "lng": 72.208253
+      },
+      "geography": {
+          "lat": 34.688442,
+          "lng": 72.208253
+      },
+      "geo_point": [
+          72.208253,
+          34.688442
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3663,
+              "level": 3,
+              "externalID": "7797",
+              "name": "Gamon Road",
+              "name_l1": "گاموں روڈ",
+              "slug": "/Swat_Gamon_Road-7797",
+              "slug_l1": "/Swat_Gamon_Road-7797"
+          }
+      ],
+      "hierarchyPath": "Gamon Road Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7797",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3663",
+      "_highlightResult": {
+          "name": {
+              "value": "Gamon Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14975,
+      "name": "Glamorous Heights",
+      "name_l1": "گلیمرس ہائٹس",
+      "externalID": "16490",
+      "slug": "/Swat_Kalam_Glamorous_Heights-16490",
+      "slug_l1": "/Swat_Kalam_Glamorous_Heights-16490",
+      "_geoloc": {
+          "lat": 35.473857,
+          "lng": 72.580891
+      },
+      "geography": {
+          "lat": 35.473857,
+          "lng": 72.580891
+      },
+      "geo_point": [
+          72.580891,
+          35.473857
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 6265,
+              "level": 3,
+              "externalID": "12588",
+              "name": "Kalam",
+              "name_l1": "کالام",
+              "slug": "/Swat_Kalam-12588",
+              "slug_l1": "/Swat_Kalam-12588"
+          },
+          {
+              "id": 14975,
+              "level": 4,
+              "externalID": "16490",
+              "name": "Glamorous Heights",
+              "name_l1": "گلیمرس ہائٹس",
+              "slug": "/Swat_Kalam_Glamorous_Heights-16490",
+              "slug_l1": "/Swat_Kalam_Glamorous_Heights-16490"
+          }
+      ],
+      "hierarchyPath": "Glamorous Heights Kalam Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16490",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14975",
+      "_highlightResult": {
+          "name": {
+              "value": "Glamorous Heights",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3664,
+      "name": "Islampur",
+      "name_l1": "اسلام پور",
+      "externalID": "7798",
+      "slug": "/Swat_Islampur-7798",
+      "slug_l1": "/Swat_Islampur-7798",
+      "_geoloc": {
+          "lat": 34.721015,
+          "lng": 72.366257
+      },
+      "geography": {
+          "lat": 34.721015,
+          "lng": 72.366257
+      },
+      "geo_point": [
+          72.366257,
+          34.721015
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3664,
+              "level": 3,
+              "externalID": "7798",
+              "name": "Islampur",
+              "name_l1": "اسلام پور",
+              "slug": "/Swat_Islampur-7798",
+              "slug_l1": "/Swat_Islampur-7798"
+          }
+      ],
+      "hierarchyPath": "Islampur Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7798",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3664",
+      "_highlightResult": {
+          "name": {
+              "value": "Islampur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3665,
+      "name": "Kalail Kandao",
+      "name_l1": "کلیل کنداؤ",
+      "externalID": "7799",
+      "slug": "/Swat_Kalail_Kandao-7799",
+      "slug_l1": "/Swat_Kalail_Kandao-7799",
+      "_geoloc": {
+          "lat": 34.647331,
+          "lng": 72.505302
+      },
+      "geography": {
+          "lat": 34.647331,
+          "lng": 72.505302
+      },
+      "geo_point": [
+          72.505302,
+          34.647331
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3665,
+              "level": 3,
+              "externalID": "7799",
+              "name": "Kalail Kandao",
+              "name_l1": "کلیل کنداؤ",
+              "slug": "/Swat_Kalail_Kandao-7799",
+              "slug_l1": "/Swat_Kalail_Kandao-7799"
+          }
+      ],
+      "hierarchyPath": "Kalail Kandao Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7799",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3665",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalail Kandao",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3666,
+      "name": "Kalakalay",
+      "name_l1": "کالاکلے",
+      "externalID": "7800",
+      "slug": "/Swat_Kalakalay-7800",
+      "slug_l1": "/Swat_Kalakalay-7800",
+      "_geoloc": {
+          "lat": 34.849312,
+          "lng": 72.26738
+      },
+      "geography": {
+          "lat": 34.849312,
+          "lng": 72.26738
+      },
+      "geo_point": [
+          72.26738,
+          34.849312
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3666,
+              "level": 3,
+              "externalID": "7800",
+              "name": "Kalakalay",
+              "name_l1": "کالاکلے",
+              "slug": "/Swat_Kalakalay-7800",
+              "slug_l1": "/Swat_Kalakalay-7800"
+          }
+      ],
+      "hierarchyPath": "Kalakalay Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7800",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3666",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalakalay",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3667,
+      "name": "Kalakot",
+      "name_l1": "کلاکوٹ",
+      "externalID": "7801",
+      "slug": "/Swat_Kalakot-7801",
+      "slug_l1": "/Swat_Kalakot-7801",
+      "_geoloc": {
+          "lat": 35.070469,
+          "lng": 72.474747
+      },
+      "geography": {
+          "lat": 35.070469,
+          "lng": 72.474747
+      },
+      "geo_point": [
+          72.474747,
+          35.070469
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3667,
+              "level": 3,
+              "externalID": "7801",
+              "name": "Kalakot",
+              "name_l1": "کلاکوٹ",
+              "slug": "/Swat_Kalakot-7801",
+              "slug_l1": "/Swat_Kalakot-7801"
+          }
+      ],
+      "hierarchyPath": "Kalakot Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7801",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3667",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalakot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6265,
+      "name": "Kalam",
+      "name_l1": "کالام",
+      "externalID": "12588",
+      "slug": "/Swat_Kalam-12588",
+      "slug_l1": "/Swat_Kalam-12588",
+      "_geoloc": {
+          "lat": 35.489803,
+          "lng": 72.580682
+      },
+      "geography": {
+          "lat": 35.489803,
+          "lng": 72.580682
+      },
+      "geo_point": [
+          72.580682,
+          35.489803
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 6265,
+              "level": 3,
+              "externalID": "12588",
+              "name": "Kalam",
+              "name_l1": "کالام",
+              "slug": "/Swat_Kalam-12588",
+              "slug_l1": "/Swat_Kalam-12588"
+          }
+      ],
+      "hierarchyPath": "Kalam Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12588",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6265",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalam",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16156,
+      "name": "Kalam Cottages",
+      "name_l1": "کلام کاٹیجز",
+      "externalID": "17431",
+      "slug": "/Swat_Kalam_Ushu_Road_Kalam_Cottages-17431",
+      "slug_l1": "/Swat_Kalam_Ushu_Road_Kalam_Cottages-17431",
+      "_geoloc": {
+          "lat": 35.516679,
+          "lng": 72.620413
+      },
+      "geography": {
+          "lat": 35.516679,
+          "lng": 72.620413
+      },
+      "geo_point": [
+          72.620413,
+          35.516679
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 6265,
+              "level": 3,
+              "externalID": "12588",
+              "name": "Kalam",
+              "name_l1": "کالام",
+              "slug": "/Swat_Kalam-12588",
+              "slug_l1": "/Swat_Kalam-12588"
+          },
+          {
+              "id": 16155,
+              "level": 4,
+              "externalID": "17430",
+              "name": "Ushu Road",
+              "name_l1": "یوشو روڈ",
+              "slug": "/Swat_Kalam_Ushu_Road-17430",
+              "slug_l1": "/Swat_Kalam_Ushu_Road-17430"
+          },
+          {
+              "id": 16156,
+              "level": 5,
+              "externalID": "17431",
+              "name": "Kalam Cottages",
+              "name_l1": "کلام کاٹیجز",
+              "slug": "/Swat_Kalam_Ushu_Road_Kalam_Cottages-17431",
+              "slug_l1": "/Swat_Kalam_Ushu_Road_Kalam_Cottages-17431"
+          }
+      ],
+      "hierarchyPath": "Kalam Cottages Ushu Road Kalam Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17431",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16156",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalam Cottages",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8949,
+      "name": "Kalam Valley Housing Scheme",
+      "name_l1": "کالام ویلی هاوسنگ سکیم",
+      "externalID": "11379",
+      "slug": "/Swat_Bahrain_Road_Kalam_Valley_Housing_Scheme-11379",
+      "slug_l1": "/Swat_Bahrain_Road_Kalam_Valley_Housing_Scheme-11379",
+      "_geoloc": {
+          "lat": 35.478625,
+          "lng": 72.589488
+      },
+      "geography": {
+          "lat": 35.478625,
+          "lng": 72.589488
+      },
+      "geo_point": [
+          72.589488,
+          35.478625
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3654,
+              "level": 3,
+              "externalID": "7788",
+              "name": "Bahrain Road",
+              "name_l1": "بحرین روڈ",
+              "slug": "/Swat_Bahrain_Road-7788",
+              "slug_l1": "/Swat_Bahrain_Road-7788"
+          },
+          {
+              "id": 8949,
+              "level": 4,
+              "externalID": "11379",
+              "name": "Kalam Valley Housing Scheme",
+              "name_l1": "کالام ویلی هاوسنگ سکیم",
+              "slug": "/Swat_Bahrain_Road_Kalam_Valley_Housing_Scheme-11379",
+              "slug_l1": "/Swat_Bahrain_Road_Kalam_Valley_Housing_Scheme-11379"
+          }
+      ],
+      "hierarchyPath": "Kalam Valley Housing Scheme Bahrain Road Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11379",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8949",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalam Valley Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21205,
+      "name": "Kanju Township Sector B",
+      "name_l1": "کانجو ٹاؤن شپ سیکٹر بی",
+      "externalID": "21796",
+      "slug": "/Swat_Kanju_Township_kanju_Township_Sector_B_-21796",
+      "slug_l1": "/Swat_Kanju_Township_kanju_Township_Sector_B_-21796",
+      "_geoloc": {
+          "lat": 34.822982118214,
+          "lng": 72.347967118358
+      },
+      "geography": {
+          "lat": 34.822982118214,
+          "lng": 72.347967118358
+      },
+      "geo_point": [
+          72.347967118358,
+          34.822982118214
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3668,
+              "level": 3,
+              "externalID": "7802",
+              "name": "Kanju Township",
+              "name_l1": "کانجو ٹاؤن شپ",
+              "slug": "/Swat_Kanju_Township-7802",
+              "slug_l1": "/Swat_Kanju_Township-7802"
+          },
+          {
+              "id": 21205,
+              "level": 4,
+              "externalID": "21796",
+              "name": "Kanju Township Sector B",
+              "name_l1": "کانجو ٹاؤن شپ سیکٹر بی",
+              "slug": "/Swat_Kanju_Township_kanju_Township_Sector_B_-21796",
+              "slug_l1": "/Swat_Kanju_Township_kanju_Township_Sector_B_-21796"
+          }
+      ],
+      "hierarchyPath": "Kanju Township Sector B Kanju Township Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21796",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21205",
+      "_highlightResult": {
+          "name": {
+              "value": "Kanju Township Sector B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3669,
+      "name": "Karimabad",
+      "name_l1": "کریم آباد",
+      "externalID": "7803",
+      "slug": "/Swat_Karimabad-7803",
+      "slug_l1": "/Swat_Karimabad-7803",
+      "_geoloc": {
+          "lat": 34.948428,
+          "lng": 72.435207
+      },
+      "geography": {
+          "lat": 34.948428,
+          "lng": 72.435207
+      },
+      "geo_point": [
+          72.435207,
+          34.948428
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3669,
+              "level": 3,
+              "externalID": "7803",
+              "name": "Karimabad",
+              "name_l1": "کریم آباد",
+              "slug": "/Swat_Karimabad-7803",
+              "slug_l1": "/Swat_Karimabad-7803"
+          }
+      ],
+      "hierarchyPath": "Karimabad Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7803",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3669",
+      "_highlightResult": {
+          "name": {
+              "value": "Karimabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3670,
+      "name": "Kokaria",
+      "name_l1": "کوکاریا",
+      "externalID": "7804",
+      "slug": "/Swat_Kokaria-7804",
+      "slug_l1": "/Swat_Kokaria-7804",
+      "_geoloc": {
+          "lat": 34.738227,
+          "lng": 72.424564
+      },
+      "geography": {
+          "lat": 34.738227,
+          "lng": 72.424564
+      },
+      "geo_point": [
+          72.424564,
+          34.738227
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3670,
+              "level": 3,
+              "externalID": "7804",
+              "name": "Kokaria",
+              "name_l1": "کوکاریا",
+              "slug": "/Swat_Kokaria-7804",
+              "slug_l1": "/Swat_Kokaria-7804"
+          }
+      ],
+      "hierarchyPath": "Kokaria Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7804",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3670",
+      "_highlightResult": {
+          "name": {
+              "value": "Kokaria",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3671,
+      "name": "Lamutai",
+      "name_l1": "لموتائی",
+      "externalID": "7805",
+      "slug": "/Swat_Lamutai-7805",
+      "slug_l1": "/Swat_Lamutai-7805",
+      "_geoloc": {
+          "lat": 35.474092,
+          "lng": 72.239227
+      },
+      "geography": {
+          "lat": 35.474092,
+          "lng": 72.239227
+      },
+      "geo_point": [
+          72.239227,
+          35.474092
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3671,
+              "level": 3,
+              "externalID": "7805",
+              "name": "Lamutai",
+              "name_l1": "لموتائی",
+              "slug": "/Swat_Lamutai-7805",
+              "slug_l1": "/Swat_Lamutai-7805"
+          }
+      ],
+      "hierarchyPath": "Lamutai Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7805",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3671",
+      "_highlightResult": {
+          "name": {
+              "value": "Lamutai",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3672,
+      "name": "Landai",
+      "name_l1": "لنڈائی",
+      "externalID": "7806",
+      "slug": "/Swat_Landai-7806",
+      "slug_l1": "/Swat_Landai-7806",
+      "_geoloc": {
+          "lat": 35.090979,
+          "lng": 72.394066
+      },
+      "geography": {
+          "lat": 35.090979,
+          "lng": 72.394066
+      },
+      "geo_point": [
+          72.394066,
+          35.090979
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3672,
+              "level": 3,
+              "externalID": "7806",
+              "name": "Landai",
+              "name_l1": "لنڈائی",
+              "slug": "/Swat_Landai-7806",
+              "slug_l1": "/Swat_Landai-7806"
+          }
+      ],
+      "hierarchyPath": "Landai Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7806",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3672",
+      "_highlightResult": {
+          "name": {
+              "value": "Landai",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3674,
+      "name": "Matta",
+      "name_l1": "مَٹا",
+      "externalID": "7808",
+      "slug": "/Swat_Matta-7808",
+      "slug_l1": "/Swat_Matta-7808",
+      "_geoloc": {
+          "lat": 34.932104,
+          "lng": 72.415295
+      },
+      "geography": {
+          "lat": 34.932104,
+          "lng": 72.415295
+      },
+      "geo_point": [
+          72.415295,
+          34.932104
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3674,
+              "level": 3,
+              "externalID": "7808",
+              "name": "Matta",
+              "name_l1": "مَٹا",
+              "slug": "/Swat_Matta-7808",
+              "slug_l1": "/Swat_Matta-7808"
+          }
+      ],
+      "hierarchyPath": "Matta Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7808",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3674",
+      "_highlightResult": {
+          "name": {
+              "value": "Matta",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3675,
+      "name": "Matta Road",
+      "name_l1": "مَٹا روڈ",
+      "externalID": "7809",
+      "slug": "/Swat_Matta_Road-7809",
+      "slug_l1": "/Swat_Matta_Road-7809",
+      "_geoloc": {
+          "lat": 34.940847,
+          "lng": 72.459941
+      },
+      "geography": {
+          "lat": 34.940847,
+          "lng": 72.459941
+      },
+      "geo_point": [
+          72.459941,
+          34.940847
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3675,
+              "level": 3,
+              "externalID": "7809",
+              "name": "Matta Road",
+              "name_l1": "مَٹا روڈ",
+              "slug": "/Swat_Matta_Road-7809",
+              "slug_l1": "/Swat_Matta_Road-7809"
+          }
+      ],
+      "hierarchyPath": "Matta Road Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7809",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3675",
+      "_highlightResult": {
+          "name": {
+              "value": "Matta Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1256,
+      "name": "Mingora",
+      "name_l1": "مینگورہ",
+      "externalID": "1733",
+      "slug": "/Swat_Mingora-1733",
+      "slug_l1": "/Swat_Mingora-1733",
+      "_geoloc": {
+          "lat": 34.779055270851,
+          "lng": 72.361922264099
+      },
+      "geography": {
+          "lat": 34.779055270851,
+          "lng": 72.361922264099
+      },
+      "geo_point": [
+          72.361922264099,
+          34.779055270851
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 1256,
+              "level": 3,
+              "externalID": "1733",
+              "name": "Mingora",
+              "name_l1": "مینگورہ",
+              "slug": "/Swat_Mingora-1733",
+              "slug_l1": "/Swat_Mingora-1733"
+          }
+      ],
+      "hierarchyPath": "Mingora Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1733",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1256",
+      "_highlightResult": {
+          "name": {
+              "value": "Mingora",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3676,
+      "name": "Mohalla Tariqabad",
+      "name_l1": "محلہ طارق آباد",
+      "externalID": "7810",
+      "slug": "/Swat_Mohalla_Tariqabad-7810",
+      "slug_l1": "/Swat_Mohalla_Tariqabad-7810",
+      "_geoloc": {
+          "lat": 34.793506,
+          "lng": 72.430687
+      },
+      "geography": {
+          "lat": 34.793506,
+          "lng": 72.430687
+      },
+      "geo_point": [
+          72.430687,
+          34.793506
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3676,
+              "level": 3,
+              "externalID": "7810",
+              "name": "Mohalla Tariqabad",
+              "name_l1": "محلہ طارق آباد",
+              "slug": "/Swat_Mohalla_Tariqabad-7810",
+              "slug_l1": "/Swat_Mohalla_Tariqabad-7810"
+          }
+      ],
+      "hierarchyPath": "Mohalla Tariqabad Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7810",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3676",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Tariqabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3677,
+      "name": "Ningolai Village",
+      "name_l1": "ننگولائی ویلیج",
+      "externalID": "7811",
+      "slug": "/Swat_Ningolai_Village-7811",
+      "slug_l1": "/Swat_Ningolai_Village-7811",
+      "_geoloc": {
+          "lat": 34.840295,
+          "lng": 72.407341
+      },
+      "geography": {
+          "lat": 34.840295,
+          "lng": 72.407341
+      },
+      "geo_point": [
+          72.407341,
+          34.840295
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3677,
+              "level": 3,
+              "externalID": "7811",
+              "name": "Ningolai Village",
+              "name_l1": "ننگولائی ویلیج",
+              "slug": "/Swat_Ningolai_Village-7811",
+              "slug_l1": "/Swat_Ningolai_Village-7811"
+          }
+      ],
+      "hierarchyPath": "Ningolai Village Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7811",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3677",
+      "_highlightResult": {
+          "name": {
+              "value": "Ningolai Village",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1199,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1507",
+      "slug": "/Swat_Others-1507",
+      "slug_l1": "/Swat_Others-1507",
+      "_geoloc": {
+          "lat": 35.492,
+          "lng": 72.5205
+      },
+      "geography": {
+          "lat": 35.492,
+          "lng": 72.5205
+      },
+      "geo_point": [
+          72.5205,
+          35.492
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 1199,
+              "level": 3,
+              "externalID": "1507",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Swat_Others-1507",
+              "slug_l1": "/Swat_Others-1507"
+          }
+      ],
+      "hierarchyPath": "Others Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1507",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1199",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3678,
+      "name": "Parraie",
+      "name_l1": "پڑائ",
+      "externalID": "7812",
+      "slug": "/Swat_Parraie-7812",
+      "slug_l1": "/Swat_Parraie-7812",
+      "_geoloc": {
+          "lat": 34.703518,
+          "lng": 72.228584
+      },
+      "geography": {
+          "lat": 34.703518,
+          "lng": 72.228584
+      },
+      "geo_point": [
+          72.228584,
+          34.703518
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3678,
+              "level": 3,
+              "externalID": "7812",
+              "name": "Parraie",
+              "name_l1": "پڑائ",
+              "slug": "/Swat_Parraie-7812",
+              "slug_l1": "/Swat_Parraie-7812"
+          }
+      ],
+      "hierarchyPath": "Parraie Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7812",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3678",
+      "_highlightResult": {
+          "name": {
+              "value": "Parraie",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3679,
+      "name": "Peuchar Valley",
+      "name_l1": "پچھاڑ ویلی",
+      "externalID": "7813",
+      "slug": "/Swat_Peuchar_Valley-7813",
+      "slug_l1": "/Swat_Peuchar_Valley-7813",
+      "_geoloc": {
+          "lat": 35.012846,
+          "lng": 72.215881
+      },
+      "geography": {
+          "lat": 35.012846,
+          "lng": 72.215881
+      },
+      "geo_point": [
+          72.215881,
+          35.012846
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3679,
+              "level": 3,
+              "externalID": "7813",
+              "name": "Peuchar Valley",
+              "name_l1": "پچھاڑ ویلی",
+              "slug": "/Swat_Peuchar_Valley-7813",
+              "slug_l1": "/Swat_Peuchar_Valley-7813"
+          }
+      ],
+      "hierarchyPath": "Peuchar Valley Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7813",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3679",
+      "_highlightResult": {
+          "name": {
+              "value": "Peuchar Valley",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16021,
+      "name": "Pine View Cottages",
+      "name_l1": "پائن ویو کاٹیجز",
+      "externalID": "17305",
+      "slug": "/Swat_Kalam_Pine_View_Cottages-17305",
+      "slug_l1": "/Swat_Kalam_Pine_View_Cottages-17305",
+      "_geoloc": {
+          "lat": 35.46884814,
+          "lng": 72.57827687
+      },
+      "geography": {
+          "lat": 35.46884814,
+          "lng": 72.57827687
+      },
+      "geo_point": [
+          72.57827687,
+          35.46884814
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 6265,
+              "level": 3,
+              "externalID": "12588",
+              "name": "Kalam",
+              "name_l1": "کالام",
+              "slug": "/Swat_Kalam-12588",
+              "slug_l1": "/Swat_Kalam-12588"
+          },
+          {
+              "id": 16021,
+              "level": 4,
+              "externalID": "17305",
+              "name": "Pine View Cottages",
+              "name_l1": "پائن ویو کاٹیجز",
+              "slug": "/Swat_Kalam_Pine_View_Cottages-17305",
+              "slug_l1": "/Swat_Kalam_Pine_View_Cottages-17305"
+          }
+      ],
+      "hierarchyPath": "Pine View Cottages Kalam Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17305",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16021",
+      "_highlightResult": {
+          "name": {
+              "value": "Pine View Cottages",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18441,
+      "name": "Rahimabad",
+      "name_l1": "رحیم آباد",
+      "externalID": "19356",
+      "slug": "/Swat_Rahimabad-19356",
+      "slug_l1": "/Swat_Rahimabad-19356",
+      "_geoloc": {
+          "lat": 34.767544,
+          "lng": 72.338738
+      },
+      "geography": {
+          "lat": 34.767544,
+          "lng": 72.338738
+      },
+      "geo_point": [
+          72.338738,
+          34.767544
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 18441,
+              "level": 3,
+              "externalID": "19356",
+              "name": "Rahimabad",
+              "name_l1": "رحیم آباد",
+              "slug": "/Swat_Rahimabad-19356",
+              "slug_l1": "/Swat_Rahimabad-19356"
+          }
+      ],
+      "hierarchyPath": "Rahimabad Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19356",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18441",
+      "_highlightResult": {
+          "name": {
+              "value": "Rahimabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3680,
+      "name": "Saidu Sharif",
+      "name_l1": "سیدھو شریف",
+      "externalID": "7814",
+      "slug": "/Swat_Saidu_Sharif-7814",
+      "slug_l1": "/Swat_Saidu_Sharif-7814",
+      "_geoloc": {
+          "lat": 34.750076,
+          "lng": 72.355957
+      },
+      "geography": {
+          "lat": 34.750076,
+          "lng": 72.355957
+      },
+      "geo_point": [
+          72.355957,
+          34.750076
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3680,
+              "level": 3,
+              "externalID": "7814",
+              "name": "Saidu Sharif",
+              "name_l1": "سیدھو شریف",
+              "slug": "/Swat_Saidu_Sharif-7814",
+              "slug_l1": "/Swat_Saidu_Sharif-7814"
+          }
+      ],
+      "hierarchyPath": "Saidu Sharif Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7814",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3680",
+      "_highlightResult": {
+          "name": {
+              "value": "Saidu Sharif",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17792,
+      "name": "Serenity Heights",
+      "name_l1": "سیرینٹی ہائٹس",
+      "externalID": "18859",
+      "slug": "/Swat_Kalam_Serenity_Heights-18859",
+      "slug_l1": "/Swat_Kalam_Serenity_Heights-18859",
+      "_geoloc": {
+          "lat": 35.469869,
+          "lng": 72.575879
+      },
+      "geography": {
+          "lat": 35.469869,
+          "lng": 72.575879
+      },
+      "geo_point": [
+          72.575879,
+          35.469869
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 6265,
+              "level": 3,
+              "externalID": "12588",
+              "name": "Kalam",
+              "name_l1": "کالام",
+              "slug": "/Swat_Kalam-12588",
+              "slug_l1": "/Swat_Kalam-12588"
+          },
+          {
+              "id": 17792,
+              "level": 4,
+              "externalID": "18859",
+              "name": "Serenity Heights",
+              "name_l1": "سیرینٹی ہائٹس",
+              "slug": "/Swat_Kalam_Serenity_Heights-18859",
+              "slug_l1": "/Swat_Kalam_Serenity_Heights-18859"
+          }
+      ],
+      "hierarchyPath": "Serenity Heights Kalam Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18859",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17792",
+      "_highlightResult": {
+          "name": {
+              "value": "Serenity Heights",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3681,
+      "name": "Shamozai Road",
+      "name_l1": "شموزئی روڈ",
+      "externalID": "7815",
+      "slug": "/Swat_Shamozai_Road-7815",
+      "slug_l1": "/Swat_Shamozai_Road-7815",
+      "_geoloc": {
+          "lat": 34.691098,
+          "lng": 72.190261
+      },
+      "geography": {
+          "lat": 34.691098,
+          "lng": 72.190261
+      },
+      "geo_point": [
+          72.190261,
+          34.691098
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3681,
+              "level": 3,
+              "externalID": "7815",
+              "name": "Shamozai Road",
+              "name_l1": "شموزئی روڈ",
+              "slug": "/Swat_Shamozai_Road-7815",
+              "slug_l1": "/Swat_Shamozai_Road-7815"
+          }
+      ],
+      "hierarchyPath": "Shamozai Road Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7815",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3681",
+      "_highlightResult": {
+          "name": {
+              "value": "Shamozai Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3682,
+      "name": "Township Boulevard",
+      "name_l1": "ٹاؤن شپ بلیوارڈ",
+      "externalID": "7816",
+      "slug": "/Swat_Township_Boulevard-7816",
+      "slug_l1": "/Swat_Township_Boulevard-7816",
+      "_geoloc": {
+          "lat": 34.811918,
+          "lng": 72.341795
+      },
+      "geography": {
+          "lat": 34.811918,
+          "lng": 72.341795
+      },
+      "geo_point": [
+          72.341795,
+          34.811918
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 3682,
+              "level": 3,
+              "externalID": "7816",
+              "name": "Township Boulevard",
+              "name_l1": "ٹاؤن شپ بلیوارڈ",
+              "slug": "/Swat_Township_Boulevard-7816",
+              "slug_l1": "/Swat_Township_Boulevard-7816"
+          }
+      ],
+      "hierarchyPath": "Township Boulevard Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7816",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3682",
+      "_highlightResult": {
+          "name": {
+              "value": "Township Boulevard",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16155,
+      "name": "Ushu Road",
+      "name_l1": "یوشو روڈ",
+      "externalID": "17430",
+      "slug": "/Swat_Kalam_Ushu_Road-17430",
+      "slug_l1": "/Swat_Kalam_Ushu_Road-17430",
+      "_geoloc": {
+          "lat": 35.518044,
+          "lng": 72.62377
+      },
+      "geography": {
+          "lat": 35.518044,
+          "lng": 72.62377
+      },
+      "geo_point": [
+          72.62377,
+          35.518044
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 70,
+              "level": 2,
+              "externalID": "1506",
+              "name": "Swat",
+              "name_l1": "سوات",
+              "slug": "/Swat-1506",
+              "slug_l1": "/Swat-1506"
+          },
+          {
+              "id": 6265,
+              "level": 3,
+              "externalID": "12588",
+              "name": "Kalam",
+              "name_l1": "کالام",
+              "slug": "/Swat_Kalam-12588",
+              "slug_l1": "/Swat_Kalam-12588"
+          },
+          {
+              "id": 16155,
+              "level": 4,
+              "externalID": "17430",
+              "name": "Ushu Road",
+              "name_l1": "یوشو روڈ",
+              "slug": "/Swat_Kalam_Ushu_Road-17430",
+              "slug_l1": "/Swat_Kalam_Ushu_Road-17430"
+          }
+      ],
+      "hierarchyPath": "Ushu Road Kalam Swat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17430",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16155",
+      "_highlightResult": {
+          "name": {
+              "value": "Ushu Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

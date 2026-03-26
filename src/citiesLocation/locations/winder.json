@@ -1,0 +1,378 @@
+[
+  {
+      "id": 22198,
+      "name": "Khyber Sonmiani Society",
+      "name_l1": "خیبر سونمیانی سوسائٹی",
+      "externalID": "22262",
+      "slug": "/Lasbela_Winder_Khyber_Sonmiani_Society-22262",
+      "slug_l1": "/Lasbela_Winder_Khyber_Sonmiani_Society-22262",
+      "_geoloc": {
+          "lat": 25.327173,
+          "lng": 66.683067
+      },
+      "geography": {
+          "lat": 25.327173,
+          "lng": 66.683067
+      },
+      "geo_point": [
+          66.683067,
+          25.327173
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 22199,
+              "level": 2,
+              "externalID": "22263",
+              "name": "Winder",
+              "name_l1": "وندر",
+              "slug": "/Winder-22263",
+              "slug_l1": "/Winder-22263"
+          },
+          {
+              "id": 22198,
+              "level": 3,
+              "externalID": "22262",
+              "name": "Khyber Sonmiani Society",
+              "name_l1": "خیبر سونمیانی سوسائٹی",
+              "slug": "/Lasbela_Winder_Khyber_Sonmiani_Society-22262",
+              "slug_l1": "/Lasbela_Winder_Khyber_Sonmiani_Society-22262"
+          }
+      ],
+      "hierarchyPath": "Khyber Sonmiani Society Winder Balochistan Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22262",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22198",
+      "_highlightResult": {
+          "name": {
+              "value": "Khyber Sonmiani Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22199,
+      "name": "Winder",
+      "name_l1": "وندر",
+      "externalID": "22263",
+      "slug": "/Winder-22263",
+      "slug_l1": "/Winder-22263",
+      "_geoloc": {
+          "lat": 25.399910986612,
+          "lng": 66.654669076646
+      },
+      "geography": {
+          "lat": 25.399910986612,
+          "lng": 66.654669076646
+      },
+      "geo_point": [
+          66.654669076646,
+          25.399910986612
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 22199,
+              "level": 2,
+              "externalID": "22263",
+              "name": "Winder",
+              "name_l1": "وندر",
+              "slug": "/Winder-22263",
+              "slug_l1": "/Winder-22263"
+          }
+      ],
+      "hierarchyPath": "Winder Balochistan Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22263",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "22199",
+      "_highlightResult": {
+          "name": {
+              "value": "Winder",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22201,
+      "name": "Damb",
+      "name_l1": "دمب",
+      "externalID": "22265",
+      "slug": "/Winder_Damb-22265",
+      "slug_l1": "/Winder_Damb-22265",
+      "_geoloc": {
+          "lat": 25.448214581919,
+          "lng": 66.568822707642
+      },
+      "geography": {
+          "lat": 25.448214581919,
+          "lng": 66.568822707642
+      },
+      "geo_point": [
+          66.568822707642,
+          25.448214581919
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 22199,
+              "level": 2,
+              "externalID": "22263",
+              "name": "Winder",
+              "name_l1": "وندر",
+              "slug": "/Winder-22263",
+              "slug_l1": "/Winder-22263"
+          },
+          {
+              "id": 22201,
+              "level": 3,
+              "externalID": "22265",
+              "name": "Damb",
+              "name_l1": "دمب",
+              "slug": "/Winder_Damb-22265",
+              "slug_l1": "/Winder_Damb-22265"
+          }
+      ],
+      "hierarchyPath": "Damb Winder Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22265",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22201",
+      "_highlightResult": {
+          "name": {
+              "value": "Damb",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22202,
+      "name": "Goth Hussain",
+      "name_l1": "گوٹھ حسین",
+      "externalID": "22266",
+      "slug": "/Winder_Goth_Hussain-22266",
+      "slug_l1": "/Winder_Goth_Hussain-22266",
+      "_geoloc": {
+          "lat": 25.411796581814,
+          "lng": 66.665672733452
+      },
+      "geography": {
+          "lat": 25.411796581814,
+          "lng": 66.665672733452
+      },
+      "geo_point": [
+          66.665672733452,
+          25.411796581814
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 22199,
+              "level": 2,
+              "externalID": "22263",
+              "name": "Winder",
+              "name_l1": "وندر",
+              "slug": "/Winder-22263",
+              "slug_l1": "/Winder-22263"
+          },
+          {
+              "id": 22202,
+              "level": 3,
+              "externalID": "22266",
+              "name": "Goth Hussain",
+              "name_l1": "گوٹھ حسین",
+              "slug": "/Winder_Goth_Hussain-22266",
+              "slug_l1": "/Winder_Goth_Hussain-22266"
+          }
+      ],
+      "hierarchyPath": "Goth Hussain Winder Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22266",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22202",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Hussain",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22200,
+      "name": "Somiani",
+      "name_l1": "سومیانی",
+      "externalID": "22264",
+      "slug": "/Winder_Somiani-22264",
+      "slug_l1": "/Winder_Somiani-22264",
+      "_geoloc": {
+          "lat": 25.422538130894,
+          "lng": 66.598318775529
+      },
+      "geography": {
+          "lat": 25.422538130894,
+          "lng": 66.598318775529
+      },
+      "geo_point": [
+          66.598318775529,
+          25.422538130894
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 22199,
+              "level": 2,
+              "externalID": "22263",
+              "name": "Winder",
+              "name_l1": "وندر",
+              "slug": "/Winder-22263",
+              "slug_l1": "/Winder-22263"
+          },
+          {
+              "id": 22200,
+              "level": 3,
+              "externalID": "22264",
+              "name": "Somiani",
+              "name_l1": "سومیانی",
+              "slug": "/Winder_Somiani-22264",
+              "slug_l1": "/Winder_Somiani-22264"
+          }
+      ],
+      "hierarchyPath": "Somiani Winder Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22264",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22200",
+      "_highlightResult": {
+          "name": {
+              "value": "Somiani",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

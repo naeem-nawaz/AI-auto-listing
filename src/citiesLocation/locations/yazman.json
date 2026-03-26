@@ -1,0 +1,618 @@
+[
+  {
+      "id": 6228,
+      "name": "Al Ghafoor Town",
+      "name_l1": "الغفور ٹاؤن",
+      "externalID": "12506",
+      "slug": "/Yazman_Al_Ghafoor_Town-12506",
+      "slug_l1": "/Yazman_Al_Ghafoor_Town-12506",
+      "_geoloc": {
+          "lat": 29.126411,
+          "lng": 71.739607
+      },
+      "geography": {
+          "lat": 29.126411,
+          "lng": 71.739607
+      },
+      "geo_point": [
+          71.739607,
+          29.126411
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 183,
+              "level": 2,
+              "externalID": "12504",
+              "name": "Yazman",
+              "name_l1": "یزمان",
+              "slug": "/Yazman-12504",
+              "slug_l1": "/Yazman-12504"
+          },
+          {
+              "id": 6228,
+              "level": 3,
+              "externalID": "12506",
+              "name": "Al Ghafoor Town",
+              "name_l1": "الغفور ٹاؤن",
+              "slug": "/Yazman_Al_Ghafoor_Town-12506",
+              "slug_l1": "/Yazman_Al_Ghafoor_Town-12506"
+          }
+      ],
+      "hierarchyPath": "Al Ghafoor Town Yazman Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12506",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6228",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Ghafoor Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20893,
+      "name": "Hafiz",
+      "name_l1": "حافظ کالونی",
+      "externalID": "21479",
+      "slug": "/Yazman_Hafiz_Colony_Hafiz-21479",
+      "slug_l1": "/Yazman_Hafiz_Colony_Hafiz-21479",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 80.0
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 80.0
+      },
+      "geo_point": [
+          80.0,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 183,
+              "level": 2,
+              "externalID": "12504",
+              "name": "Yazman",
+              "name_l1": "یزمان",
+              "slug": "/Yazman-12504",
+              "slug_l1": "/Yazman-12504"
+          },
+          {
+              "id": 6231,
+              "level": 3,
+              "externalID": "12509",
+              "name": "Hafiz Colony",
+              "name_l1": "حافظ کالونی",
+              "slug": "/Yazman_Hafiz_Colony-12509",
+              "slug_l1": "/Yazman_Hafiz_Colony-12509"
+          },
+          {
+              "id": 20893,
+              "level": 4,
+              "externalID": "21479",
+              "name": "Hafiz",
+              "name_l1": "حافظ کالونی",
+              "slug": "/Yazman_Hafiz_Colony_Hafiz-21479",
+              "slug_l1": "/Yazman_Hafiz_Colony_Hafiz-21479"
+          }
+      ],
+      "hierarchyPath": "Hafiz Hafiz Colony Yazman Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21479",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20893",
+      "_highlightResult": {
+          "name": {
+              "value": "Hafiz",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6231,
+      "name": "Hafiz Colony",
+      "name_l1": "حافظ کالونی",
+      "externalID": "12509",
+      "slug": "/Yazman_Hafiz_Colony-12509",
+      "slug_l1": "/Yazman_Hafiz_Colony-12509",
+      "_geoloc": {
+          "lat": 29.121898,
+          "lng": 71.752364
+      },
+      "geography": {
+          "lat": 29.121898,
+          "lng": 71.752364
+      },
+      "geo_point": [
+          71.752364,
+          29.121898
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 183,
+              "level": 2,
+              "externalID": "12504",
+              "name": "Yazman",
+              "name_l1": "یزمان",
+              "slug": "/Yazman-12504",
+              "slug_l1": "/Yazman-12504"
+          },
+          {
+              "id": 6231,
+              "level": 3,
+              "externalID": "12509",
+              "name": "Hafiz Colony",
+              "name_l1": "حافظ کالونی",
+              "slug": "/Yazman_Hafiz_Colony-12509",
+              "slug_l1": "/Yazman_Hafiz_Colony-12509"
+          }
+      ],
+      "hierarchyPath": "Hafiz Colony Yazman Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12509",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6231",
+      "_highlightResult": {
+          "name": {
+              "value": "Hafiz Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6229,
+      "name": "Hassan Colony",
+      "name_l1": "حسن کالونی",
+      "externalID": "12507",
+      "slug": "/Yazman_Hassan_Colony-12507",
+      "slug_l1": "/Yazman_Hassan_Colony-12507",
+      "_geoloc": {
+          "lat": 29.127832,
+          "lng": 71.744337
+      },
+      "geography": {
+          "lat": 29.127832,
+          "lng": 71.744337
+      },
+      "geo_point": [
+          71.744337,
+          29.127832
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 183,
+              "level": 2,
+              "externalID": "12504",
+              "name": "Yazman",
+              "name_l1": "یزمان",
+              "slug": "/Yazman-12504",
+              "slug_l1": "/Yazman-12504"
+          },
+          {
+              "id": 6229,
+              "level": 3,
+              "externalID": "12507",
+              "name": "Hassan Colony",
+              "name_l1": "حسن کالونی",
+              "slug": "/Yazman_Hassan_Colony-12507",
+              "slug_l1": "/Yazman_Hassan_Colony-12507"
+          }
+      ],
+      "hierarchyPath": "Hassan Colony Yazman Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12507",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6229",
+      "_highlightResult": {
+          "name": {
+              "value": "Hassan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6227,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "12505",
+      "slug": "/Yazman_Others-12505",
+      "slug_l1": "/Yazman_Others-12505",
+      "_geoloc": {
+          "lat": 29.125809,
+          "lng": 71.743774
+      },
+      "geography": {
+          "lat": 29.125809,
+          "lng": 71.743774
+      },
+      "geo_point": [
+          71.743774,
+          29.125809
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 183,
+              "level": 2,
+              "externalID": "12504",
+              "name": "Yazman",
+              "name_l1": "یزمان",
+              "slug": "/Yazman-12504",
+              "slug_l1": "/Yazman-12504"
+          },
+          {
+              "id": 6227,
+              "level": 3,
+              "externalID": "12505",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Yazman_Others-12505",
+              "slug_l1": "/Yazman_Others-12505"
+          }
+      ],
+      "hierarchyPath": "Others Yazman Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12505",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6227",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18491,
+      "name": "Rawal Town",
+      "name_l1": "راول ٹاؤن",
+      "externalID": "19405",
+      "slug": "/Yazman_Rawal_Town-19405",
+      "slug_l1": "/Yazman_Rawal_Town-19405",
+      "_geoloc": {
+          "lat": 29.139907,
+          "lng": 71.740187
+      },
+      "geography": {
+          "lat": 29.139907,
+          "lng": 71.740187
+      },
+      "geo_point": [
+          71.740187,
+          29.139907
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 183,
+              "level": 2,
+              "externalID": "12504",
+              "name": "Yazman",
+              "name_l1": "یزمان",
+              "slug": "/Yazman-12504",
+              "slug_l1": "/Yazman-12504"
+          },
+          {
+              "id": 18491,
+              "level": 3,
+              "externalID": "19405",
+              "name": "Rawal Town",
+              "name_l1": "راول ٹاؤن",
+              "slug": "/Yazman_Rawal_Town-19405",
+              "slug_l1": "/Yazman_Rawal_Town-19405"
+          }
+      ],
+      "hierarchyPath": "Rawal Town Yazman Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19405",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18491",
+      "_highlightResult": {
+          "name": {
+              "value": "Rawal Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 183,
+      "name": "Yazman",
+      "name_l1": "یزمان",
+      "externalID": "12504",
+      "slug": "/Yazman-12504",
+      "slug_l1": "/Yazman-12504",
+      "_geoloc": {
+          "lat": 29.122812,
+          "lng": 71.744142
+      },
+      "geography": {
+          "lat": 29.122812,
+          "lng": 71.744142
+      },
+      "geo_point": [
+          71.744142,
+          29.122812
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 183,
+              "level": 2,
+              "externalID": "12504",
+              "name": "Yazman",
+              "name_l1": "یزمان",
+              "slug": "/Yazman-12504",
+              "slug_l1": "/Yazman-12504"
+          }
+      ],
+      "hierarchyPath": "Yazman Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12504",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "183",
+      "_highlightResult": {
+          "name": {
+              "value": "Yazman",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6230,
+      "name": "Yazman Housing Society",
+      "name_l1": "یزمان ہاؤسنگ سوسائٹی",
+      "externalID": "12508",
+      "slug": "/Yazman_Yazman_Housing_Society-12508",
+      "slug_l1": "/Yazman_Yazman_Housing_Society-12508",
+      "_geoloc": {
+          "lat": 29.117988,
+          "lng": 71.752223
+      },
+      "geography": {
+          "lat": 29.117988,
+          "lng": 71.752223
+      },
+      "geo_point": [
+          71.752223,
+          29.117988
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 183,
+              "level": 2,
+              "externalID": "12504",
+              "name": "Yazman",
+              "name_l1": "یزمان",
+              "slug": "/Yazman-12504",
+              "slug_l1": "/Yazman-12504"
+          },
+          {
+              "id": 6230,
+              "level": 3,
+              "externalID": "12508",
+              "name": "Yazman Housing Society",
+              "name_l1": "یزمان ہاؤسنگ سوسائٹی",
+              "slug": "/Yazman_Yazman_Housing_Society-12508",
+              "slug_l1": "/Yazman_Yazman_Housing_Society-12508"
+          }
+      ],
+      "hierarchyPath": "Yazman Housing Society Yazman Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12508",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6230",
+      "_highlightResult": {
+          "name": {
+              "value": "Yazman Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

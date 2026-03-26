@@ -1,0 +1,532 @@
+[
+  {
+      "id": 133,
+      "name": "Depalpur",
+      "name_l1": "دیپالپور",
+      "externalID": "9178",
+      "slug": "/Depalpur-9178",
+      "slug_l1": "/Depalpur-9178",
+      "_geoloc": {
+          "lat": 30.666014,
+          "lng": 73.649944
+      },
+      "geography": {
+          "lat": 30.666014,
+          "lng": 73.649944
+      },
+      "geo_point": [
+          73.649944,
+          30.666014
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 133,
+              "level": 2,
+              "externalID": "9178",
+              "name": "Depalpur",
+              "name_l1": "دیپالپور",
+              "slug": "/Depalpur-9178",
+              "slug_l1": "/Depalpur-9178"
+          }
+      ],
+      "hierarchyPath": "Depalpur Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9178",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "133",
+      "_highlightResult": {
+          "name": {
+              "value": "Depalpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5792,
+      "name": "Others",
+      "name_l1": "ادرذ",
+      "externalID": "11614",
+      "slug": "/Depalpur_Others-11614",
+      "slug_l1": "/Depalpur_Others-11614",
+      "_geoloc": {
+          "lat": 30.670476,
+          "lng": 73.655166
+      },
+      "geography": {
+          "lat": 30.670476,
+          "lng": 73.655166
+      },
+      "geo_point": [
+          73.655166,
+          30.670476
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 133,
+              "level": 2,
+              "externalID": "9178",
+              "name": "Depalpur",
+              "name_l1": "دیپالپور",
+              "slug": "/Depalpur-9178",
+              "slug_l1": "/Depalpur-9178"
+          },
+          {
+              "id": 5792,
+              "level": 3,
+              "externalID": "11614",
+              "name": "Others",
+              "name_l1": "ادرذ",
+              "slug": "/Depalpur_Others-11614",
+              "slug_l1": "/Depalpur_Others-11614"
+          }
+      ],
+      "hierarchyPath": "Others Depalpur Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11614",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5792",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18529,
+      "name": "Pakpattan Road",
+      "name_l1": "پاکپتن روڈ",
+      "externalID": "19446",
+      "slug": "/Depalpur_Pakpattan_Road-19446",
+      "slug_l1": "/Depalpur_Pakpattan_Road-19446",
+      "_geoloc": {
+          "lat": 30.66677,
+          "lng": 73.642907
+      },
+      "geography": {
+          "lat": 30.66677,
+          "lng": 73.642907
+      },
+      "geo_point": [
+          73.642907,
+          30.66677
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 133,
+              "level": 2,
+              "externalID": "9178",
+              "name": "Depalpur",
+              "name_l1": "دیپالپور",
+              "slug": "/Depalpur-9178",
+              "slug_l1": "/Depalpur-9178"
+          },
+          {
+              "id": 18529,
+              "level": 3,
+              "externalID": "19446",
+              "name": "Pakpattan Road",
+              "name_l1": "پاکپتن روڈ",
+              "slug": "/Depalpur_Pakpattan_Road-19446",
+              "slug_l1": "/Depalpur_Pakpattan_Road-19446"
+          }
+      ],
+      "hierarchyPath": "Pakpattan Road Depalpur Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19446",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18529",
+      "_highlightResult": {
+          "name": {
+              "value": "Pakpattan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15346,
+      "name": "New Depalpur City",
+      "name_l1": "نیو دیپالپور سٹی",
+      "externalID": "16828",
+      "slug": "/Depalpur_New_Depalpur_City-16828",
+      "slug_l1": "/Depalpur_New_Depalpur_City-16828",
+      "_geoloc": {
+          "lat": 30.6969842,
+          "lng": 73.7058897
+      },
+      "geography": {
+          "lat": 30.6969842,
+          "lng": 73.7058897
+      },
+      "geo_point": [
+          73.7058897,
+          30.6969842
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 133,
+              "level": 2,
+              "externalID": "9178",
+              "name": "Depalpur",
+              "name_l1": "دیپالپور",
+              "slug": "/Depalpur-9178",
+              "slug_l1": "/Depalpur-9178"
+          },
+          {
+              "id": 15346,
+              "level": 3,
+              "externalID": "16828",
+              "name": "New Depalpur City",
+              "name_l1": "نیو دیپالپور سٹی",
+              "slug": "/Depalpur_New_Depalpur_City-16828",
+              "slug_l1": "/Depalpur_New_Depalpur_City-16828"
+          }
+      ],
+      "hierarchyPath": "New Depalpur City Depalpur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16828",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15346",
+      "_highlightResult": {
+          "name": {
+              "value": "New Depalpur City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5370,
+      "name": "Okara Road",
+      "name_l1": "اوکاڑہ روڈ",
+      "externalID": "10812",
+      "slug": "/Depalpur_Okara_Road-10812",
+      "slug_l1": "/Depalpur_Okara_Road-10812",
+      "_geoloc": {
+          "lat": 30.671702,
+          "lng": 73.651293
+      },
+      "geography": {
+          "lat": 30.671702,
+          "lng": 73.651293
+      },
+      "geo_point": [
+          73.651293,
+          30.671702
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 133,
+              "level": 2,
+              "externalID": "9178",
+              "name": "Depalpur",
+              "name_l1": "دیپالپور",
+              "slug": "/Depalpur-9178",
+              "slug_l1": "/Depalpur-9178"
+          },
+          {
+              "id": 5370,
+              "level": 3,
+              "externalID": "10812",
+              "name": "Okara Road",
+              "name_l1": "اوکاڑہ روڈ",
+              "slug": "/Depalpur_Okara_Road-10812",
+              "slug_l1": "/Depalpur_Okara_Road-10812"
+          }
+      ],
+      "hierarchyPath": "Okara Road Depalpur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10812",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5370",
+      "_highlightResult": {
+          "name": {
+              "value": "Okara Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18532,
+      "name": "Taj Colony",
+      "name_l1": "تاج کالونی",
+      "externalID": "19448",
+      "slug": "/Depalpur_Taj_Colony-19448",
+      "slug_l1": "/Depalpur_Taj_Colony-19448",
+      "_geoloc": {
+          "lat": 30.667798,
+          "lng": 73.647143
+      },
+      "geography": {
+          "lat": 30.667798,
+          "lng": 73.647143
+      },
+      "geo_point": [
+          73.647143,
+          30.667798
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 133,
+              "level": 2,
+              "externalID": "9178",
+              "name": "Depalpur",
+              "name_l1": "دیپالپور",
+              "slug": "/Depalpur-9178",
+              "slug_l1": "/Depalpur-9178"
+          },
+          {
+              "id": 18532,
+              "level": 3,
+              "externalID": "19448",
+              "name": "Taj Colony",
+              "name_l1": "تاج کالونی",
+              "slug": "/Depalpur_Taj_Colony-19448",
+              "slug_l1": "/Depalpur_Taj_Colony-19448"
+          }
+      ],
+      "hierarchyPath": "Taj Colony Depalpur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19448",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18532",
+      "_highlightResult": {
+          "name": {
+              "value": "Taj Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18531,
+      "name": "Zia-ud-Din Colony",
+      "name_l1": "ضیاء الدین کالونی",
+      "externalID": "19447",
+      "slug": "/Depalpur_Zia_ud_Din_Colony-19447",
+      "slug_l1": "/Depalpur_Zia_ud_Din_Colony-19447",
+      "_geoloc": {
+          "lat": 30.668371,
+          "lng": 73.659385
+      },
+      "geography": {
+          "lat": 30.668371,
+          "lng": 73.659385
+      },
+      "geo_point": [
+          73.659385,
+          30.668371
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 133,
+              "level": 2,
+              "externalID": "9178",
+              "name": "Depalpur",
+              "name_l1": "دیپالپور",
+              "slug": "/Depalpur-9178",
+              "slug_l1": "/Depalpur-9178"
+          },
+          {
+              "id": 18531,
+              "level": 3,
+              "externalID": "19447",
+              "name": "Zia-ud-Din Colony",
+              "name_l1": "ضیاء الدین کالونی",
+              "slug": "/Depalpur_Zia_ud_Din_Colony-19447",
+              "slug_l1": "/Depalpur_Zia_ud_Din_Colony-19447"
+          }
+      ],
+      "hierarchyPath": "Zia-ud-Din Colony Depalpur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19447",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18531",
+      "_highlightResult": {
+          "name": {
+              "value": "Zia-ud-Din Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

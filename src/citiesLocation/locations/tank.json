@@ -1,0 +1,70 @@
+[
+  {
+      "id": 16498,
+      "name": "Tank",
+      "name_l1": "ٹانک",
+      "externalID": "17740",
+      "slug": "/Tank-17740",
+      "slug_l1": "/Tank-17740",
+      "_geoloc": {
+          "lat": 32.216764,
+          "lng": 70.390258
+      },
+      "geography": {
+          "lat": 32.216764,
+          "lng": 70.390258
+      },
+      "geo_point": [
+          70.390258,
+          32.216764
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 16498,
+              "level": 2,
+              "externalID": "17740",
+              "name": "Tank",
+              "name_l1": "ٹانک",
+              "slug": "/Tank-17740",
+              "slug_l1": "/Tank-17740"
+          }
+      ],
+      "hierarchyPath": "Tank Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17740",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16498",
+      "_highlightResult": {
+          "name": {
+              "value": "Tank",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

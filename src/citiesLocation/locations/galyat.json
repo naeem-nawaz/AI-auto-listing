@@ -1,0 +1,224 @@
+[
+  {
+      "id": 113,
+      "name": "Galyat",
+      "name_l1": "گلیات",
+      "externalID": "8119",
+      "slug": "/Galyat-8119",
+      "slug_l1": "/Galyat-8119",
+      "_geoloc": {
+          "lat": 34.058348248365,
+          "lng": 73.409271240234
+      },
+      "geography": {
+          "lat": 34.058348248365,
+          "lng": 73.409271240234
+      },
+      "geo_point": [
+          73.409271240234,
+          34.058348248365
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 113,
+              "level": 2,
+              "externalID": "8119",
+              "name": "Galyat",
+              "name_l1": "گلیات",
+              "slug": "/Galyat-8119",
+              "slug_l1": "/Galyat-8119"
+          }
+      ],
+      "hierarchyPath": "Galyat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8119",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "113",
+      "_highlightResult": {
+          "name": {
+              "value": "Galyat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3685,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "7819",
+      "slug": "/Galyat_Others-7819",
+      "slug_l1": "/Galyat_Others-7819",
+      "_geoloc": {
+          "lat": 34.9526,
+          "lng": 72.3311
+      },
+      "geography": {
+          "lat": 34.9526,
+          "lng": 72.3311
+      },
+      "geo_point": [
+          72.3311,
+          34.9526
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 113,
+              "level": 2,
+              "externalID": "8119",
+              "name": "Galyat",
+              "name_l1": "گلیات",
+              "slug": "/Galyat-8119",
+              "slug_l1": "/Galyat-8119"
+          },
+          {
+              "id": 3685,
+              "level": 3,
+              "externalID": "7819",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Galyat_Others-7819",
+              "slug_l1": "/Galyat_Others-7819"
+          }
+      ],
+      "hierarchyPath": "Others Galyat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7819",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3685",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21481,
+      "name": "Iceland Society",
+      "name_l1": "آئس لینڈ سوسائٹی",
+      "externalID": "22065",
+      "slug": "/Galyat_Iceland_Society-22065",
+      "slug_l1": "/Galyat_Iceland_Society-22065",
+      "_geoloc": {
+          "lat": 33.946755627297,
+          "lng": 73.358783107208
+      },
+      "geography": {
+          "lat": 33.946755627297,
+          "lng": 73.358783107208
+      },
+      "geo_point": [
+          73.358783107208,
+          33.946755627297
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 113,
+              "level": 2,
+              "externalID": "8119",
+              "name": "Galyat",
+              "name_l1": "گلیات",
+              "slug": "/Galyat-8119",
+              "slug_l1": "/Galyat-8119"
+          },
+          {
+              "id": 21481,
+              "level": 3,
+              "externalID": "22065",
+              "name": "Iceland Society",
+              "name_l1": "آئس لینڈ سوسائٹی",
+              "slug": "/Galyat_Iceland_Society-22065",
+              "slug_l1": "/Galyat_Iceland_Society-22065"
+          }
+      ],
+      "hierarchyPath": "Iceland Society Galyat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22065",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21481",
+      "_highlightResult": {
+          "name": {
+              "value": "Iceland Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

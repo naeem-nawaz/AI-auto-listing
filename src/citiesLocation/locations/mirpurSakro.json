@@ -1,0 +1,455 @@
+[
+  {
+      "id": 14451,
+      "name": "Gharo - Keti Bunder Highway",
+      "name_l1": "گھارو ۔ کیٹی بندر ہائی وے",
+      "externalID": "15966",
+      "slug": "/Mirpur_Sakro_Gharo___Keti_Bunder_Highway-15966",
+      "slug_l1": "/Mirpur_Sakro_Gharo___Keti_Bunder_Highway-15966",
+      "_geoloc": {
+          "lat": 24.540015,
+          "lng": 67.627546
+      },
+      "geography": {
+          "lat": 24.540015,
+          "lng": 67.627546
+      },
+      "geo_point": [
+          67.627546,
+          24.540015
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 163,
+              "level": 2,
+              "externalID": "10893",
+              "name": "Mirpur Sakro",
+              "name_l1": "میرپورسا کرو",
+              "slug": "/Mirpur_Sakro-10893",
+              "slug_l1": "/Mirpur_Sakro-10893"
+          },
+          {
+              "id": 14451,
+              "level": 3,
+              "externalID": "15966",
+              "name": "Gharo - Keti Bunder Highway",
+              "name_l1": "گھارو ۔ کیٹی بندر ہائی وے",
+              "slug": "/Mirpur_Sakro_Gharo___Keti_Bunder_Highway-15966",
+              "slug_l1": "/Mirpur_Sakro_Gharo___Keti_Bunder_Highway-15966"
+          }
+      ],
+      "hierarchyPath": "Gharo - Keti Bunder Highway Mirpur Sakro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15966",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14451",
+      "_highlightResult": {
+          "name": {
+              "value": "Gharo - Keti Bunder Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14452,
+      "name": "Gharo Road",
+      "name_l1": "گھارو روڈ",
+      "externalID": "15967",
+      "slug": "/Mirpur_Sakro_Gharo_Road-15967",
+      "slug_l1": "/Mirpur_Sakro_Gharo_Road-15967",
+      "_geoloc": {
+          "lat": 24.554352,
+          "lng": 67.62763
+      },
+      "geography": {
+          "lat": 24.554352,
+          "lng": 67.62763
+      },
+      "geo_point": [
+          67.62763,
+          24.554352
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 163,
+              "level": 2,
+              "externalID": "10893",
+              "name": "Mirpur Sakro",
+              "name_l1": "میرپورسا کرو",
+              "slug": "/Mirpur_Sakro-10893",
+              "slug_l1": "/Mirpur_Sakro-10893"
+          },
+          {
+              "id": 14452,
+              "level": 3,
+              "externalID": "15967",
+              "name": "Gharo Road",
+              "name_l1": "گھارو روڈ",
+              "slug": "/Mirpur_Sakro_Gharo_Road-15967",
+              "slug_l1": "/Mirpur_Sakro_Gharo_Road-15967"
+          }
+      ],
+      "hierarchyPath": "Gharo Road Mirpur Sakro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15967",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14452",
+      "_highlightResult": {
+          "name": {
+              "value": "Gharo Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 163,
+      "name": "Mirpur Sakro",
+      "name_l1": "میرپورسا کرو",
+      "externalID": "10893",
+      "slug": "/Mirpur_Sakro-10893",
+      "slug_l1": "/Mirpur_Sakro-10893",
+      "_geoloc": {
+          "lat": 24.548073,
+          "lng": 67.626819
+      },
+      "geography": {
+          "lat": 24.548073,
+          "lng": 67.626819
+      },
+      "geo_point": [
+          67.626819,
+          24.548073
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 163,
+              "level": 2,
+              "externalID": "10893",
+              "name": "Mirpur Sakro",
+              "name_l1": "میرپورسا کرو",
+              "slug": "/Mirpur_Sakro-10893",
+              "slug_l1": "/Mirpur_Sakro-10893"
+          }
+      ],
+      "hierarchyPath": "Mirpur Sakro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10893",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "163",
+      "_highlightResult": {
+          "name": {
+              "value": "Mirpur Sakro",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14450,
+      "name": "Mirpur Sakro Ghulamullah Road",
+      "name_l1": "میرپور ساکرو غلام اللہ روڈ",
+      "externalID": "15965",
+      "slug": "/Mirpur_Sakro_Mirpur_Sakro_Ghulamullah_Road-15965",
+      "slug_l1": "/Mirpur_Sakro_Mirpur_Sakro_Ghulamullah_Road-15965",
+      "_geoloc": {
+          "lat": 24.549135,
+          "lng": 67.639374
+      },
+      "geography": {
+          "lat": 24.549135,
+          "lng": 67.639374
+      },
+      "geo_point": [
+          67.639374,
+          24.549135
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 163,
+              "level": 2,
+              "externalID": "10893",
+              "name": "Mirpur Sakro",
+              "name_l1": "میرپورسا کرو",
+              "slug": "/Mirpur_Sakro-10893",
+              "slug_l1": "/Mirpur_Sakro-10893"
+          },
+          {
+              "id": 14450,
+              "level": 3,
+              "externalID": "15965",
+              "name": "Mirpur Sakro Ghulamullah Road",
+              "name_l1": "میرپور ساکرو غلام اللہ روڈ",
+              "slug": "/Mirpur_Sakro_Mirpur_Sakro_Ghulamullah_Road-15965",
+              "slug_l1": "/Mirpur_Sakro_Mirpur_Sakro_Ghulamullah_Road-15965"
+          }
+      ],
+      "hierarchyPath": "Mirpur Sakro Ghulamullah Road Mirpur Sakro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15965",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14450",
+      "_highlightResult": {
+          "name": {
+              "value": "Mirpur Sakro Ghulamullah Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14449,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "15962",
+      "slug": "/Mirpur_Sakro_Others-15962",
+      "slug_l1": "/Mirpur_Sakro_Others-15962",
+      "_geoloc": {
+          "lat": 24.545768,
+          "lng": 67.627236
+      },
+      "geography": {
+          "lat": 24.545768,
+          "lng": 67.627236
+      },
+      "geo_point": [
+          67.627236,
+          24.545768
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 163,
+              "level": 2,
+              "externalID": "10893",
+              "name": "Mirpur Sakro",
+              "name_l1": "میرپورسا کرو",
+              "slug": "/Mirpur_Sakro-10893",
+              "slug_l1": "/Mirpur_Sakro-10893"
+          },
+          {
+              "id": 14449,
+              "level": 3,
+              "externalID": "15962",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Mirpur_Sakro_Others-15962",
+              "slug_l1": "/Mirpur_Sakro_Others-15962"
+          }
+      ],
+      "hierarchyPath": "Others Mirpur Sakro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15962",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14449",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21263,
+      "name": "Tappo Gujjar",
+      "name_l1": "تپو گجر",
+      "externalID": "21852",
+      "slug": "/Mirpur_Sakro_Tappo_Gujjar-21852",
+      "slug_l1": "/Mirpur_Sakro_Tappo_Gujjar-21852",
+      "_geoloc": {
+          "lat": 24.607015650134,
+          "lng": 67.692540909755
+      },
+      "geography": {
+          "lat": 24.607015650134,
+          "lng": 67.692540909755
+      },
+      "geo_point": [
+          67.692540909755,
+          24.607015650134
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 163,
+              "level": 2,
+              "externalID": "10893",
+              "name": "Mirpur Sakro",
+              "name_l1": "میرپورسا کرو",
+              "slug": "/Mirpur_Sakro-10893",
+              "slug_l1": "/Mirpur_Sakro-10893"
+          },
+          {
+              "id": 21263,
+              "level": 3,
+              "externalID": "21852",
+              "name": "Tappo Gujjar",
+              "name_l1": "تپو گجر",
+              "slug": "/Mirpur_Sakro_Tappo_Gujjar-21852",
+              "slug_l1": "/Mirpur_Sakro_Tappo_Gujjar-21852"
+          }
+      ],
+      "hierarchyPath": "Tappo Gujjar Mirpur Sakro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21852",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21263",
+      "_highlightResult": {
+          "name": {
+              "value": "Tappo Gujjar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

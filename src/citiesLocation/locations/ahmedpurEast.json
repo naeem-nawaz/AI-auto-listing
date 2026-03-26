@@ -1,0 +1,455 @@
+[
+                {
+                    "id": 180,
+                    "name": "Ahmedpur East",
+                    "name_l1": "احمدپور شرقیہ",
+                    "externalID": "12360",
+                    "slug": "/Ahmedpur_East-12360",
+                    "slug_l1": "/Ahmedpur_East-12360",
+                    "_geoloc": {
+                        "lat": 29.146443,
+                        "lng": 71.252842
+                    },
+                    "geography": {
+                        "lat": 29.146443,
+                        "lng": 71.252842
+                    },
+                    "geo_point": [
+                        71.252842,
+                        29.146443
+                    ],
+                    "level": 2,
+                    "hierarchy": [
+                        {
+                            "id": 2,
+                            "level": 0,
+                            "externalID": "1521",
+                            "name": "Pakistan",
+                            "name_l1": "پاکستان",
+                            "slug": "/Pakistan-1521",
+                            "slug_l1": "/Pakistan-1521"
+                        },
+                        {
+                            "id": 4,
+                            "level": 1,
+                            "externalID": "1522",
+                            "name": "Punjab",
+                            "name_l1": "پنجاب",
+                            "slug": "/Punjab-1522",
+                            "slug_l1": "/Punjab-1522"
+                        },
+                        {
+                            "id": 180,
+                            "level": 2,
+                            "externalID": "12360",
+                            "name": "Ahmedpur East",
+                            "name_l1": "احمدپور شرقیہ",
+                            "slug": "/Ahmedpur_East-12360",
+                            "slug_l1": "/Ahmedpur_East-12360"
+                        }
+                    ],
+                    "hierarchyPath": "Ahmedpur East Punjab Pakistan",
+                    "adCount": 9,
+                    "aliases": [],
+                    "type": null,
+                    "hasBuilding": false,
+                    "trackID": "12360",
+                    "roles": null,
+                    "completionStatus": null,
+                    "hasChildren": true,
+                    "polygon": null,
+                    "objectID": "180",
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Ahmedpur East",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "id": 18493,
+                    "name": "National Highway 5",
+                    "name_l1": "نیشنل ہائی وے 5",
+                    "externalID": "19411",
+                    "slug": "/Ahmedpur_East_National_Highway_5-19411",
+                    "slug_l1": "/Ahmedpur_East_National_Highway_5-19411",
+                    "_geoloc": {
+                        "lat": 29.1376182,
+                        "lng": 71.2370525
+                    },
+                    "geography": {
+                        "lat": 29.1376182,
+                        "lng": 71.2370525
+                    },
+                    "geo_point": [
+                        71.2370525,
+                        29.1376182
+                    ],
+                    "level": 3,
+                    "hierarchy": [
+                        {
+                            "id": 2,
+                            "level": 0,
+                            "externalID": "1521",
+                            "name": "Pakistan",
+                            "name_l1": "پاکستان",
+                            "slug": "/Pakistan-1521",
+                            "slug_l1": "/Pakistan-1521"
+                        },
+                        {
+                            "id": 4,
+                            "level": 1,
+                            "externalID": "1522",
+                            "name": "Punjab",
+                            "name_l1": "پنجاب",
+                            "slug": "/Punjab-1522",
+                            "slug_l1": "/Punjab-1522"
+                        },
+                        {
+                            "id": 180,
+                            "level": 2,
+                            "externalID": "12360",
+                            "name": "Ahmedpur East",
+                            "name_l1": "احمدپور شرقیہ",
+                            "slug": "/Ahmedpur_East-12360",
+                            "slug_l1": "/Ahmedpur_East-12360"
+                        },
+                        {
+                            "id": 18493,
+                            "level": 3,
+                            "externalID": "19411",
+                            "name": "National Highway 5",
+                            "name_l1": "نیشنل ہائی وے 5",
+                            "slug": "/Ahmedpur_East_National_Highway_5-19411",
+                            "slug_l1": "/Ahmedpur_East_National_Highway_5-19411"
+                        }
+                    ],
+                    "hierarchyPath": "National Highway 5 Ahmedpur East Punjab Pakistan",
+                    "adCount": 3,
+                    "aliases": [],
+                    "type": null,
+                    "hasBuilding": false,
+                    "trackID": "19411",
+                    "roles": null,
+                    "completionStatus": null,
+                    "hasChildren": false,
+                    "polygon": null,
+                    "objectID": "18493",
+                    "_highlightResult": {
+                        "name": {
+                            "value": "National Highway 5",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "id": 6171,
+                    "name": "Others",
+                    "name_l1": "ادرذ",
+                    "externalID": "12361",
+                    "slug": "/Ahmedpur_East_Others-12361",
+                    "slug_l1": "/Ahmedpur_East_Others-12361",
+                    "_geoloc": {
+                        "lat": 29.146086,
+                        "lng": 71.257333
+                    },
+                    "geography": {
+                        "lat": 29.146086,
+                        "lng": 71.257333
+                    },
+                    "geo_point": [
+                        71.257333,
+                        29.146086
+                    ],
+                    "level": 3,
+                    "hierarchy": [
+                        {
+                            "id": 2,
+                            "level": 0,
+                            "externalID": "1521",
+                            "name": "Pakistan",
+                            "name_l1": "پاکستان",
+                            "slug": "/Pakistan-1521",
+                            "slug_l1": "/Pakistan-1521"
+                        },
+                        {
+                            "id": 4,
+                            "level": 1,
+                            "externalID": "1522",
+                            "name": "Punjab",
+                            "name_l1": "پنجاب",
+                            "slug": "/Punjab-1522",
+                            "slug_l1": "/Punjab-1522"
+                        },
+                        {
+                            "id": 180,
+                            "level": 2,
+                            "externalID": "12360",
+                            "name": "Ahmedpur East",
+                            "name_l1": "احمدپور شرقیہ",
+                            "slug": "/Ahmedpur_East-12360",
+                            "slug_l1": "/Ahmedpur_East-12360"
+                        },
+                        {
+                            "id": 6171,
+                            "level": 3,
+                            "externalID": "12361",
+                            "name": "Others",
+                            "name_l1": "ادرذ",
+                            "slug": "/Ahmedpur_East_Others-12361",
+                            "slug_l1": "/Ahmedpur_East_Others-12361"
+                        }
+                    ],
+                    "hierarchyPath": "Others Ahmedpur East Punjab Pakistan",
+                    "adCount": 3,
+                    "aliases": [],
+                    "type": null,
+                    "hasBuilding": false,
+                    "trackID": "12361",
+                    "roles": null,
+                    "completionStatus": null,
+                    "hasChildren": false,
+                    "polygon": null,
+                    "objectID": "6171",
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Others",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "id": 22327,
+                    "name": "Syedna Ameer Hamza Town",
+                    "name_l1": "سیدنا امیرحمزہ ٹاون",
+                    "externalID": "22380",
+                    "slug": "/Ahmedpur_East_Syedna_Ameer_Hamza_Town-22380",
+                    "slug_l1": "/Ahmedpur_East_Syedna_Ameer_Hamza_Town-22380",
+                    "_geoloc": {
+                        "lat": 29.13645,
+                        "lng": 71.25636
+                    },
+                    "geography": {
+                        "lat": 29.13645,
+                        "lng": 71.25636
+                    },
+                    "geo_point": [
+                        71.25636,
+                        29.13645
+                    ],
+                    "level": 3,
+                    "hierarchy": [
+                        {
+                            "id": 2,
+                            "level": 0,
+                            "externalID": "1521",
+                            "name": "Pakistan",
+                            "name_l1": "پاکستان",
+                            "slug": "/Pakistan-1521",
+                            "slug_l1": "/Pakistan-1521"
+                        },
+                        {
+                            "id": 4,
+                            "level": 1,
+                            "externalID": "1522",
+                            "name": "Punjab",
+                            "name_l1": "پنجاب",
+                            "slug": "/Punjab-1522",
+                            "slug_l1": "/Punjab-1522"
+                        },
+                        {
+                            "id": 180,
+                            "level": 2,
+                            "externalID": "12360",
+                            "name": "Ahmedpur East",
+                            "name_l1": "احمدپور شرقیہ",
+                            "slug": "/Ahmedpur_East-12360",
+                            "slug_l1": "/Ahmedpur_East-12360"
+                        },
+                        {
+                            "id": 22327,
+                            "level": 3,
+                            "externalID": "22380",
+                            "name": "Syedna Ameer Hamza Town",
+                            "name_l1": "سیدنا امیرحمزہ ٹاون",
+                            "slug": "/Ahmedpur_East_Syedna_Ameer_Hamza_Town-22380",
+                            "slug_l1": "/Ahmedpur_East_Syedna_Ameer_Hamza_Town-22380"
+                        }
+                    ],
+                    "hierarchyPath": "Syedna Ameer Hamza Town Ahmedpur East Punjab Pakistan",
+                    "adCount": 3,
+                    "aliases": [],
+                    "type": null,
+                    "hasBuilding": false,
+                    "trackID": "22380",
+                    "roles": null,
+                    "completionStatus": null,
+                    "hasChildren": false,
+                    "polygon": null,
+                    "objectID": "22327",
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Syedna Ameer Hamza Town",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "id": 18492,
+                    "name": "Ameer Alam Colony",
+                    "name_l1": "امیر عالم کالونی",
+                    "externalID": "19410",
+                    "slug": "/Ahmedpur_East_Ameer_Alam_Colony-19410",
+                    "slug_l1": "/Ahmedpur_East_Ameer_Alam_Colony-19410",
+                    "_geoloc": {
+                        "lat": 29.144692,
+                        "lng": 71.245435
+                    },
+                    "geography": {
+                        "lat": 29.144692,
+                        "lng": 71.245435
+                    },
+                    "geo_point": [
+                        71.245435,
+                        29.144692
+                    ],
+                    "level": 3,
+                    "hierarchy": [
+                        {
+                            "id": 2,
+                            "level": 0,
+                            "externalID": "1521",
+                            "name": "Pakistan",
+                            "name_l1": "پاکستان",
+                            "slug": "/Pakistan-1521",
+                            "slug_l1": "/Pakistan-1521"
+                        },
+                        {
+                            "id": 4,
+                            "level": 1,
+                            "externalID": "1522",
+                            "name": "Punjab",
+                            "name_l1": "پنجاب",
+                            "slug": "/Punjab-1522",
+                            "slug_l1": "/Punjab-1522"
+                        },
+                        {
+                            "id": 180,
+                            "level": 2,
+                            "externalID": "12360",
+                            "name": "Ahmedpur East",
+                            "name_l1": "احمدپور شرقیہ",
+                            "slug": "/Ahmedpur_East-12360",
+                            "slug_l1": "/Ahmedpur_East-12360"
+                        },
+                        {
+                            "id": 18492,
+                            "level": 3,
+                            "externalID": "19410",
+                            "name": "Ameer Alam Colony",
+                            "name_l1": "امیر عالم کالونی",
+                            "slug": "/Ahmedpur_East_Ameer_Alam_Colony-19410",
+                            "slug_l1": "/Ahmedpur_East_Ameer_Alam_Colony-19410"
+                        }
+                    ],
+                    "hierarchyPath": "Ameer Alam Colony Ahmedpur East Punjab Pakistan",
+                    "adCount": 0,
+                    "aliases": [],
+                    "type": null,
+                    "hasBuilding": false,
+                    "trackID": "19410",
+                    "roles": null,
+                    "completionStatus": null,
+                    "hasChildren": false,
+                    "polygon": null,
+                    "objectID": "18492",
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Ameer Alam Colony",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "id": 18494,
+                    "name": "Mehrab Wala",
+                    "name_l1": "محراب والا",
+                    "externalID": "19412",
+                    "slug": "/Ahmedpur_East_Mehrab_Wala-19412",
+                    "slug_l1": "/Ahmedpur_East_Mehrab_Wala-19412",
+                    "_geoloc": {
+                        "lat": 29.131404,
+                        "lng": 71.291553
+                    },
+                    "geography": {
+                        "lat": 29.131404,
+                        "lng": 71.291553
+                    },
+                    "geo_point": [
+                        71.291553,
+                        29.131404
+                    ],
+                    "level": 3,
+                    "hierarchy": [
+                        {
+                            "id": 2,
+                            "level": 0,
+                            "externalID": "1521",
+                            "name": "Pakistan",
+                            "name_l1": "پاکستان",
+                            "slug": "/Pakistan-1521",
+                            "slug_l1": "/Pakistan-1521"
+                        },
+                        {
+                            "id": 4,
+                            "level": 1,
+                            "externalID": "1522",
+                            "name": "Punjab",
+                            "name_l1": "پنجاب",
+                            "slug": "/Punjab-1522",
+                            "slug_l1": "/Punjab-1522"
+                        },
+                        {
+                            "id": 180,
+                            "level": 2,
+                            "externalID": "12360",
+                            "name": "Ahmedpur East",
+                            "name_l1": "احمدپور شرقیہ",
+                            "slug": "/Ahmedpur_East-12360",
+                            "slug_l1": "/Ahmedpur_East-12360"
+                        },
+                        {
+                            "id": 18494,
+                            "level": 3,
+                            "externalID": "19412",
+                            "name": "Mehrab Wala",
+                            "name_l1": "محراب والا",
+                            "slug": "/Ahmedpur_East_Mehrab_Wala-19412",
+                            "slug_l1": "/Ahmedpur_East_Mehrab_Wala-19412"
+                        }
+                    ],
+                    "hierarchyPath": "Mehrab Wala Ahmedpur East Punjab Pakistan",
+                    "adCount": 0,
+                    "aliases": [],
+                    "type": null,
+                    "hasBuilding": false,
+                    "trackID": "19412",
+                    "roles": null,
+                    "completionStatus": null,
+                    "hasChildren": false,
+                    "polygon": null,
+                    "objectID": "18494",
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Mehrab Wala",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ]

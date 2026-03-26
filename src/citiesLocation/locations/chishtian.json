@@ -1,0 +1,147 @@
+[
+  {
+      "id": 16487,
+      "name": "Chishtian",
+      "name_l1": "چشتیاں",
+      "externalID": "17729",
+      "slug": "/Chishtian-17729",
+      "slug_l1": "/Chishtian-17729",
+      "_geoloc": {
+          "lat": 29.79364,
+          "lng": 72.856758
+      },
+      "geography": {
+          "lat": 29.79364,
+          "lng": 72.856758
+      },
+      "geo_point": [
+          72.856758,
+          29.79364
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16487,
+              "level": 2,
+              "externalID": "17729",
+              "name": "Chishtian",
+              "name_l1": "چشتیاں",
+              "slug": "/Chishtian-17729",
+              "slug_l1": "/Chishtian-17729"
+          }
+      ],
+      "hierarchyPath": "Chishtian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17729",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16487",
+      "_highlightResult": {
+          "name": {
+              "value": "Chishtian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18488,
+      "name": "Dream Land Housing Society",
+      "name_l1": "ڈریم لینڈ ہاؤسنگ سوسائٹی",
+      "externalID": "19402",
+      "slug": "/Chishtian_Dream_Land_Housing_Society-19402",
+      "slug_l1": "/Chishtian_Dream_Land_Housing_Society-19402",
+      "_geoloc": {
+          "lat": 29.7851442,
+          "lng": 72.8758395
+      },
+      "geography": {
+          "lat": 29.7851442,
+          "lng": 72.8758395
+      },
+      "geo_point": [
+          72.8758395,
+          29.7851442
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16487,
+              "level": 2,
+              "externalID": "17729",
+              "name": "Chishtian",
+              "name_l1": "چشتیاں",
+              "slug": "/Chishtian-17729",
+              "slug_l1": "/Chishtian-17729"
+          },
+          {
+              "id": 18488,
+              "level": 3,
+              "externalID": "19402",
+              "name": "Dream Land Housing Society",
+              "name_l1": "ڈریم لینڈ ہاؤسنگ سوسائٹی",
+              "slug": "/Chishtian_Dream_Land_Housing_Society-19402",
+              "slug_l1": "/Chishtian_Dream_Land_Housing_Society-19402"
+          }
+      ],
+      "hierarchyPath": "Dream Land Housing Society Chishtian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19402",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18488",
+      "_highlightResult": {
+          "name": {
+              "value": "Dream Land Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

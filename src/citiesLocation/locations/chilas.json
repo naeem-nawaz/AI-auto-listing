@@ -1,0 +1,233 @@
+[
+  {
+      "id": 20920,
+      "name": "Chilas",
+      "name_l1": "چلاس",
+      "externalID": "21518",
+      "slug": "/Chilas_Chilas-21518",
+      "slug_l1": "/Chilas_Chilas-21518",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.39839819
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.39839819
+      },
+      "geo_point": [
+          74.39839819,
+          35.0
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 16486,
+              "level": 2,
+              "externalID": "17728",
+              "name": "Chilas",
+              "name_l1": "چلاس",
+              "slug": "/Chilas-17728",
+              "slug_l1": "/Chilas-17728"
+          },
+          {
+              "id": 20920,
+              "level": 3,
+              "externalID": "21518",
+              "name": "Chilas",
+              "name_l1": "چلاس",
+              "slug": "/Chilas_Chilas-21518",
+              "slug_l1": "/Chilas_Chilas-21518"
+          }
+      ],
+      "hierarchyPath": "Chilas Chilas Gilgit Baltistan Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21518",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "20920",
+      "_highlightResult": {
+          "name": {
+              "value": "Chilas",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16486,
+      "name": "Chilas",
+      "name_l1": "چلاس",
+      "externalID": "17728",
+      "slug": "/Chilas-17728",
+      "slug_l1": "/Chilas-17728",
+      "_geoloc": {
+          "lat": 35.419299,
+          "lng": 74.097163
+      },
+      "geography": {
+          "lat": 35.419299,
+          "lng": 74.097163
+      },
+      "geo_point": [
+          74.097163,
+          35.419299
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 16486,
+              "level": 2,
+              "externalID": "17728",
+              "name": "Chilas",
+              "name_l1": "چلاس",
+              "slug": "/Chilas-17728",
+              "slug_l1": "/Chilas-17728"
+          }
+      ],
+      "hierarchyPath": "Chilas Gilgit Baltistan Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17728",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16486",
+      "_highlightResult": {
+          "name": {
+              "value": "Chilas",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21257,
+      "name": "Jail Road",
+      "name_l1": "جیل روڈ",
+      "externalID": "21847",
+      "slug": "/Chilas_Chilas_Jail_Road-21847",
+      "slug_l1": "/Chilas_Chilas_Jail_Road-21847",
+      "_geoloc": {
+          "lat": 34.99953596,
+          "lng": 74.39874151
+      },
+      "geography": {
+          "lat": 34.99953596,
+          "lng": 74.39874151
+      },
+      "geo_point": [
+          74.39874151,
+          34.99953596
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 16486,
+              "level": 2,
+              "externalID": "17728",
+              "name": "Chilas",
+              "name_l1": "چلاس",
+              "slug": "/Chilas-17728",
+              "slug_l1": "/Chilas-17728"
+          },
+          {
+              "id": 20920,
+              "level": 3,
+              "externalID": "21518",
+              "name": "Chilas",
+              "name_l1": "چلاس",
+              "slug": "/Chilas_Chilas-21518",
+              "slug_l1": "/Chilas_Chilas-21518"
+          },
+          {
+              "id": 21257,
+              "level": 4,
+              "externalID": "21847",
+              "name": "Jail Road",
+              "name_l1": "جیل روڈ",
+              "slug": "/Chilas_Chilas_Jail_Road-21847",
+              "slug_l1": "/Chilas_Chilas_Jail_Road-21847"
+          }
+      ],
+      "hierarchyPath": "Jail Road Chilas Chilas Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21847",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21257",
+      "_highlightResult": {
+          "name": {
+              "value": "Jail Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

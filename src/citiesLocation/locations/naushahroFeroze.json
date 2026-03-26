@@ -1,0 +1,301 @@
+[
+  {
+      "id": 4345,
+      "name": "Bhiria City",
+      "name_l1": "بھریا سٹی",
+      "externalID": "8803",
+      "slug": "/Naushahro_Feroze_Bhiria_City-8803",
+      "slug_l1": "/Naushahro_Feroze_Bhiria_City-8803",
+      "_geoloc": {
+          "lat": 26.910584,
+          "lng": 68.193702
+      },
+      "geography": {
+          "lat": 26.910584,
+          "lng": 68.193702
+      },
+      "geo_point": [
+          68.193702,
+          26.910584
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 124,
+              "level": 2,
+              "externalID": "8801",
+              "name": "Naushahro Feroze",
+              "name_l1": "نوشہرو فیروز",
+              "slug": "/Naushahro_Feroze-8801",
+              "slug_l1": "/Naushahro_Feroze-8801"
+          },
+          {
+              "id": 4345,
+              "level": 3,
+              "externalID": "8803",
+              "name": "Bhiria City",
+              "name_l1": "بھریا سٹی",
+              "slug": "/Naushahro_Feroze_Bhiria_City-8803",
+              "slug_l1": "/Naushahro_Feroze_Bhiria_City-8803"
+          }
+      ],
+      "hierarchyPath": "Bhiria City Naushahro Feroze Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8803",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4345",
+      "_highlightResult": {
+          "name": {
+              "value": "Bhiria City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4346,
+      "name": "Kandiaro",
+      "name_l1": "كنڈيارو",
+      "externalID": "8804",
+      "slug": "/Naushahro_Feroze_Kandiaro-8804",
+      "slug_l1": "/Naushahro_Feroze_Kandiaro-8804",
+      "_geoloc": {
+          "lat": 27.059011,
+          "lng": 68.211794
+      },
+      "geography": {
+          "lat": 27.059011,
+          "lng": 68.211794
+      },
+      "geo_point": [
+          68.211794,
+          27.059011
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 124,
+              "level": 2,
+              "externalID": "8801",
+              "name": "Naushahro Feroze",
+              "name_l1": "نوشہرو فیروز",
+              "slug": "/Naushahro_Feroze-8801",
+              "slug_l1": "/Naushahro_Feroze-8801"
+          },
+          {
+              "id": 4346,
+              "level": 3,
+              "externalID": "8804",
+              "name": "Kandiaro",
+              "name_l1": "كنڈيارو",
+              "slug": "/Naushahro_Feroze_Kandiaro-8804",
+              "slug_l1": "/Naushahro_Feroze_Kandiaro-8804"
+          }
+      ],
+      "hierarchyPath": "Kandiaro Naushahro Feroze Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8804",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4346",
+      "_highlightResult": {
+          "name": {
+              "value": "Kandiaro",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4344,
+      "name": "Moro",
+      "name_l1": "مورو",
+      "externalID": "8802",
+      "slug": "/Naushahro_Feroze_Moro-8802",
+      "slug_l1": "/Naushahro_Feroze_Moro-8802",
+      "_geoloc": {
+          "lat": 26.657626,
+          "lng": 67.993855
+      },
+      "geography": {
+          "lat": 26.657626,
+          "lng": 67.993855
+      },
+      "geo_point": [
+          67.993855,
+          26.657626
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 124,
+              "level": 2,
+              "externalID": "8801",
+              "name": "Naushahro Feroze",
+              "name_l1": "نوشہرو فیروز",
+              "slug": "/Naushahro_Feroze-8801",
+              "slug_l1": "/Naushahro_Feroze-8801"
+          },
+          {
+              "id": 4344,
+              "level": 3,
+              "externalID": "8802",
+              "name": "Moro",
+              "name_l1": "مورو",
+              "slug": "/Naushahro_Feroze_Moro-8802",
+              "slug_l1": "/Naushahro_Feroze_Moro-8802"
+          }
+      ],
+      "hierarchyPath": "Moro Naushahro Feroze Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8802",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4344",
+      "_highlightResult": {
+          "name": {
+              "value": "Moro",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 124,
+      "name": "Naushahro Feroze",
+      "name_l1": "نوشہرو فیروز",
+      "externalID": "8801",
+      "slug": "/Naushahro_Feroze-8801",
+      "slug_l1": "/Naushahro_Feroze-8801",
+      "_geoloc": {
+          "lat": 26.849946,
+          "lng": 68.133496
+      },
+      "geography": {
+          "lat": 26.849946,
+          "lng": 68.133496
+      },
+      "geo_point": [
+          68.133496,
+          26.849946
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 124,
+              "level": 2,
+              "externalID": "8801",
+              "name": "Naushahro Feroze",
+              "name_l1": "نوشہرو فیروز",
+              "slug": "/Naushahro_Feroze-8801",
+              "slug_l1": "/Naushahro_Feroze-8801"
+          }
+      ],
+      "hierarchyPath": "Naushahro Feroze Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8801",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "124",
+      "_highlightResult": {
+          "name": {
+              "value": "Naushahro Feroze",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,1089 @@
+[
+  {
+      "id": 6141,
+      "name": "Absar",
+      "name_l1": "ابسر",
+      "externalID": "12314",
+      "slug": "/Turbat_Absar-12314",
+      "slug_l1": "/Turbat_Absar-12314",
+      "_geoloc": {
+          "lat": 26.00415,
+          "lng": 63.083767
+      },
+      "geography": {
+          "lat": 26.00415,
+          "lng": 63.083767
+      },
+      "geo_point": [
+          63.083767,
+          26.00415
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6141,
+              "level": 3,
+              "externalID": "12314",
+              "name": "Absar",
+              "name_l1": "ابسر",
+              "slug": "/Turbat_Absar-12314",
+              "slug_l1": "/Turbat_Absar-12314"
+          }
+      ],
+      "hierarchyPath": "Absar Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12314",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6141",
+      "_highlightResult": {
+          "name": {
+              "value": "Absar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6142,
+      "name": "Absar Road",
+      "name_l1": "ابسر روڈ",
+      "externalID": "12315",
+      "slug": "/Turbat_Absar_Road-12315",
+      "slug_l1": "/Turbat_Absar_Road-12315",
+      "_geoloc": {
+          "lat": 26.002918,
+          "lng": 63.078041
+      },
+      "geography": {
+          "lat": 26.002918,
+          "lng": 63.078041
+      },
+      "geo_point": [
+          63.078041,
+          26.002918
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6142,
+              "level": 3,
+              "externalID": "12315",
+              "name": "Absar Road",
+              "name_l1": "ابسر روڈ",
+              "slug": "/Turbat_Absar_Road-12315",
+              "slug_l1": "/Turbat_Absar_Road-12315"
+          }
+      ],
+      "hierarchyPath": "Absar Road Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12315",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6142",
+      "_highlightResult": {
+          "name": {
+              "value": "Absar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6139,
+      "name": "Airport Road",
+      "name_l1": "ائیر پورٹ روڈ",
+      "externalID": "12312",
+      "slug": "/Turbat_Airport_Road-12312",
+      "slug_l1": "/Turbat_Airport_Road-12312",
+      "_geoloc": {
+          "lat": 25.994669,
+          "lng": 63.033609
+      },
+      "geography": {
+          "lat": 25.994669,
+          "lng": 63.033609
+      },
+      "geo_point": [
+          63.033609,
+          25.994669
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6139,
+              "level": 3,
+              "externalID": "12312",
+              "name": "Airport Road",
+              "name_l1": "ائیر پورٹ روڈ",
+              "slug": "/Turbat_Airport_Road-12312",
+              "slug_l1": "/Turbat_Airport_Road-12312"
+          }
+      ],
+      "hierarchyPath": "Airport Road Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12312",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6139",
+      "_highlightResult": {
+          "name": {
+              "value": "Airport Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6143,
+      "name": "Gushtang",
+      "name_l1": "گشتنگ",
+      "externalID": "12316",
+      "slug": "/Turbat_Gushtang-12316",
+      "slug_l1": "/Turbat_Gushtang-12316",
+      "_geoloc": {
+          "lat": 26.004104,
+          "lng": 63.026531
+      },
+      "geography": {
+          "lat": 26.004104,
+          "lng": 63.026531
+      },
+      "geo_point": [
+          63.026531,
+          26.004104
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6143,
+              "level": 3,
+              "externalID": "12316",
+              "name": "Gushtang",
+              "name_l1": "گشتنگ",
+              "slug": "/Turbat_Gushtang-12316",
+              "slug_l1": "/Turbat_Gushtang-12316"
+          }
+      ],
+      "hierarchyPath": "Gushtang Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12316",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6143",
+      "_highlightResult": {
+          "name": {
+              "value": "Gushtang",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6129,
+      "name": "Mand Road",
+      "name_l1": "مند روڈ",
+      "externalID": "12277",
+      "slug": "/Turbat_Mand_Road-12277",
+      "slug_l1": "/Turbat_Mand_Road-12277",
+      "_geoloc": {
+          "lat": 26.013348,
+          "lng": 63.065598
+      },
+      "geography": {
+          "lat": 26.013348,
+          "lng": 63.065598
+      },
+      "geo_point": [
+          63.065598,
+          26.013348
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6129,
+              "level": 3,
+              "externalID": "12277",
+              "name": "Mand Road",
+              "name_l1": "مند روڈ",
+              "slug": "/Turbat_Mand_Road-12277",
+              "slug_l1": "/Turbat_Mand_Road-12277"
+          }
+      ],
+      "hierarchyPath": "Mand Road Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12277",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6129",
+      "_highlightResult": {
+          "name": {
+              "value": "Mand Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6144,
+      "name": "Meerani Housing Scheme",
+      "name_l1": "میرانی ہاؤسنگ سکیم",
+      "externalID": "12317",
+      "slug": "/Turbat_Meerani_Housing_Scheme-12317",
+      "slug_l1": "/Turbat_Meerani_Housing_Scheme-12317",
+      "_geoloc": {
+          "lat": 25.993438,
+          "lng": 62.953586
+      },
+      "geography": {
+          "lat": 25.993438,
+          "lng": 62.953586
+      },
+      "geo_point": [
+          62.953586,
+          25.993438
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6144,
+              "level": 3,
+              "externalID": "12317",
+              "name": "Meerani Housing Scheme",
+              "name_l1": "میرانی ہاؤسنگ سکیم",
+              "slug": "/Turbat_Meerani_Housing_Scheme-12317",
+              "slug_l1": "/Turbat_Meerani_Housing_Scheme-12317"
+          }
+      ],
+      "hierarchyPath": "Meerani Housing Scheme Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12317",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6144",
+      "_highlightResult": {
+          "name": {
+              "value": "Meerani Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6126,
+      "name": "Mirani Dam Road",
+      "name_l1": "میرانی ڈیم روڈ",
+      "externalID": "12272",
+      "slug": "/Turbat_Mirani_Dam_Road-12272",
+      "slug_l1": "/Turbat_Mirani_Dam_Road-12272",
+      "_geoloc": {
+          "lat": 25.992048,
+          "lng": 63.049155
+      },
+      "geography": {
+          "lat": 25.992048,
+          "lng": 63.049155
+      },
+      "geo_point": [
+          63.049155,
+          25.992048
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6126,
+              "level": 3,
+              "externalID": "12272",
+              "name": "Mirani Dam Road",
+              "name_l1": "میرانی ڈیم روڈ",
+              "slug": "/Turbat_Mirani_Dam_Road-12272",
+              "slug_l1": "/Turbat_Mirani_Dam_Road-12272"
+          }
+      ],
+      "hierarchyPath": "Mirani Dam Road Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12272",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6126",
+      "_highlightResult": {
+          "name": {
+              "value": "Mirani Dam Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9280,
+      "name": "Overseas Housing Scheme",
+      "name_l1": "اوورسیزہاؤسنگ سکیم",
+      "externalID": "12274",
+      "slug": "/Turbat_Mirani_Dam_Road_Overseas_Housing_Scheme-12274",
+      "slug_l1": "/Turbat_Mirani_Dam_Road_Overseas_Housing_Scheme-12274",
+      "_geoloc": {
+          "lat": 25.995064,
+          "lng": 63.041761
+      },
+      "geography": {
+          "lat": 25.995064,
+          "lng": 63.041761
+      },
+      "geo_point": [
+          63.041761,
+          25.995064
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6126,
+              "level": 3,
+              "externalID": "12272",
+              "name": "Mirani Dam Road",
+              "name_l1": "میرانی ڈیم روڈ",
+              "slug": "/Turbat_Mirani_Dam_Road-12272",
+              "slug_l1": "/Turbat_Mirani_Dam_Road-12272"
+          },
+          {
+              "id": 9280,
+              "level": 4,
+              "externalID": "12274",
+              "name": "Overseas Housing Scheme",
+              "name_l1": "اوورسیزہاؤسنگ سکیم",
+              "slug": "/Turbat_Mirani_Dam_Road_Overseas_Housing_Scheme-12274",
+              "slug_l1": "/Turbat_Mirani_Dam_Road_Overseas_Housing_Scheme-12274"
+          }
+      ],
+      "hierarchyPath": "Overseas Housing Scheme Mirani Dam Road Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12274",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9280",
+      "_highlightResult": {
+          "name": {
+              "value": "Overseas Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6140,
+      "name": "Pasni Road",
+      "name_l1": "پسنی روڈ",
+      "externalID": "12313",
+      "slug": "/Turbat_Pasni_Road-12313",
+      "slug_l1": "/Turbat_Pasni_Road-12313",
+      "_geoloc": {
+          "lat": 25.981348,
+          "lng": 63.055089
+      },
+      "geography": {
+          "lat": 25.981348,
+          "lng": 63.055089
+      },
+      "geo_point": [
+          63.055089,
+          25.981348
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6140,
+              "level": 3,
+              "externalID": "12313",
+              "name": "Pasni Road",
+              "name_l1": "پسنی روڈ",
+              "slug": "/Turbat_Pasni_Road-12313",
+              "slug_l1": "/Turbat_Pasni_Road-12313"
+          }
+      ],
+      "hierarchyPath": "Pasni Road Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12313",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6140",
+      "_highlightResult": {
+          "name": {
+              "value": "Pasni Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6130,
+      "name": "Ratodero - Gwadar Motorway - M8",
+      "name_l1": "راتودیرو - گوادر موٹر وے - ایم8",
+      "externalID": "12278",
+      "slug": "/Turbat_Ratodero___Gwadar_Motorway___M8-12278",
+      "slug_l1": "/Turbat_Ratodero___Gwadar_Motorway___M8-12278",
+      "_geoloc": {
+          "lat": 26.048483,
+          "lng": 63.048321
+      },
+      "geography": {
+          "lat": 26.048483,
+          "lng": 63.048321
+      },
+      "geo_point": [
+          63.048321,
+          26.048483
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6130,
+              "level": 3,
+              "externalID": "12278",
+              "name": "Ratodero - Gwadar Motorway - M8",
+              "name_l1": "راتودیرو - گوادر موٹر وے - ایم8",
+              "slug": "/Turbat_Ratodero___Gwadar_Motorway___M8-12278",
+              "slug_l1": "/Turbat_Ratodero___Gwadar_Motorway___M8-12278"
+          }
+      ],
+      "hierarchyPath": "Ratodero - Gwadar Motorway - M8 Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12278",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6130",
+      "_highlightResult": {
+          "name": {
+              "value": "Ratodero - Gwadar Motorway - M8",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9279,
+      "name": "Satellite Town",
+      "name_l1": "سیٹلائٹ ٹاؤن",
+      "externalID": "12273",
+      "slug": "/Turbat_Mirani_Dam_Road_Satellite_Town-12273",
+      "slug_l1": "/Turbat_Mirani_Dam_Road_Satellite_Town-12273",
+      "_geoloc": {
+          "lat": 25.992697,
+          "lng": 63.018957
+      },
+      "geography": {
+          "lat": 25.992697,
+          "lng": 63.018957
+      },
+      "geo_point": [
+          63.018957,
+          25.992697
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6126,
+              "level": 3,
+              "externalID": "12272",
+              "name": "Mirani Dam Road",
+              "name_l1": "میرانی ڈیم روڈ",
+              "slug": "/Turbat_Mirani_Dam_Road-12272",
+              "slug_l1": "/Turbat_Mirani_Dam_Road-12272"
+          },
+          {
+              "id": 9279,
+              "level": 4,
+              "externalID": "12273",
+              "name": "Satellite Town",
+              "name_l1": "سیٹلائٹ ٹاؤن",
+              "slug": "/Turbat_Mirani_Dam_Road_Satellite_Town-12273",
+              "slug_l1": "/Turbat_Mirani_Dam_Road_Satellite_Town-12273"
+          }
+      ],
+      "hierarchyPath": "Satellite Town Mirani Dam Road Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12273",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9279",
+      "_highlightResult": {
+          "name": {
+              "value": "Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 179,
+      "name": "Turbat",
+      "name_l1": "تربت",
+      "externalID": "12271",
+      "slug": "/Turbat-12271",
+      "slug_l1": "/Turbat-12271",
+      "_geoloc": {
+          "lat": 26.007928,
+          "lng": 63.03934
+      },
+      "geography": {
+          "lat": 26.007928,
+          "lng": 63.03934
+      },
+      "geo_point": [
+          63.03934,
+          26.007928
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          }
+      ],
+      "hierarchyPath": "Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12271",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "179",
+      "_highlightResult": {
+          "name": {
+              "value": "Turbat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6128,
+      "name": "Turbat Bazaar",
+      "name_l1": "تربت بازار",
+      "externalID": "12276",
+      "slug": "/Turbat_Turbat_Bazaar-12276",
+      "slug_l1": "/Turbat_Turbat_Bazaar-12276",
+      "_geoloc": {
+          "lat": 26.003942,
+          "lng": 63.051065
+      },
+      "geography": {
+          "lat": 26.003942,
+          "lng": 63.051065
+      },
+      "geo_point": [
+          63.051065,
+          26.003942
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6128,
+              "level": 3,
+              "externalID": "12276",
+              "name": "Turbat Bazaar",
+              "name_l1": "تربت بازار",
+              "slug": "/Turbat_Turbat_Bazaar-12276",
+              "slug_l1": "/Turbat_Turbat_Bazaar-12276"
+          }
+      ],
+      "hierarchyPath": "Turbat Bazaar Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12276",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6128",
+      "_highlightResult": {
+          "name": {
+              "value": "Turbat Bazaar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6127,
+      "name": "Zubaida Jalal Road",
+      "name_l1": "زبیدہ جلال روڈ",
+      "externalID": "12275",
+      "slug": "/Turbat_Zubaida_Jalal_Road-12275",
+      "slug_l1": "/Turbat_Zubaida_Jalal_Road-12275",
+      "_geoloc": {
+          "lat": 26.08474,
+          "lng": 62.685532
+      },
+      "geography": {
+          "lat": 26.08474,
+          "lng": 62.685532
+      },
+      "geo_point": [
+          62.685532,
+          26.08474
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 179,
+              "level": 2,
+              "externalID": "12271",
+              "name": "Turbat",
+              "name_l1": "تربت",
+              "slug": "/Turbat-12271",
+              "slug_l1": "/Turbat-12271"
+          },
+          {
+              "id": 6127,
+              "level": 3,
+              "externalID": "12275",
+              "name": "Zubaida Jalal Road",
+              "name_l1": "زبیدہ جلال روڈ",
+              "slug": "/Turbat_Zubaida_Jalal_Road-12275",
+              "slug_l1": "/Turbat_Zubaida_Jalal_Road-12275"
+          }
+      ],
+      "hierarchyPath": "Zubaida Jalal Road Turbat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12275",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6127",
+      "_highlightResult": {
+          "name": {
+              "value": "Zubaida Jalal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

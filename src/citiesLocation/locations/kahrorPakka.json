@@ -1,0 +1,224 @@
+[
+  {
+      "id": 5091,
+      "name": "Aslam Colony",
+      "name_l1": "اسلم کالونی",
+      "externalID": "10280",
+      "slug": "/Kahror_Pakka_Aslam_Colony-10280",
+      "slug_l1": "/Kahror_Pakka_Aslam_Colony-10280",
+      "_geoloc": {
+          "lat": 29.611185,
+          "lng": 71.924625
+      },
+      "geography": {
+          "lat": 29.611185,
+          "lng": 71.924625
+      },
+      "geo_point": [
+          71.924625,
+          29.611185
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 150,
+              "level": 2,
+              "externalID": "10279",
+              "name": "Kahror Pakka",
+              "name_l1": "کہرورپکا",
+              "slug": "/Kahror_Pakka-10279",
+              "slug_l1": "/Kahror_Pakka-10279"
+          },
+          {
+              "id": 5091,
+              "level": 3,
+              "externalID": "10280",
+              "name": "Aslam Colony",
+              "name_l1": "اسلم کالونی",
+              "slug": "/Kahror_Pakka_Aslam_Colony-10280",
+              "slug_l1": "/Kahror_Pakka_Aslam_Colony-10280"
+          }
+      ],
+      "hierarchyPath": "Aslam Colony Kahror Pakka Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10280",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5091",
+      "_highlightResult": {
+          "name": {
+              "value": "Aslam Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 150,
+      "name": "Kahror Pakka",
+      "name_l1": "کہرورپکا",
+      "externalID": "10279",
+      "slug": "/Kahror_Pakka-10279",
+      "slug_l1": "/Kahror_Pakka-10279",
+      "_geoloc": {
+          "lat": 29.62252,
+          "lng": 71.916862
+      },
+      "geography": {
+          "lat": 29.62252,
+          "lng": 71.916862
+      },
+      "geo_point": [
+          71.916862,
+          29.62252
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 150,
+              "level": 2,
+              "externalID": "10279",
+              "name": "Kahror Pakka",
+              "name_l1": "کہرورپکا",
+              "slug": "/Kahror_Pakka-10279",
+              "slug_l1": "/Kahror_Pakka-10279"
+          }
+      ],
+      "hierarchyPath": "Kahror Pakka Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10279",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "150",
+      "_highlightResult": {
+          "name": {
+              "value": "Kahror Pakka",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11960,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13481",
+      "slug": "/Kahror_Pakka_Others-13481",
+      "slug_l1": "/Kahror_Pakka_Others-13481",
+      "_geoloc": {
+          "lat": 29.624916,
+          "lng": 71.91182
+      },
+      "geography": {
+          "lat": 29.624916,
+          "lng": 71.91182
+      },
+      "geo_point": [
+          71.91182,
+          29.624916
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 150,
+              "level": 2,
+              "externalID": "10279",
+              "name": "Kahror Pakka",
+              "name_l1": "کہرورپکا",
+              "slug": "/Kahror_Pakka-10279",
+              "slug_l1": "/Kahror_Pakka-10279"
+          },
+          {
+              "id": 11960,
+              "level": 3,
+              "externalID": "13481",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Kahror_Pakka_Others-13481",
+              "slug_l1": "/Kahror_Pakka_Others-13481"
+          }
+      ],
+      "hierarchyPath": "Others Kahror Pakka Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13481",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11960",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

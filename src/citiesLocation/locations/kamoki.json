@@ -1,0 +1,1039 @@
+[
+  {
+      "id": 11498,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "13025",
+      "slug": "/Kamoki_GT_Road-13025",
+      "slug_l1": "/Kamoki_GT_Road-13025",
+      "_geoloc": {
+          "lat": 31.980626,
+          "lng": 74.221334
+      },
+      "geography": {
+          "lat": 31.980626,
+          "lng": 74.221334
+      },
+      "geo_point": [
+          74.221334,
+          31.980626
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 11498,
+              "level": 3,
+              "externalID": "13025",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Kamoki_GT_Road-13025",
+              "slug_l1": "/Kamoki_GT_Road-13025"
+          }
+      ],
+      "hierarchyPath": "GT Road Kamoki Punjab Pakistan",
+      "adCount": 12,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13025",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11498",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 153,
+      "name": "Kamoki",
+      "name_l1": "كاموكى",
+      "externalID": "10346",
+      "slug": "/Kamoki-10346",
+      "slug_l1": "/Kamoki-10346",
+      "_geoloc": {
+          "lat": 31.97584,
+          "lng": 74.223088
+      },
+      "geography": {
+          "lat": 31.97584,
+          "lng": 74.223088
+      },
+      "geo_point": [
+          74.223088,
+          31.97584
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          }
+      ],
+      "hierarchyPath": "Kamoki Punjab Pakistan",
+      "adCount": 12,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10346",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "153",
+      "_highlightResult": {
+          "name": {
+              "value": "Kamoki",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12332,
+      "name": "Adnan Garden",
+      "name_l1": "عدنان گارڈن",
+      "externalID": "13812",
+      "slug": "/Kamoki_Adnan_Garden-13812",
+      "slug_l1": "/Kamoki_Adnan_Garden-13812",
+      "_geoloc": {
+          "lat": 31.984119,
+          "lng": 74.209038
+      },
+      "geography": {
+          "lat": 31.984119,
+          "lng": 74.209038
+      },
+      "geo_point": [
+          74.209038,
+          31.984119
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 12332,
+              "level": 3,
+              "externalID": "13812",
+              "name": "Adnan Garden",
+              "name_l1": "عدنان گارڈن",
+              "slug": "/Kamoki_Adnan_Garden-13812",
+              "slug_l1": "/Kamoki_Adnan_Garden-13812"
+          }
+      ],
+      "hierarchyPath": "Adnan Garden Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13812",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12332",
+      "_highlightResult": {
+          "name": {
+              "value": "Adnan Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16842,
+      "name": "Aghosh Housing Scheme",
+      "name_l1": "آغوش ہاؤسنگ سکیم",
+      "externalID": "18017",
+      "slug": "/Kamoki_Aghosh_Housing_Scheme-18017",
+      "slug_l1": "/Kamoki_Aghosh_Housing_Scheme-18017",
+      "_geoloc": {
+          "lat": 31.99285665,
+          "lng": 74.20260081
+      },
+      "geography": {
+          "lat": 31.99285665,
+          "lng": 74.20260081
+      },
+      "geo_point": [
+          74.20260081,
+          31.99285665
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 16842,
+              "level": 3,
+              "externalID": "18017",
+              "name": "Aghosh Housing Scheme",
+              "name_l1": "آغوش ہاؤسنگ سکیم",
+              "slug": "/Kamoki_Aghosh_Housing_Scheme-18017",
+              "slug_l1": "/Kamoki_Aghosh_Housing_Scheme-18017"
+          }
+      ],
+      "hierarchyPath": "Aghosh Housing Scheme Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18017",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16842",
+      "_highlightResult": {
+          "name": {
+              "value": "Aghosh Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16843,
+      "name": "Aghosh Housing Scheme - Block A",
+      "name_l1": "آغوش ہاؤسنگ سکیم - بلاک اے",
+      "externalID": "18018",
+      "slug": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Block_A-18018",
+      "slug_l1": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Block_A-18018",
+      "_geoloc": {
+          "lat": 31.99304881,
+          "lng": 74.20190695
+      },
+      "geography": {
+          "lat": 31.99304881,
+          "lng": 74.20190695
+      },
+      "geo_point": [
+          74.20190695,
+          31.99304881
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 16842,
+              "level": 3,
+              "externalID": "18017",
+              "name": "Aghosh Housing Scheme",
+              "name_l1": "آغوش ہاؤسنگ سکیم",
+              "slug": "/Kamoki_Aghosh_Housing_Scheme-18017",
+              "slug_l1": "/Kamoki_Aghosh_Housing_Scheme-18017"
+          },
+          {
+              "id": 16843,
+              "level": 4,
+              "externalID": "18018",
+              "name": "Aghosh Housing Scheme - Block A",
+              "name_l1": "آغوش ہاؤسنگ سکیم - بلاک اے",
+              "slug": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Block_A-18018",
+              "slug_l1": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Block_A-18018"
+          }
+      ],
+      "hierarchyPath": "Aghosh Housing Scheme - Block A Aghosh Housing Scheme Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18018",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16843",
+      "_highlightResult": {
+          "name": {
+              "value": "Aghosh Housing Scheme - Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16844,
+      "name": "Aghosh Housing Scheme - Block B",
+      "name_l1": "آغوش ہاؤسنگ سکیم - بلاک بی",
+      "externalID": "18019",
+      "slug": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Block_B-18019",
+      "slug_l1": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Block_B-18019",
+      "_geoloc": {
+          "lat": 31.99372349,
+          "lng": 74.20257289
+      },
+      "geography": {
+          "lat": 31.99372349,
+          "lng": 74.20257289
+      },
+      "geo_point": [
+          74.20257289,
+          31.99372349
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 16842,
+              "level": 3,
+              "externalID": "18017",
+              "name": "Aghosh Housing Scheme",
+              "name_l1": "آغوش ہاؤسنگ سکیم",
+              "slug": "/Kamoki_Aghosh_Housing_Scheme-18017",
+              "slug_l1": "/Kamoki_Aghosh_Housing_Scheme-18017"
+          },
+          {
+              "id": 16844,
+              "level": 4,
+              "externalID": "18019",
+              "name": "Aghosh Housing Scheme - Block B",
+              "name_l1": "آغوش ہاؤسنگ سکیم - بلاک بی",
+              "slug": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Block_B-18019",
+              "slug_l1": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Block_B-18019"
+          }
+      ],
+      "hierarchyPath": "Aghosh Housing Scheme - Block B Aghosh Housing Scheme Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18019",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16844",
+      "_highlightResult": {
+          "name": {
+              "value": "Aghosh Housing Scheme - Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16845,
+      "name": "Aghosh Housing Scheme - Umer Block",
+      "name_l1": "آغوش ہاؤسنگ سکیم - عمر بلاک",
+      "externalID": "18020",
+      "slug": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Umer_Block-18020",
+      "slug_l1": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Umer_Block-18020",
+      "_geoloc": {
+          "lat": 31.99210975,
+          "lng": 74.20302697
+      },
+      "geography": {
+          "lat": 31.99210975,
+          "lng": 74.20302697
+      },
+      "geo_point": [
+          74.20302697,
+          31.99210975
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 16842,
+              "level": 3,
+              "externalID": "18017",
+              "name": "Aghosh Housing Scheme",
+              "name_l1": "آغوش ہاؤسنگ سکیم",
+              "slug": "/Kamoki_Aghosh_Housing_Scheme-18017",
+              "slug_l1": "/Kamoki_Aghosh_Housing_Scheme-18017"
+          },
+          {
+              "id": 16845,
+              "level": 4,
+              "externalID": "18020",
+              "name": "Aghosh Housing Scheme - Umer Block",
+              "name_l1": "آغوش ہاؤسنگ سکیم - عمر بلاک",
+              "slug": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Umer_Block-18020",
+              "slug_l1": "/Kamoki_Aghosh_Housing_Scheme_Aghosh_Housing_Scheme___Umer_Block-18020"
+          }
+      ],
+      "hierarchyPath": "Aghosh Housing Scheme - Umer Block Aghosh Housing Scheme Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18020",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16845",
+      "_highlightResult": {
+          "name": {
+              "value": "Aghosh Housing Scheme - Umer Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21073,
+      "name": "Apna Ashyana Society",
+      "name_l1": "اپنا آشیانہ سوسائٹی",
+      "externalID": "21669",
+      "slug": "/Kamoki_GT_Road_Apna_Ashyana_Society-21669",
+      "slug_l1": "/Kamoki_GT_Road_Apna_Ashyana_Society-21669",
+      "_geoloc": {
+          "lat": 31.957109002707,
+          "lng": 74.217062934379
+      },
+      "geography": {
+          "lat": 31.957109002707,
+          "lng": 74.217062934379
+      },
+      "geo_point": [
+          74.217062934379,
+          31.957109002707
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 11498,
+              "level": 3,
+              "externalID": "13025",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Kamoki_GT_Road-13025",
+              "slug_l1": "/Kamoki_GT_Road-13025"
+          },
+          {
+              "id": 21073,
+              "level": 4,
+              "externalID": "21669",
+              "name": "Apna Ashyana Society",
+              "name_l1": "اپنا آشیانہ سوسائٹی",
+              "slug": "/Kamoki_GT_Road_Apna_Ashyana_Society-21669",
+              "slug_l1": "/Kamoki_GT_Road_Apna_Ashyana_Society-21669"
+          }
+      ],
+      "hierarchyPath": "Apna Ashyana Society GT Road Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21669",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21073",
+      "_highlightResult": {
+          "name": {
+              "value": "Apna Ashyana Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18469,
+      "name": "Ghala Mandi",
+      "name_l1": "غلہ منڈی",
+      "externalID": "19384",
+      "slug": "/Kamoki_Ghala_Mandi-19384",
+      "slug_l1": "/Kamoki_Ghala_Mandi-19384",
+      "_geoloc": {
+          "lat": 31.9768639,
+          "lng": 74.2253311
+      },
+      "geography": {
+          "lat": 31.9768639,
+          "lng": 74.2253311
+      },
+      "geo_point": [
+          74.2253311,
+          31.9768639
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 18469,
+              "level": 3,
+              "externalID": "19384",
+              "name": "Ghala Mandi",
+              "name_l1": "غلہ منڈی",
+              "slug": "/Kamoki_Ghala_Mandi-19384",
+              "slug_l1": "/Kamoki_Ghala_Mandi-19384"
+          }
+      ],
+      "hierarchyPath": "Ghala Mandi Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19384",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18469",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghala Mandi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11385,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "12941",
+      "slug": "/Kamoki_Others-12941",
+      "slug_l1": "/Kamoki_Others-12941",
+      "_geoloc": {
+          "lat": 31.976947,
+          "lng": 74.221867
+      },
+      "geography": {
+          "lat": 31.976947,
+          "lng": 74.221867
+      },
+      "geo_point": [
+          74.221867,
+          31.976947
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 11385,
+              "level": 3,
+              "externalID": "12941",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Kamoki_Others-12941",
+              "slug_l1": "/Kamoki_Others-12941"
+          }
+      ],
+      "hierarchyPath": "Others Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12941",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11385",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18468,
+      "name": "Pak Town",
+      "name_l1": "پاک ٹاؤن",
+      "externalID": "19383",
+      "slug": "/Kamoki_Pak_Town-19383",
+      "slug_l1": "/Kamoki_Pak_Town-19383",
+      "_geoloc": {
+          "lat": 31.990443,
+          "lng": 74.216416
+      },
+      "geography": {
+          "lat": 31.990443,
+          "lng": 74.216416
+      },
+      "geo_point": [
+          74.216416,
+          31.990443
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 18468,
+              "level": 3,
+              "externalID": "19383",
+              "name": "Pak Town",
+              "name_l1": "پاک ٹاؤن",
+              "slug": "/Kamoki_Pak_Town-19383",
+              "slug_l1": "/Kamoki_Pak_Town-19383"
+          }
+      ],
+      "hierarchyPath": "Pak Town Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19383",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18468",
+      "_highlightResult": {
+          "name": {
+              "value": "Pak Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21222,
+      "name": "Spire Premier Centre & Living",
+      "name_l1": "اسپائر پریمیئر سینٹر اینڈ لونگ",
+      "externalID": "21812",
+      "slug": "/Kamoki_GT_Road_Spire_Premier_Centre___Living-21812",
+      "slug_l1": "/Kamoki_GT_Road_Spire_Premier_Centre___Living-21812",
+      "_geoloc": {
+          "lat": 31.95716783157,
+          "lng": 74.226174502624
+      },
+      "geography": {
+          "lat": 31.95716783157,
+          "lng": 74.226174502624
+      },
+      "geo_point": [
+          74.226174502624,
+          31.95716783157
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 11498,
+              "level": 3,
+              "externalID": "13025",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Kamoki_GT_Road-13025",
+              "slug_l1": "/Kamoki_GT_Road-13025"
+          },
+          {
+              "id": 21222,
+              "level": 4,
+              "externalID": "21812",
+              "name": "Spire Premier Centre & Living",
+              "name_l1": "اسپائر پریمیئر سینٹر اینڈ لونگ",
+              "slug": "/Kamoki_GT_Road_Spire_Premier_Centre___Living-21812",
+              "slug_l1": "/Kamoki_GT_Road_Spire_Premier_Centre___Living-21812"
+          }
+      ],
+      "hierarchyPath": "Spire Premier Centre & Living GT Road Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21812",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21222",
+      "_highlightResult": {
+          "name": {
+              "value": "Spire Premier Centre & Living",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18467,
+      "name": "Tibba Muhammad Nagar",
+      "name_l1": "ٹبہ محمد نگر",
+      "externalID": "19382",
+      "slug": "/Kamoki_Tibba_Muhammad_Nagar-19382",
+      "slug_l1": "/Kamoki_Tibba_Muhammad_Nagar-19382",
+      "_geoloc": {
+          "lat": 31.964358,
+          "lng": 74.233666
+      },
+      "geography": {
+          "lat": 31.964358,
+          "lng": 74.233666
+      },
+      "geo_point": [
+          74.233666,
+          31.964358
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 153,
+              "level": 2,
+              "externalID": "10346",
+              "name": "Kamoki",
+              "name_l1": "كاموكى",
+              "slug": "/Kamoki-10346",
+              "slug_l1": "/Kamoki-10346"
+          },
+          {
+              "id": 18467,
+              "level": 3,
+              "externalID": "19382",
+              "name": "Tibba Muhammad Nagar",
+              "name_l1": "ٹبہ محمد نگر",
+              "slug": "/Kamoki_Tibba_Muhammad_Nagar-19382",
+              "slug_l1": "/Kamoki_Tibba_Muhammad_Nagar-19382"
+          }
+      ],
+      "hierarchyPath": "Tibba Muhammad Nagar Kamoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19382",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18467",
+      "_highlightResult": {
+          "name": {
+              "value": "Tibba Muhammad Nagar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

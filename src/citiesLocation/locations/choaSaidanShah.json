@@ -1,0 +1,224 @@
+[
+  {
+      "id": 12832,
+      "name": "Choa Saidan Shah",
+      "name_l1": "چھوا سیدن شاہ",
+      "externalID": "14284",
+      "slug": "/Choa_Saidan_Shah-14284",
+      "slug_l1": "/Choa_Saidan_Shah-14284",
+      "_geoloc": {
+          "lat": 32.72254,
+          "lng": 72.980044
+      },
+      "geography": {
+          "lat": 32.72254,
+          "lng": 72.980044
+      },
+      "geo_point": [
+          72.980044,
+          32.72254
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 12832,
+              "level": 2,
+              "externalID": "14284",
+              "name": "Choa Saidan Shah",
+              "name_l1": "چھوا سیدن شاہ",
+              "slug": "/Choa_Saidan_Shah-14284",
+              "slug_l1": "/Choa_Saidan_Shah-14284"
+          }
+      ],
+      "hierarchyPath": "Choa Saidan Shah Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14284",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12832",
+      "_highlightResult": {
+          "name": {
+              "value": "Choa Saidan Shah",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12835,
+      "name": "Kalar Kahar Road",
+      "name_l1": "کلر کہار روڈ",
+      "externalID": "14286",
+      "slug": "/Choa_Saidan_Shah_Kalar_Kahar_Road-14286",
+      "slug_l1": "/Choa_Saidan_Shah_Kalar_Kahar_Road-14286",
+      "_geoloc": {
+          "lat": 32.719177,
+          "lng": 72.976961
+      },
+      "geography": {
+          "lat": 32.719177,
+          "lng": 72.976961
+      },
+      "geo_point": [
+          72.976961,
+          32.719177
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 12832,
+              "level": 2,
+              "externalID": "14284",
+              "name": "Choa Saidan Shah",
+              "name_l1": "چھوا سیدن شاہ",
+              "slug": "/Choa_Saidan_Shah-14284",
+              "slug_l1": "/Choa_Saidan_Shah-14284"
+          },
+          {
+              "id": 12835,
+              "level": 3,
+              "externalID": "14286",
+              "name": "Kalar Kahar Road",
+              "name_l1": "کلر کہار روڈ",
+              "slug": "/Choa_Saidan_Shah_Kalar_Kahar_Road-14286",
+              "slug_l1": "/Choa_Saidan_Shah_Kalar_Kahar_Road-14286"
+          }
+      ],
+      "hierarchyPath": "Kalar Kahar Road Choa Saidan Shah Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14286",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12835",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalar Kahar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12834,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "14285",
+      "slug": "/Choa_Saidan_Shah_Others-14285",
+      "slug_l1": "/Choa_Saidan_Shah_Others-14285",
+      "_geoloc": {
+          "lat": 32.722396,
+          "lng": 72.983478
+      },
+      "geography": {
+          "lat": 32.722396,
+          "lng": 72.983478
+      },
+      "geo_point": [
+          72.983478,
+          32.722396
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 12832,
+              "level": 2,
+              "externalID": "14284",
+              "name": "Choa Saidan Shah",
+              "name_l1": "چھوا سیدن شاہ",
+              "slug": "/Choa_Saidan_Shah-14284",
+              "slug_l1": "/Choa_Saidan_Shah-14284"
+          },
+          {
+              "id": 12834,
+              "level": 3,
+              "externalID": "14285",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Choa_Saidan_Shah_Others-14285",
+              "slug_l1": "/Choa_Saidan_Shah_Others-14285"
+          }
+      ],
+      "hierarchyPath": "Others Choa Saidan Shah Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14285",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12834",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

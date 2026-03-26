@@ -1,0 +1,70 @@
+[
+  {
+      "id": 16485,
+      "name": "Battagram",
+      "name_l1": "بٹگرام",
+      "externalID": "17727",
+      "slug": "/Battagram-17727",
+      "slug_l1": "/Battagram-17727",
+      "_geoloc": {
+          "lat": 34.674308,
+          "lng": 73.024628
+      },
+      "geography": {
+          "lat": 34.674308,
+          "lng": 73.024628
+      },
+      "geo_point": [
+          73.024628,
+          34.674308
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 16485,
+              "level": 2,
+              "externalID": "17727",
+              "name": "Battagram",
+              "name_l1": "بٹگرام",
+              "slug": "/Battagram-17727",
+              "slug_l1": "/Battagram-17727"
+          }
+      ],
+      "hierarchyPath": "Battagram Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17727",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16485",
+      "_highlightResult": {
+          "name": {
+              "value": "Battagram",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,4200 @@
+[
+  {
+      "id": 34,
+      "name": "Taxila",
+      "name_l1": "ٹیکسلا",
+      "externalID": "464",
+      "slug": "/Taxila-464",
+      "slug_l1": "/Taxila-464",
+      "_geoloc": {
+          "lat": 33.748607795387,
+          "lng": 72.810258865356
+      },
+      "geography": {
+          "lat": 33.748607795387,
+          "lng": 72.810258865356
+      },
+      "geo_point": [
+          72.810258865356,
+          33.748607795387
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          }
+      ],
+      "hierarchyPath": "Taxila Punjab Pakistan",
+      "adCount": 93,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "464",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "34",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6292,
+      "name": "Taxila Gardens Housing Scheme",
+      "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+      "externalID": "12663",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+      "_geoloc": {
+          "lat": 33.783952,
+          "lng": 72.829671
+      },
+      "geography": {
+          "lat": 33.783952,
+          "lng": 72.829671
+      },
+      "geo_point": [
+          72.829671,
+          33.783952
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 21,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12663",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6292",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3020,
+      "name": "Khanpur Road",
+      "name_l1": "خانپور روڈ",
+      "externalID": "6319",
+      "slug": "/Taxila_Khanpur_Road-6319",
+      "slug_l1": "/Taxila_Khanpur_Road-6319",
+      "_geoloc": {
+          "lat": 33.755494,
+          "lng": 72.820963
+      },
+      "geography": {
+          "lat": 33.755494,
+          "lng": 72.820963
+      },
+      "geo_point": [
+          72.820963,
+          33.755494
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3020,
+              "level": 3,
+              "externalID": "6319",
+              "name": "Khanpur Road",
+              "name_l1": "خانپور روڈ",
+              "slug": "/Taxila_Khanpur_Road-6319",
+              "slug_l1": "/Taxila_Khanpur_Road-6319"
+          }
+      ],
+      "hierarchyPath": "Khanpur Road Taxila Punjab Pakistan",
+      "adCount": 18,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6319",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3020",
+      "_highlightResult": {
+          "name": {
+              "value": "Khanpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 816,
+      "name": "Kohsar Colony",
+      "name_l1": "کوہسار کالونی",
+      "externalID": "1017",
+      "slug": "/Taxila_Kohsar_Colony-1017",
+      "slug_l1": "/Taxila_Kohsar_Colony-1017",
+      "_geoloc": {
+          "lat": 33.7284,
+          "lng": 72.7998
+      },
+      "geography": {
+          "lat": 33.7284,
+          "lng": 72.7998
+      },
+      "geo_point": [
+          72.7998,
+          33.7284
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 816,
+              "level": 3,
+              "externalID": "1017",
+              "name": "Kohsar Colony",
+              "name_l1": "کوہسار کالونی",
+              "slug": "/Taxila_Kohsar_Colony-1017",
+              "slug_l1": "/Taxila_Kohsar_Colony-1017"
+          }
+      ],
+      "hierarchyPath": "Kohsar Colony Taxila Punjab Pakistan",
+      "adCount": 15,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1017",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "816",
+      "_highlightResult": {
+          "name": {
+              "value": "Kohsar Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3013,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "6312",
+      "slug": "/Taxila_GT_Road-6312",
+      "slug_l1": "/Taxila_GT_Road-6312",
+      "_geoloc": {
+          "lat": 33.738616,
+          "lng": 72.795496
+      },
+      "geography": {
+          "lat": 33.738616,
+          "lng": 72.795496
+      },
+      "geo_point": [
+          72.795496,
+          33.738616
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3013,
+              "level": 3,
+              "externalID": "6312",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Taxila_GT_Road-6312",
+              "slug_l1": "/Taxila_GT_Road-6312"
+          }
+      ],
+      "hierarchyPath": "GT Road Taxila Punjab Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6312",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "3013",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3014,
+      "name": "Ghazi Kohli",
+      "name_l1": "غازی کوہلی",
+      "externalID": "6313",
+      "slug": "/Taxila_Ghazi_Kohli-6313",
+      "slug_l1": "/Taxila_Ghazi_Kohli-6313",
+      "_geoloc": {
+          "lat": 33.753746,
+          "lng": 72.738218
+      },
+      "geography": {
+          "lat": 33.753746,
+          "lng": 72.738218
+      },
+      "geo_point": [
+          72.738218,
+          33.753746
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3014,
+              "level": 3,
+              "externalID": "6313",
+              "name": "Ghazi Kohli",
+              "name_l1": "غازی کوہلی",
+              "slug": "/Taxila_Ghazi_Kohli-6313",
+              "slug_l1": "/Taxila_Ghazi_Kohli-6313"
+          }
+      ],
+      "hierarchyPath": "Ghazi Kohli Taxila Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6313",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3014",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghazi Kohli",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16877,
+      "name": "Taxila Gardens - Block E",
+      "name_l1": "ٹیکسلا گارڈنز - بلاک ای",
+      "externalID": "18039",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_E-18039",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_E-18039",
+      "_geoloc": {
+          "lat": 33.78080274,
+          "lng": 72.83146653
+      },
+      "geography": {
+          "lat": 33.78080274,
+          "lng": 72.83146653
+      },
+      "geo_point": [
+          72.83146653,
+          33.78080274
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          },
+          {
+              "id": 16877,
+              "level": 4,
+              "externalID": "18039",
+              "name": "Taxila Gardens - Block E",
+              "name_l1": "ٹیکسلا گارڈنز - بلاک ای",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_E-18039",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_E-18039"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens - Block E Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18039",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16877",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens - Block E",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 814,
+      "name": "Cantt",
+      "name_l1": "کینٹ",
+      "externalID": "1015",
+      "slug": "/Taxila_Cantt-1015",
+      "slug_l1": "/Taxila_Cantt-1015",
+      "_geoloc": {
+          "lat": 33.727695,
+          "lng": 72.830071
+      },
+      "geography": {
+          "lat": 33.727695,
+          "lng": 72.830071
+      },
+      "geo_point": [
+          72.830071,
+          33.727695
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 814,
+              "level": 3,
+              "externalID": "1015",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Taxila_Cantt-1015",
+              "slug_l1": "/Taxila_Cantt-1015"
+          }
+      ],
+      "hierarchyPath": "Cantt Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1015",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "814",
+      "_highlightResult": {
+          "name": {
+              "value": "Cantt",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8654,
+      "name": "Hill View Housing Scheme",
+      "name_l1": "ہِل ویو ہاوسنگ سکیم",
+      "externalID": "10467",
+      "slug": "/Taxila_GT_Road_Hill_View_Housing_Scheme-10467",
+      "slug_l1": "/Taxila_GT_Road_Hill_View_Housing_Scheme-10467",
+      "_geoloc": {
+          "lat": 33.71818324,
+          "lng": 72.81109316
+      },
+      "geography": {
+          "lat": 33.71818324,
+          "lng": 72.81109316
+      },
+      "geo_point": [
+          72.81109316,
+          33.71818324
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3013,
+              "level": 3,
+              "externalID": "6312",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Taxila_GT_Road-6312",
+              "slug_l1": "/Taxila_GT_Road-6312"
+          },
+          {
+              "id": 8654,
+              "level": 4,
+              "externalID": "10467",
+              "name": "Hill View Housing Scheme",
+              "name_l1": "ہِل ویو ہاوسنگ سکیم",
+              "slug": "/Taxila_GT_Road_Hill_View_Housing_Scheme-10467",
+              "slug_l1": "/Taxila_GT_Road_Hill_View_Housing_Scheme-10467"
+          }
+      ],
+      "hierarchyPath": "Hill View Housing Scheme GT Road Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10467",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8654",
+      "_highlightResult": {
+          "name": {
+              "value": "Hill View Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3017,
+      "name": "Jamilabad",
+      "name_l1": "جمیل آباد",
+      "externalID": "6316",
+      "slug": "/Taxila_Jamilabad-6316",
+      "slug_l1": "/Taxila_Jamilabad-6316",
+      "_geoloc": {
+          "lat": 33.74404,
+          "lng": 72.7777
+      },
+      "geography": {
+          "lat": 33.74404,
+          "lng": 72.7777
+      },
+      "geo_point": [
+          72.7777,
+          33.74404
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3017,
+              "level": 3,
+              "externalID": "6316",
+              "name": "Jamilabad",
+              "name_l1": "جمیل آباد",
+              "slug": "/Taxila_Jamilabad-6316",
+              "slug_l1": "/Taxila_Jamilabad-6316"
+          }
+      ],
+      "hierarchyPath": "Jamilabad Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6316",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3017",
+      "_highlightResult": {
+          "name": {
+              "value": "Jamilabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3019,
+      "name": "Karamwal",
+      "name_l1": "کرم وال",
+      "externalID": "6318",
+      "slug": "/Taxila_Karamwal-6318",
+      "slug_l1": "/Taxila_Karamwal-6318",
+      "_geoloc": {
+          "lat": 33.73312,
+          "lng": 72.84502
+      },
+      "geography": {
+          "lat": 33.73312,
+          "lng": 72.84502
+      },
+      "geo_point": [
+          72.84502,
+          33.73312
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3019,
+              "level": 3,
+              "externalID": "6318",
+              "name": "Karamwal",
+              "name_l1": "کرم وال",
+              "slug": "/Taxila_Karamwal-6318",
+              "slug_l1": "/Taxila_Karamwal-6318"
+          }
+      ],
+      "hierarchyPath": "Karamwal Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6318",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3019",
+      "_highlightResult": {
+          "name": {
+              "value": "Karamwal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3022,
+      "name": "Kot Najeebullah Road",
+      "name_l1": "کوٹ نجیب اللہ روڈ",
+      "externalID": "6321",
+      "slug": "/Taxila_Kot_Najeebullah_Road-6321",
+      "slug_l1": "/Taxila_Kot_Najeebullah_Road-6321",
+      "_geoloc": {
+          "lat": 33.768053,
+          "lng": 72.81013
+      },
+      "geography": {
+          "lat": 33.768053,
+          "lng": 72.81013
+      },
+      "geo_point": [
+          72.81013,
+          33.768053
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3022,
+              "level": 3,
+              "externalID": "6321",
+              "name": "Kot Najeebullah Road",
+              "name_l1": "کوٹ نجیب اللہ روڈ",
+              "slug": "/Taxila_Kot_Najeebullah_Road-6321",
+              "slug_l1": "/Taxila_Kot_Najeebullah_Road-6321"
+          }
+      ],
+      "hierarchyPath": "Kot Najeebullah Road Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6321",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "3022",
+      "_highlightResult": {
+          "name": {
+              "value": "Kot Najeebullah Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22364,
+      "name": "Punjab Small Industries Estate, Taxila",
+      "name_l1": "پنجاب اسمال انڈسٹریز اسٹیٹ، ٹیکسلا",
+      "externalID": "22413",
+      "slug": "/Taxila_Punjab_Small_Industries_Estate__Taxila-22413",
+      "slug_l1": "/Taxila_Punjab_Small_Industries_Estate__Taxila-22413",
+      "_geoloc": {
+          "lat": 33.755091,
+          "lng": 72.717481
+      },
+      "geography": {
+          "lat": 33.755091,
+          "lng": 72.717481
+      },
+      "geo_point": [
+          72.717481,
+          33.755091
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 22364,
+              "level": 3,
+              "externalID": "22413",
+              "name": "Punjab Small Industries Estate, Taxila",
+              "name_l1": "پنجاب اسمال انڈسٹریز اسٹیٹ، ٹیکسلا",
+              "slug": "/Taxila_Punjab_Small_Industries_Estate__Taxila-22413",
+              "slug_l1": "/Taxila_Punjab_Small_Industries_Estate__Taxila-22413"
+          }
+      ],
+      "hierarchyPath": "Punjab Small Industries Estate, Taxila Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22413",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22364",
+      "_highlightResult": {
+          "name": {
+              "value": "Punjab Small Industries Estate, Taxila",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3030,
+      "name": "Shah Wali Colony",
+      "name_l1": "شاہ ولی کالونی",
+      "externalID": "6329",
+      "slug": "/Taxila_Shah_Wali_Colony-6329",
+      "slug_l1": "/Taxila_Shah_Wali_Colony-6329",
+      "_geoloc": {
+          "lat": 33.792701,
+          "lng": 72.72809
+      },
+      "geography": {
+          "lat": 33.792701,
+          "lng": 72.72809
+      },
+      "geo_point": [
+          72.72809,
+          33.792701
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3030,
+              "level": 3,
+              "externalID": "6329",
+              "name": "Shah Wali Colony",
+              "name_l1": "شاہ ولی کالونی",
+              "slug": "/Taxila_Shah_Wali_Colony-6329",
+              "slug_l1": "/Taxila_Shah_Wali_Colony-6329"
+          }
+      ],
+      "hierarchyPath": "Shah Wali Colony Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6329",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3030",
+      "_highlightResult": {
+          "name": {
+              "value": "Shah Wali Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16872,
+      "name": "Taxila Gardens - Block A",
+      "name_l1": "ٹیکسلا گارڈنز - بلاک اے",
+      "externalID": "18034",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_A-18034",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_A-18034",
+      "_geoloc": {
+          "lat": 33.7809272,
+          "lng": 72.82859337
+      },
+      "geography": {
+          "lat": 33.7809272,
+          "lng": 72.82859337
+      },
+      "geo_point": [
+          72.82859337,
+          33.7809272
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          },
+          {
+              "id": 16872,
+              "level": 4,
+              "externalID": "18034",
+              "name": "Taxila Gardens - Block A",
+              "name_l1": "ٹیکسلا گارڈنز - بلاک اے",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_A-18034",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_A-18034"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens - Block A Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18034",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16872",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens - Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8603,
+      "name": "Taxila Homes",
+      "name_l1": "ٹیکسلا هومز",
+      "externalID": "10227",
+      "slug": "/Taxila_Kot_Najeebullah_Road_Taxila_Homes-10227",
+      "slug_l1": "/Taxila_Kot_Najeebullah_Road_Taxila_Homes-10227",
+      "_geoloc": {
+          "lat": 33.784039,
+          "lng": 72.820685
+      },
+      "geography": {
+          "lat": 33.784039,
+          "lng": 72.820685
+      },
+      "geo_point": [
+          72.820685,
+          33.784039
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3022,
+              "level": 3,
+              "externalID": "6321",
+              "name": "Kot Najeebullah Road",
+              "name_l1": "کوٹ نجیب اللہ روڈ",
+              "slug": "/Taxila_Kot_Najeebullah_Road-6321",
+              "slug_l1": "/Taxila_Kot_Najeebullah_Road-6321"
+          },
+          {
+              "id": 8603,
+              "level": 4,
+              "externalID": "10227",
+              "name": "Taxila Homes",
+              "name_l1": "ٹیکسلا هومز",
+              "slug": "/Taxila_Kot_Najeebullah_Road_Taxila_Homes-10227",
+              "slug_l1": "/Taxila_Kot_Najeebullah_Road_Taxila_Homes-10227"
+          }
+      ],
+      "hierarchyPath": "Taxila Homes Kot Najeebullah Road Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10227",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8603",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Homes",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6263,
+      "name": "Taxila Industrial Area",
+      "name_l1": "ٹیکسلا انڈسٹریل ایریا",
+      "externalID": "12579",
+      "slug": "/Taxila_Taxila_Industrial_Area-12579",
+      "slug_l1": "/Taxila_Taxila_Industrial_Area-12579",
+      "_geoloc": {
+          "lat": 33.754196,
+          "lng": 72.719022
+      },
+      "geography": {
+          "lat": 33.754196,
+          "lng": 72.719022
+      },
+      "geo_point": [
+          72.719022,
+          33.754196
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6263,
+              "level": 3,
+              "externalID": "12579",
+              "name": "Taxila Industrial Area",
+              "name_l1": "ٹیکسلا انڈسٹریل ایریا",
+              "slug": "/Taxila_Taxila_Industrial_Area-12579",
+              "slug_l1": "/Taxila_Taxila_Industrial_Area-12579"
+          }
+      ],
+      "hierarchyPath": "Taxila Industrial Area Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12579",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6263",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Industrial Area",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 815,
+      "name": "Wahdat Colony",
+      "name_l1": "وحدت کالونی",
+      "externalID": "1016",
+      "slug": "/Taxila_Wahdat_Colony-1016",
+      "slug_l1": "/Taxila_Wahdat_Colony-1016",
+      "_geoloc": {
+          "lat": 33.722626,
+          "lng": 72.804308
+      },
+      "geography": {
+          "lat": 33.722626,
+          "lng": 72.804308
+      },
+      "geo_point": [
+          72.804308,
+          33.722626
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 815,
+              "level": 3,
+              "externalID": "1016",
+              "name": "Wahdat Colony",
+              "name_l1": "وحدت کالونی",
+              "slug": "/Taxila_Wahdat_Colony-1016",
+              "slug_l1": "/Taxila_Wahdat_Colony-1016"
+          }
+      ],
+      "hierarchyPath": "Wahdat Colony Taxila Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1016",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "815",
+      "_highlightResult": {
+          "name": {
+              "value": "Wahdat Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3009,
+      "name": "Ahatta Kamra",
+      "name_l1": "احاطہ کامرہ",
+      "externalID": "6308",
+      "slug": "/Taxila_Ahatta_Kamra-6308",
+      "slug_l1": "/Taxila_Ahatta_Kamra-6308",
+      "_geoloc": {
+          "lat": 33.804398,
+          "lng": 72.818041
+      },
+      "geography": {
+          "lat": 33.804398,
+          "lng": 72.818041
+      },
+      "geo_point": [
+          72.818041,
+          33.804398
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3009,
+              "level": 3,
+              "externalID": "6308",
+              "name": "Ahatta Kamra",
+              "name_l1": "احاطہ کامرہ",
+              "slug": "/Taxila_Ahatta_Kamra-6308",
+              "slug_l1": "/Taxila_Ahatta_Kamra-6308"
+          }
+      ],
+      "hierarchyPath": "Ahatta Kamra Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6308",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3009",
+      "_highlightResult": {
+          "name": {
+              "value": "Ahatta Kamra",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3010,
+      "name": "Bhir Dargahi",
+      "name_l1": "بھیڑ درگاہی",
+      "externalID": "6309",
+      "slug": "/Taxila_Bhir_Dargahi-6309",
+      "slug_l1": "/Taxila_Bhir_Dargahi-6309",
+      "_geoloc": {
+          "lat": 33.740472,
+          "lng": 72.820973
+      },
+      "geography": {
+          "lat": 33.740472,
+          "lng": 72.820973
+      },
+      "geo_point": [
+          72.820973,
+          33.740472
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3010,
+              "level": 3,
+              "externalID": "6309",
+              "name": "Bhir Dargahi",
+              "name_l1": "بھیڑ درگاہی",
+              "slug": "/Taxila_Bhir_Dargahi-6309",
+              "slug_l1": "/Taxila_Bhir_Dargahi-6309"
+          }
+      ],
+      "hierarchyPath": "Bhir Dargahi Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6309",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3010",
+      "_highlightResult": {
+          "name": {
+              "value": "Bhir Dargahi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3011,
+      "name": "Bohudu",
+      "name_l1": "بوہودو",
+      "externalID": "6310",
+      "slug": "/Taxila_Bohudu-6310",
+      "slug_l1": "/Taxila_Bohudu-6310",
+      "_geoloc": {
+          "lat": 33.806681,
+          "lng": 72.758675
+      },
+      "geography": {
+          "lat": 33.806681,
+          "lng": 72.758675
+      },
+      "geo_point": [
+          72.758675,
+          33.806681
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3011,
+              "level": 3,
+              "externalID": "6310",
+              "name": "Bohudu",
+              "name_l1": "بوہودو",
+              "slug": "/Taxila_Bohudu-6310",
+              "slug_l1": "/Taxila_Bohudu-6310"
+          }
+      ],
+      "hierarchyPath": "Bohudu Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6310",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3011",
+      "_highlightResult": {
+          "name": {
+              "value": "Bohudu",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3012,
+      "name": "Dhok Wajjan",
+      "name_l1": "ڈھوک وَجاں",
+      "externalID": "6311",
+      "slug": "/Taxila_Dhok_Wajjan-6311",
+      "slug_l1": "/Taxila_Dhok_Wajjan-6311",
+      "_geoloc": {
+          "lat": 33.72359,
+          "lng": 72.813127
+      },
+      "geography": {
+          "lat": 33.72359,
+          "lng": 72.813127
+      },
+      "geo_point": [
+          72.813127,
+          33.72359
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3012,
+              "level": 3,
+              "externalID": "6311",
+              "name": "Dhok Wajjan",
+              "name_l1": "ڈھوک وَجاں",
+              "slug": "/Taxila_Dhok_Wajjan-6311",
+              "slug_l1": "/Taxila_Dhok_Wajjan-6311"
+          }
+      ],
+      "hierarchyPath": "Dhok Wajjan Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6311",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3012",
+      "_highlightResult": {
+          "name": {
+              "value": "Dhok Wajjan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3015,
+      "name": "Gulshan Colony",
+      "name_l1": "گلشن کالونی",
+      "externalID": "6314",
+      "slug": "/Taxila_Gulshan_Colony-6314",
+      "slug_l1": "/Taxila_Gulshan_Colony-6314",
+      "_geoloc": {
+          "lat": 33.792701,
+          "lng": 72.732725
+      },
+      "geography": {
+          "lat": 33.792701,
+          "lng": 72.732725
+      },
+      "geo_point": [
+          72.732725,
+          33.792701
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3015,
+              "level": 3,
+              "externalID": "6314",
+              "name": "Gulshan Colony",
+              "name_l1": "گلشن کالونی",
+              "slug": "/Taxila_Gulshan_Colony-6314",
+              "slug_l1": "/Taxila_Gulshan_Colony-6314"
+          }
+      ],
+      "hierarchyPath": "Gulshan Colony Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6314",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3015",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8831,
+      "name": "Hassan Colony",
+      "name_l1": "حسن کالونی",
+      "externalID": "11041",
+      "slug": "/Taxila_GT_Road_Hassan_Colony-11041",
+      "slug_l1": "/Taxila_GT_Road_Hassan_Colony-11041",
+      "_geoloc": {
+          "lat": 33.732589,
+          "lng": 72.811069
+      },
+      "geography": {
+          "lat": 33.732589,
+          "lng": 72.811069
+      },
+      "geo_point": [
+          72.811069,
+          33.732589
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3013,
+              "level": 3,
+              "externalID": "6312",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Taxila_GT_Road-6312",
+              "slug_l1": "/Taxila_GT_Road-6312"
+          },
+          {
+              "id": 8831,
+              "level": 4,
+              "externalID": "11041",
+              "name": "Hassan Colony",
+              "name_l1": "حسن کالونی",
+              "slug": "/Taxila_GT_Road_Hassan_Colony-11041",
+              "slug_l1": "/Taxila_GT_Road_Hassan_Colony-11041"
+          }
+      ],
+      "hierarchyPath": "Hassan Colony GT Road Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11041",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8831",
+      "_highlightResult": {
+          "name": {
+              "value": "Hassan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3016,
+      "name": "HMC Colony",
+      "name_l1": "ایچ ایم سی کالونی",
+      "externalID": "6315",
+      "slug": "/Taxila_HMC_Colony-6315",
+      "slug_l1": "/Taxila_HMC_Colony-6315",
+      "_geoloc": {
+          "lat": 33.771549,
+          "lng": 72.814722
+      },
+      "geography": {
+          "lat": 33.771549,
+          "lng": 72.814722
+      },
+      "geo_point": [
+          72.814722,
+          33.771549
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3016,
+              "level": 3,
+              "externalID": "6315",
+              "name": "HMC Colony",
+              "name_l1": "ایچ ایم سی کالونی",
+              "slug": "/Taxila_HMC_Colony-6315",
+              "slug_l1": "/Taxila_HMC_Colony-6315"
+          }
+      ],
+      "hierarchyPath": "HMC Colony Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6315",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3016",
+      "_highlightResult": {
+          "name": {
+              "value": "HMC Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6237,
+      "name": "Intizar Town",
+      "name_l1": "انتظار ٹاؤن",
+      "externalID": "12524",
+      "slug": "/Taxila_Intizar_Town-12524",
+      "slug_l1": "/Taxila_Intizar_Town-12524",
+      "_geoloc": {
+          "lat": 33.7649,
+          "lng": 72.808894
+      },
+      "geography": {
+          "lat": 33.7649,
+          "lng": 72.808894
+      },
+      "geo_point": [
+          72.808894,
+          33.7649
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6237,
+              "level": 3,
+              "externalID": "12524",
+              "name": "Intizar Town",
+              "name_l1": "انتظار ٹاؤن",
+              "slug": "/Taxila_Intizar_Town-12524",
+              "slug_l1": "/Taxila_Intizar_Town-12524"
+          }
+      ],
+      "hierarchyPath": "Intizar Town Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12524",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6237",
+      "_highlightResult": {
+          "name": {
+              "value": "Intizar Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3018,
+      "name": "Karam Complex",
+      "name_l1": "کرم کمپلیکس",
+      "externalID": "6317",
+      "slug": "/Taxila_Karam_Complex-6317",
+      "slug_l1": "/Taxila_Karam_Complex-6317",
+      "_geoloc": {
+          "lat": 33.729051,
+          "lng": 72.807813
+      },
+      "geography": {
+          "lat": 33.729051,
+          "lng": 72.807813
+      },
+      "geo_point": [
+          72.807813,
+          33.729051
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3018,
+              "level": 3,
+              "externalID": "6317",
+              "name": "Karam Complex",
+              "name_l1": "کرم کمپلیکس",
+              "slug": "/Taxila_Karam_Complex-6317",
+              "slug_l1": "/Taxila_Karam_Complex-6317"
+          }
+      ],
+      "hierarchyPath": "Karam Complex Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6317",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3018",
+      "_highlightResult": {
+          "name": {
+              "value": "Karam Complex",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3021,
+      "name": "Kolian",
+      "name_l1": "کولیاں",
+      "externalID": "6320",
+      "slug": "/Taxila_Kolian-6320",
+      "slug_l1": "/Taxila_Kolian-6320",
+      "_geoloc": {
+          "lat": 33.785853,
+          "lng": 72.800531
+      },
+      "geography": {
+          "lat": 33.785853,
+          "lng": 72.800531
+      },
+      "geo_point": [
+          72.800531,
+          33.785853
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3021,
+              "level": 3,
+              "externalID": "6320",
+              "name": "Kolian",
+              "name_l1": "کولیاں",
+              "slug": "/Taxila_Kolian-6320",
+              "slug_l1": "/Taxila_Kolian-6320"
+          }
+      ],
+      "hierarchyPath": "Kolian Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6320",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3021",
+      "_highlightResult": {
+          "name": {
+              "value": "Kolian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3023,
+      "name": "Lalazar Colony",
+      "name_l1": "لالہ زار کالونی",
+      "externalID": "6322",
+      "slug": "/Taxila_Lalazar_Colony-6322",
+      "slug_l1": "/Taxila_Lalazar_Colony-6322",
+      "_geoloc": {
+          "lat": 33.794841,
+          "lng": 72.723799
+      },
+      "geography": {
+          "lat": 33.794841,
+          "lng": 72.723799
+      },
+      "geo_point": [
+          72.723799,
+          33.794841
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3023,
+              "level": 3,
+              "externalID": "6322",
+              "name": "Lalazar Colony",
+              "name_l1": "لالہ زار کالونی",
+              "slug": "/Taxila_Lalazar_Colony-6322",
+              "slug_l1": "/Taxila_Lalazar_Colony-6322"
+          }
+      ],
+      "hierarchyPath": "Lalazar Colony Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6322",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3023",
+      "_highlightResult": {
+          "name": {
+              "value": "Lalazar Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8837,
+      "name": "Margalla City",
+      "name_l1": "مرگلہ سِٹی",
+      "externalID": "11051",
+      "slug": "/Taxila_Cantt_Margalla_City-11051",
+      "slug_l1": "/Taxila_Cantt_Margalla_City-11051",
+      "_geoloc": {
+          "lat": 33.727789,
+          "lng": 72.829888
+      },
+      "geography": {
+          "lat": 33.727789,
+          "lng": 72.829888
+      },
+      "geo_point": [
+          72.829888,
+          33.727789
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 814,
+              "level": 3,
+              "externalID": "1015",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Taxila_Cantt-1015",
+              "slug_l1": "/Taxila_Cantt-1015"
+          },
+          {
+              "id": 8837,
+              "level": 4,
+              "externalID": "11051",
+              "name": "Margalla City",
+              "name_l1": "مرگلہ سِٹی",
+              "slug": "/Taxila_Cantt_Margalla_City-11051",
+              "slug_l1": "/Taxila_Cantt_Margalla_City-11051"
+          }
+      ],
+      "hierarchyPath": "Margalla City Cantt Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11051",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8837",
+      "_highlightResult": {
+          "name": {
+              "value": "Margalla City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6077,
+      "name": "Margalla Hills Enclave",
+      "name_l1": "مارگلا ہلس اینکلیو",
+      "externalID": "12182",
+      "slug": "/Taxila_Margalla_Hills_Enclave-12182",
+      "slug_l1": "/Taxila_Margalla_Hills_Enclave-12182",
+      "_geoloc": {
+          "lat": 33.717138,
+          "lng": 72.819259
+      },
+      "geography": {
+          "lat": 33.717138,
+          "lng": 72.819259
+      },
+      "geo_point": [
+          72.819259,
+          33.717138
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6077,
+              "level": 3,
+              "externalID": "12182",
+              "name": "Margalla Hills Enclave",
+              "name_l1": "مارگلا ہلس اینکلیو",
+              "slug": "/Taxila_Margalla_Hills_Enclave-12182",
+              "slug_l1": "/Taxila_Margalla_Hills_Enclave-12182"
+          }
+      ],
+      "hierarchyPath": "Margalla Hills Enclave Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12182",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6077",
+      "_highlightResult": {
+          "name": {
+              "value": "Margalla Hills Enclave",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3024,
+      "name": "Model Town",
+      "name_l1": "ماڈل ٹاؤن",
+      "externalID": "6323",
+      "slug": "/Taxila_Model_Town-6323",
+      "slug_l1": "/Taxila_Model_Town-6323",
+      "_geoloc": {
+          "lat": 33.759205,
+          "lng": 72.809186
+      },
+      "geography": {
+          "lat": 33.759205,
+          "lng": 72.809186
+      },
+      "geo_point": [
+          72.809186,
+          33.759205
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3024,
+              "level": 3,
+              "externalID": "6323",
+              "name": "Model Town",
+              "name_l1": "ماڈل ٹاؤن",
+              "slug": "/Taxila_Model_Town-6323",
+              "slug_l1": "/Taxila_Model_Town-6323"
+          }
+      ],
+      "hierarchyPath": "Model Town Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6323",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3024",
+      "_highlightResult": {
+          "name": {
+              "value": "Model Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3025,
+      "name": "Mohabbatabad",
+      "name_l1": "محبت آباد",
+      "externalID": "6324",
+      "slug": "/Taxila_Mohabbatabad-6324",
+      "slug_l1": "/Taxila_Mohabbatabad-6324",
+      "_geoloc": {
+          "lat": 33.739758,
+          "lng": 72.766199
+      },
+      "geography": {
+          "lat": 33.739758,
+          "lng": 72.766199
+      },
+      "geo_point": [
+          72.766199,
+          33.739758
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3025,
+              "level": 3,
+              "externalID": "6324",
+              "name": "Mohabbatabad",
+              "name_l1": "محبت آباد",
+              "slug": "/Taxila_Mohabbatabad-6324",
+              "slug_l1": "/Taxila_Mohabbatabad-6324"
+          }
+      ],
+      "hierarchyPath": "Mohabbatabad Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6324",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3025",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohabbatabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 352,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "465",
+      "slug": "/Taxila_Others-465",
+      "slug_l1": "/Taxila_Others-465",
+      "_geoloc": {
+          "lat": 33.737,
+          "lng": 72.7994
+      },
+      "geography": {
+          "lat": 33.737,
+          "lng": 72.7994
+      },
+      "geo_point": [
+          72.7994,
+          33.737
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 352,
+              "level": 3,
+              "externalID": "465",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Taxila_Others-465",
+              "slug_l1": "/Taxila_Others-465"
+          }
+      ],
+      "hierarchyPath": "Others Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "465",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "352",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3026,
+      "name": "Quaid Avenue",
+      "name_l1": "قائد ایوینیو",
+      "externalID": "6325",
+      "slug": "/Taxila_Quaid_Avenue-6325",
+      "slug_l1": "/Taxila_Quaid_Avenue-6325",
+      "_geoloc": {
+          "lat": 33.739347,
+          "lng": 72.796204
+      },
+      "geography": {
+          "lat": 33.739347,
+          "lng": 72.796204
+      },
+      "geo_point": [
+          72.796204,
+          33.739347
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3026,
+              "level": 3,
+              "externalID": "6325",
+              "name": "Quaid Avenue",
+              "name_l1": "قائد ایوینیو",
+              "slug": "/Taxila_Quaid_Avenue-6325",
+              "slug_l1": "/Taxila_Quaid_Avenue-6325"
+          }
+      ],
+      "hierarchyPath": "Quaid Avenue Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6325",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3026",
+      "_highlightResult": {
+          "name": {
+              "value": "Quaid Avenue",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3027,
+      "name": "Railway Road",
+      "name_l1": "ریلوے روڈ",
+      "externalID": "6326",
+      "slug": "/Taxila_Railway_Road-6326",
+      "slug_l1": "/Taxila_Railway_Road-6326",
+      "_geoloc": {
+          "lat": 33.746538,
+          "lng": 72.812297
+      },
+      "geography": {
+          "lat": 33.746538,
+          "lng": 72.812297
+      },
+      "geo_point": [
+          72.812297,
+          33.746538
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3027,
+              "level": 3,
+              "externalID": "6326",
+              "name": "Railway Road",
+              "name_l1": "ریلوے روڈ",
+              "slug": "/Taxila_Railway_Road-6326",
+              "slug_l1": "/Taxila_Railway_Road-6326"
+          }
+      ],
+      "hierarchyPath": "Railway Road Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6326",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3027",
+      "_highlightResult": {
+          "name": {
+              "value": "Railway Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3028,
+      "name": "Sadat Colony",
+      "name_l1": "سادات کالونی",
+      "externalID": "6327",
+      "slug": "/Taxila_Sadat_Colony-6327",
+      "slug_l1": "/Taxila_Sadat_Colony-6327",
+      "_geoloc": {
+          "lat": 33.778006,
+          "lng": 72.715759
+      },
+      "geography": {
+          "lat": 33.778006,
+          "lng": 72.715759
+      },
+      "geo_point": [
+          72.715759,
+          33.778006
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3028,
+              "level": 3,
+              "externalID": "6327",
+              "name": "Sadat Colony",
+              "name_l1": "سادات کالونی",
+              "slug": "/Taxila_Sadat_Colony-6327",
+              "slug_l1": "/Taxila_Sadat_Colony-6327"
+          }
+      ],
+      "hierarchyPath": "Sadat Colony Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6327",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3028",
+      "_highlightResult": {
+          "name": {
+              "value": "Sadat Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4823,
+      "name": "Sarai Khola",
+      "name_l1": "سرای کهوله",
+      "externalID": "9828",
+      "slug": "/Taxila_Sarai_Khola-9828",
+      "slug_l1": "/Taxila_Sarai_Khola-9828",
+      "_geoloc": {
+          "lat": 33.735359,
+          "lng": 72.797964
+      },
+      "geography": {
+          "lat": 33.735359,
+          "lng": 72.797964
+      },
+      "geo_point": [
+          72.797964,
+          33.735359
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 4823,
+              "level": 3,
+              "externalID": "9828",
+              "name": "Sarai Khola",
+              "name_l1": "سرای کهوله",
+              "slug": "/Taxila_Sarai_Khola-9828",
+              "slug_l1": "/Taxila_Sarai_Khola-9828"
+          }
+      ],
+      "hierarchyPath": "Sarai Khola Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9828",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4823",
+      "_highlightResult": {
+          "name": {
+              "value": "Sarai Khola",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3029,
+      "name": "Satellite Town",
+      "name_l1": "سیٹیلائیٹ ٹاؤن",
+      "externalID": "6328",
+      "slug": "/Taxila_Satellite_Town-6328",
+      "slug_l1": "/Taxila_Satellite_Town-6328",
+      "_geoloc": {
+          "lat": 33.773868,
+          "lng": 72.721739
+      },
+      "geography": {
+          "lat": 33.773868,
+          "lng": 72.721739
+      },
+      "geo_point": [
+          72.721739,
+          33.773868
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3029,
+              "level": 3,
+              "externalID": "6328",
+              "name": "Satellite Town",
+              "name_l1": "سیٹیلائیٹ ٹاؤن",
+              "slug": "/Taxila_Satellite_Town-6328",
+              "slug_l1": "/Taxila_Satellite_Town-6328"
+          }
+      ],
+      "hierarchyPath": "Satellite Town Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6328",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3029",
+      "_highlightResult": {
+          "name": {
+              "value": "Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3031,
+      "name": "Shahderi",
+      "name_l1": "شاہدری",
+      "externalID": "6330",
+      "slug": "/Taxila_Shahderi-6330",
+      "slug_l1": "/Taxila_Shahderi-6330",
+      "_geoloc": {
+          "lat": 33.745824,
+          "lng": 72.810388
+      },
+      "geography": {
+          "lat": 33.745824,
+          "lng": 72.810388
+      },
+      "geo_point": [
+          72.810388,
+          33.745824
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3031,
+              "level": 3,
+              "externalID": "6330",
+              "name": "Shahderi",
+              "name_l1": "شاہدری",
+              "slug": "/Taxila_Shahderi-6330",
+              "slug_l1": "/Taxila_Shahderi-6330"
+          }
+      ],
+      "hierarchyPath": "Shahderi Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6330",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3031",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahderi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3032,
+      "name": "Shahpur",
+      "name_l1": "شاہ پور",
+      "externalID": "6331",
+      "slug": "/Taxila_Shahpur-6331",
+      "slug_l1": "/Taxila_Shahpur-6331",
+      "_geoloc": {
+          "lat": 33.741542,
+          "lng": 72.834892
+      },
+      "geography": {
+          "lat": 33.741542,
+          "lng": 72.834892
+      },
+      "geo_point": [
+          72.834892,
+          33.741542
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3032,
+              "level": 3,
+              "externalID": "6331",
+              "name": "Shahpur",
+              "name_l1": "شاہ پور",
+              "slug": "/Taxila_Shahpur-6331",
+              "slug_l1": "/Taxila_Shahpur-6331"
+          }
+      ],
+      "hierarchyPath": "Shahpur Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6331",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3032",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3033,
+      "name": "Takshashilla",
+      "name_l1": "تک شاشیلا",
+      "externalID": "6332",
+      "slug": "/Taxila_Takshashilla-6332",
+      "slug_l1": "/Taxila_Takshashilla-6332",
+      "_geoloc": {
+          "lat": 33.754602,
+          "lng": 72.84193
+      },
+      "geography": {
+          "lat": 33.754602,
+          "lng": 72.84193
+      },
+      "geo_point": [
+          72.84193,
+          33.754602
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3033,
+              "level": 3,
+              "externalID": "6332",
+              "name": "Takshashilla",
+              "name_l1": "تک شاشیلا",
+              "slug": "/Taxila_Takshashilla-6332",
+              "slug_l1": "/Taxila_Takshashilla-6332"
+          }
+      ],
+      "hierarchyPath": "Takshashilla Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6332",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3033",
+      "_highlightResult": {
+          "name": {
+              "value": "Takshashilla",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19035,
+      "name": "Taxila Gardens - Ayub Block",
+      "name_l1": "ٹیکسلا گارڈنز - ایوب بلاک",
+      "externalID": "19949",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block-19949",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block-19949",
+      "_geoloc": {
+          "lat": 33.78486946,
+          "lng": 72.83936152
+      },
+      "geography": {
+          "lat": 33.78486946,
+          "lng": 72.83936152
+      },
+      "geo_point": [
+          72.83936152,
+          33.78486946
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          },
+          {
+              "id": 19035,
+              "level": 4,
+              "externalID": "19949",
+              "name": "Taxila Gardens - Ayub Block",
+              "name_l1": "ٹیکسلا گارڈنز - ایوب بلاک",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block-19949",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block-19949"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens - Ayub Block Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19949",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19035",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens - Ayub Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19036,
+      "name": "Taxila Gardens - Ayub Block Gohar Enclave",
+      "name_l1": "ٹیکسلا گارڈنز - ایوب بلاک گوہر انکلیو",
+      "externalID": "19950",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block_Gohar_Enclave-19950",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block_Gohar_Enclave-19950",
+      "_geoloc": {
+          "lat": 33.78431128,
+          "lng": 72.83905801
+      },
+      "geography": {
+          "lat": 33.78431128,
+          "lng": 72.83905801
+      },
+      "geo_point": [
+          72.83905801,
+          33.78431128
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          },
+          {
+              "id": 19036,
+              "level": 4,
+              "externalID": "19950",
+              "name": "Taxila Gardens - Ayub Block Gohar Enclave",
+              "name_l1": "ٹیکسلا گارڈنز - ایوب بلاک گوہر انکلیو",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block_Gohar_Enclave-19950",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block_Gohar_Enclave-19950"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens - Ayub Block Gohar Enclave Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19950",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19036",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens - Ayub Block Gohar Enclave",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19037,
+      "name": "Taxila Gardens - Ayub Block Umar Enclave",
+      "name_l1": "ٹیکسلا گارڈنز - ایوب بلاک عمر انکلیو",
+      "externalID": "19951",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block_Umar_Enclave-19951",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block_Umar_Enclave-19951",
+      "_geoloc": {
+          "lat": 33.7853838,
+          "lng": 72.8396412
+      },
+      "geography": {
+          "lat": 33.7853838,
+          "lng": 72.8396412
+      },
+      "geo_point": [
+          72.8396412,
+          33.7853838
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          },
+          {
+              "id": 19037,
+              "level": 4,
+              "externalID": "19951",
+              "name": "Taxila Gardens - Ayub Block Umar Enclave",
+              "name_l1": "ٹیکسلا گارڈنز - ایوب بلاک عمر انکلیو",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block_Umar_Enclave-19951",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Ayub_Block_Umar_Enclave-19951"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens - Ayub Block Umar Enclave Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19951",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19037",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens - Ayub Block Umar Enclave",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16875,
+      "name": "Taxila Gardens - Block B",
+      "name_l1": "ٹیکسلا گارڈنز - بلاک بی",
+      "externalID": "18037",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_B-18037",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_B-18037",
+      "_geoloc": {
+          "lat": 33.78339141,
+          "lng": 72.82837905
+      },
+      "geography": {
+          "lat": 33.78339141,
+          "lng": 72.82837905
+      },
+      "geo_point": [
+          72.82837905,
+          33.78339141
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          },
+          {
+              "id": 16875,
+              "level": 4,
+              "externalID": "18037",
+              "name": "Taxila Gardens - Block B",
+              "name_l1": "ٹیکسلا گارڈنز - بلاک بی",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_B-18037",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_B-18037"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens - Block B Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18037",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16875",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens - Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16873,
+      "name": "Taxila Gardens - Block C",
+      "name_l1": "ٹیکسلا گارڈنز - بلاک سی",
+      "externalID": "18035",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_C-18035",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_C-18035",
+      "_geoloc": {
+          "lat": 33.78438837,
+          "lng": 72.8309518
+      },
+      "geography": {
+          "lat": 33.78438837,
+          "lng": 72.8309518
+      },
+      "geo_point": [
+          72.8309518,
+          33.78438837
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          },
+          {
+              "id": 16873,
+              "level": 4,
+              "externalID": "18035",
+              "name": "Taxila Gardens - Block C",
+              "name_l1": "ٹیکسلا گارڈنز - بلاک سی",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_C-18035",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_C-18035"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens - Block C Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18035",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16873",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens - Block C",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16876,
+      "name": "Taxila Gardens - Block D",
+      "name_l1": "ٹیکسلا گارڈنز - بلاک ڈی",
+      "externalID": "18038",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_D-18038",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_D-18038",
+      "_geoloc": {
+          "lat": 33.78373503,
+          "lng": 72.83270098
+      },
+      "geography": {
+          "lat": 33.78373503,
+          "lng": 72.83270098
+      },
+      "geo_point": [
+          72.83270098,
+          33.78373503
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          },
+          {
+              "id": 16876,
+              "level": 4,
+              "externalID": "18038",
+              "name": "Taxila Gardens - Block D",
+              "name_l1": "ٹیکسلا گارڈنز - بلاک ڈی",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_D-18038",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_D-18038"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens - Block D Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18038",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16876",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens - Block D",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16874,
+      "name": "Taxila Gardens - Block F",
+      "name_l1": "ٹیکسلا گارڈنز - بلاک ایف",
+      "externalID": "18036",
+      "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_F-18036",
+      "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_F-18036",
+      "_geoloc": {
+          "lat": 33.78048925,
+          "lng": 72.82602855
+      },
+      "geography": {
+          "lat": 33.78048925,
+          "lng": 72.82602855
+      },
+      "geo_point": [
+          72.82602855,
+          33.78048925
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 6292,
+              "level": 3,
+              "externalID": "12663",
+              "name": "Taxila Gardens Housing Scheme",
+              "name_l1": "ٹیکسلا گارڈن ہاؤسنگ سکیم",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme-12663",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme-12663"
+          },
+          {
+              "id": 16874,
+              "level": 4,
+              "externalID": "18036",
+              "name": "Taxila Gardens - Block F",
+              "name_l1": "ٹیکسلا گارڈنز - بلاک ایف",
+              "slug": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_F-18036",
+              "slug_l1": "/Taxila_Taxila_Gardens_Housing_Scheme_Taxila_Gardens___Block_F-18036"
+          }
+      ],
+      "hierarchyPath": "Taxila Gardens - Block F Taxila Gardens Housing Scheme Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18036",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16874",
+      "_highlightResult": {
+          "name": {
+              "value": "Taxila Gardens - Block F",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3034,
+      "name": "Thatha Khalil Road",
+      "name_l1": "ٹھٹھہ خلیل روڈ",
+      "externalID": "6333",
+      "slug": "/Taxila_Thatha_Khalil_Road-6333",
+      "slug_l1": "/Taxila_Thatha_Khalil_Road-6333",
+      "_geoloc": {
+          "lat": 33.736528,
+          "lng": 72.795131
+      },
+      "geography": {
+          "lat": 33.736528,
+          "lng": 72.795131
+      },
+      "geo_point": [
+          72.795131,
+          33.736528
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3034,
+              "level": 3,
+              "externalID": "6333",
+              "name": "Thatha Khalil Road",
+              "name_l1": "ٹھٹھہ خلیل روڈ",
+              "slug": "/Taxila_Thatha_Khalil_Road-6333",
+              "slug_l1": "/Taxila_Thatha_Khalil_Road-6333"
+          }
+      ],
+      "hierarchyPath": "Thatha Khalil Road Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6333",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3034",
+      "_highlightResult": {
+          "name": {
+              "value": "Thatha Khalil Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3035,
+      "name": "Village Dehri Malho",
+      "name_l1": "ویلیج دہری ملہو",
+      "externalID": "6334",
+      "slug": "/Taxila_Village_Dehri_Malho-6334",
+      "slug_l1": "/Taxila_Village_Dehri_Malho-6334",
+      "_geoloc": {
+          "lat": 33.8034,
+          "lng": 72.807741
+      },
+      "geography": {
+          "lat": 33.8034,
+          "lng": 72.807741
+      },
+      "geo_point": [
+          72.807741,
+          33.8034
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3035,
+              "level": 3,
+              "externalID": "6334",
+              "name": "Village Dehri Malho",
+              "name_l1": "ویلیج دہری ملہو",
+              "slug": "/Taxila_Village_Dehri_Malho-6334",
+              "slug_l1": "/Taxila_Village_Dehri_Malho-6334"
+          }
+      ],
+      "hierarchyPath": "Village Dehri Malho Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "6334",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3035",
+      "_highlightResult": {
+          "name": {
+              "value": "Village Dehri Malho",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8847,
+      "name": "Wah Enclave",
+      "name_l1": "واہ اینکلیو",
+      "externalID": "11069",
+      "slug": "/Taxila_Kot_Najeebullah_Road_Wah_Enclave-11069",
+      "slug_l1": "/Taxila_Kot_Najeebullah_Road_Wah_Enclave-11069",
+      "_geoloc": {
+          "lat": 33.822817,
+          "lng": 72.81438
+      },
+      "geography": {
+          "lat": 33.822817,
+          "lng": 72.81438
+      },
+      "geo_point": [
+          72.81438,
+          33.822817
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 3022,
+              "level": 3,
+              "externalID": "6321",
+              "name": "Kot Najeebullah Road",
+              "name_l1": "کوٹ نجیب اللہ روڈ",
+              "slug": "/Taxila_Kot_Najeebullah_Road-6321",
+              "slug_l1": "/Taxila_Kot_Najeebullah_Road-6321"
+          },
+          {
+              "id": 8847,
+              "level": 4,
+              "externalID": "11069",
+              "name": "Wah Enclave",
+              "name_l1": "واہ اینکلیو",
+              "slug": "/Taxila_Kot_Najeebullah_Road_Wah_Enclave-11069",
+              "slug_l1": "/Taxila_Kot_Najeebullah_Road_Wah_Enclave-11069"
+          }
+      ],
+      "hierarchyPath": "Wah Enclave Kot Najeebullah Road Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11069",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8847",
+      "_highlightResult": {
+          "name": {
+              "value": "Wah Enclave",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13986,
+      "name": "Wakefiled Garden",
+      "name_l1": "ویک فیلڈ گارڈن",
+      "externalID": "15467",
+      "slug": "/Taxila_Wakefiled_Garden-15467",
+      "slug_l1": "/Taxila_Wakefiled_Garden-15467",
+      "_geoloc": {
+          "lat": 33.789977,
+          "lng": 72.834506
+      },
+      "geography": {
+          "lat": 33.789977,
+          "lng": 72.834506
+      },
+      "geo_point": [
+          72.834506,
+          33.789977
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 34,
+              "level": 2,
+              "externalID": "464",
+              "name": "Taxila",
+              "name_l1": "ٹیکسلا",
+              "slug": "/Taxila-464",
+              "slug_l1": "/Taxila-464"
+          },
+          {
+              "id": 13986,
+              "level": 3,
+              "externalID": "15467",
+              "name": "Wakefiled Garden",
+              "name_l1": "ویک فیلڈ گارڈن",
+              "slug": "/Taxila_Wakefiled_Garden-15467",
+              "slug_l1": "/Taxila_Wakefiled_Garden-15467"
+          }
+      ],
+      "hierarchyPath": "Wakefiled Garden Taxila Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15467",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13986",
+      "_highlightResult": {
+          "name": {
+              "value": "Wakefiled Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

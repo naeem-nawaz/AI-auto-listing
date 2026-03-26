@@ -1,0 +1,1039 @@
+[
+  {
+      "id": 88,
+      "name": "Bhakkar",
+      "name_l1": "بھکر",
+      "externalID": "1720",
+      "slug": "/Bhakkar-1720",
+      "slug_l1": "/Bhakkar-1720",
+      "_geoloc": {
+          "lat": 31.622251616764,
+          "lng": 71.065578460693
+      },
+      "geography": {
+          "lat": 31.622251616764,
+          "lng": 71.065578460693
+      },
+      "geo_point": [
+          71.065578460693,
+          31.622251616764
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          }
+      ],
+      "hierarchyPath": "Bhakkar Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1720",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "88",
+      "_highlightResult": {
+          "name": {
+              "value": "Bhakkar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21167,
+      "name": "Mankera Road",
+      "name_l1": "منکیرہ روڈ",
+      "externalID": "21757",
+      "slug": "/Bhakkar_Others_Mankera_Road-21757",
+      "slug_l1": "/Bhakkar_Others_Mankera_Road-21757",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.39839819
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.39839819
+      },
+      "geo_point": [
+          74.39839819,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 1249,
+              "level": 3,
+              "externalID": "1721",
+              "name": "Others",
+              "name_l1": "علاوہ",
+              "slug": "/Bhakkar_Others-1721",
+              "slug_l1": "/Bhakkar_Others-1721"
+          },
+          {
+              "id": 21167,
+              "level": 4,
+              "externalID": "21757",
+              "name": "Mankera Road",
+              "name_l1": "منکیرہ روڈ",
+              "slug": "/Bhakkar_Others_Mankera_Road-21757",
+              "slug_l1": "/Bhakkar_Others_Mankera_Road-21757"
+          }
+      ],
+      "hierarchyPath": "Mankera Road Others Bhakkar Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21757",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21167",
+      "_highlightResult": {
+          "name": {
+              "value": "Mankera Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1249,
+      "name": "Others",
+      "name_l1": "علاوہ",
+      "externalID": "1721",
+      "slug": "/Bhakkar_Others-1721",
+      "slug_l1": "/Bhakkar_Others-1721",
+      "_geoloc": {
+          "lat": 31.6266,
+          "lng": 71.0617
+      },
+      "geography": {
+          "lat": 31.6266,
+          "lng": 71.0617
+      },
+      "geo_point": [
+          71.0617,
+          31.6266
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 1249,
+              "level": 3,
+              "externalID": "1721",
+              "name": "Others",
+              "name_l1": "علاوہ",
+              "slug": "/Bhakkar_Others-1721",
+              "slug_l1": "/Bhakkar_Others-1721"
+          }
+      ],
+      "hierarchyPath": "Others Bhakkar Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1721",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1249",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5813,
+      "name": "College Road",
+      "name_l1": "کالج روڈ",
+      "externalID": "11662",
+      "slug": "/Bhakkar_College_Road-11662",
+      "slug_l1": "/Bhakkar_College_Road-11662",
+      "_geoloc": {
+          "lat": 31.626547,
+          "lng": 71.069839
+      },
+      "geography": {
+          "lat": 31.626547,
+          "lng": 71.069839
+      },
+      "geo_point": [
+          71.069839,
+          31.626547
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 5813,
+              "level": 3,
+              "externalID": "11662",
+              "name": "College Road",
+              "name_l1": "کالج روڈ",
+              "slug": "/Bhakkar_College_Road-11662",
+              "slug_l1": "/Bhakkar_College_Road-11662"
+          }
+      ],
+      "hierarchyPath": "College Road Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11662",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5813",
+      "_highlightResult": {
+          "name": {
+              "value": "College Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21168,
+      "name": "College Road",
+      "name_l1": "کالج روڈ",
+      "externalID": "21758",
+      "slug": "/Bhakkar_College_Road_College_Road-21758",
+      "slug_l1": "/Bhakkar_College_Road_College_Road-21758",
+      "_geoloc": {
+          "lat": 31.51608772,
+          "lng": 74.39839819
+      },
+      "geography": {
+          "lat": 31.51608772,
+          "lng": 74.39839819
+      },
+      "geo_point": [
+          74.39839819,
+          31.51608772
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 5813,
+              "level": 3,
+              "externalID": "11662",
+              "name": "College Road",
+              "name_l1": "کالج روڈ",
+              "slug": "/Bhakkar_College_Road-11662",
+              "slug_l1": "/Bhakkar_College_Road-11662"
+          },
+          {
+              "id": 21168,
+              "level": 4,
+              "externalID": "21758",
+              "name": "College Road",
+              "name_l1": "کالج روڈ",
+              "slug": "/Bhakkar_College_Road_College_Road-21758",
+              "slug_l1": "/Bhakkar_College_Road_College_Road-21758"
+          }
+      ],
+      "hierarchyPath": "College Road College Road Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21758",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21168",
+      "_highlightResult": {
+          "name": {
+              "value": "College Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21165,
+      "name": "Darya Khan Road",
+      "name_l1": "دریا خان روڈ",
+      "externalID": "21755",
+      "slug": "/Bhakkar_Darya_Khan_Road_Darya_Khan_Road-21755",
+      "slug_l1": "/Bhakkar_Darya_Khan_Road_Darya_Khan_Road-21755",
+      "_geoloc": {
+          "lat": 31.62995728,
+          "lng": 71.06914663
+      },
+      "geography": {
+          "lat": 31.62995728,
+          "lng": 71.06914663
+      },
+      "geo_point": [
+          71.06914663,
+          31.62995728
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 11506,
+              "level": 3,
+              "externalID": "13032",
+              "name": "Darya Khan Road",
+              "name_l1": "دريا خان روڈ",
+              "slug": "/Bhakkar_Darya_Khan_Road-13032",
+              "slug_l1": "/Bhakkar_Darya_Khan_Road-13032"
+          },
+          {
+              "id": 21165,
+              "level": 4,
+              "externalID": "21755",
+              "name": "Darya Khan Road",
+              "name_l1": "دریا خان روڈ",
+              "slug": "/Bhakkar_Darya_Khan_Road_Darya_Khan_Road-21755",
+              "slug_l1": "/Bhakkar_Darya_Khan_Road_Darya_Khan_Road-21755"
+          }
+      ],
+      "hierarchyPath": "Darya Khan Road Darya Khan Road Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21755",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21165",
+      "_highlightResult": {
+          "name": {
+              "value": "Darya Khan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11506,
+      "name": "Darya Khan Road",
+      "name_l1": "دريا خان روڈ",
+      "externalID": "13032",
+      "slug": "/Bhakkar_Darya_Khan_Road-13032",
+      "slug_l1": "/Bhakkar_Darya_Khan_Road-13032",
+      "_geoloc": {
+          "lat": 31.637192,
+          "lng": 71.073524
+      },
+      "geography": {
+          "lat": 31.637192,
+          "lng": 71.073524
+      },
+      "geo_point": [
+          71.073524,
+          31.637192
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 11506,
+              "level": 3,
+              "externalID": "13032",
+              "name": "Darya Khan Road",
+              "name_l1": "دريا خان روڈ",
+              "slug": "/Bhakkar_Darya_Khan_Road-13032",
+              "slug_l1": "/Bhakkar_Darya_Khan_Road-13032"
+          }
+      ],
+      "hierarchyPath": "Darya Khan Road Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13032",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11506",
+      "_highlightResult": {
+          "name": {
+              "value": "Darya Khan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5111,
+      "name": "Gulshan-e-Madina",
+      "name_l1": "گلشن مدینہ",
+      "externalID": "10301",
+      "slug": "/Bhakkar_Gulshan_e_Madina-10301",
+      "slug_l1": "/Bhakkar_Gulshan_e_Madina-10301",
+      "_geoloc": {
+          "lat": 31.602586,
+          "lng": 71.092616
+      },
+      "geography": {
+          "lat": 31.602586,
+          "lng": 71.092616
+      },
+      "geo_point": [
+          71.092616,
+          31.602586
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 5111,
+              "level": 3,
+              "externalID": "10301",
+              "name": "Gulshan-e-Madina",
+              "name_l1": "گلشن مدینہ",
+              "slug": "/Bhakkar_Gulshan_e_Madina-10301",
+              "slug_l1": "/Bhakkar_Gulshan_e_Madina-10301"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Madina Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10301",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5111",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Madina",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5333,
+      "name": "Jandanwala",
+      "name_l1": "جنڈاں والا",
+      "externalID": "10727",
+      "slug": "/Bhakkar_Jandanwala-10727",
+      "slug_l1": "/Bhakkar_Jandanwala-10727",
+      "_geoloc": {
+          "lat": 32.025494,
+          "lng": 71.575339
+      },
+      "geography": {
+          "lat": 32.025494,
+          "lng": 71.575339
+      },
+      "geo_point": [
+          71.575339,
+          32.025494
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 5333,
+              "level": 3,
+              "externalID": "10727",
+              "name": "Jandanwala",
+              "name_l1": "جنڈاں والا",
+              "slug": "/Bhakkar_Jandanwala-10727",
+              "slug_l1": "/Bhakkar_Jandanwala-10727"
+          }
+      ],
+      "hierarchyPath": "Jandanwala Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10727",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5333",
+      "_highlightResult": {
+          "name": {
+              "value": "Jandanwala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21170,
+      "name": "Jandanwala",
+      "name_l1": "جنڈانوالہ",
+      "externalID": "21760",
+      "slug": "/Bhakkar_Jandanwala_Jandanwala-21760",
+      "slug_l1": "/Bhakkar_Jandanwala_Jandanwala-21760",
+      "_geoloc": {
+          "lat": 31.58018777,
+          "lng": 74.33027722
+      },
+      "geography": {
+          "lat": 31.58018777,
+          "lng": 74.33027722
+      },
+      "geo_point": [
+          74.33027722,
+          31.58018777
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 5333,
+              "level": 3,
+              "externalID": "10727",
+              "name": "Jandanwala",
+              "name_l1": "جنڈاں والا",
+              "slug": "/Bhakkar_Jandanwala-10727",
+              "slug_l1": "/Bhakkar_Jandanwala-10727"
+          },
+          {
+              "id": 21170,
+              "level": 4,
+              "externalID": "21760",
+              "name": "Jandanwala",
+              "name_l1": "جنڈانوالہ",
+              "slug": "/Bhakkar_Jandanwala_Jandanwala-21760",
+              "slug_l1": "/Bhakkar_Jandanwala_Jandanwala-21760"
+          }
+      ],
+      "hierarchyPath": "Jandanwala Jandanwala Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21760",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21170",
+      "_highlightResult": {
+          "name": {
+              "value": "Jandanwala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4054,
+      "name": "Mandi Town",
+      "name_l1": "منڈی ٹاؤن",
+      "externalID": "8371",
+      "slug": "/Bhakkar_Mandi_Town-8371",
+      "slug_l1": "/Bhakkar_Mandi_Town-8371",
+      "_geoloc": {
+          "lat": 31.613115,
+          "lng": 71.071476
+      },
+      "geography": {
+          "lat": 31.613115,
+          "lng": 71.071476
+      },
+      "geo_point": [
+          71.071476,
+          31.613115
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 4054,
+              "level": 3,
+              "externalID": "8371",
+              "name": "Mandi Town",
+              "name_l1": "منڈی ٹاؤن",
+              "slug": "/Bhakkar_Mandi_Town-8371",
+              "slug_l1": "/Bhakkar_Mandi_Town-8371"
+          }
+      ],
+      "hierarchyPath": "Mandi Town Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8371",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "4054",
+      "_highlightResult": {
+          "name": {
+              "value": "Mandi Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21186,
+      "name": "Mandi Town",
+      "name_l1": "منڈی ٹاؤن",
+      "externalID": "21777",
+      "slug": "/Bhakkar_Mandi_Town_Mandi_Town-21777",
+      "slug_l1": "/Bhakkar_Mandi_Town_Mandi_Town-21777",
+      "_geoloc": {
+          "lat": 30.0,
+          "lng": 75.0
+      },
+      "geography": {
+          "lat": 30.0,
+          "lng": 75.0
+      },
+      "geo_point": [
+          75.0,
+          30.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 4054,
+              "level": 3,
+              "externalID": "8371",
+              "name": "Mandi Town",
+              "name_l1": "منڈی ٹاؤن",
+              "slug": "/Bhakkar_Mandi_Town-8371",
+              "slug_l1": "/Bhakkar_Mandi_Town-8371"
+          },
+          {
+              "id": 21186,
+              "level": 4,
+              "externalID": "21777",
+              "name": "Mandi Town",
+              "name_l1": "منڈی ٹاؤن",
+              "slug": "/Bhakkar_Mandi_Town_Mandi_Town-21777",
+              "slug_l1": "/Bhakkar_Mandi_Town_Mandi_Town-21777"
+          }
+      ],
+      "hierarchyPath": "Mandi Town Mandi Town Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21777",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21186",
+      "_highlightResult": {
+          "name": {
+              "value": "Mandi Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4855,
+      "name": "Mankera",
+      "name_l1": "منکیرہ",
+      "externalID": "9871",
+      "slug": "/Bhakkar_Mankera-9871",
+      "slug_l1": "/Bhakkar_Mankera-9871",
+      "_geoloc": {
+          "lat": 31.383896,
+          "lng": 71.444441
+      },
+      "geography": {
+          "lat": 31.383896,
+          "lng": 71.444441
+      },
+      "geo_point": [
+          71.444441,
+          31.383896
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 88,
+              "level": 2,
+              "externalID": "1720",
+              "name": "Bhakkar",
+              "name_l1": "بھکر",
+              "slug": "/Bhakkar-1720",
+              "slug_l1": "/Bhakkar-1720"
+          },
+          {
+              "id": 4855,
+              "level": 3,
+              "externalID": "9871",
+              "name": "Mankera",
+              "name_l1": "منکیرہ",
+              "slug": "/Bhakkar_Mankera-9871",
+              "slug_l1": "/Bhakkar_Mankera-9871"
+          }
+      ],
+      "hierarchyPath": "Mankera Bhakkar Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9871",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4855",
+      "_highlightResult": {
+          "name": {
+              "value": "Mankera",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,840 @@
+[
+  {
+      "id": 18445,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "19361",
+      "slug": "/Kot_Addu_GT_Road-19361",
+      "slug_l1": "/Kot_Addu_GT_Road-19361",
+      "_geoloc": {
+          "lat": 30.4632455,
+          "lng": 70.9656397
+      },
+      "geography": {
+          "lat": 30.4632455,
+          "lng": 70.9656397
+      },
+      "geo_point": [
+          70.9656397,
+          30.4632455
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 18445,
+              "level": 3,
+              "externalID": "19361",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Kot_Addu_GT_Road-19361",
+              "slug_l1": "/Kot_Addu_GT_Road-19361"
+          }
+      ],
+      "hierarchyPath": "GT Road Kot Addu Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19361",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18445",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 143,
+      "name": "Kot Addu",
+      "name_l1": "كوٹ ادُّو",
+      "externalID": "9749",
+      "slug": "/Kot_Addu-9749",
+      "slug_l1": "/Kot_Addu-9749",
+      "_geoloc": {
+          "lat": 30.463252,
+          "lng": 70.967814
+      },
+      "geography": {
+          "lat": 30.463252,
+          "lng": 70.967814
+      },
+      "geo_point": [
+          70.967814,
+          30.463252
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          }
+      ],
+      "hierarchyPath": "Kot Addu Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9749",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "143",
+      "_highlightResult": {
+          "name": {
+              "value": "Kot Addu",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11794,
+      "name": "Faisal Colony",
+      "name_l1": "فیصل کالونی",
+      "externalID": "13317",
+      "slug": "/Kot_Addu_Faisal_Colony-13317",
+      "slug_l1": "/Kot_Addu_Faisal_Colony-13317",
+      "_geoloc": {
+          "lat": 30.475109,
+          "lng": 70.963333
+      },
+      "geography": {
+          "lat": 30.475109,
+          "lng": 70.963333
+      },
+      "geo_point": [
+          70.963333,
+          30.475109
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 11794,
+              "level": 3,
+              "externalID": "13317",
+              "name": "Faisal Colony",
+              "name_l1": "فیصل کالونی",
+              "slug": "/Kot_Addu_Faisal_Colony-13317",
+              "slug_l1": "/Kot_Addu_Faisal_Colony-13317"
+          }
+      ],
+      "hierarchyPath": "Faisal Colony Kot Addu Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13317",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11794",
+      "_highlightResult": {
+          "name": {
+              "value": "Faisal Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18448,
+      "name": "Green Valley Housing Scheme",
+      "name_l1": "گرین ویلی ہاؤسنگ سکیم",
+      "externalID": "19364",
+      "slug": "/Kot_Addu_Green_Valley_Housing_Scheme-19364",
+      "slug_l1": "/Kot_Addu_Green_Valley_Housing_Scheme-19364",
+      "_geoloc": {
+          "lat": 30.4489416,
+          "lng": 70.9612435
+      },
+      "geography": {
+          "lat": 30.4489416,
+          "lng": 70.9612435
+      },
+      "geo_point": [
+          70.9612435,
+          30.4489416
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 18448,
+              "level": 3,
+              "externalID": "19364",
+              "name": "Green Valley Housing Scheme",
+              "name_l1": "گرین ویلی ہاؤسنگ سکیم",
+              "slug": "/Kot_Addu_Green_Valley_Housing_Scheme-19364",
+              "slug_l1": "/Kot_Addu_Green_Valley_Housing_Scheme-19364"
+          }
+      ],
+      "hierarchyPath": "Green Valley Housing Scheme Kot Addu Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19364",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18448",
+      "_highlightResult": {
+          "name": {
+              "value": "Green Valley Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11795,
+      "name": "Lalazar Colony",
+      "name_l1": "لالہ زار کالونی",
+      "externalID": "13318",
+      "slug": "/Kot_Addu_Lalazar_Colony-13318",
+      "slug_l1": "/Kot_Addu_Lalazar_Colony-13318",
+      "_geoloc": {
+          "lat": 30.464046,
+          "lng": 70.957859
+      },
+      "geography": {
+          "lat": 30.464046,
+          "lng": 70.957859
+      },
+      "geo_point": [
+          70.957859,
+          30.464046
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 11795,
+              "level": 3,
+              "externalID": "13318",
+              "name": "Lalazar Colony",
+              "name_l1": "لالہ زار کالونی",
+              "slug": "/Kot_Addu_Lalazar_Colony-13318",
+              "slug_l1": "/Kot_Addu_Lalazar_Colony-13318"
+          }
+      ],
+      "hierarchyPath": "Lalazar Colony Kot Addu Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13318",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11795",
+      "_highlightResult": {
+          "name": {
+              "value": "Lalazar Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18446,
+      "name": "New Ghalla Mandi",
+      "name_l1": "نیو غلہ منڈی",
+      "externalID": "19362",
+      "slug": "/Kot_Addu_New_Ghalla_Mandi-19362",
+      "slug_l1": "/Kot_Addu_New_Ghalla_Mandi-19362",
+      "_geoloc": {
+          "lat": 30.430873,
+          "lng": 70.960559
+      },
+      "geography": {
+          "lat": 30.430873,
+          "lng": 70.960559
+      },
+      "geo_point": [
+          70.960559,
+          30.430873
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 18446,
+              "level": 3,
+              "externalID": "19362",
+              "name": "New Ghalla Mandi",
+              "name_l1": "نیو غلہ منڈی",
+              "slug": "/Kot_Addu_New_Ghalla_Mandi-19362",
+              "slug_l1": "/Kot_Addu_New_Ghalla_Mandi-19362"
+          }
+      ],
+      "hierarchyPath": "New Ghalla Mandi Kot Addu Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19362",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18446",
+      "_highlightResult": {
+          "name": {
+              "value": "New Ghalla Mandi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11797,
+      "name": "Noor Shah Road",
+      "name_l1": "نور شاہ روڈ",
+      "externalID": "13320",
+      "slug": "/Kot_Addu_Noor_Shah_Road-13320",
+      "slug_l1": "/Kot_Addu_Noor_Shah_Road-13320",
+      "_geoloc": {
+          "lat": 30.468368,
+          "lng": 70.976962
+      },
+      "geography": {
+          "lat": 30.468368,
+          "lng": 70.976962
+      },
+      "geo_point": [
+          70.976962,
+          30.468368
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 11797,
+              "level": 3,
+              "externalID": "13320",
+              "name": "Noor Shah Road",
+              "name_l1": "نور شاہ روڈ",
+              "slug": "/Kot_Addu_Noor_Shah_Road-13320",
+              "slug_l1": "/Kot_Addu_Noor_Shah_Road-13320"
+          }
+      ],
+      "hierarchyPath": "Noor Shah Road Kot Addu Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13320",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11797",
+      "_highlightResult": {
+          "name": {
+              "value": "Noor Shah Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11793,
+      "name": "Nukani Town",
+      "name_l1": "نوکانی ٹاؤن",
+      "externalID": "13316",
+      "slug": "/Kot_Addu_Nukani_Town-13316",
+      "slug_l1": "/Kot_Addu_Nukani_Town-13316",
+      "_geoloc": {
+          "lat": 30.483526,
+          "lng": 70.962789
+      },
+      "geography": {
+          "lat": 30.483526,
+          "lng": 70.962789
+      },
+      "geo_point": [
+          70.962789,
+          30.483526
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 11793,
+              "level": 3,
+              "externalID": "13316",
+              "name": "Nukani Town",
+              "name_l1": "نوکانی ٹاؤن",
+              "slug": "/Kot_Addu_Nukani_Town-13316",
+              "slug_l1": "/Kot_Addu_Nukani_Town-13316"
+          }
+      ],
+      "hierarchyPath": "Nukani Town Kot Addu Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13316",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11793",
+      "_highlightResult": {
+          "name": {
+              "value": "Nukani Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11792,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13315",
+      "slug": "/Kot_Addu_Others-13315",
+      "slug_l1": "/Kot_Addu_Others-13315",
+      "_geoloc": {
+          "lat": 30.469831,
+          "lng": 70.96578
+      },
+      "geography": {
+          "lat": 30.469831,
+          "lng": 70.96578
+      },
+      "geo_point": [
+          70.96578,
+          30.469831
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 11792,
+              "level": 3,
+              "externalID": "13315",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Kot_Addu_Others-13315",
+              "slug_l1": "/Kot_Addu_Others-13315"
+          }
+      ],
+      "hierarchyPath": "Others Kot Addu Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13315",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11792",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11796,
+      "name": "Stadium Colony",
+      "name_l1": "اسٹیڈیم کالونی",
+      "externalID": "13319",
+      "slug": "/Kot_Addu_Stadium_Colony-13319",
+      "slug_l1": "/Kot_Addu_Stadium_Colony-13319",
+      "_geoloc": {
+          "lat": 30.466334,
+          "lng": 70.97237
+      },
+      "geography": {
+          "lat": 30.466334,
+          "lng": 70.97237
+      },
+      "geo_point": [
+          70.97237,
+          30.466334
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 11796,
+              "level": 3,
+              "externalID": "13319",
+              "name": "Stadium Colony",
+              "name_l1": "اسٹیڈیم کالونی",
+              "slug": "/Kot_Addu_Stadium_Colony-13319",
+              "slug_l1": "/Kot_Addu_Stadium_Colony-13319"
+          }
+      ],
+      "hierarchyPath": "Stadium Colony Kot Addu Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13319",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11796",
+      "_highlightResult": {
+          "name": {
+              "value": "Stadium Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18447,
+      "name": "Ward Number 14",
+      "name_l1": "وارڈ نمبر 14",
+      "externalID": "19363",
+      "slug": "/Kot_Addu_Ward_Number_14-19363",
+      "slug_l1": "/Kot_Addu_Ward_Number_14-19363",
+      "_geoloc": {
+          "lat": 30.467804,
+          "lng": 70.964261
+      },
+      "geography": {
+          "lat": 30.467804,
+          "lng": 70.964261
+      },
+      "geo_point": [
+          70.964261,
+          30.467804
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 143,
+              "level": 2,
+              "externalID": "9749",
+              "name": "Kot Addu",
+              "name_l1": "كوٹ ادُّو",
+              "slug": "/Kot_Addu-9749",
+              "slug_l1": "/Kot_Addu-9749"
+          },
+          {
+              "id": 18447,
+              "level": 3,
+              "externalID": "19363",
+              "name": "Ward Number 14",
+              "name_l1": "وارڈ نمبر 14",
+              "slug": "/Kot_Addu_Ward_Number_14-19363",
+              "slug_l1": "/Kot_Addu_Ward_Number_14-19363"
+          }
+      ],
+      "hierarchyPath": "Ward Number 14 Kot Addu Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19363",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18447",
+      "_highlightResult": {
+          "name": {
+              "value": "Ward Number 14",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

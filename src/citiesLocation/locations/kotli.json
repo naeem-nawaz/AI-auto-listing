@@ -1,0 +1,1456 @@
+[
+  {
+      "id": 3705,
+      "name": "Aghar Colony",
+      "name_l1": "آغر کالونی",
+      "externalID": "7840",
+      "slug": "/Kotli_Aghar_Colony-7840",
+      "slug_l1": "/Kotli_Aghar_Colony-7840",
+      "_geoloc": {
+          "lat": 33.485433,
+          "lng": 73.890953
+      },
+      "geography": {
+          "lat": 33.485433,
+          "lng": 73.890953
+      },
+      "geo_point": [
+          73.890953,
+          33.485433
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3705,
+              "level": 3,
+              "externalID": "7840",
+              "name": "Aghar Colony",
+              "name_l1": "آغر کالونی",
+              "slug": "/Kotli_Aghar_Colony-7840",
+              "slug_l1": "/Kotli_Aghar_Colony-7840"
+          }
+      ],
+      "hierarchyPath": "Aghar Colony Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7840",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3705",
+      "_highlightResult": {
+          "name": {
+              "value": "Aghar Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3706,
+      "name": "Arnayana",
+      "name_l1": "ارنیانا",
+      "externalID": "7841",
+      "slug": "/Kotli_Arnayana-7841",
+      "slug_l1": "/Kotli_Arnayana-7841",
+      "_geoloc": {
+          "lat": 31.7559,
+          "lng": 76.873741
+      },
+      "geography": {
+          "lat": 31.7559,
+          "lng": 76.873741
+      },
+      "geo_point": [
+          76.873741,
+          31.7559
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3706,
+              "level": 3,
+              "externalID": "7841",
+              "name": "Arnayana",
+              "name_l1": "ارنیانا",
+              "slug": "/Kotli_Arnayana-7841",
+              "slug_l1": "/Kotli_Arnayana-7841"
+          }
+      ],
+      "hierarchyPath": "Arnayana Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7841",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3706",
+      "_highlightResult": {
+          "name": {
+              "value": "Arnayana",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3707,
+      "name": "Balyah Mohalla",
+      "name_l1": "بلیاہ محلہ",
+      "externalID": "7842",
+      "slug": "/Kotli_Balyah_Mohalla-7842",
+      "slug_l1": "/Kotli_Balyah_Mohalla-7842",
+      "_geoloc": {
+          "lat": 33.520395,
+          "lng": 73.901203
+      },
+      "geography": {
+          "lat": 33.520395,
+          "lng": 73.901203
+      },
+      "geo_point": [
+          73.901203,
+          33.520395
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3707,
+              "level": 3,
+              "externalID": "7842",
+              "name": "Balyah Mohalla",
+              "name_l1": "بلیاہ محلہ",
+              "slug": "/Kotli_Balyah_Mohalla-7842",
+              "slug_l1": "/Kotli_Balyah_Mohalla-7842"
+          }
+      ],
+      "hierarchyPath": "Balyah Mohalla Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7842",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3707",
+      "_highlightResult": {
+          "name": {
+              "value": "Balyah Mohalla",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3708,
+      "name": "Bank Road",
+      "name_l1": "بینک روڈ",
+      "externalID": "7843",
+      "slug": "/Kotli_Bank_Road-7843",
+      "slug_l1": "/Kotli_Bank_Road-7843",
+      "_geoloc": {
+          "lat": 33.516621,
+          "lng": 73.900541
+      },
+      "geography": {
+          "lat": 33.516621,
+          "lng": 73.900541
+      },
+      "geo_point": [
+          73.900541,
+          33.516621
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3708,
+              "level": 3,
+              "externalID": "7843",
+              "name": "Bank Road",
+              "name_l1": "بینک روڈ",
+              "slug": "/Kotli_Bank_Road-7843",
+              "slug_l1": "/Kotli_Bank_Road-7843"
+          }
+      ],
+      "hierarchyPath": "Bank Road Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7843",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3708",
+      "_highlightResult": {
+          "name": {
+              "value": "Bank Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3709,
+      "name": "Buttghari",
+      "name_l1": "بٹ گھڑی",
+      "externalID": "7844",
+      "slug": "/Kotli_Buttghari-7844",
+      "slug_l1": "/Kotli_Buttghari-7844",
+      "_geoloc": {
+          "lat": 31.755042,
+          "lng": 76.871381
+      },
+      "geography": {
+          "lat": 31.755042,
+          "lng": 76.871381
+      },
+      "geo_point": [
+          76.871381,
+          31.755042
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3709,
+              "level": 3,
+              "externalID": "7844",
+              "name": "Buttghari",
+              "name_l1": "بٹ گھڑی",
+              "slug": "/Kotli_Buttghari-7844",
+              "slug_l1": "/Kotli_Buttghari-7844"
+          }
+      ],
+      "hierarchyPath": "Buttghari Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7844",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3709",
+      "_highlightResult": {
+          "name": {
+              "value": "Buttghari",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3710,
+      "name": "Dhanyara",
+      "name_l1": "دھنیارا",
+      "externalID": "7845",
+      "slug": "/Kotli_Dhanyara-7845",
+      "slug_l1": "/Kotli_Dhanyara-7845",
+      "_geoloc": {
+          "lat": 31.754299,
+          "lng": 76.864182
+      },
+      "geography": {
+          "lat": 31.754299,
+          "lng": 76.864182
+      },
+      "geo_point": [
+          76.864182,
+          31.754299
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3710,
+              "level": 3,
+              "externalID": "7845",
+              "name": "Dhanyara",
+              "name_l1": "دھنیارا",
+              "slug": "/Kotli_Dhanyara-7845",
+              "slug_l1": "/Kotli_Dhanyara-7845"
+          }
+      ],
+      "hierarchyPath": "Dhanyara Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7845",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3710",
+      "_highlightResult": {
+          "name": {
+              "value": "Dhanyara",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3711,
+      "name": "Fatehpur Road",
+      "name_l1": "فتح پور روڈ",
+      "externalID": "7846",
+      "slug": "/Kotli_Fatehpur_Road-7846",
+      "slug_l1": "/Kotli_Fatehpur_Road-7846",
+      "_geoloc": {
+          "lat": 33.522202,
+          "lng": 73.918973
+      },
+      "geography": {
+          "lat": 33.522202,
+          "lng": 73.918973
+      },
+      "geo_point": [
+          73.918973,
+          33.522202
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3711,
+              "level": 3,
+              "externalID": "7846",
+              "name": "Fatehpur Road",
+              "name_l1": "فتح پور روڈ",
+              "slug": "/Kotli_Fatehpur_Road-7846",
+              "slug_l1": "/Kotli_Fatehpur_Road-7846"
+          }
+      ],
+      "hierarchyPath": "Fatehpur Road Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7846",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3711",
+      "_highlightResult": {
+          "name": {
+              "value": "Fatehpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3712,
+      "name": "Highway Road",
+      "name_l1": "ہائی وے روڈ",
+      "externalID": "7847",
+      "slug": "/Kotli_Highway_Road-7847",
+      "slug_l1": "/Kotli_Highway_Road-7847",
+      "_geoloc": {
+          "lat": 33.50229,
+          "lng": 73.902583
+      },
+      "geography": {
+          "lat": 33.50229,
+          "lng": 73.902583
+      },
+      "geo_point": [
+          73.902583,
+          33.50229
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3712,
+              "level": 3,
+              "externalID": "7847",
+              "name": "Highway Road",
+              "name_l1": "ہائی وے روڈ",
+              "slug": "/Kotli_Highway_Road-7847",
+              "slug_l1": "/Kotli_Highway_Road-7847"
+          }
+      ],
+      "hierarchyPath": "Highway Road Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7847",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3712",
+      "_highlightResult": {
+          "name": {
+              "value": "Highway Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3713,
+      "name": "Housing Scheme",
+      "name_l1": "ہاؤسنگ سکیم",
+      "externalID": "7848",
+      "slug": "/Kotli_Housing_Scheme-7848",
+      "slug_l1": "/Kotli_Housing_Scheme-7848",
+      "_geoloc": {
+          "lat": 33.512846,
+          "lng": 73.902705
+      },
+      "geography": {
+          "lat": 33.512846,
+          "lng": 73.902705
+      },
+      "geo_point": [
+          73.902705,
+          33.512846
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3713,
+              "level": 3,
+              "externalID": "7848",
+              "name": "Housing Scheme",
+              "name_l1": "ہاؤسنگ سکیم",
+              "slug": "/Kotli_Housing_Scheme-7848",
+              "slug_l1": "/Kotli_Housing_Scheme-7848"
+          }
+      ],
+      "hierarchyPath": "Housing Scheme Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7848",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3713",
+      "_highlightResult": {
+          "name": {
+              "value": "Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3714,
+      "name": "Industrial Area",
+      "name_l1": "انڈسٹریل ایریا",
+      "externalID": "7849",
+      "slug": "/Kotli_Industrial_Area-7849",
+      "slug_l1": "/Kotli_Industrial_Area-7849",
+      "_geoloc": {
+          "lat": 33.503829,
+          "lng": 73.894987
+      },
+      "geography": {
+          "lat": 33.503829,
+          "lng": 73.894987
+      },
+      "geo_point": [
+          73.894987,
+          33.503829
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3714,
+              "level": 3,
+              "externalID": "7849",
+              "name": "Industrial Area",
+              "name_l1": "انڈسٹریل ایریا",
+              "slug": "/Kotli_Industrial_Area-7849",
+              "slug_l1": "/Kotli_Industrial_Area-7849"
+          }
+      ],
+      "hierarchyPath": "Industrial Area Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7849",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3714",
+      "_highlightResult": {
+          "name": {
+              "value": "Industrial Area",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 48,
+      "name": "Kotli",
+      "name_l1": "کوٹلی",
+      "externalID": "968",
+      "slug": "/Kotli-968",
+      "slug_l1": "/Kotli-968",
+      "_geoloc": {
+          "lat": 33.507874,
+          "lng": 73.903307
+      },
+      "geography": {
+          "lat": 33.507874,
+          "lng": 73.903307
+      },
+      "geo_point": [
+          73.903307,
+          33.507874
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          }
+      ],
+      "hierarchyPath": "Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "968",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "48",
+      "_highlightResult": {
+          "name": {
+              "value": "Kotli",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3715,
+      "name": "Kotli - Mirpur Road",
+      "name_l1": "کوٹلی ۔ میرپور روڈ",
+      "externalID": "7850",
+      "slug": "/Kotli_Mirpur_Road-7850",
+      "slug_l1": "/Kotli_Mirpur_Road-7850",
+      "_geoloc": {
+          "lat": 33.481747,
+          "lng": 73.884621
+      },
+      "geography": {
+          "lat": 33.481747,
+          "lng": 73.884621
+      },
+      "geo_point": [
+          73.884621,
+          33.481747
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3715,
+              "level": 3,
+              "externalID": "7850",
+              "name": "Kotli - Mirpur Road",
+              "name_l1": "کوٹلی ۔ میرپور روڈ",
+              "slug": "/Kotli_Mirpur_Road-7850",
+              "slug_l1": "/Kotli_Mirpur_Road-7850"
+          }
+      ],
+      "hierarchyPath": "Kotli - Mirpur Road Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7850",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3715",
+      "_highlightResult": {
+          "name": {
+              "value": "Kotli - Mirpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3716,
+      "name": "Kotli - Pallandri Road",
+      "name_l1": "کوٹلی ۔ پلندری روڈ",
+      "externalID": "7851",
+      "slug": "/Kotli_Pallandri_Road-7851",
+      "slug_l1": "/Kotli_Pallandri_Road-7851",
+      "_geoloc": {
+          "lat": 33.521129,
+          "lng": 73.899747
+      },
+      "geography": {
+          "lat": 33.521129,
+          "lng": 73.899747
+      },
+      "geo_point": [
+          73.899747,
+          33.521129
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3716,
+              "level": 3,
+              "externalID": "7851",
+              "name": "Kotli - Pallandri Road",
+              "name_l1": "کوٹلی ۔ پلندری روڈ",
+              "slug": "/Kotli_Pallandri_Road-7851",
+              "slug_l1": "/Kotli_Pallandri_Road-7851"
+          }
+      ],
+      "hierarchyPath": "Kotli - Pallandri Road Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7851",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3716",
+      "_highlightResult": {
+          "name": {
+              "value": "Kotli - Pallandri Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3717,
+      "name": "Mirpur Road",
+      "name_l1": "میرپور روڈ",
+      "externalID": "7852",
+      "slug": "/Kotli_Mirpur_Road-7852",
+      "slug_l1": "/Kotli_Mirpur_Road-7852",
+      "_geoloc": {
+          "lat": 33.483122,
+          "lng": 73.890703
+      },
+      "geography": {
+          "lat": 33.483122,
+          "lng": 73.890703
+      },
+      "geo_point": [
+          73.890703,
+          33.483122
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3717,
+              "level": 3,
+              "externalID": "7852",
+              "name": "Mirpur Road",
+              "name_l1": "میرپور روڈ",
+              "slug": "/Kotli_Mirpur_Road-7852",
+              "slug_l1": "/Kotli_Mirpur_Road-7852"
+          }
+      ],
+      "hierarchyPath": "Mirpur Road Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7852",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3717",
+      "_highlightResult": {
+          "name": {
+              "value": "Mirpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3718,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "7853",
+      "slug": "/Kotli_Others-7853",
+      "slug_l1": "/Kotli_Others-7853",
+      "_geoloc": {
+          "lat": 33.5145,
+          "lng": 73.8993
+      },
+      "geography": {
+          "lat": 33.5145,
+          "lng": 73.8993
+      },
+      "geo_point": [
+          73.8993,
+          33.5145
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3718,
+              "level": 3,
+              "externalID": "7853",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Kotli_Others-7853",
+              "slug_l1": "/Kotli_Others-7853"
+          }
+      ],
+      "hierarchyPath": "Others Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7853",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3718",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3719,
+      "name": "Pindi Road",
+      "name_l1": "پنڈی روڈ",
+      "externalID": "7854",
+      "slug": "/Kotli_Pindi_Road-7854",
+      "slug_l1": "/Kotli_Pindi_Road-7854",
+      "_geoloc": {
+          "lat": 33.506817,
+          "lng": 73.895266
+      },
+      "geography": {
+          "lat": 33.506817,
+          "lng": 73.895266
+      },
+      "geo_point": [
+          73.895266,
+          33.506817
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3719,
+              "level": 3,
+              "externalID": "7854",
+              "name": "Pindi Road",
+              "name_l1": "پنڈی روڈ",
+              "slug": "/Kotli_Pindi_Road-7854",
+              "slug_l1": "/Kotli_Pindi_Road-7854"
+          }
+      ],
+      "hierarchyPath": "Pindi Road Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7854",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3719",
+      "_highlightResult": {
+          "name": {
+              "value": "Pindi Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3720,
+      "name": "Shahi Mohalla",
+      "name_l1": "شاہی محلہ",
+      "externalID": "7855",
+      "slug": "/Kotli_Shahi_Mohalla-7855",
+      "slug_l1": "/Kotli_Shahi_Mohalla-7855",
+      "_geoloc": {
+          "lat": 33.522077,
+          "lng": 73.902619
+      },
+      "geography": {
+          "lat": 33.522077,
+          "lng": 73.902619
+      },
+      "geo_point": [
+          73.902619,
+          33.522077
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3720,
+              "level": 3,
+              "externalID": "7855",
+              "name": "Shahi Mohalla",
+              "name_l1": "شاہی محلہ",
+              "slug": "/Kotli_Shahi_Mohalla-7855",
+              "slug_l1": "/Kotli_Shahi_Mohalla-7855"
+          }
+      ],
+      "hierarchyPath": "Shahi Mohalla Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7855",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3720",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahi Mohalla",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3721,
+      "name": "Sultan Area",
+      "name_l1": "سلطان ایریا",
+      "externalID": "7856",
+      "slug": "/Kotli_Sultan_Area-7856",
+      "slug_l1": "/Kotli_Sultan_Area-7856",
+      "_geoloc": {
+          "lat": 33.512345,
+          "lng": 73.89257
+      },
+      "geography": {
+          "lat": 33.512345,
+          "lng": 73.89257
+      },
+      "geo_point": [
+          73.89257,
+          33.512345
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3721,
+              "level": 3,
+              "externalID": "7856",
+              "name": "Sultan Area",
+              "name_l1": "سلطان ایریا",
+              "slug": "/Kotli_Sultan_Area-7856",
+              "slug_l1": "/Kotli_Sultan_Area-7856"
+          }
+      ],
+      "hierarchyPath": "Sultan Area Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7856",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3721",
+      "_highlightResult": {
+          "name": {
+              "value": "Sultan Area",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3722,
+      "name": "Tatapani Road",
+      "name_l1": "تتہ پانی روڈ",
+      "externalID": "7857",
+      "slug": "/Kotli_Tatapani_Road-7857",
+      "slug_l1": "/Kotli_Tatapani_Road-7857",
+      "_geoloc": {
+          "lat": 33.525038,
+          "lng": 73.917462
+      },
+      "geography": {
+          "lat": 33.525038,
+          "lng": 73.917462
+      },
+      "geo_point": [
+          73.917462,
+          33.525038
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 48,
+              "level": 2,
+              "externalID": "968",
+              "name": "Kotli",
+              "name_l1": "کوٹلی",
+              "slug": "/Kotli-968",
+              "slug_l1": "/Kotli-968"
+          },
+          {
+              "id": 3722,
+              "level": 3,
+              "externalID": "7857",
+              "name": "Tatapani Road",
+              "name_l1": "تتہ پانی روڈ",
+              "slug": "/Kotli_Tatapani_Road-7857",
+              "slug_l1": "/Kotli_Tatapani_Road-7857"
+          }
+      ],
+      "hierarchyPath": "Tatapani Road Kotli Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7857",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3722",
+      "_highlightResult": {
+          "name": {
+              "value": "Tatapani Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

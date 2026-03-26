@@ -1,0 +1,609 @@
+[
+  {
+      "id": 5852,
+      "name": "Haranpur",
+      "name_l1": "ہرن پور",
+      "externalID": "11750",
+      "slug": "/Pind_Dadan_Khan_Haranpur-11750",
+      "slug_l1": "/Pind_Dadan_Khan_Haranpur-11750",
+      "_geoloc": {
+          "lat": 32.608003,
+          "lng": 73.154299
+      },
+      "geography": {
+          "lat": 32.608003,
+          "lng": 73.154299
+      },
+      "geo_point": [
+          73.154299,
+          32.608003
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 162,
+              "level": 2,
+              "externalID": "10678",
+              "name": "Pind Dadan Khan",
+              "name_l1": "پنڈ دادن خان",
+              "slug": "/Pind_Dadan_Khan-10678",
+              "slug_l1": "/Pind_Dadan_Khan-10678"
+          },
+          {
+              "id": 5852,
+              "level": 3,
+              "externalID": "11750",
+              "name": "Haranpur",
+              "name_l1": "ہرن پور",
+              "slug": "/Pind_Dadan_Khan_Haranpur-11750",
+              "slug_l1": "/Pind_Dadan_Khan_Haranpur-11750"
+          }
+      ],
+      "hierarchyPath": "Haranpur Pind Dadan Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11750",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5852",
+      "_highlightResult": {
+          "name": {
+              "value": "Haranpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18523,
+      "name": "Kot Kalan",
+      "name_l1": "کوٹ کلاں",
+      "externalID": "19440",
+      "slug": "/Pind_Dadan_Khan_Kot_Kalan-19440",
+      "slug_l1": "/Pind_Dadan_Khan_Kot_Kalan-19440",
+      "_geoloc": {
+          "lat": 32.590118,
+          "lng": 73.046358
+      },
+      "geography": {
+          "lat": 32.590118,
+          "lng": 73.046358
+      },
+      "geo_point": [
+          73.046358,
+          32.590118
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 162,
+              "level": 2,
+              "externalID": "10678",
+              "name": "Pind Dadan Khan",
+              "name_l1": "پنڈ دادن خان",
+              "slug": "/Pind_Dadan_Khan-10678",
+              "slug_l1": "/Pind_Dadan_Khan-10678"
+          },
+          {
+              "id": 18523,
+              "level": 3,
+              "externalID": "19440",
+              "name": "Kot Kalan",
+              "name_l1": "کوٹ کلاں",
+              "slug": "/Pind_Dadan_Khan_Kot_Kalan-19440",
+              "slug_l1": "/Pind_Dadan_Khan_Kot_Kalan-19440"
+          }
+      ],
+      "hierarchyPath": "Kot Kalan Pind Dadan Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19440",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18523",
+      "_highlightResult": {
+          "name": {
+              "value": "Kot Kalan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18525,
+      "name": "Lilla Road",
+      "name_l1": "للّا روڈ",
+      "externalID": "19441",
+      "slug": "/Pind_Dadan_Khan_Lilla_Road-19441",
+      "slug_l1": "/Pind_Dadan_Khan_Lilla_Road-19441",
+      "_geoloc": {
+          "lat": 32.595525,
+          "lng": 73.037371
+      },
+      "geography": {
+          "lat": 32.595525,
+          "lng": 73.037371
+      },
+      "geo_point": [
+          73.037371,
+          32.595525
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 162,
+              "level": 2,
+              "externalID": "10678",
+              "name": "Pind Dadan Khan",
+              "name_l1": "پنڈ دادن خان",
+              "slug": "/Pind_Dadan_Khan-10678",
+              "slug_l1": "/Pind_Dadan_Khan-10678"
+          },
+          {
+              "id": 18525,
+              "level": 3,
+              "externalID": "19441",
+              "name": "Lilla Road",
+              "name_l1": "للّا روڈ",
+              "slug": "/Pind_Dadan_Khan_Lilla_Road-19441",
+              "slug_l1": "/Pind_Dadan_Khan_Lilla_Road-19441"
+          }
+      ],
+      "hierarchyPath": "Lilla Road Pind Dadan Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19441",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18525",
+      "_highlightResult": {
+          "name": {
+              "value": "Lilla Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5850,
+      "name": "Mohalla Tailian",
+      "name_l1": "محلہ تالیا ں",
+      "externalID": "11747",
+      "slug": "/Pind_Dadan_Khan_Mohalla_Tailian-11747",
+      "slug_l1": "/Pind_Dadan_Khan_Mohalla_Tailian-11747",
+      "_geoloc": {
+          "lat": 32.584452,
+          "lng": 73.039436
+      },
+      "geography": {
+          "lat": 32.584452,
+          "lng": 73.039436
+      },
+      "geo_point": [
+          73.039436,
+          32.584452
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 162,
+              "level": 2,
+              "externalID": "10678",
+              "name": "Pind Dadan Khan",
+              "name_l1": "پنڈ دادن خان",
+              "slug": "/Pind_Dadan_Khan-10678",
+              "slug_l1": "/Pind_Dadan_Khan-10678"
+          },
+          {
+              "id": 5850,
+              "level": 3,
+              "externalID": "11747",
+              "name": "Mohalla Tailian",
+              "name_l1": "محلہ تالیا ں",
+              "slug": "/Pind_Dadan_Khan_Mohalla_Tailian-11747",
+              "slug_l1": "/Pind_Dadan_Khan_Mohalla_Tailian-11747"
+          }
+      ],
+      "hierarchyPath": "Mohalla Tailian Pind Dadan Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11747",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5850",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Tailian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5848,
+      "name": "Others",
+      "name_l1": "ادرذ",
+      "externalID": "11745",
+      "slug": "/Pind_Dadan_Khan_Others-11745",
+      "slug_l1": "/Pind_Dadan_Khan_Others-11745",
+      "_geoloc": {
+          "lat": 32.589877,
+          "lng": 73.043879
+      },
+      "geography": {
+          "lat": 32.589877,
+          "lng": 73.043879
+      },
+      "geo_point": [
+          73.043879,
+          32.589877
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 162,
+              "level": 2,
+              "externalID": "10678",
+              "name": "Pind Dadan Khan",
+              "name_l1": "پنڈ دادن خان",
+              "slug": "/Pind_Dadan_Khan-10678",
+              "slug_l1": "/Pind_Dadan_Khan-10678"
+          },
+          {
+              "id": 5848,
+              "level": 3,
+              "externalID": "11745",
+              "name": "Others",
+              "name_l1": "ادرذ",
+              "slug": "/Pind_Dadan_Khan_Others-11745",
+              "slug_l1": "/Pind_Dadan_Khan_Others-11745"
+          }
+      ],
+      "hierarchyPath": "Others Pind Dadan Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11745",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5848",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 162,
+      "name": "Pind Dadan Khan",
+      "name_l1": "پنڈ دادن خان",
+      "externalID": "10678",
+      "slug": "/Pind_Dadan_Khan-10678",
+      "slug_l1": "/Pind_Dadan_Khan-10678",
+      "_geoloc": {
+          "lat": 32.588895,
+          "lng": 73.043081
+      },
+      "geography": {
+          "lat": 32.588895,
+          "lng": 73.043081
+      },
+      "geo_point": [
+          73.043081,
+          32.588895
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 162,
+              "level": 2,
+              "externalID": "10678",
+              "name": "Pind Dadan Khan",
+              "name_l1": "پنڈ دادن خان",
+              "slug": "/Pind_Dadan_Khan-10678",
+              "slug_l1": "/Pind_Dadan_Khan-10678"
+          }
+      ],
+      "hierarchyPath": "Pind Dadan Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10678",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "162",
+      "_highlightResult": {
+          "name": {
+              "value": "Pind Dadan Khan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5849,
+      "name": "Qazian Wala",
+      "name_l1": "قازیاں والا",
+      "externalID": "11746",
+      "slug": "/Pind_Dadan_Khan_Qazian_Wala-11746",
+      "slug_l1": "/Pind_Dadan_Khan_Qazian_Wala-11746",
+      "_geoloc": {
+          "lat": 32.58564,
+          "lng": 73.039717
+      },
+      "geography": {
+          "lat": 32.58564,
+          "lng": 73.039717
+      },
+      "geo_point": [
+          73.039717,
+          32.58564
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 162,
+              "level": 2,
+              "externalID": "10678",
+              "name": "Pind Dadan Khan",
+              "name_l1": "پنڈ دادن خان",
+              "slug": "/Pind_Dadan_Khan-10678",
+              "slug_l1": "/Pind_Dadan_Khan-10678"
+          },
+          {
+              "id": 5849,
+              "level": 3,
+              "externalID": "11746",
+              "name": "Qazian Wala",
+              "name_l1": "قازیاں والا",
+              "slug": "/Pind_Dadan_Khan_Qazian_Wala-11746",
+              "slug_l1": "/Pind_Dadan_Khan_Qazian_Wala-11746"
+          }
+      ],
+      "hierarchyPath": "Qazian Wala Pind Dadan Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11746",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5849",
+      "_highlightResult": {
+          "name": {
+              "value": "Qazian Wala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21358,
+      "name": "Sodhi Gujjar Road",
+      "name_l1": "سوڈھی گجر روڈ",
+      "externalID": "21947",
+      "slug": "/Pind_Dadan_Khan_Sodhi_Gujjar_Road-21947",
+      "slug_l1": "/Pind_Dadan_Khan_Sodhi_Gujjar_Road-21947",
+      "_geoloc": {
+          "lat": 32.605554,
+          "lng": 73.051757
+      },
+      "geography": {
+          "lat": 32.605554,
+          "lng": 73.051757
+      },
+      "geo_point": [
+          73.051757,
+          32.605554
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 162,
+              "level": 2,
+              "externalID": "10678",
+              "name": "Pind Dadan Khan",
+              "name_l1": "پنڈ دادن خان",
+              "slug": "/Pind_Dadan_Khan-10678",
+              "slug_l1": "/Pind_Dadan_Khan-10678"
+          },
+          {
+              "id": 21358,
+              "level": 3,
+              "externalID": "21947",
+              "name": "Sodhi Gujjar Road",
+              "name_l1": "سوڈھی گجر روڈ",
+              "slug": "/Pind_Dadan_Khan_Sodhi_Gujjar_Road-21947",
+              "slug_l1": "/Pind_Dadan_Khan_Sodhi_Gujjar_Road-21947"
+          }
+      ],
+      "hierarchyPath": "Sodhi Gujjar Road Pind Dadan Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21947",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21358",
+      "_highlightResult": {
+          "name": {
+              "value": "Sodhi Gujjar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]
