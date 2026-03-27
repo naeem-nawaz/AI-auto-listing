@@ -814,7 +814,7 @@ background: #FFF;
   gap: 8px;
   flex-wrap: wrap;
 }
-
+ 
 
 .priceChip{
   width: fit-content;
@@ -1737,11 +1737,12 @@ line-height: 20px; /* 142.857% */
   flex-direction: column;
   align-items: stretch;
   gap: 10px;
-  padding: 10px 0 0;
+  padding: 0;
+  margin-top: 20px;
   border-top: none;
   background: transparent;
   position: sticky;
-  bottom: 0;
+  bottom: 30px;
 }
 
 .aiChatbotInputRow{

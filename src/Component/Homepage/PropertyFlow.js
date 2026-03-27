@@ -49,6 +49,28 @@ function formatPriceWithRs(value) {
     .replace(/^((rs|pkr|₨)\.?\s*)+/i, '')
     .trim();
   if (!normalized) return '';
+  const compact = normalized.toLowerCase().replace(/,/g, '').replace(/\s+/g, ' ').trim();
+  const compactMatch = compact.match(/^(\d+(?:\.\d+)?)\s*(crore|core|cr|lakh|lac|million|billion|k|m)?$/i);
+  if (compactMatch) {
+    const amount = Number(compactMatch[1]);
+    const unit = String(compactMatch[2] || '').toLowerCase();
+    if (!Number.isNaN(amount)) {
+      const multipliers = {
+        crore: 10000000,
+        core: 10000000,
+        cr: 10000000,
+        lakh: 100000,
+        lac: 100000,
+        million: 1000000,
+        billion: 1000000000,
+        k: 1000,
+        m: 1000000,
+      };
+      const factor = multipliers[unit] || 1;
+      const numericValue = Math.round(amount * factor);
+      return `Rs ${numericValue.toLocaleString('en-US')}`;
+    }
+  }
   return `Rs ${normalized}`;
 }
 
@@ -243,7 +265,10 @@ function parseAddressParts(addressText, cityRecords = []) {
     .find((item) => normalized.includes(item.city.toLowerCase()));
   let matchedCityToken = matchedCity?.city || '';
 
-  if (!matchedCity) {
+  const hasLocationContextHint = /\b(?:location|located|address|area|city|near|in|at|phase|block|sector|town|society|scheme|colony|road|street|avenue|dha)\b/i.test(fullAddress)
+    || fullAddress.includes(',');
+
+  if (!matchedCity && hasLocationContextHint) {
     const normalizedWords = normalizeLoose(fullAddress).split(' ').filter(Boolean);
     let best = null;
     let bestScore = 0;
@@ -259,7 +284,7 @@ function parseAddressParts(addressText, cityRecords = []) {
         }
       }
     });
-    if (best && bestScore >= 0.8) {
+    if (best && bestScore >= 0.88) {
       matchedCity = best;
     }
   }
@@ -302,6 +327,8 @@ function getDisplayLocationFromAddress(addressText) {
   if (!raw) return '';
   const parsed = parseAddressParts(raw, citiesList);
   const cityName = String(parsed?.cityName || '').trim();
+  // Strict mode: only accept locations tied to known city data.
+  if (!cityName) return '';
   const areaKeywordMatches = raw.match(/(?:dha\s*(?:phase|pahse|phse)\s*\d+|model\s*town|[a-z0-9]+\s*town|[a-z0-9]+\s*block\s*[a-z0-9]+|[a-z0-9]+\s*sector\s*[a-z0-9]+|[a-z0-9]+\s*society|[a-z0-9]+\s*scheme|[a-z0-9]+\s*colony|[a-z0-9]+\s*road|[a-z0-9]+\s*street|[a-z0-9]+\s*avenue)/ig) || [];
   const hintedArea = String(areaKeywordMatches[areaKeywordMatches.length - 1] || '').replace(/\s+/g, ' ').trim();
   const parsedArea = String(parsed?.areaName || '').replace(/\s+/g, ' ').trim();
@@ -310,6 +337,7 @@ function getDisplayLocationFromAddress(addressText) {
   const normalizeAreaLabel = (value) =>
     String(value || '')
       .replace(/\b(?:pahse|phse)\b/gi, 'Phase')
+      .replace(/\b([a-z]+)(\d{1,3})\b/gi, '$1 $2')
       .replace(/\s+/g, ' ')
       .trim();
 
@@ -322,6 +350,16 @@ function getDisplayLocationFromAddress(addressText) {
       .replace(/\s+/g, ' ')
       .trim();
     if (aroundLocationArea) areaName = aroundLocationArea;
+  }
+
+  if (!areaName && cityName) {
+    const directAreaBeforeCity = raw.match(new RegExp(`\\b([a-z][a-z0-9\\s-]{1,40})\\s+${String(cityName).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i'));
+    const directArea = String(directAreaBeforeCity?.[1] || '')
+      .replace(/\b(?:ma|mein|main|ka|ki|ke|jis|or|aur|ha|hai|hain|ho|cha|chahta|chata|chahte|krna|karna|reha|raha|price|sale|sell|rent|lease|house|plot|shop|flat|makan|located|location|bed|bedroom|bedrooms|bath|bathroom|bathrooms|with|attach|attached)\b/gi, ' ')
+      .replace(/\b\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet)\b/gi, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (directArea && directArea.split(' ').length <= 4) areaName = directArea;
   }
 
   if (!areaName && cityName) {
@@ -361,7 +399,7 @@ function getDisplayLocationFromAddress(addressText) {
 
   // Final cleanup to avoid raw prompt text leaking into location.
   const cleanedArea = String(areaName || '')
-    .replace(/\b(?:ma|main|mein|or|aur|jis|ki|ka|ha|hai|hain|hoon|cha|chahta|chata|chahte|krna|karna|reha|raha|price|sale|sell|rent|lease|plot|house|shop|flat|makan|location|located)\b/gi, ' ')
+    .replace(/\b(?:ma|main|mein|or|aur|jis|ki|ka|ha|hai|hain|hoon|cha|chahta|chata|chahte|krna|karna|reha|raha|price|sale|sell|rent|lease|plot|house|shop|flat|makan|location|located|bed|bedroom|bedrooms|bath|bathroom|bathrooms|with|attach|attached)\b/gi, ' ')
     .replace(/\b\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet)\b/gi, ' ')
     .replace(/\s+/g, ' ')
     .trim();
@@ -370,7 +408,6 @@ function getDisplayLocationFromAddress(addressText) {
 
   if (cityName && areaName) return `${areaName}, ${cityName}`.replace(/\s+/g, ' ').trim();
   if (cityName) return cityName;
-  if (areaName) return areaName;
   return '';
 }
 
@@ -388,7 +425,12 @@ function getCityLocationFileName(cityName) {
 }
 
 async function resolveAreaMetadata(cityName, areaName) {
-  const normalizedArea = String(areaName || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  const normalizedArea = String(areaName || '')
+    .toLowerCase()
+    .replace(/[^\w\s]/g, ' ')
+    .replace(/\b(?:ye|yah|yeh|yha|yahan|waha|wahan|is|ki|ka|ke|ma|mein|main)\b/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
   if (!cityName || !normalizedArea) return null;
   const fileName = getCityLocationFileName(cityName);
   if (!fileName) return null;
@@ -396,7 +438,12 @@ async function resolveAreaMetadata(cityName, areaName) {
     const module = await import(`../../citiesLocation/locations/${fileName}.json`);
     const locations = Array.isArray(module?.default) ? module.default : [];
     if (!locations.length) return null;
-    const normalize = (value) => String(value || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+    const normalize = (value) => String(value || '')
+      .toLowerCase()
+      .replace(/[^\w\s]/g, ' ')
+      .replace(/\b(?:ye|yah|yeh|yha|yahan|waha|wahan|is|ki|ka|ke|ma|mein|main)\b/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
     const simplify = (value) =>
       normalize(value)
         .replace(/\b(?:city|town|society|scheme|colony|block|sector|phase|road|street|avenue)\b/g, ' ')
@@ -438,6 +485,16 @@ async function resolveAreaMetadata(cityName, areaName) {
     if (contains) return contains;
     const reverseContains = locations.find((item) => normalizedArea.includes(normalize(item?.name)));
     if (reverseContains) return reverseContains;
+
+    // Token fallback: for short location hints like "bypass", match any area containing key token.
+    const tokens = normalizedArea.split(' ').filter((token) => token.length >= 4);
+    if (tokens.length) {
+      const tokenMatch = locations.find((item) => {
+        const name = normalize(item?.name);
+        return tokens.some((token) => name.includes(token));
+      });
+      if (tokenMatch) return tokenMatch;
+    }
 
     const simplifiedTarget = simplify(normalizedArea);
     let bestMatch = null;
@@ -1799,9 +1856,14 @@ function AiChatbotListingPage({
   onSetContactNumber,
   onSetEmail,
   onContinueAfterImages,
+  persistedMessages,
+  persistedDraft,
+  onPersistChatState,
 }) {
 
-  const [messages, setMessages] = useState([]);
+  const [messages, setMessages] = useState(() => (
+    Array.isArray(persistedMessages) && persistedMessages.length ? persistedMessages : []
+  ));
   const [inputText, setInputText] = useState('');
   const [isReplyLoading, setIsReplyLoading] = useState(false);
   const [addressDropdownOpen, setAddressDropdownOpen] = useState(false);
@@ -1818,21 +1880,41 @@ function AiChatbotListingPage({
   const composerInputRef = useRef(null);
   const imageFlowSnapshotRef = useRef([]);
 
-  const [draft, setDraft] = useState({
-    purpose: selectedPurpose || '',
-    propertyType: selectedPropertyType || '',
-    address: selectedAddress || '',
-    price: selectedPrice || '',
-    size: selectedSize || '',
-    sizeUnit: selectedSizeUnit || 'Marla',
-    bedrooms: selectedBedrooms || '',
-    bathrooms: selectedBathrooms || '',
-    features: selectedFeature || '',
-    subType: '',
-    useProfileContact: '',
-    images: (selectedUploadedImages?.length || 0) ? `uploaded:${selectedUploadedImages.length}` : '',
-    contactNumber: selectedContactNumber || '',
-    email: selectedEmail || '',
+  const [draft, setDraft] = useState(() => {
+    if (persistedDraft && typeof persistedDraft === 'object') {
+      return {
+        purpose: persistedDraft.purpose || '',
+        propertyType: persistedDraft.propertyType || '',
+        address: persistedDraft.address || '',
+        price: persistedDraft.price || '',
+        size: persistedDraft.size || '',
+        sizeUnit: persistedDraft.sizeUnit || 'Marla',
+        bedrooms: persistedDraft.bedrooms || '',
+        bathrooms: persistedDraft.bathrooms || '',
+        features: persistedDraft.features || '',
+        subType: persistedDraft.subType || '',
+        useProfileContact: persistedDraft.useProfileContact || '',
+        images: persistedDraft.images || ((selectedUploadedImages?.length || 0) ? `uploaded:${selectedUploadedImages.length}` : ''),
+        contactNumber: persistedDraft.contactNumber || selectedContactNumber || '',
+        email: persistedDraft.email || selectedEmail || '',
+      };
+    }
+    return {
+      purpose: selectedPurpose || '',
+      propertyType: selectedPropertyType || '',
+      address: selectedAddress || '',
+      price: selectedPrice || '',
+      size: selectedSize || '',
+      sizeUnit: selectedSizeUnit || 'Marla',
+      bedrooms: selectedBedrooms || '',
+      bathrooms: selectedBathrooms || '',
+      features: selectedFeature || '',
+      subType: '',
+      useProfileContact: '',
+      images: (selectedUploadedImages?.length || 0) ? `uploaded:${selectedUploadedImages.length}` : '',
+      contactNumber: selectedContactNumber || '',
+      email: selectedEmail || '',
+    };
   });
 
   const stageOrder = [
@@ -1898,6 +1980,8 @@ function AiChatbotListingPage({
         if (!String(group || '').trim()) continue;
         if (String(data?.subType || '').trim()) continue;
       }
+      // Features are generated automatically from location and property context.
+      if (key === 'features') continue;
       if ((key === 'bedrooms' || key === 'bathrooms' || key === 'features') && shouldSkipAmenityQuestions(data)) continue;
       if (key === 'useProfileContact' && !hasProfileContact) continue;
       if ((key === 'email' || key === 'contactNumber') && data?.useProfileContact === 'yes') continue;
@@ -1942,7 +2026,7 @@ function AiChatbotListingPage({
       bathrooms: 'Bathrooms ki ginti number mein batayein.',
       features: '2-3 features likh dein, jaise parking, security, corner.',
       email: 'Valid email format dein, jaise name@email.com.',
-      contactNumber: 'Valid mobile number dein, jaise 03XXXXXXXXX.',
+      contactNumber: 'Valid Pakistani mobile number dein, format 03XXXXXXXXX.',
     };
     const hint = stageHints[stage] || 'Thori si aur clear detail share karein.';
     return `Mujhe is point par thori clear detail chahiye. ${hint}`;
@@ -2098,18 +2182,26 @@ function AiChatbotListingPage({
     return contains || '';
   };
 
+  const toGroupName = (value) => {
+    const normalized = String(value || '').trim().toLowerCase();
+    if (normalized === 'home') return 'Home';
+    if (normalized === 'commercial') return 'Commercial';
+    if (normalized === 'plot') return 'Plot';
+    return '';
+  };
+
   const parsePriceFromText = (text) => {
     const raw = String(text || '').trim();
     const lower = raw.toLowerCase();
     const normalized = normalizeInputForUnderstanding(raw);
-    const hasCurrencyHint = /\b(?:rs|pkr|price|budget|rent|lease|amount|lakh|lac|crore|million|billion)\b/i.test(lower)
+    const hasCurrencyHint = /\b(?:rs|pkr|price|budget|rent|lease|amount|lakh|lac|crore|core|cr|million|billion)\b/i.test(lower)
       || /\b(?:rent|lease)\b/i.test(normalized);
     const hasCompactNumberHint = /\b\d+(?:\.\d+)?\s*(?:k|m)\b/i.test(lower);
     const hasPriceHint = hasCurrencyHint || hasCompactNumberHint;
     if (!hasPriceHint) return '';
-    const hintMatch = raw.match(/(?:price|rs|pkr)\s*[:-]?\s*(\d[\d,]*(?:\.\d+)?(?:\s*(?:lakh|lac|crore|million|billion|k|m))?)/i);
+    const hintMatch = raw.match(/(?:price|rs|pkr|rent|lease)\s*[:-]?\s*(\d[\d,]*(?:\.\d+)?(?:\s*(?:lakh|lac|crore|core|cr|million|billion|k|m))?)/i);
     if (hintMatch?.[1]) return formatPriceWithRs(hintMatch[1]);
-    const candidates = [...raw.matchAll(/\d[\d,]*(?:\.\d+)?(?:\s*(?:lakh|lac|crore|million|billion|k|m))?/gi)]
+    const candidates = [...raw.matchAll(/\d[\d,]*(?:\.\d+)?(?:\s*(?:lakh|lac|crore|core|cr|million|billion|k|m))?/gi)]
       .map((item) => String(item?.[0] || '').trim())
       .filter(Boolean);
     if (!candidates.length) return '';
@@ -2151,9 +2243,29 @@ function AiChatbotListingPage({
     const cleaned = candidate.length >= 4 ? candidate : '';
     const normalized = getDisplayLocationFromAddress(cleaned);
     if (normalized) return normalized;
+    // Strict mode: if it doesn't resolve to known location data, treat as missing.
     if (!force) return '';
-    const explicitLocationPattern = /\b(?:dha|phase|pahse|phse|block|sector|town|society|scheme|colony|road|street|avenue|city|lahore|karachi|islamabad|rawalpindi|faisalabad|multan|peshawar|quetta|sialkot|gujranwala|hyderabad)\b/i;
-    return explicitLocationPattern.test(cleaned) ? cleaned : '';
+    return '';
+  };
+
+  const hasExplicitLocationIntent = (text) => {
+    const raw = String(text || '').toLowerCase();
+    if (!raw) return false;
+    return /\b(?:location|located|address|area|jaga|jagah|ma|main|mein|dha|phase|block|sector|town|society|scheme|colony|road|street|avenue)\b/i.test(raw);
+  };
+
+  const getAreaCandidateNearCity = (text, cityName) => {
+    const raw = String(text || '').replace(/\s+/g, ' ').trim();
+    const city = String(cityName || '').trim();
+    if (!raw || !city) return '';
+    const cityEscaped = city.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const nearCityMatch = raw.match(new RegExp(`\\b([a-z0-9\\s-]{2,60})\\s+${cityEscaped}\\b`, 'i'));
+    const candidate = String(nearCityMatch?.[1] || '')
+      .replace(/\b(?:ye|yah|yeh|yha|yahan|waha|wahan|location|located|address|area|ma|mein|main|is|ha|hai|hain|or|aur|ka|ki|ke|jis|with|price|rent|sale|sell|lease|house|flat|shop|plot|makan)\b/gi, ' ')
+      .replace(/\b\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet)\b/gi, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    return candidate;
   };
 
   const parseCountByKeywords = (text, keywords = []) => {
@@ -2195,14 +2307,16 @@ function AiChatbotListingPage({
     return featureHints.join(', ');
   };
 
-  const extractFactsFromText = (text, currentDraft, stage) => {
+  const extractFactsFromText = (text, currentDraft, stage, options = {}) => {
+    const { allowOverwrite = false } = options;
     const raw = String(text || '').trim();
     if (!raw) return {};
 
     const next = {};
     const purpose = parsePurpose(raw);
     const propertyType = inferPropertyTypeFromText(raw);
-    const inferredGroup = getPropertyGroup(currentDraft?.propertyType || propertyType);
+    const parsedGroupName = toGroupName(propertyType);
+    const inferredGroup = getPropertyGroup(currentDraft?.propertyType || parsedGroupName || propertyType);
     const inferredSubType = inferSubTypeFromText(raw, inferredGroup);
     const parsedSize = parseSize(raw);
     const parsedPrice = parsePriceFromText(raw);
@@ -2212,29 +2326,54 @@ function AiChatbotListingPage({
     const parsedFeatures = parseFeaturesFromText(raw);
     const parsedContactNumber = parseContactNumber(raw);
     const parsedEmail = parseEmail(raw);
+    const incomingTypeValue = parsedGroupName || propertyType;
+    const currentTypeValue = String(currentDraft?.propertyType || '').trim();
+    const incomingSubTypeValue = inferredSubType || (propertyType && !parsedGroupName ? propertyType : '');
+    const currentSubTypeValue = String(currentDraft?.subType || '').trim();
+    const canUpdateTypeNow = ['purpose', 'propertyType', 'subType'].includes(String(stage || '').toLowerCase());
 
-    if (!currentDraft.purpose && purpose) next.purpose = purpose;
-    if (!currentDraft.propertyType && propertyType) next.propertyType = propertyType;
-    if (!currentDraft.subType && inferredSubType) next.subType = inferredSubType;
-    if (!currentDraft.size && parsedSize) {
+    if ((allowOverwrite || !currentDraft.purpose) && purpose) next.purpose = purpose;
+    if (incomingTypeValue) {
+      if (allowOverwrite) {
+        next.propertyType = incomingTypeValue;
+      } else if (!currentTypeValue) {
+        next.propertyType = incomingTypeValue;
+      } else if (canUpdateTypeNow && normalizeType(currentTypeValue) !== normalizeType(incomingTypeValue)) {
+        next.propertyType = incomingTypeValue;
+      }
+    }
+    if (incomingSubTypeValue) {
+      if (allowOverwrite) {
+        next.subType = incomingSubTypeValue;
+      } else if (!currentSubTypeValue) {
+        next.subType = incomingSubTypeValue;
+      } else if (canUpdateTypeNow && normalizeType(currentSubTypeValue) !== normalizeType(incomingSubTypeValue)) {
+        next.subType = incomingSubTypeValue;
+      }
+    }
+    if ((allowOverwrite || !currentDraft.size) && parsedSize) {
       next.size = parsedSize.value;
       next.sizeUnit = parsedSize.unit;
     }
-    if (!currentDraft.price && parsedPrice) next.price = parsedPrice;
-    if (!currentDraft.address && parsedAddress) next.address = parsedAddress;
-    if (!currentDraft.bedrooms && parsedBedrooms) next.bedrooms = parsedBedrooms;
-    if (!currentDraft.bathrooms && parsedBathrooms) next.bathrooms = parsedBathrooms;
-    if (!currentDraft.features && parsedFeatures) next.features = parsedFeatures;
-    if (!currentDraft.contactNumber && parsedContactNumber) next.contactNumber = parsedContactNumber;
-    if (!currentDraft.email && parsedEmail) next.email = parsedEmail;
+    if ((allowOverwrite || !currentDraft.price) && parsedPrice) next.price = parsedPrice;
+    if ((allowOverwrite || !currentDraft.address) && parsedAddress) next.address = parsedAddress;
+    if ((allowOverwrite || !currentDraft.bedrooms) && parsedBedrooms) next.bedrooms = parsedBedrooms;
+    if ((allowOverwrite || !currentDraft.bathrooms) && parsedBathrooms) next.bathrooms = parsedBathrooms;
+    if ((allowOverwrite || !currentDraft.bathrooms) && !parsedBathrooms && /\b(?:attach|attached)\s*(?:bath|bathroom|washroom)\b/i.test(raw)) {
+      const inferredFromBeds = String(parsedBedrooms || currentDraft?.bedrooms || '').trim();
+      if (/^\d+$/.test(inferredFromBeds)) next.bathrooms = inferredFromBeds;
+    }
+    if ((allowOverwrite || !currentDraft.features) && parsedFeatures) next.features = parsedFeatures;
+    if ((allowOverwrite || !currentDraft.contactNumber) && parsedContactNumber) next.contactNumber = parsedContactNumber;
+    if ((allowOverwrite || !currentDraft.email) && parsedEmail) next.email = parsedEmail;
 
     return next;
   };
 
   const parseContactNumber = (text) => {
-    const digits = String(text || '').replace(/\D/g, '');
-    if (/^3\d{9}$/.test(digits)) return digits;
-    return '';
+    const normalized = normalizePakistanPhone(text);
+    if (!isValidPakistanMobile(normalized)) return '';
+    return normalized;
   };
 
   const parseEmail = (text) => {
@@ -2258,15 +2397,19 @@ function AiChatbotListingPage({
       const parsedSize = parseSize(trimmed);
       const inferredTypeRaw = inferPropertyTypeFromText(trimmed);
       if (!inferredTypeRaw) return { ok: false, nextDraft: currentDraft };
-      const group = getPropertyGroup(inferredTypeRaw);
+      const parsedGroupName = toGroupName(inferredTypeRaw);
+      const group = getPropertyGroup(parsedGroupName || inferredTypeRaw);
       const inferredSubType = inferSubTypeFromText(trimmed, group);
+      const shouldUseDirectSubType = Boolean(inferredTypeRaw && !parsedGroupName);
 
       return {
         ok: true,
         nextDraft: {
           ...currentDraft,
           propertyType: group,
-          ...(inferredSubType ? { subType: inferredSubType } : {}),
+          ...((inferredSubType || shouldUseDirectSubType)
+            ? { subType: inferredSubType || inferredTypeRaw }
+            : {}),
           ...(parsedSize
             ? {
               size: parsedSize.value,
@@ -2322,7 +2465,11 @@ function AiChatbotListingPage({
       if (isCommercialType(currentDraft) && /^skip$/i.test(trimmed)) {
         return { ok: true, nextDraft: { ...currentDraft, bathrooms: 'Skip' } };
       }
-      const bathrooms = parseBathroomsFromText(trimmed) || (/^\d+$/.test(trimmed) ? trimmed : '');
+      let bathrooms = parseBathroomsFromText(trimmed) || (/^\d+$/.test(trimmed) ? trimmed : '');
+      if (!bathrooms && /\b(?:attach|attached)\s*(?:bath|bathroom|washroom)\b/i.test(trimmed)) {
+        const fromBedrooms = String(currentDraft?.bedrooms || '').trim();
+        if (/^\d+$/.test(fromBedrooms)) bathrooms = fromBedrooms;
+      }
       if (!bathrooms) return { ok: false, nextDraft: currentDraft };
       return { ok: true, nextDraft: { ...currentDraft, bathrooms } };
     }
@@ -2703,19 +2850,27 @@ function AiChatbotListingPage({
     return String(data?.choices?.[0]?.message?.content || '').trim();
   };
 
+  const getInitialAssistantMessages = () => ([
+    {
+      role: 'assistant',
+      text: PAKISTANI_PROPERTY_AGENT_FIRST_MESSAGE,
+    },
+    {
+      role: 'assistant',
+      text: PAKISTANI_PROPERTY_AGENT_FIRST_QUESTION,
+    },
+  ]);
+
   useEffect(() => {
-    setMessages([
-      {
-        role: 'assistant',
-        text: PAKISTANI_PROPERTY_AGENT_FIRST_MESSAGE,
-      },
-      {
-        role: 'assistant',
-        text: PAKISTANI_PROPERTY_AGENT_FIRST_QUESTION,
-      },
-    ]);
+    if (!messages.length) {
+      setMessages(getInitialAssistantMessages());
+    }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  useEffect(() => {
+    onPersistChatState?.({ messages, draft });
+  }, [messages, draft, onPersistChatState]);
 
   useEffect(() => {
     if (messagesEndRef.current) {
@@ -2725,6 +2880,7 @@ function AiChatbotListingPage({
 
   const handleSend = async (overrideText, options = {}) => {
     const editMessageIndex = Number.isInteger(options?.editMessageIndex) ? options.editMessageIndex : null;
+    const isEditingMessage = editMessageIndex !== null;
     const isEventLikeOverride = Boolean(
       overrideText
       && typeof overrideText === 'object'
@@ -2738,20 +2894,103 @@ function AiChatbotListingPage({
     if (!userText || isReplyLoading) return;
 
     const userMessage = { role: 'user', text: userText };
+    const buildMessagesAfterEdit = (sourceMessages) => {
+      if (editMessageIndex === null) return sourceMessages;
+      const safeIndex = Math.max(0, Math.min(editMessageIndex, sourceMessages.length - 1));
+      const before = sourceMessages.slice(0, safeIndex);
+      return [...before, { role: 'user', text: userText }];
+    };
+
     setInputText('');
-    if (editMessageIndex !== null) {
-      setMessages((prev) => prev.map((item, index) => (
-        index === editMessageIndex && item?.role === 'user'
-          ? { ...item, text: userText }
-          : item
-      )));
-    } else {
+    if (editMessageIndex === null) {
       setMessages((prev) => [...prev, userMessage]);
     }
 
-    const stage = getCurrentStage(draft);
-    const inferredFacts = extractFactsFromText(userText, draft, stage);
-    let workingDraft = { ...draft, ...inferredFacts };
+    const baseDraft = draft;
+    const stage = getCurrentStage(baseDraft);
+    const inferredFacts = extractFactsFromText(userText, baseDraft, stage, { allowOverwrite: isEditingMessage });
+    let workingDraft = { ...baseDraft, ...inferredFacts };
+    const parsedLocationFromInput = parseAddressFromText(userText, true);
+    const hasLocationIntent = hasExplicitLocationIntent(userText);
+    const hasAddressAlready = Boolean(String(baseDraft?.address || '').trim());
+    const hasAddressAfterParse = Boolean(String(workingDraft?.address || '').trim());
+    const isInvalidLocationInput = hasLocationIntent && !parsedLocationFromInput && !hasAddressAlready && !hasAddressAfterParse;
+    const normalizeLoose = (value) => String(value || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+
+    let isInvalidAreaInput = false;
+    if (hasLocationIntent) {
+      const parsedFromRaw = parseAddressParts(userText, citiesList);
+      const cityFromInput = String(parsedFromRaw?.cityName || '').trim();
+      const areaFromInput = getAreaCandidateNearCity(userText, cityFromInput) || String(parsedFromRaw?.areaName || '').trim();
+      if (cityFromInput && areaFromInput) {
+        const areaMeta = await resolveAreaMetadata(cityFromInput, areaFromInput);
+        if (areaMeta?.name) {
+          workingDraft = {
+            ...workingDraft,
+            address: `${areaMeta.name}, ${cityFromInput}`.replace(/\s+/g, ' ').trim(),
+          };
+        } else {
+          // City is valid but area does not exist in our city-location data.
+          isInvalidAreaInput = true;
+        }
+      } else if (cityFromInput && !areaFromInput) {
+        const locationText = normalizeLoose(userText);
+        const cityText = normalizeLoose(cityFromInput);
+        const hasOnlyCity = locationText === cityText || locationText.endsWith(` ${cityText}`);
+        if (!hasOnlyCity) {
+          isInvalidAreaInput = true;
+        }
+      }
+    }
+
+    if (isEditingMessage) {
+      const editedBaseMessages = buildMessagesAfterEdit(messages);
+      setDraft(workingDraft);
+      syncDraftToParent(workingDraft);
+
+      if (isInvalidAreaInput) {
+        setMessages([
+          ...editedBaseMessages,
+          { role: 'assistant', text: 'Invalid area. City match ho gaya hai, lekin area valid list me nahi mila. Please correct area name dein.' },
+        ]);
+        return;
+      }
+
+      if (isInvalidLocationInput) {
+        setMessages([
+          ...editedBaseMessages,
+          { role: 'assistant', text: 'Invalid location. Please select a valid area and city (e.g. DHA Phase 8, Lahore).' },
+        ]);
+        return;
+      }
+
+      const nextStage = getCurrentStage(workingDraft);
+      const ackText = summarizeCapturedFacts(draft, workingDraft, userText);
+      if (nextStage === 'images') {
+        setMessages([
+          ...editedBaseMessages,
+          ...(ackText ? [{ role: 'assistant', text: ackText }] : []),
+          { role: 'assistant', text: buildListingSummaryText(workingDraft) },
+          { role: 'assistant', text: getPromptForStage('images') },
+        ]);
+      } else if (nextStage === 'complete') {
+        setMessages([
+          ...editedBaseMessages,
+          ...(ackText ? [{ role: 'assistant', text: ackText }] : []),
+          {
+            role: 'assistant',
+            text: 'Great! Basic listing details complete ho gayi hain. Ab aap title, description, pricing ya listing strategy par mujh se direct mashwara le sakte hain.',
+          },
+        ]);
+      } else {
+        setMessages([
+          ...editedBaseMessages,
+          ...(ackText ? [{ role: 'assistant', text: ackText }] : []),
+          { role: 'assistant', text: getPromptForStage(nextStage) },
+        ]);
+      }
+      return;
+    }
 
     if (stage !== 'complete') {
       if (!String(workingDraft[stage] || '').trim()) {
@@ -2776,6 +3015,24 @@ function AiChatbotListingPage({
 
       setDraft(workingDraft);
       syncDraftToParent(workingDraft);
+
+      if (isInvalidAreaInput) {
+        setMessages((prev) => [
+          ...prev,
+          { role: 'assistant', text: 'Invalid area. City theek hai, lekin area valid data me nahi mila. Please valid area select karein.' },
+          { role: 'assistant', text: getPromptForStage('address') },
+        ]);
+        return;
+      }
+
+      if (isInvalidLocationInput) {
+        setMessages((prev) => [
+          ...prev,
+          { role: 'assistant', text: 'Invalid location. Please enter a valid location from available city/area data.' },
+          { role: 'assistant', text: getPromptForStage('address') },
+        ]);
+        return;
+      }
 
       const nextStage = getCurrentStage(workingDraft);
       const ackText = summarizeCapturedFacts(draft, workingDraft, userText);
@@ -2807,13 +3064,7 @@ function AiChatbotListingPage({
 
     setIsReplyLoading(true);
     try {
-      const historyForAi = editMessageIndex !== null
-        ? messages.map((item, index) => (
-          index === editMessageIndex && item?.role === 'user'
-            ? { ...item, text: userText }
-            : item
-        ))
-        : [...messages, userMessage];
+      const historyForAi = editMessageIndex !== null ? buildMessagesAfterEdit(messages) : [...messages, userMessage];
       const reply = await withTimeout(requestAiDiscussionReply(userText, historyForAi), 25000);
       setMessages((prev) => [...prev, { role: 'assistant', text: reply || getFallbackReply(userText) }]);
     } catch {
@@ -3522,10 +3773,60 @@ function PropertyFlow() {
   const [publishLoading, setPublishLoading] = useState(false);
   const [publishMessage, setPublishMessage] = useState('');
   const [currentPage, setCurrentPage] = useState('listingMode');
+  const [chatbotSession, setChatbotSession] = useState({ messages: [], draft: null });
   const authUserForWelcome = getStoredAuthUser();
   const welcomeName = getDisplayNameFromUser(authUserForWelcome);
   const profileContactNumber = getContactFromUser(authUserForWelcome);
   const profileEmail = getEmailFromUser(authUserForWelcome);
+
+  const buildChatbotDraftFromCurrentState = () => ({
+    purpose: selectedPurpose || '',
+    propertyType: selectedPropertyGroup || selectedPropertyType || '',
+    subType: selectedPropertyType || '',
+    address: selectedAddress || '',
+    price: selectedPrice || '',
+    size: selectedSize || '',
+    sizeUnit: selectedSizeUnit || 'Marla',
+    bedrooms: selectedBedrooms || '',
+    bathrooms: selectedBathrooms || '',
+    features: selectedFeature || '',
+    useProfileContact: '',
+    images: (uploadedImages?.length || 0) ? `uploaded:${uploadedImages.length}` : '',
+    contactNumber: selectedContactNumber || profileContactNumber || '',
+    email: selectedEmail || profileEmail || '',
+  });
+
+  const buildChatbotMessagesFromCurrentState = () => {
+    const bits = [];
+    if (selectedPurpose) bits.push(`Purpose: ${selectedPurpose}`);
+    if (selectedPropertyType || selectedPropertyGroup) bits.push(`Type: ${selectedPropertyType || selectedPropertyGroup}`);
+    if (selectedAddress) bits.push(`Location: ${getDisplayLocationFromAddress(selectedAddress) || selectedAddress}`);
+    if (selectedSize) bits.push(`Size: ${`${selectedSize} ${selectedSizeUnit || ''}`.trim()}`);
+    if (selectedPrice) bits.push(`Price: ${selectedPrice}`);
+    if (selectedBedrooms) bits.push(`Bedrooms: ${selectedBedrooms}`);
+    if (selectedBathrooms) bits.push(`Bathrooms: ${selectedBathrooms}`);
+    if (selectedContactNumber || profileContactNumber) bits.push(`Contact: ${selectedContactNumber || profileContactNumber}`);
+    if (selectedEmail || profileEmail) bits.push(`Email: ${selectedEmail || profileEmail}`);
+
+    const summaryText = bits.length
+      ? `Main ne aapki existing listing details load kar di hain:\n${bits.join('\n')}`
+      : 'Main ne aapki listing edit mode me load kar di hai.';
+
+    return [
+      {
+        role: 'assistant',
+        text: '👋 Edit mode ready. Aap jo field change karna chahen seedha command dein.',
+      },
+      {
+        role: 'assistant',
+        text: summaryText,
+      },
+      {
+        role: 'assistant',
+        text: 'Ab batayein kya edit karna hai? (price, location, size, category, details...)',
+      },
+    ];
+  };
 
   const handleUploadComplete = (files) => {
     const newImages = files.map((file) => URL.createObjectURL(file));
@@ -3584,6 +3885,14 @@ function PropertyFlow() {
       ? `${finalAreaName}, ${finalCityName}`.replace(/\s+/g, ' ').trim()
       : cleanedLocation;
     const areaMeta = await resolveAreaMetadata(finalCityName, finalAreaName);
+    const autoFeatureList = getLocationAwareFeatures({
+      features: selectedFeature,
+      address: finalAddress || cleanedLocation,
+      propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
+      purpose: selectedPurpose,
+    });
+    const effectiveFeaturesText = autoFeatureList.join(', ');
+
     const effectiveTitle = String(generatedTitle || '').trim() || buildAutoListingTitle({
       size: selectedSize,
       sizeUnit: selectedSizeUnit,
@@ -3599,16 +3908,102 @@ function PropertyFlow() {
       sizeUnit: selectedSizeUnit,
       bedrooms: selectedBedrooms,
       bathrooms: selectedBathrooms,
-      features: selectedFeature,
+      features: selectedFeature || effectiveFeaturesText,
       price: selectedPrice,
     });
     const resolvedLocationValue = areaMeta?.id || areaMeta?.externalID || finalAddress || finalAreaName;
+    const normalize = (value) => String(value || '').trim().toLowerCase();
+    const escapeRegex = (value) => String(value || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const hasWord = (text, value) => new RegExp(`\\b${escapeRegex(value)}\\b`, 'i').test(String(text || ''));
+    const detectSignalText = normalize(
+      `${selectedPropertyGroup || ''} ${selectedPropertyType || ''} ${effectiveTitle || ''} ${generatedTitle || ''} ${effectiveDescription || ''}`
+    );
+
+    const selectedGroupText = normalize(selectedPropertyGroup);
+    const selectedTypeText = normalize(selectedPropertyType);
+    const strongCommercialKeywords = ['commercial', 'shop', 'office', 'warehouse', 'factory', 'building'];
+    const strongPlotKeywords = ['plot', 'land', 'agricultural', 'file', 'form'];
+    const strongHomeKeywords = ['home', 'house', 'flat', 'portion', 'farm house', 'room', 'penthouse', 'ghar', 'makan'];
+
+    let detectedGroup = 'Home';
+    const commercialScore = strongCommercialKeywords.reduce((acc, item) => (hasWord(detectSignalText, item) ? acc + 1 : acc), 0);
+    const plotScore = strongPlotKeywords.reduce((acc, item) => (hasWord(detectSignalText, item) ? acc + 1 : acc), 0);
+    const homeScore = strongHomeKeywords.reduce((acc, item) => (hasWord(detectSignalText, item) ? acc + 1 : acc), 0);
+
+    if (selectedGroupText.includes('commercial') || COMMERCIAL_PROPERTY_TYPES.some((item) => normalize(item) === selectedTypeText)) {
+      detectedGroup = 'Commercial';
+    } else if (selectedGroupText.includes('plot') || PLOT_PROPERTY_TYPES.some((item) => normalize(item) === selectedTypeText)) {
+      detectedGroup = 'Plot';
+    } else if (selectedGroupText.includes('home') || selectedGroupText.includes('house')) {
+      detectedGroup = 'Home';
+    }
+
+    // AI auto-classification from listing text signals (prefer strongest intent).
+    if (commercialScore > Math.max(plotScore, homeScore)) detectedGroup = 'Commercial';
+    else if (plotScore > Math.max(commercialScore, homeScore)) detectedGroup = 'Plot';
+    else if (homeScore > Math.max(commercialScore, plotScore)) detectedGroup = 'Home';
+
+    const selectedSubTypeName = String(selectedPropertyType || '').trim();
+    const categoryIdMap = { Home: 1, Plot: 2, Commercial: 3 };
+    const categoryId = categoryIdMap[detectedGroup] || 1;
+    const subTypeOptionsByGroup = {
+      Home: HOME_PROPERTY_TYPES,
+      Plot: PLOT_PROPERTY_TYPES,
+      Commercial: COMMERCIAL_PROPERTY_TYPES,
+    };
+    const groupSubTypes = subTypeOptionsByGroup[detectedGroup] || [];
+    const selectedSubTypeMatched = groupSubTypes.find((item) => normalize(item) === normalize(selectedSubTypeName));
+    const titleSignalText = normalize(`${detectSignalText} ${buildAutoListingTitle({
+      size: selectedSize,
+      sizeUnit: selectedSizeUnit,
+      propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
+      purpose: selectedPurpose,
+      address: finalAddress,
+    })}`);
+    const inferredSubTypeMatched = groupSubTypes.find((item) => titleSignalText.includes(normalize(item)));
+    const fallbackSubCategoryName = detectedGroup === 'Commercial'
+      ? 'Shop'
+      : detectedGroup === 'Plot'
+        ? 'Residential Plot'
+        : 'House';
+    const finalSubCategoryName = selectedSubTypeMatched || inferredSubTypeMatched || fallbackSubCategoryName;
+    const finalSubCategorySlug = finalSubCategoryName.toLowerCase().replace(/[^\w]+/g, '-').replace(/^-+|-+$/g, '');
+    const subCategoryIdByName = {
+      House: 1,
+      Flat: 2,
+      'Upper Portion': 3,
+      'Lower Portion': 4,
+      'Farm House': 5,
+      Room: 6,
+      Penthouse: 7,
+      'Residential Plot': 8,
+      'Commercial Plot': 9,
+      Agricultural: 10,
+      'Industry Land': 11,
+      'Plot File': 12,
+      'Plot Form': 13,
+      Office: 14,
+      Shop: 15,
+      'Warehouse portion': 16,
+      Factory: 17,
+      Building: 18,
+      other: 19,
+    };
+    const subCategoryId = subCategoryIdByName[finalSubCategoryName] || subCategoryIdByName[fallbackSubCategoryName] || 1;
 
     const payload = {
       property_type_id: 1,
       property_type_slug: mapPurposeToSlug(selectedPurpose),
-      category_id: 1,
-      sub_category_id: 1,
+      category_id: categoryId,
+      sub_category_id: subCategoryId,
+      category: detectedGroup || 'Home',
+      category_name: detectedGroup || 'Home',
+      sub_category: finalSubCategoryName,
+      sub_category_name: finalSubCategoryName,
+      sub_category_slug: finalSubCategorySlug,
+      property_sub_type: finalSubCategoryName,
+      property_sub_type_name: finalSubCategoryName,
+      property_sub_type_slug: finalSubCategorySlug,
       city_code: finalCityCode,
       plot_number: '123',
       area_size: selectedSize,
@@ -3641,7 +4036,7 @@ function PropertyFlow() {
       ...(parsedAddress.longitude !== undefined ? { longitude: parsedAddress.longitude } : {}),
       bedrooms: selectedBedrooms,
       bathrooms: selectedBathrooms,
-      features: Array.isArray(selectedFeature) ? selectedFeature : [selectedFeature],
+      features: autoFeatureList,
     };
 
     try {
@@ -3815,6 +4210,9 @@ function PropertyFlow() {
           }}
           onSetContactNumber={setSelectedContactNumber}
           onSetEmail={setSelectedEmail}
+          persistedMessages={chatbotSession.messages}
+          persistedDraft={chatbotSession.draft}
+          onPersistChatState={setChatbotSession}
           onContinueAfterImages={() => {
             if (!String(generatedTitle || '').trim()) {
               setGeneratedTitle(
@@ -3849,12 +4247,23 @@ function PropertyFlow() {
     case 'listingMode':
       return (
         <ListingModePage
-          onAiListing={() => setCurrentPage('welcome')}
+          onAiListing={() => {
+            setChatbotSession({ messages: [], draft: null });
+            setCurrentPage('welcome');
+          }}
           onManualListing={() => {}}
         />
       );
     case 'welcome':
-      return <WelcomePage welcomeName={welcomeName} onStart={() => setCurrentPage('chatbot')} />;
+      return (
+        <WelcomePage
+          welcomeName={welcomeName}
+          onStart={() => {
+            setChatbotSession({ messages: [], draft: null });
+            setCurrentPage('chatbot');
+          }}
+        />
+      );
     case 'purpose':
       return (
         <PurposePage
@@ -3991,7 +4400,13 @@ function PropertyFlow() {
           features={selectedFeature}
           images={uploadedImages}
           onPublish={handlePublishListing}
-          onEditNavigate={() => setCurrentPage('chatbot')}
+          onEditNavigate={() => {
+            setChatbotSession({
+              messages: buildChatbotMessagesFromCurrentState(),
+              draft: buildChatbotDraftFromCurrentState(),
+            });
+            setCurrentPage('chatbot');
+          }}
           publishLoading={publishLoading}
           publishMessage={publishMessage}
         />
