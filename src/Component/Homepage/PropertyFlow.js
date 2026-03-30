@@ -1,4 +1,4 @@
- import React, { useEffect, useRef, useState } from 'react';
+  import React, { useEffect, useRef, useState } from 'react';
 import logo from '../../images/14.png';
 import bg from '../../images/bg.jpg';
 import assistantIcon from '../../images/div.png';
@@ -39,8 +39,11 @@ const CHATBOT_SUB_TYPE_OPTIONS = {
   Commercial: COMMERCIAL_PROPERTY_TYPES,
   Plot: PLOT_PROPERTY_TYPES,
 };
-const PAKISTANI_PROPERTY_AGENT_FIRST_MESSAGE = "👋 Assalam-o-Alaikum! Main aapka AI property assistant hoon. Aap jo details dein ge main unhein smartly pick karunga, aur sirf missing cheezain hi puchunga.";
-const PAKISTANI_PROPERTY_AGENT_FIRST_QUESTION = 'For what purpose are you listing this property?';
+const MIN_REQUIRED_IMAGES = 3;
+const OFFLINE_LISTINGS_QUEUE_KEY = 'pp_offline_publish_queue_v1';
+const OFFLINE_FLUSH_BATCH_SIZE = 5;
+const PAKISTANI_PROPERTY_AGENT_FIRST_MESSAGE = '👋 Hello! I am your AI property assistant. Share your listing details, and I will capture them step by step.';
+const PAKISTANI_PROPERTY_AGENT_FIRST_QUESTION = 'What is the purpose of your listing?';
 
 function formatPriceWithRs(value) {
   const trimmed = String(value || '').trim();
@@ -50,7 +53,7 @@ function formatPriceWithRs(value) {
     .trim();
   if (!normalized) return '';
   const compact = normalized.toLowerCase().replace(/,/g, '').replace(/\s+/g, ' ').trim();
-  const compactMatch = compact.match(/^(\d+(?:\.\d+)?)\s*(crore|core|cr|lakh|lac|million|billion|k|m)?$/i);
+  const compactMatch = compact.match(/^(\d+(?:\.\d+)?)\s*(crore|core|cor|croe|croar|cr|lakh|lac|million|billion|hazar|hazaar|thousand|k|m)?$/i);
   if (compactMatch) {
     const amount = Number(compactMatch[1]);
     const unit = String(compactMatch[2] || '').toLowerCase();
@@ -58,11 +61,17 @@ function formatPriceWithRs(value) {
       const multipliers = {
         crore: 10000000,
         core: 10000000,
+        cor: 10000000,
+        croe: 10000000,
+        croar: 10000000,
         cr: 10000000,
         lakh: 100000,
         lac: 100000,
         million: 1000000,
         billion: 1000000000,
+        hazar: 1000,
+        hazaar: 1000,
+        thousand: 1000,
         k: 1000,
         m: 1000000,
       };
@@ -80,82 +89,75 @@ function getFeatureText(features) {
   return 'Security';
 }
 
-function getLocationAwareFeatures({ features, address, propertyType, purpose }) {
-  const normalize = (value) => String(value || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
-  const locationText = normalize(address);
-  const typeText = normalize(propertyType);
-  const purposeText = normalize(purpose);
-
-  const explicit = Array.isArray(features)
-    ? features.map((item) => String(item || '').trim()).filter(Boolean)
-    : String(features || '')
-      .split(/,|\/|\||;|\band\b/gi)
-      .map((item) => item.replace(/\s+/g, ' ').trim())
-      .filter(Boolean);
-
-  const merged = [];
-  const pushUnique = (value) => {
-    const clean = String(value || '').replace(/\s+/g, ' ').trim();
-    if (!clean) return;
-    const exists = merged.some((item) => item.toLowerCase() === clean.toLowerCase());
-    if (!exists) merged.push(clean);
-  };
-
-  const areaRules = [
-    { pattern: /\bdha\b|\bphase\b/, features: ['Secure Gated Community', 'Premium Infrastructure', 'Parks and Community Facilities'] },
-    { pattern: /\bbahria\b/, features: ['Planned Community', '24/7 Security', 'Commercial Hub Nearby'] },
-    { pattern: /\bgulberg\b/, features: ['Central Urban Location', 'Corporate and Retail Access', 'High-End Neighborhood'] },
-    { pattern: /\bmodel town\b/, features: ['Mature Residential Area', 'Wide Roads and Green Belts', 'Schools and Markets Nearby'] },
-    { pattern: /\bjohar town\b/, features: ['Strong Rental Demand', 'Universities and Offices Nearby', 'Well-Connected Roads'] },
-    { pattern: /\bwapda town\b/, features: ['Family-Oriented Neighborhood', 'Developed Streets and Utilities', 'Daily Essentials Nearby'] },
-    { pattern: /\bparagon\b/, features: ['Gated Society Lifestyle', 'Good Future Appreciation', 'Main Road Connectivity'] },
-    { pattern: /\baskari\b/, features: ['Secure Environment', 'Community Parks', 'Organized Layout'] },
-    { pattern: /\bmain road\b|\broad\b|\bavenue\b/, features: ['Main Road Frontage', 'Easy Commercial Access', 'Better Visibility'] },
-  ];
-  const cityRules = [
-    { pattern: /\blahore\b/, features: ['High Buyer Activity', 'Strong Resale Potential'] },
-    { pattern: /\bkarachi\b/, features: ['Commercial Opportunity', 'High Demand Catchment'] },
-    { pattern: /\bislamabad\b|\brawalpindi\b/, features: ['Planned Sectors Access', 'Strong Long-Term Value'] },
-  ];
-
-  const matchedAreaRule = areaRules.find((rule) => rule.pattern.test(locationText));
-  if (matchedAreaRule) matchedAreaRule.features.forEach(pushUnique);
-  const matchedCityRule = cityRules.find((rule) => rule.pattern.test(locationText));
-  if (matchedCityRule) matchedCityRule.features.forEach(pushUnique);
-
-  if (!matchedAreaRule && locationText) {
-    if (/(society|sector|block|town|city|colony)/i.test(locationText)) {
-      pushUnique('Developed Neighborhood');
-      pushUnique('Near Daily Essentials');
-    }
-    if (/(road|street|avenue|highway)/i.test(locationText)) {
-      pushUnique('Main Road Access');
-    }
-    pushUnique('Prime Location');
-  }
-
-  if (typeText.includes('plot')) {
-    pushUnique('Ready for Construction');
-    pushUnique('Investment-Friendly Area');
-  } else if (/(shop|office|commercial|warehouse|factory)/i.test(typeText)) {
-    pushUnique('Commercial Activity Nearby');
-    pushUnique('High Footfall Potential');
-  } else {
-    pushUnique('Family-Friendly Environment');
-  }
-
-  if (purposeText.includes('rent')) pushUnique('Strong Rental Demand');
-  if (purposeText.includes('sell')) pushUnique('High Resale Potential');
-
-  // Keep user-given features as high-priority additions.
-  explicit.forEach(pushUnique);
-
-  if (!merged.length) return ['Security', 'Prime Location', 'Near Daily Essentials'];
-  return merged.slice(0, 3);
-}
-
 function normalizeApiBase(url) {
   return String(url || '').replace(/\/+$/, '');
+}
+
+const IMAGE_UPLOAD_MAX_EDGE = 1920;
+const IMAGE_UPLOAD_TARGET_BYTES = 900 * 1024;
+
+async function optimizeImageForUpload(file) {
+  if (!(file instanceof File)) return file;
+  const type = String(file.type || '').toLowerCase();
+  if (!type.startsWith('image/')) return file;
+  if (file.size <= IMAGE_UPLOAD_TARGET_BYTES) return file;
+
+  const objectUrl = URL.createObjectURL(file);
+  try {
+    const image = await new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload = () => resolve(img);
+      img.onerror = reject;
+      img.src = objectUrl;
+    });
+
+    const sourceWidth = Number(image.width || 0);
+    const sourceHeight = Number(image.height || 0);
+    if (!sourceWidth || !sourceHeight) return file;
+
+    const scale = Math.min(1, IMAGE_UPLOAD_MAX_EDGE / Math.max(sourceWidth, sourceHeight));
+    const targetWidth = Math.max(1, Math.round(sourceWidth * scale));
+    const targetHeight = Math.max(1, Math.round(sourceHeight * scale));
+
+    const canvas = document.createElement('canvas');
+    canvas.width = targetWidth;
+    canvas.height = targetHeight;
+    const ctx = canvas.getContext('2d');
+    if (!ctx) return file;
+    ctx.drawImage(image, 0, 0, targetWidth, targetHeight);
+
+    const outputType = 'image/jpeg';
+    const qualities = [0.86, 0.76, 0.66, 0.56];
+    let blob = null;
+    for (const quality of qualities) {
+      // eslint-disable-next-line no-await-in-loop
+      blob = await new Promise((resolve) => canvas.toBlob(resolve, outputType, quality));
+      if (!blob) continue;
+      if (blob.size <= IMAGE_UPLOAD_TARGET_BYTES) break;
+    }
+    if (!blob) return file;
+
+    const originalName = String(file.name || 'image').replace(/\.[^.]+$/, '');
+    return new File([blob], `${originalName}.jpg`, {
+      type: outputType,
+      lastModified: Date.now(),
+    });
+  } catch {
+    return file;
+  } finally {
+    URL.revokeObjectURL(objectUrl);
+  }
+}
+
+async function optimizeImagesForUpload(files = []) {
+  const inputFiles = Array.isArray(files) ? files : [];
+  const optimized = [];
+  for (const file of inputFiles) {
+    // eslint-disable-next-line no-await-in-loop
+    const nextFile = await optimizeImageForUpload(file);
+    optimized.push(nextFile || file);
+  }
+  return optimized;
 }
 
 function getNumericPrice(value) {
@@ -170,11 +172,144 @@ function mapPurposeToSlug(purpose) {
   return 'sell';
 }
 
+function extractAmenityNames(payload) {
+  const queue = [payload];
+  const visited = new Set();
+  const names = [];
+  const seenNames = new Set();
+  const pickName = (item) => {
+    if (typeof item === 'string') return String(item).trim();
+    if (typeof item === 'number') return String(item).trim();
+    return String(
+      item?.name
+      || item?.title
+      || item?.amenity
+      || item?.label
+      || item?.amenity_name
+      || item?.amenity_title
+      || item?.feature
+      || item?.feature_name
+      || item?.value
+      || item?.text
+      || ''
+    ).trim();
+  };
+
+  while (queue.length) {
+    const node = queue.shift();
+    if (!node || typeof node !== 'object') continue;
+    if (visited.has(node)) continue;
+    visited.add(node);
+
+    if (Array.isArray(node)) {
+      node.forEach((item) => queue.push(item));
+      continue;
+    }
+
+    if (typeof node === 'string' || typeof node === 'number') {
+      const valueName = pickName(node);
+      if (valueName) {
+        const normalized = valueName.toLowerCase();
+        if (!seenNames.has(normalized)) {
+          seenNames.add(normalized);
+          names.push(valueName);
+        }
+      }
+      continue;
+    }
+
+    const candidate = pickName(node);
+    if (candidate) {
+      const normalized = candidate.toLowerCase();
+      if (!seenNames.has(normalized)) {
+        seenNames.add(normalized);
+        names.push(candidate);
+      }
+    }
+
+    Object.values(node).forEach((value) => {
+      if (value && typeof value === 'object') queue.push(value);
+    });
+  }
+
+  return names;
+}
+
+async function fetchAmenitiesByListingId(id, authToken) {
+  const amenityId = Number(id);
+  if (!amenityId || !authToken) return [];
+  const baseApi = normalizeApiBase(process.env.REACT_APP_API_BASE_URL || 'https://admin.pakistanproperty.com');
+  const endpoints = [
+    `${baseApi}/api/agent/properties/amenities/${amenityId}`,
+    `${baseApi}/agent/properties/amenities/${amenityId}`,
+    `/api/agent/properties/amenities/${amenityId}`,
+  ];
+  for (const endpoint of endpoints) {
+    try {
+      // eslint-disable-next-line no-await-in-loop
+      const response = await fetch(endpoint, {
+        method: 'GET',
+        headers: {
+          Accept: 'application/json',
+          Authorization: `Bearer ${authToken}`,
+        },
+      });
+      if (!response.ok) continue;
+      let parsed = null;
+      // eslint-disable-next-line no-await-in-loop
+      const contentType = String(response.headers.get('content-type') || '').toLowerCase();
+      if (contentType.includes('application/json')) {
+        // eslint-disable-next-line no-await-in-loop
+        parsed = await response.json().catch(() => null);
+      } else {
+        // eslint-disable-next-line no-await-in-loop
+        parsed = safeParseJson(await response.text());
+      }
+      if (!parsed || typeof parsed !== 'object') continue;
+      const names = extractAmenityNames(parsed);
+      if (names.length) return names;
+    } catch {
+      // ignore and try fallback endpoint
+    }
+  }
+  return [];
+}
+
+async function fetchAmenitiesByFallbackIds(ids = [], authToken = '') {
+  const uniqueIds = Array.from(new Set(
+    (Array.isArray(ids) ? ids : [])
+      .map((item) => Number(item))
+      .filter((item) => Number.isFinite(item) && item > 0)
+  ));
+  for (const id of uniqueIds) {
+    // eslint-disable-next-line no-await-in-loop
+    const names = await fetchAmenitiesByListingId(id, authToken);
+    if (names.length) return names;
+  }
+  return [];
+}
+
+function sanitizePropertyTypeLabel(value, fallback = 'Property') {
+  const raw = String(value || '').replace(/\s+/g, ' ').trim();
+  if (!raw) return fallback;
+  const lower = raw.toLowerCase();
+  const isEmailLike = /@/.test(raw) || /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(raw);
+  const isPhoneLike = /^\+?\d[\d\s-]{7,}$/.test(raw);
+  const hasOnlySymbolsOrDigits = /^[^a-zA-Z]*$/.test(raw);
+  if (isEmailLike || isPhoneLike || hasOnlySymbolsOrDigits || lower.includes('.com') || lower.includes('.pk')) {
+    return fallback;
+  }
+  if (/\b(?:rs|pkr|lakh|lac|crore|core|cr|million|billion|price|rent|lease|amount)\b/i.test(lower)) {
+    return fallback;
+  }
+  return raw;
+}
+
 function buildAutoListingTitle({ size, sizeUnit, propertyType, purpose, address }) {
   const purposeText = String(purpose || 'Sell').toLowerCase();
   const purposeLabel = purposeText === 'rent' ? 'for Rent' : purposeText === 'lease' ? 'for Lease' : 'for Sale';
   const sizeText = size ? `${size} ${sizeUnit || ''}`.trim() : '';
-  const safeType = String(propertyType || 'Property').trim() || 'Property';
+  const safeType = sanitizePropertyTypeLabel(propertyType, 'Property');
   const cleanAddress = getDisplayLocationFromAddress(address);
   const locationText = cleanAddress || 'Pakistan';
   return `${sizeText ? `${sizeText} ` : ''}${safeType} ${purposeLabel} in ${locationText}`.replace(/\s+/g, ' ').trim();
@@ -193,7 +328,7 @@ function buildAutoListingDescription({
 }) {
   const purposeText = String(purpose || 'Sell').toLowerCase();
   const purposeLabel = purposeText === 'rent' ? 'for rent' : purposeText === 'lease' ? 'for lease' : 'for sale';
-  const safeType = String(propertyType || 'property').trim() || 'property';
+  const safeType = sanitizePropertyTypeLabel(propertyType, 'property');
   const locationText = getDisplayLocationFromAddress(address) || 'a prime location in Pakistan';
   const sizeText = size ? `${size} ${sizeUnit || ''}`.trim() : '';
   const roomsText = [
@@ -222,7 +357,13 @@ function parseAddressParts(addressText, cityRecords = []) {
   }
 
   const normalized = fullAddress.toLowerCase();
-  const normalizeLoose = (value) => String(value || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  const normalizeLoose = (value) => String(value || '')
+    .toLowerCase()
+    .replace(/[^\w\s]/g, ' ')
+    .replace(/q/g, 'k')
+    .replace(/\bnager\b/g, 'nagar')
+    .replace(/\s+/g, ' ')
+    .trim();
   const levenshtein = (a, b) => {
     const s = String(a || '');
     const t = String(b || '');
@@ -265,7 +406,7 @@ function parseAddressParts(addressText, cityRecords = []) {
     .find((item) => normalized.includes(item.city.toLowerCase()));
   let matchedCityToken = matchedCity?.city || '';
 
-  const hasLocationContextHint = /\b(?:location|located|address|area|city|near|in|at|phase|block|sector|town|society|scheme|colony|road|street|avenue|dha)\b/i.test(fullAddress)
+  const hasLocationContextHint = /\b(?:location|located|address|area|city|near|in|at|phase|block|sector|town|society|scheme|colony|road|street|avenue|bypass|dha)\b/i.test(fullAddress)
     || fullAddress.includes(',');
 
   if (!matchedCity && hasLocationContextHint) {
@@ -329,7 +470,7 @@ function getDisplayLocationFromAddress(addressText) {
   const cityName = String(parsed?.cityName || '').trim();
   // Strict mode: only accept locations tied to known city data.
   if (!cityName) return '';
-  const areaKeywordMatches = raw.match(/(?:dha\s*(?:phase|pahse|phse)\s*\d+|model\s*town|[a-z0-9]+\s*town|[a-z0-9]+\s*block\s*[a-z0-9]+|[a-z0-9]+\s*sector\s*[a-z0-9]+|[a-z0-9]+\s*society|[a-z0-9]+\s*scheme|[a-z0-9]+\s*colony|[a-z0-9]+\s*road|[a-z0-9]+\s*street|[a-z0-9]+\s*avenue)/ig) || [];
+  const areaKeywordMatches = raw.match(/(?:dha\s*(?:phase|pahse|phse)\s*\d+|model\s*town|[a-z0-9]+\s*city|[a-z0-9]+\s*town|[a-z0-9]+\s*block\s*[a-z0-9]+|[a-z0-9]+\s*sector\s*[a-z0-9]+|[a-z0-9]+\s*society|[a-z0-9]+\s*scheme|[a-z0-9]+\s*colony|[a-z0-9]+\s*road|[a-z0-9]+\s*street|[a-z0-9]+\s*avenue|[a-z0-9]+\s*bypass)/ig) || [];
   const hintedArea = String(areaKeywordMatches[areaKeywordMatches.length - 1] || '').replace(/\s+/g, ' ').trim();
   const parsedArea = String(parsed?.areaName || '').replace(/\s+/g, ' ').trim();
   let areaName = hintedArea;
@@ -360,6 +501,16 @@ function getDisplayLocationFromAddress(addressText) {
       .replace(/\s+/g, ' ')
       .trim();
     if (directArea && directArea.split(' ').length <= 4) areaName = directArea;
+  }
+
+  if (!areaName && raw.includes(',')) {
+    const commaAreaMatch = raw.match(/([a-z][a-z0-9\s-]{1,40})\s*,\s*([a-z][a-z0-9\s-]{1,40})(?:\s|$)/i);
+    const commaArea = String(commaAreaMatch?.[1] || '')
+      .replace(/\b(?:ma|mein|main|ka|ki|ke|jis|or|aur|ha|hai|hain|ho|cha|chahta|chata|chahte|krna|karna|reha|raha|price|sale|sell|rent|lease|house|plot|shop|flat|makan|located|location|address|area|ye)\b/gi, ' ')
+      .replace(/\b\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet)\b/gi, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (commaArea && commaArea.split(' ').length <= 4) areaName = commaArea;
   }
 
   if (!areaName && cityName) {
@@ -438,12 +589,27 @@ async function resolveAreaMetadata(cityName, areaName) {
     const module = await import(`../../citiesLocation/locations/${fileName}.json`);
     const locations = Array.isArray(module?.default) ? module.default : [];
     if (!locations.length) return null;
+    const GENERIC_LOCATION_TOKENS = new Set([
+      'city', 'town', 'society', 'scheme', 'colony', 'block', 'sector', 'phase',
+      'road', 'street', 'avenue', 'near', 'area', 'location',
+    ]);
     const normalize = (value) => String(value || '')
       .toLowerCase()
       .replace(/[^\w\s]/g, ' ')
+      .replace(/q/g, 'k')
+      .replace(/\bnager\b/g, 'nagar')
       .replace(/\b(?:ye|yah|yeh|yha|yahan|waha|wahan|is|ki|ka|ke|ma|mein|main)\b/g, ' ')
       .replace(/\s+/g, ' ')
       .trim();
+    const compact = (value) =>
+      normalize(value)
+        .replace(/\b([a-z]{2,})\s+pur\b/g, '$1pur')
+        .replace(/\s+/g, '');
+    const getMeaningfulTokens = (value) =>
+      normalize(value)
+        .split(' ')
+        .map((token) => token.trim())
+        .filter((token) => token.length >= 3 && !GENERIC_LOCATION_TOKENS.has(token));
     const simplify = (value) =>
       normalize(value)
         .replace(/\b(?:city|town|society|scheme|colony|block|sector|phase|road|street|avenue)\b/g, ' ')
@@ -478,42 +644,78 @@ async function resolveAreaMetadata(cityName, areaName) {
       const distance = levenshtein(x, y);
       return 1 - (distance / Math.max(x.length, y.length));
     };
+    const compactTarget = compact(normalizedArea);
 
     const exact = locations.find((item) => normalize(item?.name) === normalizedArea);
     if (exact) return exact;
+    const compactExact = locations.find((item) => compact(item?.name) === compactTarget);
+    if (compactExact) return compactExact;
     const contains = locations.find((item) => normalize(item?.name).includes(normalizedArea));
     if (contains) return contains;
     const reverseContains = locations.find((item) => normalizedArea.includes(normalize(item?.name)));
     if (reverseContains) return reverseContains;
+    const compactContains = locations.find((item) => compact(item?.name).includes(compactTarget));
+    if (compactContains) return compactContains;
+    const compactReverseContains = locations.find((item) => compactTarget.includes(compact(item?.name)));
+    if (compactReverseContains) return compactReverseContains;
 
     // Token fallback: for short location hints like "bypass", match any area containing key token.
-    const tokens = normalizedArea.split(' ').filter((token) => token.length >= 4);
+    const tokens = getMeaningfulTokens(normalizedArea);
     if (tokens.length) {
-      const tokenMatch = locations.find((item) => {
+      let tokenMatch = null;
+      let bestTokenScore = 0;
+      locations.forEach((item) => {
         const name = normalize(item?.name);
-        return tokens.some((token) => name.includes(token));
+        if (!name) return;
+        const itemTokens = getMeaningfulTokens(name);
+        const overlapCount = tokens.filter((token) => itemTokens.includes(token)).length;
+        if (!overlapCount) return;
+        const tokenCoverage = overlapCount / tokens.length;
+        const score = tokenCoverage + (overlapCount * 0.1);
+        if (score > bestTokenScore) {
+          bestTokenScore = score;
+          tokenMatch = item;
+        }
       });
-      if (tokenMatch) return tokenMatch;
+      if (tokenMatch && bestTokenScore >= 0.6) return tokenMatch;
     }
 
     const simplifiedTarget = simplify(normalizedArea);
+    const targetTokens = getMeaningfulTokens(normalizedArea);
     let bestMatch = null;
     let bestScore = 0;
+    let bestCompactScore = 0;
     locations.forEach((item) => {
       const locationName = normalize(item?.name);
       if (!locationName) return;
       const simplifiedLocation = simplify(locationName);
+      const compactLocation = compact(locationName);
+      const locationTokens = getMeaningfulTokens(locationName);
+      const tokenOverlap = targetTokens.length
+        ? targetTokens.filter((token) => locationTokens.includes(token)).length / targetTokens.length
+        : 0;
+      const compactSimilarity = similarityScore(compactTarget, compactLocation);
       const score = Math.max(
         similarityScore(normalizedArea, locationName),
-        similarityScore(simplifiedTarget, simplifiedLocation)
-      );
+        similarityScore(simplifiedTarget, simplifiedLocation),
+        compactSimilarity
+      ) + (tokenOverlap * 0.15);
       if (score > bestScore) {
         bestScore = score;
         bestMatch = item;
       }
+      if (compactSimilarity > bestCompactScore) {
+        bestCompactScore = compactSimilarity;
+      }
     });
 
-    return bestScore >= 0.72 ? bestMatch : null;
+    if (bestScore < 0.72) return null;
+    if (targetTokens.length) {
+      const bestTokens = getMeaningfulTokens(bestMatch?.name);
+      const hasTokenOverlap = targetTokens.some((token) => bestTokens.includes(token));
+      if (!hasTokenOverlap && bestCompactScore < 0.84) return null;
+    }
+    return bestMatch;
   } catch {
     return null;
   }
@@ -527,13 +729,146 @@ function safeParseJson(value) {
   }
 }
 
+function getRuntimeAuthLikeObjects() {
+  if (typeof window === 'undefined') return [];
+  const candidates = [
+    window.loginData,
+    window.login_data,
+    window.authData,
+    window.auth_data,
+    window.currentUser,
+  ];
+  return candidates.filter((item) => item && typeof item === 'object');
+}
+
+function getStorageAuthLikeObjects() {
+  if (typeof window === 'undefined') return [];
+  const buckets = [window.localStorage, window.sessionStorage];
+  const scanned = [];
+  const looksRelevantKey = (key) => /(login|auth|user|profile|account)/i.test(String(key || ''));
+  const hasUsefulFields = (obj) => {
+    if (!obj || typeof obj !== 'object') return false;
+    const probes = [obj, obj.user, obj.data, obj.data?.user, obj.profile, obj.data?.profile];
+    return probes.some((item) => item && typeof item === 'object' && (
+      item.email || item.user_email || item.phone || item.phone_number || item.mobile || item.contact_number || item.token || item.api_token
+    ));
+  };
+
+  buckets.forEach((storage) => {
+    if (!storage) return;
+    for (let i = 0; i < storage.length; i += 1) {
+      const key = storage.key(i);
+      if (!looksRelevantKey(key)) continue;
+      const raw = storage.getItem(key);
+      if (!raw) continue;
+      const parsed = safeParseJson(raw);
+      if (parsed && typeof parsed === 'object' && hasUsefulFields(parsed)) {
+        scanned.push(parsed);
+      }
+    }
+  });
+  return scanned;
+}
+
+function queueListingForOfflinePublish(payload) {
+  try {
+    const existing = safeParseJson(localStorage.getItem(OFFLINE_LISTINGS_QUEUE_KEY));
+    const queue = Array.isArray(existing) ? existing : [];
+    const snapshot = {
+      id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+      createdAt: new Date().toISOString(),
+      payload,
+    };
+    const nextQueue = [snapshot, ...queue].slice(0, 50);
+    localStorage.setItem(OFFLINE_LISTINGS_QUEUE_KEY, JSON.stringify(nextQueue));
+    return nextQueue.length;
+  } catch {
+    return 0;
+  }
+}
+
+function getOfflinePublishQueue() {
+  const parsed = safeParseJson(localStorage.getItem(OFFLINE_LISTINGS_QUEUE_KEY));
+  return Array.isArray(parsed) ? parsed : [];
+}
+
+function setOfflinePublishQueue(queue) {
+  localStorage.setItem(OFFLINE_LISTINGS_QUEUE_KEY, JSON.stringify(Array.isArray(queue) ? queue : []));
+}
+
+function buildFormDataFromPayload(payload) {
+  const formData = new FormData();
+  Object.entries(payload || {}).forEach(([key, value]) => {
+    if (Array.isArray(value)) {
+      value.forEach((item) => formData.append(`${key}[]`, item));
+    } else {
+      formData.append(key, value);
+    }
+  });
+  return formData;
+}
+
+async function flushOfflinePublishQueue({ apiEndpoints = [], authToken = '', timeoutMs = 15000, maxItems = OFFLINE_FLUSH_BATCH_SIZE }) {
+  if (!authToken || !Array.isArray(apiEndpoints) || !apiEndpoints.length) return { flushed: 0, remaining: getOfflinePublishQueue().length };
+  const queue = getOfflinePublishQueue();
+  if (!queue.length) return { flushed: 0, remaining: 0 };
+
+  const processList = queue.slice(0, maxItems);
+  const untouched = queue.slice(maxItems);
+  const failed = [];
+  let flushed = 0;
+
+  for (const item of processList) {
+    let delivered = false;
+    for (const endpoint of apiEndpoints) {
+      let timeoutId;
+      try {
+        const controller = new AbortController();
+        timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+        // eslint-disable-next-line no-await-in-loop
+        const response = await fetch(endpoint, {
+          method: 'POST',
+          headers: {
+            Accept: 'application/json',
+            Authorization: `Bearer ${authToken}`,
+          },
+          body: buildFormDataFromPayload(item?.payload || {}),
+          signal: controller.signal,
+        });
+        clearTimeout(timeoutId);
+        if (!response.ok) continue;
+        const contentType = String(response.headers.get('content-type') || '').toLowerCase();
+        // eslint-disable-next-line no-await-in-loop
+        const text = await response.text();
+        const trimmed = text.trim().toLowerCase();
+        const isHtml = contentType.includes('text/html') || trimmed.startsWith('<!doctype html') || trimmed.startsWith('<html');
+        if (isHtml) continue;
+        delivered = true;
+        flushed += 1;
+        break;
+      } catch {
+        if (timeoutId) clearTimeout(timeoutId);
+      }
+    }
+    if (!delivered) failed.push(item);
+  }
+
+  setOfflinePublishQueue([...failed, ...untouched]);
+  return { flushed, remaining: failed.length + untouched.length };
+}
+
 function getStoredAuthUser() {
   const possibleKeys = [
     'user',
     'authUser',
     'currentUser',
     'loginUser',
+    'loginData',
+    'login_data',
     'signupUser',
+    'userData',
+    'auth',
+    'auth_data',
     'profile',
     'agent_user',
   ];
@@ -544,6 +879,11 @@ function getStoredAuthUser() {
     const parsed = safeParseJson(raw);
     if (parsed && typeof parsed === 'object') return parsed;
   }
+
+  const storageObjects = getStorageAuthLikeObjects();
+  if (storageObjects.length) return storageObjects[0];
+  const runtimeObjects = getRuntimeAuthLikeObjects();
+  if (runtimeObjects.length) return runtimeObjects[0];
 
   return null;
 }
@@ -580,14 +920,14 @@ function getStoredAuthToken(user) {
 function normalizePakistanPhone(phoneValue) {
   const digits = String(phoneValue || '').replace(/\D/g, '');
   if (!digits) return '';
-  if (digits.startsWith('0') && digits.length === 11) return digits;
-  if (digits.startsWith('92') && digits.length === 12) return `0${digits.slice(2)}`;
-  if (digits.startsWith('3') && digits.length === 10) return `0${digits}`;
+  if (digits.startsWith('0') && digits.length === 11) return digits.slice(1);
+  if (digits.startsWith('92') && digits.length === 12) return digits.slice(2);
+  if (digits.startsWith('3') && digits.length === 10) return digits;
   return digits;
 }
 
 function isValidPakistanMobile(phoneValue) {
-  return /^03\d{9}$/.test(String(phoneValue || '').trim());
+  return /^3\d{9}$/.test(String(phoneValue || '').trim());
 }
 
 function toApiPakistanPhone(phoneValue) {
@@ -607,6 +947,21 @@ function pickFirstValue(obj, keys) {
     }
   }
   return '';
+}
+
+function getCandidateUserSources(seed) {
+  const queue = Array.isArray(seed) ? [...seed] : [seed];
+  const seen = new Set();
+  const sources = [];
+  while (queue.length) {
+    const item = queue.shift();
+    if (!item || typeof item !== 'object') continue;
+    if (seen.has(item)) continue;
+    seen.add(item);
+    sources.push(item);
+    queue.push(item.user, item.data, item.data?.user, item.profile, item.data?.profile);
+  }
+  return sources;
 }
 
 function getContactFromUser(user) {
@@ -630,7 +985,13 @@ function getContactFromUser(user) {
     storagePhoneKeys
   );
 
-  const userSources = [user, user?.user, user?.data, user?.data?.user, user?.profile];
+  const storageObjectKeys = ['loginData', 'login_data', 'authUser', 'userData', 'auth', 'auth_data'];
+  const storageObjects = storageObjectKeys
+    .map((key) => safeParseJson(localStorage.getItem(key) || sessionStorage.getItem(key)))
+    .filter((item) => item && typeof item === 'object');
+  const scannedStorageObjects = getStorageAuthLikeObjects();
+  const runtimeObjects = getRuntimeAuthLikeObjects();
+  const userSources = getCandidateUserSources([user, ...storageObjects, ...scannedStorageObjects, ...runtimeObjects]);
   let userPhone = '';
   for (const source of userSources) {
     if (!source || typeof source !== 'object') continue;
@@ -643,8 +1004,25 @@ function getContactFromUser(user) {
 }
 
 function getEmailFromUser(user) {
-  if (!user || typeof user !== 'object') return '';
-  return String(user.email || user.user_email || '').trim();
+  const emailKeys = ['email', 'user_email', 'login_email', 'agent_email'];
+  const directStorageEmail = pickFirstValue(
+    Object.fromEntries(
+      emailKeys.map((key) => [key, localStorage.getItem(key) || sessionStorage.getItem(key)])
+    ),
+    emailKeys
+  );
+  const storageObjectKeys = ['loginData', 'login_data', 'authUser', 'userData', 'auth', 'auth_data'];
+  const storageObjects = storageObjectKeys
+    .map((key) => safeParseJson(localStorage.getItem(key) || sessionStorage.getItem(key)))
+    .filter((item) => item && typeof item === 'object');
+  const scannedStorageObjects = getStorageAuthLikeObjects();
+  const runtimeObjects = getRuntimeAuthLikeObjects();
+  const userSources = getCandidateUserSources([user, ...storageObjects, ...scannedStorageObjects, ...runtimeObjects]);
+  for (const source of userSources) {
+    const email = pickFirstValue(source, emailKeys);
+    if (email) return String(email).trim();
+  }
+  return String(directStorageEmail || '').trim();
 }
 
 function getDisplayNameFromUser(user) {
@@ -1859,6 +2237,8 @@ function AiChatbotListingPage({
   persistedMessages,
   persistedDraft,
   onPersistChatState,
+  returnToPublishOnSend,
+  onReturnToPublishAfterSend,
 }) {
 
   const [messages, setMessages] = useState(() => (
@@ -1893,10 +2273,10 @@ function AiChatbotListingPage({
         bathrooms: persistedDraft.bathrooms || '',
         features: persistedDraft.features || '',
         subType: persistedDraft.subType || '',
-        useProfileContact: persistedDraft.useProfileContact || '',
+        useProfileContact: persistedDraft.useProfileContact || ((profileContactNumber || profileEmail) ? 'yes' : ''),
         images: persistedDraft.images || ((selectedUploadedImages?.length || 0) ? `uploaded:${selectedUploadedImages.length}` : ''),
-        contactNumber: persistedDraft.contactNumber || selectedContactNumber || '',
-        email: persistedDraft.email || selectedEmail || '',
+        contactNumber: persistedDraft.contactNumber || selectedContactNumber || profileContactNumber || '',
+        email: persistedDraft.email || selectedEmail || profileEmail || '',
       };
     }
     return {
@@ -1910,10 +2290,10 @@ function AiChatbotListingPage({
       bathrooms: selectedBathrooms || '',
       features: selectedFeature || '',
       subType: '',
-      useProfileContact: '',
+      useProfileContact: (profileContactNumber || profileEmail) ? 'yes' : '',
       images: (selectedUploadedImages?.length || 0) ? `uploaded:${selectedUploadedImages.length}` : '',
-      contactNumber: selectedContactNumber || '',
-      email: selectedEmail || '',
+      contactNumber: selectedContactNumber || profileContactNumber || '',
+      email: selectedEmail || profileEmail || '',
     };
   });
 
@@ -1983,8 +2363,9 @@ function AiChatbotListingPage({
       // Features are generated automatically from location and property context.
       if (key === 'features') continue;
       if ((key === 'bedrooms' || key === 'bathrooms' || key === 'features') && shouldSkipAmenityQuestions(data)) continue;
-      if (key === 'useProfileContact' && !hasProfileContact) continue;
-      if ((key === 'email' || key === 'contactNumber') && data?.useProfileContact === 'yes') continue;
+      if (key === 'useProfileContact') continue;
+      if (key === 'email' && data?.useProfileContact === 'yes' && String(data?.email || '').trim()) continue;
+      if (key === 'contactNumber' && data?.useProfileContact === 'yes' && String(data?.contactNumber || '').trim()) continue;
       if (String(data?.[key] || '').trim()) continue;
       return key;
     }
@@ -1993,25 +2374,25 @@ function AiChatbotListingPage({
 
   const getPromptForStage = (stage) => {
     if (stage === 'purpose') return PAKISTANI_PROPERTY_AGENT_FIRST_QUESTION;
-    if (stage === 'propertyType') return 'Great. Property kis category mein hai — Home, Commercial ya Plot?';
-    if (stage === 'subType') return 'Nice. Ab is ka exact sub-type batayein (jaise House, Shop, Office, etc.).';
-    if (stage === 'address') return 'Perfect. Location share karein (Area, City).';
-    if (stage === 'size') return 'Area size batayein (jaise 5 Marla, 10 Marla, 1 Kanal).';
+    if (stage === 'propertyType') return 'Great, category confirm kar dein — Home, Commercial ya Plot.';
+    if (stage === 'subType') return 'Perfect. Is ka exact sub-type kya hai? (House, Shop, Office, Flat, etc.)';
+    if (stage === 'address') return 'Nice. Location share karein (Area, City) — jaise DHA Phase 6, Lahore.';
+    if (stage === 'size') return 'Area size bhi bata dein (jaise 5 Marla, 10 Marla, 1 Kanal).';
     if (stage === 'price') {
       const purpose = String(draft?.purpose || '').toLowerCase();
       if (purpose === 'sell') return 'Expected price kitni rakhna chahte hain?';
-      if (purpose === 'rent') return 'Expected rent kitna rakhna chahte hain?';
+      if (purpose === 'rent') return 'Expected monthly rent kitna rakhna chahte hain?';
       if (purpose === 'lease') return 'Expected lease amount kitna rakhna chahte hain?';
-      return 'Expected amount kitna rakhna chahte hain?';
+      return 'Expected amount bata dein.';
     }
-    if (stage === 'bedrooms') return isCommercialType(draft) ? 'Bedrooms kitne hain? (Agar apply nahi karta to skip kar dein.)' : 'Bedrooms kitne hain?';
-    if (stage === 'bathrooms') return isCommercialType(draft) ? 'Bathrooms kitne hain? (Agar apply nahi karta to skip kar dein.)' : 'Bathrooms kitne hain?';
-    if (stage === 'features') return 'Key features batayein (comma se alag likh sakte hain).';
+    if (stage === 'bedrooms') return isCommercialType(draft) ? 'Bedrooms kitne hain? (Agar apply nahi karta to "skip" likh dein.)' : 'Bedrooms kitne hain?';
+    if (stage === 'bathrooms') return isCommercialType(draft) ? 'Bathrooms kitne hain? (Agar apply nahi karta to "skip" likh dein.)' : 'Bathrooms kitne hain?';
+    if (stage === 'features') return 'Agar koi special features hain to share karein (parking, corner, park facing, etc.).';
     if (stage === 'useProfileContact') return 'Kya profile wala contact use karna hai?';
     if (stage === 'email') return 'Email address share karein.';
-    if (stage === 'contactNumber') return 'Contact number share karein (03XXXXXXXXX).';
-    if (stage === 'images') return 'Ab images upload karein — click karein ya drag and drop kar dein.';
-    return 'Excellent. Basic listing details complete ho gayi hain.';
+    if (stage === 'contactNumber') return 'Contact number share karein (3XXXXXXXXX).';
+    if (stage === 'images') return `Great. Ab images upload karein — minimum ${MIN_REQUIRED_IMAGES} photos lazmi hain. Click karein ya drag & drop kar dein.`;
+    return 'Excellent, basic listing details complete ho gayi hain. Ab aage publish kar sakte hain.';
   };
 
   const getInvalidStageReply = (stage) => {
@@ -2026,10 +2407,11 @@ function AiChatbotListingPage({
       bathrooms: 'Bathrooms ki ginti number mein batayein.',
       features: '2-3 features likh dein, jaise parking, security, corner.',
       email: 'Valid email format dein, jaise name@email.com.',
-      contactNumber: 'Valid Pakistani mobile number dein, format 03XXXXXXXXX.',
+      contactNumber: 'Valid Pakistani mobile number dein, format 3XXXXXXXXX (without 0 and +92).',
+      images: `Invalid input. Minimum ${MIN_REQUIRED_IMAGES} photos upload karein.`,
     };
     const hint = stageHints[stage] || 'Thori si aur clear detail share karein.';
-    return `Mujhe is point par thori clear detail chahiye. ${hint}`;
+    return `Samajh gaya, bas is point par thori clear detail chahiye. ${hint}`;
   };
 
   const normalizeInputForUnderstanding = (text) =>
@@ -2037,11 +2419,15 @@ function AiChatbotListingPage({
       .toLowerCase()
       .replace(/[^\w\s]/g, ' ')
       .replace(/\b(?:mai|main|mein|mn|mna)\b/g, ' ')
-      .replace(/\b(?:ghr|ghar|makan|makaan|home)\b/g, ' house ')
-      .replace(/\b(?:bechna|bechni|bechne|farokht|farokhti)\b/g, ' sell ')
-      .replace(/\b(?:kiraya|kiraye|kiray|kraya|kraye|ijara|ijarah)\b/g, ' rent ')
+      // Local phrasing: "kiraya/kariya par charna/chrana" => rent intent.
+      .replace(/\b(?:kiraya|kiraye|kiraaye|kiray|kiraiya|kiraiye|kiraiy|kraya|kraye|karaya|karaye|kariya|kariyae|kariyai|karyia)\s+par\s+(?:charna|charana|chrana|chrana|charhana|charhane|charhanna|chadana|chadna|chadanae|dena|dene)\b/g, ' rent ')
+      .replace(/\b[a-z]*haish[a-z]*(?:\s*gah)?\b/g, ' house ')
+      .replace(/\b[a-z]*hayish[a-z]*(?:\s*gah)?\b/g, ' house ')
+      .replace(/\b(?:ghr|ghar|gahr|makan|makaan|home|rehayish|rehayashi|rahaish|rahaishi|rehaish|rehaishi|rehash|rahash|reahash|rehayishgah|rehayish\s*gah|rahaishgah|rahaish\s*gah|rehaishgah|rehaish\s*gah|rehashgah|rehash\s*gah|rahashgah|rahash\s*gah|reahashgah|reahash\s*gah)\b/g, ' house ')
+      .replace(/\b(?:bechna|bechni|bechani|bechne|bechana|bechanaa|beechana|beechanaa|beechani|beechna|beechne|bechra|farokht|farokhti|farukht|farukhti|frokht|forokht|farokhat|farukhat|rarokht|farot|farout|farouth)\b/g, ' sell ')
+      .replace(/\b(?:kiraya|kiraye|kiraaye|kiray|kiraiya|kiraiye|kiraiy|kraya|kraye|karaya|karaye|kirae|kariya|kariyae|kariyai|karyia|ijara|ijarah)\b/g, ' rent ')
       .replace(/\b(?:dena|dene|daina)\b/g, ' ')
-      .replace(/\b(?:dukan)\b/g, ' shop ')
+      .replace(/\b(?:dukan|dukkan)\b/g, ' shop ')
       .replace(/\b(?:daftar)\b/g, ' office ')
       .replace(/\b(?:zameen|qita|qita zameen)\b/g, ' plot ')
       .replace(/\b(?:jaga|jgah|jagah|location|loc)\b/g, ' location ')
@@ -2058,10 +2444,10 @@ function AiChatbotListingPage({
     const hasAny = (keywords) => keywords.some((keyword) => normalized.includes(keyword));
 
     const sellKeywords = [
-      'sell', 'sale', 'for sale', 'selling', 'bechna', 'bechni', 'bechne', 'farokht',
+      'sell', 'sale', 'for sale', 'selling', 'bechna', 'bechni', 'bechani', 'bechne', 'bechana', 'bechanaa', 'beechana', 'beechanaa', 'beechani', 'beechna', 'beechne', 'bechra', 'farokht', 'farukht', 'frokht', 'forokht', 'farokhat', 'farukhat', 'rarokht', 'farot', 'farout', 'farouth',
     ];
     const rentKeywords = [
-      'rent', 'for rent', 'kiraya', 'kiraye', 'kiray', 'rent dena', 'rent pe',
+      'rent', 'for rent', 'kiraya', 'kiraye', 'kiraaye', 'kiray', 'kiraiya', 'kiraiye', 'kiraiy', 'kraya', 'kraye', 'karaya', 'karaye', 'kirae', 'kariya', 'kariyae', 'kariyai', 'karyia', 'rent dena', 'rent pe',
     ];
     const leaseKeywords = [
       'lease', 'ijara', 'ijarah',
@@ -2116,6 +2502,7 @@ function AiChatbotListingPage({
   const inferPropertyTypeFromText = (text) => {
     const raw = String(text || '').trim();
     if (!raw) return '';
+    if (/@/.test(raw) || /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(raw)) return '';
 
     const knownTypes = [
       'house',
@@ -2161,24 +2548,48 @@ function AiChatbotListingPage({
     const cleaned = raw
       .replace(/\d+(\.\d+)?/g, ' ')
       .replace(/\b(?:marla|kanal|sq\.?\s*ft|square\s*feet|feet|sq\.?\s*yd|square\s*yards?|sq\.?\s*m|square\s*meters?|meter|yard)\b/gi, ' ')
+      .replace(/\b(?:rs|pkr|lakh|lac|crore|core|cr|million|billion|price|budget|amount)\b/gi, ' ')
       .replace(/\b(?:for|sale|sell|rent|buy|property|in|at|of)\b/gi, ' ')
       .replace(/\s+/g, ' ')
       .trim();
 
     if (!cleaned) return '';
-    const words = cleaned.split(' ').filter(Boolean);
+    if (/@/.test(cleaned) || cleaned.includes('.com') || cleaned.includes('.pk')) return '';
+    const words = cleaned
+      .split(' ')
+      .filter(Boolean)
+      .filter((word) => !/^(?:rs|pkr|lakh|lac|crore|core|cr|million|billion|price|budget|amount)$/i.test(word));
     if (words.length > 3) return '';
+    if (!words.length) return '';
 
     return toDisplayCase(words.join(' '));
   };
 
   const inferSubTypeFromText = (text, group) => {
     const options = CHATBOT_SUB_TYPE_OPTIONS[group] || [];
-    const lower = normalizeType(text);
+    const normalizedRaw = normalizeInputForUnderstanding(text);
+    const lower = normalizeType(normalizedRaw).replace(/\s+/g, ' ').trim();
     if (!lower) return '';
-    const exact = options.find((item) => normalizeType(item) === lower);
+    const exact = options.find((item) => normalizeType(item).replace(/\s+/g, ' ').trim() === lower);
     if (exact) return exact;
-    const contains = options.find((item) => lower.includes(normalizeType(item)));
+    const escapeRegex = (value) => String(value || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const byLength = [...options].sort((a, b) => String(b).length - String(a).length);
+    const wordBoundaryMatch = byLength.find((item) => {
+      const normalizedItem = normalizeType(item).replace(/\s+/g, ' ').trim();
+      if (!normalizedItem) return false;
+      const pattern = normalizedItem
+        .split(' ')
+        .filter(Boolean)
+        .map((part) => escapeRegex(part))
+        .join('\\s+');
+      if (!pattern) return false;
+      return new RegExp(`\\b${pattern}\\b`, 'i').test(lower);
+    });
+    if (wordBoundaryMatch) return wordBoundaryMatch;
+    const contains = byLength.find((item) => {
+      const normalizedItem = normalizeType(item).replace(/\s+/g, ' ').trim();
+      return normalizedItem && lower.includes(normalizedItem);
+    });
     return contains || '';
   };
 
@@ -2194,26 +2605,72 @@ function AiChatbotListingPage({
     const raw = String(text || '').trim();
     const lower = raw.toLowerCase();
     const normalized = normalizeInputForUnderstanding(raw);
-    const hasCurrencyHint = /\b(?:rs|pkr|price|budget|rent|lease|amount|lakh|lac|crore|core|cr|million|billion)\b/i.test(lower)
-      || /\b(?:rent|lease)\b/i.test(normalized);
+    const hasCurrencyHint = /\b(?:rs|pkr|price|qimat|qeemat|keemat|budget|amount|lakh|lac|crore|core|cor|croe|croar|cr|million|billion|hazar|hazaar|thousand)\b/i.test(lower);
+    const hasRentWithNumber =
+      /\b(?:rent|lease)\b(?:\s+\w+){0,4}\s*\d[\d,]*(?:\.\d+)?/i.test(normalized)
+      || /\b\d[\d,]*(?:\.\d+)?(?:\s+\w+){0,3}\s*(?:rent|lease)\b/i.test(normalized);
     const hasCompactNumberHint = /\b\d+(?:\.\d+)?\s*(?:k|m)\b/i.test(lower);
-    const hasPriceHint = hasCurrencyHint || hasCompactNumberHint;
+    const hasPriceHint = hasCurrencyHint || hasCompactNumberHint || hasRentWithNumber;
     if (!hasPriceHint) return '';
-    const hintMatch = raw.match(/(?:price|rs|pkr|rent|lease)\s*[:-]?\s*(\d[\d,]*(?:\.\d+)?(?:\s*(?:lakh|lac|crore|core|cr|million|billion|k|m))?)/i);
+    const hintMatch = raw.match(/(?:price|qimat|qeemat|keemat|rs|pkr|rent|lease)\s*[:-]?\s*(\d[\d,]*(?:\.\d+)?(?:\s*(?:hazar|hazaar|thousand|lakh|lac|crore|core|cor|croe|croar|cr|million|billion)\b|\s*[km](?![a-z]))?)/i);
     if (hintMatch?.[1]) return formatPriceWithRs(hintMatch[1]);
-    const candidates = [...raw.matchAll(/\d[\d,]*(?:\.\d+)?(?:\s*(?:lakh|lac|crore|core|cr|million|billion|k|m))?/gi)]
-      .map((item) => String(item?.[0] || '').trim())
-      .filter(Boolean);
+    const candidates = [...raw.matchAll(/\d[\d,]*(?:\.\d+)?(?:\s*(?:hazar|hazaar|thousand|lakh|lac|crore|core|cor|croe|croar|cr|million|billion)\b|\s*[km](?![a-z]))?/gi)]
+      .map((item) => {
+        const value = String(item?.[0] || '').trim();
+        const start = Number(item?.index ?? -1);
+        const end = start >= 0 ? start + value.length : -1;
+        const afterText = end >= 0 ? raw.slice(end).trimStart().toLowerCase() : '';
+        const isSizeContinuation = /^(?:marla|kanal|sq\.?\s*ft|sqft|square\s*feet|sq\.?\s*yd|square\s*yards?|sq\.?\s*m|square\s*meters?|yard|yards|meter|meters)\b/.test(afterText);
+        const hasMoneyUnit = /\b(?:hazar|hazaar|thousand|lakh|lac|crore|core|cor|croe|croar|cr|million|billion)\b|[km](?![a-z])$/i.test(value);
+        return { value, isSizeContinuation, hasMoneyUnit };
+      })
+      .filter((item) => item.value && (!item.isSizeContinuation || item.hasMoneyUnit))
+      .map((item) => item.value);
     if (!candidates.length) return '';
     const best = candidates.sort((a, b) => b.replace(/[^\d]/g, '').length - a.replace(/[^\d]/g, '').length)[0];
     return formatPriceWithRs(best);
+  };
+
+  const parsePriceForPriceStage = (text) => {
+    const raw = String(text || '').trim();
+    if (!raw) return '';
+
+    const strict = parsePriceFromText(raw);
+    if (strict) return strict;
+
+    // Accept bare numbers or lightly noisy numeric input during price step.
+    const bareNumber = raw.match(/^\s*\d[\d,]*(?:\.\d+)?\s*$/);
+    if (bareNumber?.[0]) return formatPriceWithRs(bareNumber[0]);
+
+    // If user entered size-centric text without any money hint, reject.
+    const lower = raw.toLowerCase();
+    const hasMoneyHint = /\b(?:rs|pkr|price|qimat|qeemat|keemat|budget|rent|lease|amount|hazar|hazaar|thousand|lakh|lac|crore|core|cor|croe|croar|cr|million|billion|k|m)\b/i.test(lower);
+    const hasSizeHint = /\b(?:marla|kanal|sq\.?\s*ft|sqft|square\s*feet|sq\.?\s*yd|square\s*yards?|sq\.?\s*m|square\s*meters?|yard|meter)\b/i.test(lower);
+    if (hasSizeHint && !hasMoneyHint) return '';
+
+    const looseMatch = raw.match(/(\d[\d,]*(?:\.\d+)?(?:\s*(?:hazar|hazaar|thousand|lakh|lac|crore|core|cor|croe|croar|cr|million|billion)\b|\s*[km](?![a-z]))?)/i);
+    if (!looseMatch?.[1]) return '';
+    return formatPriceWithRs(looseMatch[1]);
+  };
+
+  const isLikelyDirectPriceInput = (text) => {
+    const raw = String(text || '').trim().toLowerCase();
+    if (!raw) return false;
+    if (/^\d[\d,]*(?:\.\d+)?$/.test(raw)) return true;
+    return /^\d[\d,]*(?:\.\d+)?\s*(?:hazar|hazaar|thousand|lakh|lac|crore|core|cr|million|billion|k|m)$/.test(raw);
   };
 
   const parseAddressFromText = (text, force = false) => {
     const raw = String(text || '').trim();
     if (!raw) return '';
     const lower = normalizeInputForUnderstanding(raw);
-    const normalizedLocation = getDisplayLocationFromAddress(raw);
+    const withoutSizeContext = raw
+      .replace(/\barea\s*size\b/gi, ' ')
+      .replace(/\bsize\s*(?:is|ha|hai|:)?\s*\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet|yard|yards|meter|meters|sq\s*yd|sq\s*m)\b/gi, ' ')
+      .replace(/\b\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet|yard|yards|meter|meters|sq\s*yd|sq\s*m)\b/gi, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const normalizedLocation = getDisplayLocationFromAddress(withoutSizeContext || raw);
     if (normalizedLocation) return normalizedLocation;
 
     const locationHints = [
@@ -2224,14 +2681,14 @@ function AiChatbotListingPage({
     const hasLocationHint = locationHints.some((item) => lower.includes(item));
     if (!force && !hasLocationHint) return '';
 
-    let candidate = raw;
+    let candidate = withoutSizeContext || raw;
     const dhaIndex = lower.indexOf('dha');
     if (dhaIndex >= 0) {
-      candidate = raw.slice(dhaIndex).trim();
+      candidate = (withoutSizeContext || raw).slice(dhaIndex).trim();
     } else {
       const inIndex = lower.lastIndexOf(' in ');
-      if (inIndex >= 0 && raw.length > inIndex + 4) {
-        candidate = raw.slice(inIndex + 4).trim();
+      if (inIndex >= 0 && (withoutSizeContext || raw).length > inIndex + 4) {
+        candidate = (withoutSizeContext || raw).slice(inIndex + 4).trim();
       }
     }
 
@@ -2251,20 +2708,67 @@ function AiChatbotListingPage({
   const hasExplicitLocationIntent = (text) => {
     const raw = String(text || '').toLowerCase();
     if (!raw) return false;
-    return /\b(?:location|located|address|area|jaga|jagah|ma|main|mein|dha|phase|block|sector|town|society|scheme|colony|road|street|avenue)\b/i.test(raw);
+    const hasSizeOnlyAreaContext =
+      /\barea\s*size\b/i.test(raw)
+      || /\bsize\s*(?:is|ha|hai|:)?\s*\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet|yard|yards|meter|meters|sq\s*yd|sq\s*m)\b/i.test(raw)
+      || /\barea\s*\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet|yard|yards|meter|meters|sq\s*yd|sq\s*m)\b/i.test(raw);
+    const hasStrongLocationKeyword = /\b(?:location|located|address|jaga|jagah|dha|phase|block|sector|town|society|scheme|colony|road|street|avenue|bypass)\b/i.test(raw);
+    // Keep this strict to avoid false "invalid location" on normal sentences like:
+    // "ma aik shop sale krna chahta hoon".
+    if (hasSizeOnlyAreaContext && !hasStrongLocationKeyword && !raw.includes(',')) return false;
+    return hasStrongLocationKeyword
+      || raw.includes(',')
+      || /\b(?:lahore|karachi|islamabad|rawalpindi|faisalabad|multan|peshawar|quetta|sialkot|gujranwala|hyderabad|bahawalpur|bahawalnagar)\b/i.test(raw);
+  };
+
+  const shouldValidateLocationInput = (text, stage) => {
+    const raw = String(text || '').toLowerCase();
+    const currentStage = String(stage || '').toLowerCase();
+    if (!raw) return false;
+    if (currentStage === 'address') return true;
+
+    const hasDirectLocationCue = /\b(?:location|located|address|jaga|jagah)\b/i.test(raw);
+    const hasKnownCityMention = /\b(?:lahore|karachi|islamabad|rawalpindi|faisalabad|multan|peshawar|quetta|sialkot|gujranwala|hyderabad|bahawalpur|bahawalnagar)\b/i.test(raw);
+    const hasDhaLikeAreaCue = /\b(?:dha|phase|block|sector|society|scheme|colony|bypass)\b/i.test(raw);
+    return hasDirectLocationCue || hasKnownCityMention || hasDhaLikeAreaCue || raw.includes(',');
   };
 
   const getAreaCandidateNearCity = (text, cityName) => {
     const raw = String(text || '').replace(/\s+/g, ' ').trim();
     const city = String(cityName || '').trim();
-    if (!raw || !city) return '';
-    const cityEscaped = city.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const nearCityMatch = raw.match(new RegExp(`\\b([a-z0-9\\s-]{2,60})\\s+${cityEscaped}\\b`, 'i'));
-    const candidate = String(nearCityMatch?.[1] || '')
-      .replace(/\b(?:ye|yah|yeh|yha|yahan|waha|wahan|location|located|address|area|ma|mein|main|is|ha|hai|hain|or|aur|ka|ki|ke|jis|with|price|rent|sale|sell|lease|house|flat|shop|plot|makan)\b/gi, ' ')
+    if (!raw) return '';
+    const cityEscaped = city ? city.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') : '';
+    const takeLastCaptured = (matches) => {
+      if (!Array.isArray(matches) || !matches.length) return '';
+      return String(matches[matches.length - 1]?.[1] || '').trim();
+    };
+    const locationScopedMatches = cityEscaped
+      ? [...raw.matchAll(new RegExp(`(?:location|located)\\s*(?:is|ha|hai|:)?\\s*([a-z0-9\\s-]{2,60})\\s+${cityEscaped}\\b`, 'ig'))]
+      : [];
+    const genericScopedMatches = cityEscaped
+      ? [...raw.matchAll(new RegExp(`(?:address|area)\\s*(?:is|ha|hai|:)?\\s*([a-z0-9\\s-]{2,60})\\s+${cityEscaped}\\b`, 'ig'))]
+      : [];
+    const nearCityMatch = cityEscaped
+      ? raw.match(new RegExp(`\\b([a-z0-9\\s-]{2,60})\\s+${cityEscaped}\\b`, 'i'))
+      : null;
+    const anchoredSegment = raw.match(/(?:location|located|address|area)\s*(?:is|ha|hai|:)?\s*([^,.;]{2,80})/i);
+    const commaNearEndMatch = raw.match(/([a-z0-9\s-]{2,50})\s*,\s*([a-z0-9\s-]{2,40})(?:\s|$)/i);
+    const candidate = String(
+      takeLastCaptured(locationScopedMatches)
+      || takeLastCaptured(genericScopedMatches)
+      || nearCityMatch?.[1]
+      || anchoredSegment?.[1]
+      || commaNearEndMatch?.[1]
+      || ''
+    )
+      .replace(/\b(?:ye|yah|yeh|yha|yahan|waha|wahan|location|located|address|area|ma|mein|main|is|ha|hai|hain|or|aur|ka|ki|ke|jis|with|price|rent|sale|sell|lease|house|flat|shop|plot|makan|size)\b/gi, ' ')
+      .replace(/\b(?:rs|pkr)\s*\d[\d,]*(?:\.\d+)?\b/gi, ' ')
+      .replace(/\b\d{4,}\b/g, ' ')
       .replace(/\b\d+(?:\.\d+)?\s*(?:marla|kanal|sq\s*ft|sqft|square\s*feet)\b/gi, ' ')
       .replace(/\s+/g, ' ')
       .trim();
+    const words = candidate.split(' ').filter(Boolean);
+    if (words.length > 4) return words.slice(-4).join(' ');
     return candidate;
   };
 
@@ -2294,6 +2798,13 @@ function AiChatbotListingPage({
 
   const parseBathroomsFromText = (text) => {
     return parseCountByKeywords(text, ['bath', 'baths', 'bathroom', 'bathrooms', 'washroom', 'washrooms', 'ghusalkhana']);
+  };
+
+  const hasAttachedBathroomIntent = (text) => {
+    const raw = normalizeInputForUnderstanding(text);
+    if (!raw) return false;
+    return /\b(?:attach|attached)\s*(?:bath|bathroom|bathrooms|washroom|washrooms)\b/i.test(raw)
+      || /\b(?:bath|bathroom|bathrooms|washroom|washrooms)\s*(?:attach|attached)\b/i.test(raw);
   };
 
   const parseFeaturesFromText = (text) => {
@@ -2359,7 +2870,7 @@ function AiChatbotListingPage({
     if ((allowOverwrite || !currentDraft.address) && parsedAddress) next.address = parsedAddress;
     if ((allowOverwrite || !currentDraft.bedrooms) && parsedBedrooms) next.bedrooms = parsedBedrooms;
     if ((allowOverwrite || !currentDraft.bathrooms) && parsedBathrooms) next.bathrooms = parsedBathrooms;
-    if ((allowOverwrite || !currentDraft.bathrooms) && !parsedBathrooms && /\b(?:attach|attached)\s*(?:bath|bathroom|washroom)\b/i.test(raw)) {
+    if ((allowOverwrite || !currentDraft.bathrooms) && !parsedBathrooms && hasAttachedBathroomIntent(raw)) {
       const inferredFromBeds = String(parsedBedrooms || currentDraft?.bedrooms || '').trim();
       if (/^\d+$/.test(inferredFromBeds)) next.bathrooms = inferredFromBeds;
     }
@@ -2371,16 +2882,48 @@ function AiChatbotListingPage({
   };
 
   const parseContactNumber = (text) => {
-    const normalized = normalizePakistanPhone(text);
-    if (!isValidPakistanMobile(normalized)) return '';
-    return normalized;
+    const raw = String(text || '').trim();
+    if (!raw) return '';
+
+    const direct = normalizePakistanPhone(raw);
+    if (isValidPakistanMobile(direct)) return direct;
+
+    // Accept embedded phone number inside natural text.
+    const embeddedCandidates = [
+      ...raw.matchAll(/(?:\+?92|0)?\s*3\d{2}[\s-]?\d{7}\b/g),
+    ].map((item) => String(item?.[0] || '').trim()).filter(Boolean);
+
+    for (const candidate of embeddedCandidates) {
+      const normalized = normalizePakistanPhone(candidate);
+      if (isValidPakistanMobile(normalized)) return normalized;
+    }
+
+    return '';
   };
 
   const parseEmail = (text) => {
-    const value = String(text || '').trim().toLowerCase();
-    if (!value) return '';
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)) return '';
-    return value;
+    const raw = String(text || '').trim();
+    if (!raw) return '';
+    const direct = raw.toLowerCase().replace(/^[<("'\s]+|[>)"'\s.,;:!?]+$/g, '');
+    if (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(direct)) return direct;
+    const embedded = raw.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i);
+    if (!embedded?.[0]) return '';
+    const cleaned = String(embedded[0]).toLowerCase().replace(/^[<("'\s]+|[>)"'\s.,;:!?]+$/g, '');
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(cleaned)) return '';
+    return cleaned;
+  };
+
+  const isLikelyDirectEmailInput = (text) => {
+    const raw = String(text || '').trim();
+    if (!raw) return false;
+    if (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(raw)) return true;
+    return Boolean(raw.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i));
+  };
+
+  const isLikelyDirectContactInput = (text) => {
+    const raw = String(text || '').trim();
+    if (!raw) return false;
+    return Boolean(raw.match(/^(?:\+?92|0)?\s*3\d{2}[\s-]?\d{7}$/));
   };
 
   const applyAnswerToDraft = (stage, answer, currentDraft) => {
@@ -2434,7 +2977,7 @@ function AiChatbotListingPage({
     }
 
     if (stage === 'price') {
-      const price = parsePriceFromText(trimmed) || (/^\d[\d,]*$/.test(trimmed) ? formatPriceWithRs(trimmed) : '');
+      const price = parsePriceForPriceStage(trimmed);
       if (!price) return { ok: false, nextDraft: currentDraft };
       return { ok: true, nextDraft: { ...currentDraft, price } };
     }
@@ -2466,7 +3009,7 @@ function AiChatbotListingPage({
         return { ok: true, nextDraft: { ...currentDraft, bathrooms: 'Skip' } };
       }
       let bathrooms = parseBathroomsFromText(trimmed) || (/^\d+$/.test(trimmed) ? trimmed : '');
-      if (!bathrooms && /\b(?:attach|attached)\s*(?:bath|bathroom|washroom)\b/i.test(trimmed)) {
+      if (!bathrooms && hasAttachedBathroomIntent(trimmed)) {
         const fromBedrooms = String(currentDraft?.bedrooms || '').trim();
         if (/^\d+$/.test(fromBedrooms)) bathrooms = fromBedrooms;
       }
@@ -2850,6 +3393,161 @@ function AiChatbotListingPage({
     return String(data?.choices?.[0]?.message?.content || '').trim();
   };
 
+  const parseRefinementJson = (rawContent, sourceText) => {
+    const fallback = {
+      original_text: sourceText,
+      clean_text: sourceText,
+      refined_text: sourceText,
+      intent: null,
+      property_type: null,
+      location: null,
+      price: null,
+    };
+    const raw = String(rawContent || '').trim();
+    if (!raw) return fallback;
+    const tryParse = (value) => {
+      try {
+        const parsed = JSON.parse(value);
+        if (!parsed || typeof parsed !== 'object') return null;
+        return parsed;
+      } catch {
+        return null;
+      }
+    };
+
+    let parsed = tryParse(raw);
+    if (!parsed) {
+      const fenced = raw.match(/```(?:json)?\s*([\s\S]*?)```/i);
+      parsed = fenced?.[1] ? tryParse(String(fenced[1]).trim()) : null;
+    }
+    if (!parsed) return fallback;
+
+    return {
+      original_text: String(parsed?.original_text || sourceText).trim() || sourceText,
+      clean_text: String(parsed?.clean_text || sourceText).trim() || sourceText,
+      refined_text: String(parsed?.refined_text || parsed?.clean_text || sourceText).trim() || sourceText,
+      intent: parsed?.intent ? String(parsed.intent).trim().toUpperCase() : null,
+      property_type: parsed?.property_type ? String(parsed.property_type).trim() : null,
+      location: parsed?.location ? String(parsed.location).trim() : null,
+      price: parsed?.price ? String(parsed.price).trim() : null,
+    };
+  };
+
+  const mapRefinedIntentToPurpose = (intent) => {
+    const value = String(intent || '').trim().toUpperCase();
+    if (value === 'SELL' || value === 'BUY') return 'Sell';
+    if (value === 'RENT') return 'Rent';
+    if (value === 'LEASE') return 'Lease';
+    return '';
+  };
+
+  const requestAiCommandRefinement = async (rawText) => {
+    const sourceText = String(rawText || '').trim();
+    if (!sourceText) return parseRefinementJson('', '');
+    const apiKey = (process.env.REACT_APP_OPENAI_API_KEY || '').trim();
+    if (!apiKey) return parseRefinementJson('', sourceText);
+
+    const response = await fetch('https://api.openai.com/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        model: 'gpt-4o-mini',
+        temperature: 0.1,
+        messages: [
+          {
+            role: 'system',
+            content: `You are an intelligent AI assistant designed for a Pakistani property platform.
+
+Your job is to clean, correct, and refine messy user input written in Roman Urdu, Urdu, or English.
+
+Follow these rules strictly:
+1) Fix spelling mistakes and typos.
+2) Normalize Roman Urdu into clear/proper sentence.
+3) Convert to clear English meaning.
+4) Detect intent:
+- SELL (farokht, bechna)
+- BUY (lena, khareedna)
+- RENT (kiraye, rent)
+5) Extract entities:
+- property_type (house, shop, plot, flat, etc.)
+- location (city/area if mentioned)
+- price (if mentioned)
+6) Refine the command into a clean professional sentence.
+7) Return only JSON in this exact shape:
+{
+  "original_text": "",
+  "clean_text": "",
+  "refined_text": "",
+  "intent": "",
+  "property_type": "",
+  "location": "",
+  "price": ""
+}
+
+Important rules:
+- Return only JSON, no extra text.
+- If data is missing, use null.
+- Treat "dukan" and "dukkan" as "shop".`,
+          },
+          {
+            role: 'user',
+            content: sourceText,
+          },
+        ],
+      }),
+    });
+
+    if (!response.ok) return parseRefinementJson('', sourceText);
+    const data = await response.json();
+    const content = String(data?.choices?.[0]?.message?.content || '').trim();
+    return parseRefinementJson(content, sourceText);
+  };
+
+  const enrichRefinedCommandForParsing = (originalText, refinedText) => {
+    const fallback = String(originalText || '').replace(/\s+/g, ' ').trim();
+    const base = String(refinedText || fallback).replace(/\s+/g, ' ').trim();
+    if (!base) return fallback;
+
+    const mergedForInference = `${fallback} ${base}`.trim();
+    const purpose = parsePurpose(mergedForInference);
+    const propertyType = inferPropertyTypeFromText(mergedForInference);
+    const normalizedBase = normalizeInputForUnderstanding(base);
+    const additions = [];
+
+    if (purpose === 'Sell' && !/\b(?:sell|sale|for sale|selling)\b/i.test(normalizedBase)) {
+      additions.push('for sale');
+    } else if (purpose === 'Rent' && !/\b(?:rent|for rent)\b/i.test(normalizedBase)) {
+      additions.push('for rent');
+    } else if (purpose === 'Lease' && !/\blease\b/i.test(normalizedBase)) {
+      additions.push('for lease');
+    }
+
+    const typeTokenByName = {
+      House: 'house',
+      Apartment: 'apartment',
+      Flat: 'flat',
+      Plot: 'plot',
+      Shop: 'shop',
+      Office: 'office',
+      Villa: 'villa',
+      'Farm House': 'farm house',
+      Room: 'room',
+      Building: 'building',
+      Warehouse: 'warehouse',
+      Factory: 'factory',
+    };
+    const typeToken = typeTokenByName[propertyType];
+    if (typeToken && !normalizedBase.includes(typeToken)) {
+      additions.push(typeToken);
+    }
+
+    if (!additions.length) return base;
+    return `${base} ${additions.join(' ')}`.replace(/\s+/g, ' ').trim();
+  };
+
   const getInitialAssistantMessages = () => ([
     {
       role: 'assistant',
@@ -2892,6 +3590,25 @@ function AiChatbotListingPage({
       && (typeof overrideText === 'string' || typeof overrideText === 'number');
     const userText = String(hasDirectOverride ? overrideText : inputText).trim();
     if (!userText || isReplyLoading) return;
+    const stageBeforeRefinement = getCurrentStage(draft);
+    let refinementMeta = parseRefinementJson('', userText);
+    let refinedUserText = userText;
+    const skipRefinementForPrice = stageBeforeRefinement === 'price' && isLikelyDirectPriceInput(userText);
+    const skipRefinementForEmail = stageBeforeRefinement === 'email' && isLikelyDirectEmailInput(userText);
+    const skipRefinementForContact = stageBeforeRefinement === 'contactNumber' && isLikelyDirectContactInput(userText);
+    if (!(skipRefinementForPrice || skipRefinementForEmail || skipRefinementForContact)) {
+      try {
+        refinementMeta = await withTimeout(requestAiCommandRefinement(userText), 8000);
+        refinedUserText = String(
+          refinementMeta?.refined_text
+          || refinementMeta?.clean_text
+          || userText
+        ).trim();
+      } catch {
+        refinedUserText = userText;
+      }
+    }
+    refinedUserText = enrichRefinedCommandForParsing(userText, refinedUserText);
 
     const userMessage = { role: 'user', text: userText };
     const buildMessagesAfterEdit = (sourceMessages) => {
@@ -2908,23 +3625,79 @@ function AiChatbotListingPage({
 
     const baseDraft = draft;
     const stage = getCurrentStage(baseDraft);
-    const inferredFacts = extractFactsFromText(userText, baseDraft, stage, { allowOverwrite: isEditingMessage });
+    const rawHasLocationIntent = hasExplicitLocationIntent(userText);
+    const rawParsedLocation = parseAddressFromText(userText, true);
+    const inferredFactsFromRefined = extractFactsFromText(refinedUserText, baseDraft, stage, { allowOverwrite: isEditingMessage });
+    const inferredFactsFromRaw = extractFactsFromText(userText, baseDraft, stage, { allowOverwrite: isEditingMessage });
+    let inferredFacts = {
+      ...inferredFactsFromRefined,
+      ...(inferredFactsFromRaw?.purpose ? { purpose: inferredFactsFromRaw.purpose } : {}),
+      ...(inferredFactsFromRaw?.price ? { price: inferredFactsFromRaw.price } : {}),
+      ...(inferredFactsFromRaw?.size ? { size: inferredFactsFromRaw.size, sizeUnit: inferredFactsFromRaw.sizeUnit } : {}),
+      ...(inferredFactsFromRaw?.propertyType ? { propertyType: inferredFactsFromRaw.propertyType } : {}),
+      ...(inferredFactsFromRaw?.subType ? { subType: inferredFactsFromRaw.subType } : {}),
+      ...(inferredFactsFromRaw?.contactNumber ? { contactNumber: inferredFactsFromRaw.contactNumber } : {}),
+      ...(inferredFactsFromRaw?.email ? { email: inferredFactsFromRaw.email } : {}),
+      ...(mapRefinedIntentToPurpose(refinementMeta?.intent) ? { purpose: mapRefinedIntentToPurpose(refinementMeta.intent) } : {}),
+      ...(refinementMeta?.property_type ? {
+        subType: toDisplayCase(refinementMeta.property_type),
+        propertyType: getPropertyGroup(refinementMeta.property_type) || inferredFactsFromRaw?.propertyType || inferredFactsFromRefined?.propertyType,
+      } : {}),
+      ...(refinementMeta?.location ? { address: refinementMeta.location } : {}),
+      ...(refinementMeta?.price ? { price: formatPriceWithRs(refinementMeta.price) } : {}),
+    };
+    if (!rawHasLocationIntent && !rawParsedLocation && stage !== 'address' && inferredFacts?.address) {
+      // Prevent AI refinement from injecting a location user never provided.
+      const { address, ...rest } = inferredFacts;
+      inferredFacts = rest;
+    }
     let workingDraft = { ...baseDraft, ...inferredFacts };
-    const parsedLocationFromInput = parseAddressFromText(userText, true);
-    const hasLocationIntent = hasExplicitLocationIntent(userText);
+    const parsedLocationFromInput = rawParsedLocation;
+    const hasLocationIntent = rawHasLocationIntent;
+    const shouldValidateLocation = shouldValidateLocationInput(userText, stage);
     const hasAddressAlready = Boolean(String(baseDraft?.address || '').trim());
     const hasAddressAfterParse = Boolean(String(workingDraft?.address || '').trim());
-    const isInvalidLocationInput = hasLocationIntent && !parsedLocationFromInput && !hasAddressAlready && !hasAddressAfterParse;
-    const normalizeLoose = (value) => String(value || '').toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+    const isInvalidLocationInput = shouldValidateLocation && hasLocationIntent && !parsedLocationFromInput && !hasAddressAlready && !hasAddressAfterParse;
+    const normalizeLoose = (value) => String(value || '')
+      .toLowerCase()
+      .replace(/[^\w\s]/g, ' ')
+      .replace(/q/g, 'k')
+      .replace(/\bnager\b/g, 'nagar')
+      .replace(/\s+/g, ' ')
+      .trim();
 
     let isInvalidAreaInput = false;
     if (hasLocationIntent) {
       const parsedFromRaw = parseAddressParts(userText, citiesList);
       const cityFromInput = String(parsedFromRaw?.cityName || '').trim();
       const areaFromInput = getAreaCandidateNearCity(userText, cityFromInput) || String(parsedFromRaw?.areaName || '').trim();
-      if (cityFromInput && areaFromInput) {
+      const normalizeCityAware = (value) => String(value || '')
+        .toLowerCase()
+        .replace(/[^\w\s]/g, ' ')
+        .replace(/q/g, 'k')
+        .replace(/\bnager\b/g, 'nagar')
+        .replace(/\s+/g, ' ')
+        .trim();
+      const normalizedCity = normalizeCityAware(cityFromInput);
+      const hasAreaDetailInInput = Boolean(areaFromInput || userText.includes(','));
+      const areaMetaFromCandidate = (cityFromInput && areaFromInput)
+        ? await resolveAreaMetadata(cityFromInput, areaFromInput)
+        : null;
+      const areaMetaFromRaw = cityFromInput ? await resolveAreaMetadata(cityFromInput, userText) : null;
+      const pickedAreaMeta = [areaMetaFromCandidate, areaMetaFromRaw].find((item) => {
+        const areaName = normalizeCityAware(item?.name);
+        return areaName && areaName !== normalizedCity;
+      });
+
+      if (cityFromInput && pickedAreaMeta?.name) {
+        workingDraft = {
+          ...workingDraft,
+          address: `${pickedAreaMeta.name}, ${cityFromInput}`.replace(/\s+/g, ' ').trim(),
+        };
+      } else if (cityFromInput && areaFromInput) {
         const areaMeta = await resolveAreaMetadata(cityFromInput, areaFromInput);
-        if (areaMeta?.name) {
+        const resolvedAreaName = normalizeCityAware(areaMeta?.name);
+        if (areaMeta?.name && resolvedAreaName && resolvedAreaName !== normalizedCity) {
           workingDraft = {
             ...workingDraft,
             address: `${areaMeta.name}, ${cityFromInput}`.replace(/\s+/g, ' ').trim(),
@@ -2937,7 +3710,7 @@ function AiChatbotListingPage({
         const locationText = normalizeLoose(userText);
         const cityText = normalizeLoose(cityFromInput);
         const hasOnlyCity = locationText === cityText || locationText.endsWith(` ${cityText}`);
-        if (!hasOnlyCity) {
+        if (!hasOnlyCity || hasAreaDetailInInput) {
           isInvalidAreaInput = true;
         }
       }
@@ -2961,6 +3734,14 @@ function AiChatbotListingPage({
           ...editedBaseMessages,
           { role: 'assistant', text: 'Invalid location. Please select a valid area and city (e.g. DHA Phase 8, Lahore).' },
         ]);
+        return;
+      }
+      if (returnToPublishOnSend) {
+        setMessages([
+          ...editedBaseMessages,
+          { role: 'assistant', text: 'Update saved. Returning to publish preview.' },
+        ]);
+        onReturnToPublishAfterSend?.();
         return;
       }
 
@@ -2994,7 +3775,10 @@ function AiChatbotListingPage({
 
     if (stage !== 'complete') {
       if (!String(workingDraft[stage] || '').trim()) {
-        const { ok, nextDraft } = applyAnswerToDraft(stage, userText, workingDraft);
+        const stageSensitiveAnswer = ['price', 'email', 'contactNumber'].includes(stage)
+          ? userText
+          : refinedUserText;
+        const { ok, nextDraft } = applyAnswerToDraft(stage, stageSensitiveAnswer, workingDraft);
         if (!ok) {
           setMessages((prev) => [
             ...prev,
@@ -3033,6 +3817,10 @@ function AiChatbotListingPage({
         ]);
         return;
       }
+      if (returnToPublishOnSend) {
+        onReturnToPublishAfterSend?.();
+        return;
+      }
 
       const nextStage = getCurrentStage(workingDraft);
       const ackText = summarizeCapturedFacts(draft, workingDraft, userText);
@@ -3059,6 +3847,13 @@ function AiChatbotListingPage({
           { role: 'assistant', text: getPromptForStage(nextStage) },
         ]);
       }
+      return;
+    }
+
+    if (returnToPublishOnSend) {
+      setDraft(workingDraft);
+      syncDraftToParent(workingDraft);
+      onReturnToPublishAfterSend?.();
       return;
     }
 
@@ -3123,20 +3918,25 @@ function AiChatbotListingPage({
     if (!files.length) return;
 
     onUploadImages(files);
+    const totalImages = (selectedUploadedImages?.length || 0) + files.length;
+    const hasMinimumImages = totalImages >= MIN_REQUIRED_IMAGES;
 
     const nextDraft = {
       ...draft,
-      images: `uploaded:${(selectedUploadedImages?.length || 0) + files.length}`,
+      images: hasMinimumImages ? `uploaded:${totalImages}` : '',
     };
     setDraft(nextDraft);
     syncDraftToParent(nextDraft);
 
-    const nextStage = getCurrentStage(nextDraft);
     const fileLabel = files.length === 1 ? '1 image' : `${files.length} images`;
     const uploadedMessage = `Uploaded ${fileLabel} successfully.`;
-    const followup = nextStage === 'complete'
-      ? 'Great! Basic listing details complete ho gayi hain. Ab aap title, description, pricing ya listing strategy par mujh se direct mashwara le sakte hain.'
-      : getPromptForStage(nextStage);
+    const followup = hasMinimumImages
+      ? (
+        getCurrentStage(nextDraft) === 'complete'
+          ? 'Great! Basic listing details complete ho gayi hain. Ab aap title, description, pricing ya listing strategy par mujh se direct mashwara le sakte hain.'
+          : getPromptForStage(getCurrentStage(nextDraft))
+      )
+      : `Invalid. Minimum ${MIN_REQUIRED_IMAGES} photos upload karein. Abhi ${totalImages} ${totalImages === 1 ? 'photo' : 'photos'} uploaded hain.`;
 
     imageFlowSnapshotRef.current = messages;
     setMessages((prev) => [
@@ -3144,8 +3944,7 @@ function AiChatbotListingPage({
       { role: 'user', text: uploadedMessage },
       { role: 'assistant', text: followup },
     ]);
-
-    setIsImageOnlyView(true);
+    setIsImageOnlyView(hasMinimumImages);
 
     if (imageInputRef.current) imageInputRef.current.value = '';
   };
@@ -3163,13 +3962,16 @@ function AiChatbotListingPage({
   };
 
   const handleImageOnlyContinue = () => {
-    const hasUploadedImages =
-      (selectedUploadedImages?.length || 0) > 0 ||
-      String(draft?.images || '').startsWith('uploaded:');
-    if (!hasUploadedImages) {
+    const totalImages = selectedUploadedImages?.length || 0;
+    const hasMinimumImages = totalImages >= MIN_REQUIRED_IMAGES
+      || (() => {
+        const match = String(draft?.images || '').match(/uploaded:(\d+)/i);
+        return Number(match?.[1] || 0) >= MIN_REQUIRED_IMAGES;
+      })();
+    if (!hasMinimumImages) {
       setMessages((prev) => [
         ...prev,
-        { role: 'assistant', text: 'Please upload at least one image to continue.' },
+        { role: 'assistant', text: `Invalid. Minimum ${MIN_REQUIRED_IMAGES} photos upload karein.` },
       ]);
       return;
     }
@@ -3372,6 +4174,11 @@ function AiChatbotListingPage({
       contentClassName="aiChatbotContent"
     >
       <div className="aiChatbotShell">
+        {returnToPublishOnSend && (
+          <div className="aiPublishEditBadge">
+            Editing from Publish - Send to return
+          </div>
+        )}
         <div className="chatBlock aiChatbotBlock aiChatbotMessages">
           {messages.map((message, index) =>
             message.role === 'assistant' ? (
@@ -3657,12 +4464,9 @@ function PublishPage({
     || normalizedGroup.includes('commercial')
     || normalizedType.includes('plot')
     || normalizedType.includes('commercial');
-  const featureItems = getLocationAwareFeatures({
-    features,
-    address,
-    propertyType,
-    purpose,
-  });
+  const featureItems = Array.isArray(features)
+    ? features.map((item) => String(item || '').trim()).filter(Boolean)
+    : String(features || '').split(',').map((item) => item.trim()).filter(Boolean);
   return (
     <div className="publishPageWrap">
       <div className="publishCard">
@@ -3732,13 +4536,25 @@ function PublishPage({
           </div>
           <h4>Key Features</h4>
           <div className="publishFeatures">
-            {featureItems.map((item) => (
+            {featureItems.length ? featureItems.map((item) => (
               <span key={item}><span className="publishFeatureIcon"><LuCheck /></span> {item}</span>
-            ))}
+            )) : (
+              <span><span className="publishFeatureIcon"><LuCheck /></span> No amenities available</span>
+            )}
           </div>
           <div className="publishActions">
             <button className="publishBtn" onClick={onPublish} disabled={publishLoading}>
-              <LuSparkles /> {publishLoading ? 'Publishing...' : 'Publish Listing'}
+              <LuSparkles />
+              {publishLoading ? (
+                <>
+                  <span>Publishing</span>
+                  <span className="publishLoadingDots" aria-hidden="true">
+                    <span></span><span></span><span></span>
+                  </span>
+                </>
+              ) : (
+                <span>Publish Listing</span>
+              )}
             </button>
             <button className="saveBtn" type="button" onClick={onEditNavigate}>
               Edit Listing
@@ -3770,14 +4586,38 @@ function PropertyFlow() {
   const [uploadedImageFiles, setUploadedImageFiles] = useState([]); 
   const [generatedTitle, setGeneratedTitle] = useState('');
   const [generatedDescription, setGeneratedDescription] = useState('');
+  const [resolvedAmenityFeatures, setResolvedAmenityFeatures] = useState([]);
   const [publishLoading, setPublishLoading] = useState(false);
   const [publishMessage, setPublishMessage] = useState('');
   const [currentPage, setCurrentPage] = useState('listingMode');
   const [chatbotSession, setChatbotSession] = useState({ messages: [], draft: null });
+  const [isPublishEditMode, setIsPublishEditMode] = useState(false);
   const authUserForWelcome = getStoredAuthUser();
   const welcomeName = getDisplayNameFromUser(authUserForWelcome);
   const profileContactNumber = getContactFromUser(authUserForWelcome);
   const profileEmail = getEmailFromUser(authUserForWelcome);
+
+  useEffect(() => {
+    const syncPendingWhenOnline = async () => {
+      if (!navigator.onLine) return;
+      const authToken = (process.env.REACT_APP_API_TOKEN || getStoredAuthToken(authUserForWelcome) || '').trim();
+      if (!authToken) return;
+      const configuredApiEndpoint = (process.env.REACT_APP_PROPERTY_API_URL || '').trim();
+      const absoluteApiEndpoint =
+        `${normalizeApiBase(process.env.REACT_APP_API_BASE_URL || 'https://admin.pakistanproperty.com')}/api/agent/properties`;
+      const primaryApiEndpoint = configuredApiEndpoint || absoluteApiEndpoint;
+      const fallbackProxyEndpoint = '/api/agent/properties';
+      const useProxyFallback =
+        process.env.NODE_ENV === 'development'
+        && String(process.env.REACT_APP_USE_PROXY_FALLBACK || 'true').toLowerCase() !== 'false';
+      const endpoints = useProxyFallback ? [primaryApiEndpoint, fallbackProxyEndpoint] : [primaryApiEndpoint];
+      await flushOfflinePublishQueue({ apiEndpoints: endpoints, authToken });
+    };
+
+    syncPendingWhenOnline();
+    window.addEventListener('online', syncPendingWhenOnline);
+    return () => window.removeEventListener('online', syncPendingWhenOnline);
+  }, [authUserForWelcome]);
 
   const buildChatbotDraftFromCurrentState = () => ({
     purpose: selectedPurpose || '',
@@ -3790,7 +4630,7 @@ function PropertyFlow() {
     bedrooms: selectedBedrooms || '',
     bathrooms: selectedBathrooms || '',
     features: selectedFeature || '',
-    useProfileContact: '',
+    useProfileContact: (selectedContactNumber || profileContactNumber || selectedEmail || profileEmail) ? 'yes' : '',
     images: (uploadedImages?.length || 0) ? `uploaded:${uploadedImages.length}` : '',
     contactNumber: selectedContactNumber || profileContactNumber || '',
     email: selectedEmail || profileEmail || '',
@@ -3850,7 +4690,7 @@ function PropertyFlow() {
     setPublishMessage('');
 
     const authUser = getStoredAuthUser();
-    const rawContactNumber = selectedContactNumber || getContactFromUser(authUser) || '03331234567';
+    const rawContactNumber = selectedContactNumber || getContactFromUser(authUser) || '3331234567';
     const contactNumber = toApiPakistanPhone(rawContactNumber) || '+923331234567';
     const userEmail = selectedEmail || getEmailFromUser(authUser) || 'dummy@property.com';
 
@@ -3885,13 +4725,8 @@ function PropertyFlow() {
       ? `${finalAreaName}, ${finalCityName}`.replace(/\s+/g, ' ').trim()
       : cleanedLocation;
     const areaMeta = await resolveAreaMetadata(finalCityName, finalAreaName);
-    const autoFeatureList = getLocationAwareFeatures({
-      features: selectedFeature,
-      address: finalAddress || cleanedLocation,
-      propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
-      purpose: selectedPurpose,
-    });
-    const effectiveFeaturesText = autoFeatureList.join(', ');
+    const authTokenForAmenities =
+      (process.env.REACT_APP_API_TOKEN || getStoredAuthToken(authUser) || '').trim();
 
     const effectiveTitle = String(generatedTitle || '').trim() || buildAutoListingTitle({
       size: selectedSize,
@@ -3900,6 +4735,7 @@ function PropertyFlow() {
       purpose: selectedPurpose,
       address: finalAddress,
     });
+    let effectiveFeaturesText = String(selectedFeature || '').trim();
     const effectiveDescription = String(generatedDescription || '').trim() || buildAutoListingDescription({
       purpose: selectedPurpose,
       propertyType: selectedPropertyType || selectedPropertyGroup || 'Property',
@@ -3990,10 +4826,33 @@ function PropertyFlow() {
       other: 19,
     };
     const subCategoryId = subCategoryIdByName[finalSubCategoryName] || subCategoryIdByName[fallbackSubCategoryName] || 1;
+    const remoteAmenityFeatures = authTokenForAmenities
+      ? await fetchAmenitiesByFallbackIds([subCategoryId, categoryId, 1], authTokenForAmenities)
+      : [];
+    const autoFeatureList = remoteAmenityFeatures.slice(0, 12);
+    setResolvedAmenityFeatures(autoFeatureList);
+    effectiveFeaturesText = autoFeatureList.join(', ') || effectiveFeaturesText;
 
     const payload = {
       property_type_id: 1,
       property_type_slug: mapPurposeToSlug(selectedPurpose),
+      listing_source: 'AI',
+      listing_source_name: 'AI',
+      listing_source_id: 2,
+      listingSource: 'AI',
+      source: 'AI',
+      source_name: 'AI',
+      source_id: 2,
+      source_type: 'AI',
+      property_source: 'AI',
+      property_source_name: 'AI',
+      submission_source: 'AI',
+      submission_source_name: 'AI',
+      listing_origin: 'AI',
+      origin: 'AI',
+      created_via: 'ai',
+      ai_generated: 1,
+      is_ai: 1,
       category_id: categoryId,
       sub_category_id: subCategoryId,
       category: detectedGroup || 'Home',
@@ -4038,14 +4897,16 @@ function PropertyFlow() {
       bathrooms: selectedBathrooms,
       features: autoFeatureList,
     };
-
     try {
       const configuredApiEndpoint = (process.env.REACT_APP_PROPERTY_API_URL || '').trim();
       const absoluteApiEndpoint =
         `${normalizeApiBase(process.env.REACT_APP_API_BASE_URL || 'https://admin.pakistanproperty.com')}/api/agent/properties`;
       const primaryApiEndpoint = configuredApiEndpoint || absoluteApiEndpoint;
       const fallbackProxyEndpoint = '/api/agent/properties';
-      const apiEndpointsToTry = process.env.NODE_ENV === 'development'
+      const useProxyFallback =
+        process.env.NODE_ENV === 'development'
+        && String(process.env.REACT_APP_USE_PROXY_FALLBACK || 'true').toLowerCase() !== 'false';
+      const apiEndpointsToTry = useProxyFallback
         ? [primaryApiEndpoint, fallbackProxyEndpoint]
         : [primaryApiEndpoint];
       const authToken =
@@ -4054,8 +4915,15 @@ function PropertyFlow() {
       if (!authToken) {
         throw new Error('Missing API token. Please login again and ensure token is stored.');
       }
+      const preSyncResult = await flushOfflinePublishQueue({
+        apiEndpoints: apiEndpointsToTry,
+        authToken,
+      });
+      const flushedBeforePublish = Number(preSyncResult?.flushed || 0);
 
-      const buildFormData = () => {
+      const optimizedUploadFiles = await optimizeImagesForUpload(uploadedImageFiles);
+
+      const buildFormData = (includeImages = true) => {
         const formData = new FormData();
         Object.entries(payload).forEach(([key, value]) => {
           if (Array.isArray(value)) {
@@ -4064,7 +4932,9 @@ function PropertyFlow() {
             formData.append(key, value);
           }
         });
-        uploadedImageFiles.forEach((file) => formData.append('images[]', file));
+        if (includeImages) {
+          optimizedUploadFiles.forEach((file) => formData.append('images[]', file));
+        }
         return formData;
       };
 
@@ -4085,72 +4955,123 @@ function PropertyFlow() {
           trimmedResponseText.toLowerCase().startsWith('<!doctype html') ||
           trimmedResponseText.toLowerCase().startsWith('<html');
 
-        return { parsedResponse, rawResponseText, trimmedResponseText, looksLikeHtmlResponse };
+        return { parsedResponse, trimmedResponseText, looksLikeHtmlResponse };
       };
+      const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+      const REQUEST_TIMEOUT_MS = 120000;
 
       let lastError = null;
+      const maxAttemptsPerEndpoint = 2;
+      const payloadVariants = optimizedUploadFiles.length
+        ? [{ includeImages: true }, { includeImages: false }]
+        : [{ includeImages: true }];
+      let savedWithoutImages = false;
 
       for (const apiEndpoint of apiEndpointsToTry) {
-        try {
-          const response = await fetch(apiEndpoint, {
-            method: 'POST',
-            headers: {
-              'Accept': 'application/json',
-              Authorization: `Bearer ${authToken}`,
-            },
-            body: buildFormData(),
-          });
+        for (const variant of payloadVariants) {
+          for (let attempt = 1; attempt <= maxAttemptsPerEndpoint; attempt += 1) {
+            let timeoutId;
+            try {
+              const controller = new AbortController();
+              timeoutId = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
+              const formData = buildFormData(variant.includeImages);
+              const response = await fetch(apiEndpoint, {
+                method: 'POST',
+                headers: {
+                  'Accept': 'application/json',
+                  Authorization: `Bearer ${authToken}`,
+                },
+                body: formData,
+                signal: controller.signal,
+              });
+              clearTimeout(timeoutId);
 
-          const { parsedResponse, rawResponseText, trimmedResponseText, looksLikeHtmlResponse } =
-            await parseResponseBody(response);
+              const { parsedResponse, trimmedResponseText, looksLikeHtmlResponse } =
+                await parseResponseBody(response);
 
-          if (!response.ok) {
-            if (looksLikeHtmlResponse && trimmedResponseText.includes('Cannot POST')) {
-              throw new Error('Publish API endpoint not found. Please verify property API URL configuration.');
+              if (!response.ok) {
+                if (looksLikeHtmlResponse && trimmedResponseText.includes('Cannot POST')) {
+                  throw new Error('Publish API endpoint not found. Please verify property API URL configuration.');
+                }
+                if (response.status === 401 || response.status === 403) {
+                  throw new Error('Unauthorized token. Please login again to refresh API token.');
+                }
+                if ([502, 503, 504].includes(response.status)) {
+                  const retryableError = new Error(`Server timeout (${response.status}). Please retry.`);
+                  retryableError.isRetryable = true;
+                  retryableError.statusCode = response.status;
+                  throw retryableError;
+                }
+                const serverMessage = looksLikeHtmlResponse
+                  ? `Server returned an HTML error page (${response.status}).`
+                  : (
+                    parsedResponse?.message ||
+                    parsedResponse?.error ||
+                    'Unknown server error'
+                  );
+                throw new Error(`Request failed (${response.status}). ${serverMessage}`);
+              }
+
+              if (looksLikeHtmlResponse) {
+                const retryableHtmlError = new Error('Server returned HTML instead of JSON. Please retry.');
+                retryableHtmlError.isRetryable = true;
+                throw retryableHtmlError;
+              }
+
+              if (!variant.includeImages) savedWithoutImages = true;
+              setPublishMessage(
+                savedWithoutImages
+                  ? `Property saved successfully (without images due to server timeout).${flushedBeforePublish ? ` Synced ${flushedBeforePublish} pending listing(s).` : ''}`
+                  : `Property saved successfully.${flushedBeforePublish ? ` Synced ${flushedBeforePublish} pending listing(s).` : ''}`
+              );
+              return;
             }
-            if (response.status === 401 || response.status === 403) {
-              throw new Error('Unauthorized token. Please login again to refresh API token.');
+            catch (error) {
+              if (timeoutId) clearTimeout(timeoutId);
+              lastError = error;
+              const message = String(error?.message || '').toLowerCase();
+              const isNetworkLikeError =
+                error?.name === 'AbortError' ||
+                error?.name === 'TypeError' ||
+                message.includes('failed to fetch') ||
+                message.includes('network') ||
+                message.includes('cors') ||
+                message.includes('load failed');
+              const isRetryable = Boolean(error?.isRetryable || isNetworkLikeError);
+              const hasAttemptsLeft = attempt < maxAttemptsPerEndpoint;
+              const hasAnotherEndpoint = apiEndpoint !== apiEndpointsToTry[apiEndpointsToTry.length - 1];
+              const hasAnotherVariant = variant !== payloadVariants[payloadVariants.length - 1];
+
+              if (isRetryable && hasAttemptsLeft) {
+                await wait(700 * attempt);
+                continue;
+              }
+              if ((hasAnotherEndpoint || hasAnotherVariant) && isRetryable) {
+                break;
+              }
+              throw error;
             }
-            const serverMessage =
-              parsedResponse?.message ||
-              parsedResponse?.error ||
-              rawResponseText ||
-              'Unknown server error';
-            throw new Error(`Request failed (${response.status}). ${serverMessage}`);
           }
-
-          if (looksLikeHtmlResponse) {
-            throw new Error('API returned HTML instead of JSON. Please check auth token and API endpoint.');
-          }
-
-          setPublishMessage('Property saved successfully.');
-          return;
-        }
-        catch (error) {
-          lastError = error;
-          const message = String(error?.message || '').toLowerCase();
-          const isNetworkLikeError =
-            error?.name === 'TypeError' ||
-            message.includes('failed to fetch') ||
-            message.includes('network') ||
-            message.includes('cors') ||
-            message.includes('load failed');
-          const hasAnotherEndpoint = apiEndpoint !== apiEndpointsToTry[apiEndpointsToTry.length - 1];
-          if (hasAnotherEndpoint && isNetworkLikeError) continue;
-          throw error;
         }
       }
 
       if (lastError) throw lastError;
     } catch (error) {
+      const statusCode = Number(error?.statusCode || 0);
       const isNetworkLikeError =
+        error?.name === 'AbortError' ||
         error?.name === 'TypeError' ||
         String(error?.message || '').toLowerCase().includes('failed to fetch') ||
         String(error?.message || '').toLowerCase().includes('network') ||
-        String(error?.message || '').toLowerCase().includes('cors');
+        String(error?.message || '').toLowerCase().includes('cors') ||
+        [502, 503, 504].includes(statusCode) ||
+        /server timeout|gateway time-?out/i.test(String(error?.message || ''));
       if (isNetworkLikeError) {
+        const queuedCount = queueListingForOfflinePublish(payload);
         setPublishMessage(
-          'Failed to save property. Network/CORS blocked request. Login again, then restart dev server and retry.'
+          queuedCount
+            ? `Server temporarily unavailable. Listing safe save ho gayi hai (offline queue). Pending items: ${queuedCount}.`
+            : 'Server temporarily unavailable. Listing local queue me save nahi ho saki, please retry.'
         );
       } else {
         setPublishMessage(`Failed to save property. ${error.message}`);
@@ -4213,6 +5134,11 @@ function PropertyFlow() {
           persistedMessages={chatbotSession.messages}
           persistedDraft={chatbotSession.draft}
           onPersistChatState={setChatbotSession}
+          returnToPublishOnSend={isPublishEditMode}
+          onReturnToPublishAfterSend={() => {
+            setIsPublishEditMode(false);
+            setCurrentPage('publish');
+          }}
           onContinueAfterImages={() => {
             if (!String(generatedTitle || '').trim()) {
               setGeneratedTitle(
@@ -4249,6 +5175,8 @@ function PropertyFlow() {
         <ListingModePage
           onAiListing={() => {
             setChatbotSession({ messages: [], draft: null });
+            setResolvedAmenityFeatures([]);
+            setIsPublishEditMode(false);
             setCurrentPage('welcome');
           }}
           onManualListing={() => {}}
@@ -4260,6 +5188,8 @@ function PropertyFlow() {
           welcomeName={welcomeName}
           onStart={() => {
             setChatbotSession({ messages: [], draft: null });
+            setResolvedAmenityFeatures([]);
+            setIsPublishEditMode(false);
             setCurrentPage('chatbot');
           }}
         />
@@ -4333,7 +5263,7 @@ function PropertyFlow() {
     case 'picture':
       return (
         <PicturePage
-          features={selectedFeature}
+          features={resolvedAmenityFeatures}
           images={uploadedImages}
           onBack={() => setCurrentPage('upload')}
           onAddMoreImages={handleUploadComplete}
@@ -4401,10 +5331,14 @@ function PropertyFlow() {
           images={uploadedImages}
           onPublish={handlePublishListing}
           onEditNavigate={() => {
+            const hasExistingChat = Array.isArray(chatbotSession?.messages) && chatbotSession.messages.length > 0;
             setChatbotSession({
-              messages: buildChatbotMessagesFromCurrentState(),
+              messages: hasExistingChat
+                ? chatbotSession.messages
+                : buildChatbotMessagesFromCurrentState(),
               draft: buildChatbotDraftFromCurrentState(),
             });
+            setIsPublishEditMode(true);
             setCurrentPage('chatbot');
           }}
           publishLoading={publishLoading}
