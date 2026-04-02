@@ -1,0 +1,695 @@
+[
+  {
+      "id": 6005,
+      "name": "Jauharabad Road",
+      "name_l1": "جوہر آباد روڈ",
+      "externalID": "12061",
+      "slug": "/Khushab_Jauharabad_Road-12061",
+      "slug_l1": "/Khushab_Jauharabad_Road-12061",
+      "_geoloc": {
+          "lat": 32.290155,
+          "lng": 72.293088
+      },
+      "geography": {
+          "lat": 32.290155,
+          "lng": 72.293088
+      },
+      "geo_point": [
+          72.293088,
+          32.290155
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 118,
+              "level": 2,
+              "externalID": "8510",
+              "name": "Khushab",
+              "name_l1": "خوشاب",
+              "slug": "/Khushab-8510",
+              "slug_l1": "/Khushab-8510"
+          },
+          {
+              "id": 6005,
+              "level": 3,
+              "externalID": "12061",
+              "name": "Jauharabad Road",
+              "name_l1": "جوہر آباد روڈ",
+              "slug": "/Khushab_Jauharabad_Road-12061",
+              "slug_l1": "/Khushab_Jauharabad_Road-12061"
+          }
+      ],
+      "hierarchyPath": "Jauharabad Road Khushab Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12061",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6005",
+      "_highlightResult": {
+          "name": {
+              "value": "Jauharabad Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 118,
+      "name": "Khushab",
+      "name_l1": "خوشاب",
+      "externalID": "8510",
+      "slug": "/Khushab-8510",
+      "slug_l1": "/Khushab-8510",
+      "_geoloc": {
+          "lat": 32.294171,
+          "lng": 72.349678
+      },
+      "geography": {
+          "lat": 32.294171,
+          "lng": 72.349678
+      },
+      "geo_point": [
+          72.349678,
+          32.294171
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 118,
+              "level": 2,
+              "externalID": "8510",
+              "name": "Khushab",
+              "name_l1": "خوشاب",
+              "slug": "/Khushab-8510",
+              "slug_l1": "/Khushab-8510"
+          }
+      ],
+      "hierarchyPath": "Khushab Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8510",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "118",
+      "_highlightResult": {
+          "name": {
+              "value": "Khushab",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18569,
+      "name": "Ali Town",
+      "name_l1": "علی ٹاؤن",
+      "externalID": "19485",
+      "slug": "/Khushab_Ali_Town-19485",
+      "slug_l1": "/Khushab_Ali_Town-19485",
+      "_geoloc": {
+          "lat": 32.311079,
+          "lng": 72.337684
+      },
+      "geography": {
+          "lat": 32.311079,
+          "lng": 72.337684
+      },
+      "geo_point": [
+          72.337684,
+          32.311079
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 118,
+              "level": 2,
+              "externalID": "8510",
+              "name": "Khushab",
+              "name_l1": "خوشاب",
+              "slug": "/Khushab-8510",
+              "slug_l1": "/Khushab-8510"
+          },
+          {
+              "id": 18569,
+              "level": 3,
+              "externalID": "19485",
+              "name": "Ali Town",
+              "name_l1": "علی ٹاؤن",
+              "slug": "/Khushab_Ali_Town-19485",
+              "slug_l1": "/Khushab_Ali_Town-19485"
+          }
+      ],
+      "hierarchyPath": "Ali Town Khushab Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19485",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18569",
+      "_highlightResult": {
+          "name": {
+              "value": "Ali Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18573,
+      "name": "Azmat Colony",
+      "name_l1": "عظمت کالونی",
+      "externalID": "19489",
+      "slug": "/Khushab_Azmat_Colony-19489",
+      "slug_l1": "/Khushab_Azmat_Colony-19489",
+      "_geoloc": {
+          "lat": 32.294929,
+          "lng": 72.274538
+      },
+      "geography": {
+          "lat": 32.294929,
+          "lng": 72.274538
+      },
+      "geo_point": [
+          72.274538,
+          32.294929
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 118,
+              "level": 2,
+              "externalID": "8510",
+              "name": "Khushab",
+              "name_l1": "خوشاب",
+              "slug": "/Khushab-8510",
+              "slug_l1": "/Khushab-8510"
+          },
+          {
+              "id": 18573,
+              "level": 3,
+              "externalID": "19489",
+              "name": "Azmat Colony",
+              "name_l1": "عظمت کالونی",
+              "slug": "/Khushab_Azmat_Colony-19489",
+              "slug_l1": "/Khushab_Azmat_Colony-19489"
+          }
+      ],
+      "hierarchyPath": "Azmat Colony Khushab Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19489",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18573",
+      "_highlightResult": {
+          "name": {
+              "value": "Azmat Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5409,
+      "name": "Mianwali Road",
+      "name_l1": "میانوالی روڈ",
+      "externalID": "10871",
+      "slug": "/Khushab_Mianwali_Road-10871",
+      "slug_l1": "/Khushab_Mianwali_Road-10871",
+      "_geoloc": {
+          "lat": 32.293791,
+          "lng": 72.259109
+      },
+      "geography": {
+          "lat": 32.293791,
+          "lng": 72.259109
+      },
+      "geo_point": [
+          72.259109,
+          32.293791
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 118,
+              "level": 2,
+              "externalID": "8510",
+              "name": "Khushab",
+              "name_l1": "خوشاب",
+              "slug": "/Khushab-8510",
+              "slug_l1": "/Khushab-8510"
+          },
+          {
+              "id": 5409,
+              "level": 3,
+              "externalID": "10871",
+              "name": "Mianwali Road",
+              "name_l1": "میانوالی روڈ",
+              "slug": "/Khushab_Mianwali_Road-10871",
+              "slug_l1": "/Khushab_Mianwali_Road-10871"
+          }
+      ],
+      "hierarchyPath": "Mianwali Road Khushab Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10871",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5409",
+      "_highlightResult": {
+          "name": {
+              "value": "Mianwali Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6004,
+      "name": "Model City",
+      "name_l1": "ماڈل سٹی",
+      "externalID": "12060",
+      "slug": "/Khushab_Mianwali_Road_Model_City-12060",
+      "slug_l1": "/Khushab_Mianwali_Road_Model_City-12060",
+      "_geoloc": {
+          "lat": 32.28629492,
+          "lng": 72.315905
+      },
+      "geography": {
+          "lat": 32.28629492,
+          "lng": 72.315905
+      },
+      "geo_point": [
+          72.315905,
+          32.28629492
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 118,
+              "level": 2,
+              "externalID": "8510",
+              "name": "Khushab",
+              "name_l1": "خوشاب",
+              "slug": "/Khushab-8510",
+              "slug_l1": "/Khushab-8510"
+          },
+          {
+              "id": 5409,
+              "level": 3,
+              "externalID": "10871",
+              "name": "Mianwali Road",
+              "name_l1": "میانوالی روڈ",
+              "slug": "/Khushab_Mianwali_Road-10871",
+              "slug_l1": "/Khushab_Mianwali_Road-10871"
+          },
+          {
+              "id": 6004,
+              "level": 4,
+              "externalID": "12060",
+              "name": "Model City",
+              "name_l1": "ماڈل سٹی",
+              "slug": "/Khushab_Mianwali_Road_Model_City-12060",
+              "slug_l1": "/Khushab_Mianwali_Road_Model_City-12060"
+          }
+      ],
+      "hierarchyPath": "Model City Mianwali Road Khushab Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12060",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6004",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5410,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "10872",
+      "slug": "/Khushab_Others-10872",
+      "slug_l1": "/Khushab_Others-10872",
+      "_geoloc": {
+          "lat": 32.299717,
+          "lng": 72.346405
+      },
+      "geography": {
+          "lat": 32.299717,
+          "lng": 72.346405
+      },
+      "geo_point": [
+          72.346405,
+          32.299717
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 118,
+              "level": 2,
+              "externalID": "8510",
+              "name": "Khushab",
+              "name_l1": "خوشاب",
+              "slug": "/Khushab-8510",
+              "slug_l1": "/Khushab-8510"
+          },
+          {
+              "id": 5410,
+              "level": 3,
+              "externalID": "10872",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Khushab_Others-10872",
+              "slug_l1": "/Khushab_Others-10872"
+          }
+      ],
+      "hierarchyPath": "Others Khushab Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10872",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5410",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6006,
+      "name": "Shehzad Town",
+      "name_l1": "شہزاد ٹاؤن",
+      "externalID": "12062",
+      "slug": "/Khushab_Shehzad_Town-12062",
+      "slug_l1": "/Khushab_Shehzad_Town-12062",
+      "_geoloc": {
+          "lat": 32.288792,
+          "lng": 72.307633
+      },
+      "geography": {
+          "lat": 32.288792,
+          "lng": 72.307633
+      },
+      "geo_point": [
+          72.307633,
+          32.288792
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 118,
+              "level": 2,
+              "externalID": "8510",
+              "name": "Khushab",
+              "name_l1": "خوشاب",
+              "slug": "/Khushab-8510",
+              "slug_l1": "/Khushab-8510"
+          },
+          {
+              "id": 6006,
+              "level": 3,
+              "externalID": "12062",
+              "name": "Shehzad Town",
+              "name_l1": "شہزاد ٹاؤن",
+              "slug": "/Khushab_Shehzad_Town-12062",
+              "slug_l1": "/Khushab_Shehzad_Town-12062"
+          }
+      ],
+      "hierarchyPath": "Shehzad Town Khushab Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12062",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6006",
+      "_highlightResult": {
+          "name": {
+              "value": "Shehzad Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18572,
+      "name": "Wapda Scarp Colony",
+      "name_l1": "واپڈا اسکارپ کالونی",
+      "externalID": "19488",
+      "slug": "/Khushab_Wapda_Scarp_Colony-19488",
+      "slug_l1": "/Khushab_Wapda_Scarp_Colony-19488",
+      "_geoloc": {
+          "lat": 32.289762,
+          "lng": 72.321437
+      },
+      "geography": {
+          "lat": 32.289762,
+          "lng": 72.321437
+      },
+      "geo_point": [
+          72.321437,
+          32.289762
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 118,
+              "level": 2,
+              "externalID": "8510",
+              "name": "Khushab",
+              "name_l1": "خوشاب",
+              "slug": "/Khushab-8510",
+              "slug_l1": "/Khushab-8510"
+          },
+          {
+              "id": 18572,
+              "level": 3,
+              "externalID": "19488",
+              "name": "Wapda Scarp Colony",
+              "name_l1": "واپڈا اسکارپ کالونی",
+              "slug": "/Khushab_Wapda_Scarp_Colony-19488",
+              "slug_l1": "/Khushab_Wapda_Scarp_Colony-19488"
+          }
+      ],
+      "hierarchyPath": "Wapda Scarp Colony Khushab Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19488",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18572",
+      "_highlightResult": {
+          "name": {
+              "value": "Wapda Scarp Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,994 @@
+[
+  {
+      "id": 14387,
+      "name": "Dalail Dero",
+      "name_l1": "دلیل ڈیرو",
+      "externalID": "15882",
+      "slug": "/Sakrand_Dalail_Dero-15882",
+      "slug_l1": "/Sakrand_Dalail_Dero-15882",
+      "_geoloc": {
+          "lat": 26.175871,
+          "lng": 68.287486
+      },
+      "geography": {
+          "lat": 26.175871,
+          "lng": 68.287486
+      },
+      "geo_point": [
+          68.287486,
+          26.175871
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 14387,
+              "level": 3,
+              "externalID": "15882",
+              "name": "Dalail Dero",
+              "name_l1": "دلیل ڈیرو",
+              "slug": "/Sakrand_Dalail_Dero-15882",
+              "slug_l1": "/Sakrand_Dalail_Dero-15882"
+          }
+      ],
+      "hierarchyPath": "Dalail Dero Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15882",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14387",
+      "_highlightResult": {
+          "name": {
+              "value": "Dalail Dero",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11923,
+      "name": "Kainaat Nagar",
+      "name_l1": "کائنات نگر",
+      "externalID": "13444",
+      "slug": "/Sakrand_Kainaat_Nagar-13444",
+      "slug_l1": "/Sakrand_Kainaat_Nagar-13444",
+      "_geoloc": {
+          "lat": 26.148025,
+          "lng": 68.258917
+      },
+      "geography": {
+          "lat": 26.148025,
+          "lng": 68.258917
+      },
+      "geo_point": [
+          68.258917,
+          26.148025
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 11923,
+              "level": 3,
+              "externalID": "13444",
+              "name": "Kainaat Nagar",
+              "name_l1": "کائنات نگر",
+              "slug": "/Sakrand_Kainaat_Nagar-13444",
+              "slug_l1": "/Sakrand_Kainaat_Nagar-13444"
+          }
+      ],
+      "hierarchyPath": "Kainaat Nagar Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13444",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11923",
+      "_highlightResult": {
+          "name": {
+              "value": "Kainaat Nagar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11922,
+      "name": "Khabarab Road",
+      "name_l1": "خابراب روڈ",
+      "externalID": "13443",
+      "slug": "/Sakrand_Khabarab_Road-13443",
+      "slug_l1": "/Sakrand_Khabarab_Road-13443",
+      "_geoloc": {
+          "lat": 26.137526,
+          "lng": 68.266017
+      },
+      "geography": {
+          "lat": 26.137526,
+          "lng": 68.266017
+      },
+      "geo_point": [
+          68.266017,
+          26.137526
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 11922,
+              "level": 3,
+              "externalID": "13443",
+              "name": "Khabarab Road",
+              "name_l1": "خابراب روڈ",
+              "slug": "/Sakrand_Khabarab_Road-13443",
+              "slug_l1": "/Sakrand_Khabarab_Road-13443"
+          }
+      ],
+      "hierarchyPath": "Khabarab Road Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13443",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11922",
+      "_highlightResult": {
+          "name": {
+              "value": "Khabarab Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11921,
+      "name": "Lailabad Colony",
+      "name_l1": "لیلآباد کالونی",
+      "externalID": "13442",
+      "slug": "/Sakrand_Lailabad_Colony-13442",
+      "slug_l1": "/Sakrand_Lailabad_Colony-13442",
+      "_geoloc": {
+          "lat": 26.140461,
+          "lng": 68.274309
+      },
+      "geography": {
+          "lat": 26.140461,
+          "lng": 68.274309
+      },
+      "geo_point": [
+          68.274309,
+          26.140461
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 11921,
+              "level": 3,
+              "externalID": "13442",
+              "name": "Lailabad Colony",
+              "name_l1": "لیلآباد کالونی",
+              "slug": "/Sakrand_Lailabad_Colony-13442",
+              "slug_l1": "/Sakrand_Lailabad_Colony-13442"
+          }
+      ],
+      "hierarchyPath": "Lailabad Colony Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13442",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11921",
+      "_highlightResult": {
+          "name": {
+              "value": "Lailabad Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14383,
+      "name": "Mehrabpur Road",
+      "name_l1": "محراب پور روڈ",
+      "externalID": "15878",
+      "slug": "/Sakrand_Mehrabpur_Road-15878",
+      "slug_l1": "/Sakrand_Mehrabpur_Road-15878",
+      "_geoloc": {
+          "lat": 26.138337,
+          "lng": 68.255734
+      },
+      "geography": {
+          "lat": 26.138337,
+          "lng": 68.255734
+      },
+      "geo_point": [
+          68.255734,
+          26.138337
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 14383,
+              "level": 3,
+              "externalID": "15878",
+              "name": "Mehrabpur Road",
+              "name_l1": "محراب پور روڈ",
+              "slug": "/Sakrand_Mehrabpur_Road-15878",
+              "slug_l1": "/Sakrand_Mehrabpur_Road-15878"
+          }
+      ],
+      "hierarchyPath": "Mehrabpur Road Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15878",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14383",
+      "_highlightResult": {
+          "name": {
+              "value": "Mehrabpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11920,
+      "name": "Mehran Colony",
+      "name_l1": "مہران کالونی",
+      "externalID": "13441",
+      "slug": "/Sakrand_Mehran_Colony-13441",
+      "slug_l1": "/Sakrand_Mehran_Colony-13441",
+      "_geoloc": {
+          "lat": 26.13795,
+          "lng": 68.27677
+      },
+      "geography": {
+          "lat": 26.13795,
+          "lng": 68.27677
+      },
+      "geo_point": [
+          68.27677,
+          26.13795
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 11920,
+              "level": 3,
+              "externalID": "13441",
+              "name": "Mehran Colony",
+              "name_l1": "مہران کالونی",
+              "slug": "/Sakrand_Mehran_Colony-13441",
+              "slug_l1": "/Sakrand_Mehran_Colony-13441"
+          }
+      ],
+      "hierarchyPath": "Mehran Colony Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13441",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11920",
+      "_highlightResult": {
+          "name": {
+              "value": "Mehran Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14382,
+      "name": "National Highway",
+      "name_l1": "نیشنل ہائی وے",
+      "externalID": "15877",
+      "slug": "/Sakrand_National_Highway-15877",
+      "slug_l1": "/Sakrand_National_Highway-15877",
+      "_geoloc": {
+          "lat": 26.137576,
+          "lng": 68.260617
+      },
+      "geography": {
+          "lat": 26.137576,
+          "lng": 68.260617
+      },
+      "geo_point": [
+          68.260617,
+          26.137576
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 14382,
+              "level": 3,
+              "externalID": "15877",
+              "name": "National Highway",
+              "name_l1": "نیشنل ہائی وے",
+              "slug": "/Sakrand_National_Highway-15877",
+              "slug_l1": "/Sakrand_National_Highway-15877"
+          }
+      ],
+      "hierarchyPath": "National Highway Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15877",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14382",
+      "_highlightResult": {
+          "name": {
+              "value": "National Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11918,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13439",
+      "slug": "/Sakrand_Others-13439",
+      "slug_l1": "/Sakrand_Others-13439",
+      "_geoloc": {
+          "lat": 26.13807,
+          "lng": 68.271638
+      },
+      "geography": {
+          "lat": 26.13807,
+          "lng": 68.271638
+      },
+      "geo_point": [
+          68.271638,
+          26.13807
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 11918,
+              "level": 3,
+              "externalID": "13439",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Sakrand_Others-13439",
+              "slug_l1": "/Sakrand_Others-13439"
+          }
+      ],
+      "hierarchyPath": "Others Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13439",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11918",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14385,
+      "name": "Qazi Ahmed Road",
+      "name_l1": "قاضی احمد روڈ",
+      "externalID": "15880",
+      "slug": "/Sakrand_Qazi_Ahmed_Road-15880",
+      "slug_l1": "/Sakrand_Qazi_Ahmed_Road-15880",
+      "_geoloc": {
+          "lat": 26.145001,
+          "lng": 68.254654
+      },
+      "geography": {
+          "lat": 26.145001,
+          "lng": 68.254654
+      },
+      "geo_point": [
+          68.254654,
+          26.145001
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 14385,
+              "level": 3,
+              "externalID": "15880",
+              "name": "Qazi Ahmed Road",
+              "name_l1": "قاضی احمد روڈ",
+              "slug": "/Sakrand_Qazi_Ahmed_Road-15880",
+              "slug_l1": "/Sakrand_Qazi_Ahmed_Road-15880"
+          }
+      ],
+      "hierarchyPath": "Qazi Ahmed Road Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15880",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14385",
+      "_highlightResult": {
+          "name": {
+              "value": "Qazi Ahmed Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11917,
+      "name": "Sakrand",
+      "name_l1": "سکرنڈ",
+      "externalID": "13438",
+      "slug": "/Sakrand-13438",
+      "slug_l1": "/Sakrand-13438",
+      "_geoloc": {
+          "lat": 26.139538,
+          "lng": 68.269707
+      },
+      "geography": {
+          "lat": 26.139538,
+          "lng": 68.269707
+      },
+      "geo_point": [
+          68.269707,
+          26.139538
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          }
+      ],
+      "hierarchyPath": "Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13438",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11917",
+      "_highlightResult": {
+          "name": {
+              "value": "Sakrand",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14389,
+      "name": "Sakrand - Benazirabad Highway",
+      "name_l1": "سکرانڈ ۔ بینظیر آباد ہائی وے",
+      "externalID": "15883",
+      "slug": "/Sakrand_Sakrand___Benazirabad_Highway-15883",
+      "slug_l1": "/Sakrand_Sakrand___Benazirabad_Highway-15883",
+      "_geoloc": {
+          "lat": 26.169478,
+          "lng": 68.284053
+      },
+      "geography": {
+          "lat": 26.169478,
+          "lng": 68.284053
+      },
+      "geo_point": [
+          68.284053,
+          26.169478
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 14389,
+              "level": 3,
+              "externalID": "15883",
+              "name": "Sakrand - Benazirabad Highway",
+              "name_l1": "سکرانڈ ۔ بینظیر آباد ہائی وے",
+              "slug": "/Sakrand_Sakrand___Benazirabad_Highway-15883",
+              "slug_l1": "/Sakrand_Sakrand___Benazirabad_Highway-15883"
+          }
+      ],
+      "hierarchyPath": "Sakrand - Benazirabad Highway Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15883",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14389",
+      "_highlightResult": {
+          "name": {
+              "value": "Sakrand - Benazirabad Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14386,
+      "name": "Shahbaz Minar Road",
+      "name_l1": "شہباز مینار روڈ",
+      "externalID": "15881",
+      "slug": "/Sakrand_Shahbaz_Minar_Road-15881",
+      "slug_l1": "/Sakrand_Shahbaz_Minar_Road-15881",
+      "_geoloc": {
+          "lat": 26.14542,
+          "lng": 68.270987
+      },
+      "geography": {
+          "lat": 26.14542,
+          "lng": 68.270987
+      },
+      "geo_point": [
+          68.270987,
+          26.14542
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 14386,
+              "level": 3,
+              "externalID": "15881",
+              "name": "Shahbaz Minar Road",
+              "name_l1": "شہباز مینار روڈ",
+              "slug": "/Sakrand_Shahbaz_Minar_Road-15881",
+              "slug_l1": "/Sakrand_Shahbaz_Minar_Road-15881"
+          }
+      ],
+      "hierarchyPath": "Shahbaz Minar Road Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15881",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14386",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahbaz Minar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11919,
+      "name": "Shaheed Colony",
+      "name_l1": "شہید کالونی",
+      "externalID": "13440",
+      "slug": "/Sakrand_Shaheed_Colony-13440",
+      "slug_l1": "/Sakrand_Shaheed_Colony-13440",
+      "_geoloc": {
+          "lat": 26.134044,
+          "lng": 68.273642
+      },
+      "geography": {
+          "lat": 26.134044,
+          "lng": 68.273642
+      },
+      "geo_point": [
+          68.273642,
+          26.134044
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11917,
+              "level": 2,
+              "externalID": "13438",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Sakrand-13438",
+              "slug_l1": "/Sakrand-13438"
+          },
+          {
+              "id": 11919,
+              "level": 3,
+              "externalID": "13440",
+              "name": "Shaheed Colony",
+              "name_l1": "شہید کالونی",
+              "slug": "/Sakrand_Shaheed_Colony-13440",
+              "slug_l1": "/Sakrand_Shaheed_Colony-13440"
+          }
+      ],
+      "hierarchyPath": "Shaheed Colony Sakrand Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13440",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11919",
+      "_highlightResult": {
+          "name": {
+              "value": "Shaheed Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

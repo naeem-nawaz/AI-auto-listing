@@ -1,0 +1,618 @@
+[
+  {
+      "id": 11142,
+      "name": "Chak 185/9L",
+      "name_l1": "چک 185/9 ایل",
+      "externalID": "12734",
+      "slug": "/Harappa_Chak_1859L-12734",
+      "slug_l1": "/Harappa_Chak_1859L-12734",
+      "_geoloc": {
+          "lat": 30.564762,
+          "lng": 72.928068
+      },
+      "geography": {
+          "lat": 30.564762,
+          "lng": 72.928068
+      },
+      "geo_point": [
+          72.928068,
+          30.564762
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 172,
+              "level": 2,
+              "externalID": "11634",
+              "name": "Harappa",
+              "name_l1": "ہڑپہ",
+              "slug": "/Harappa-11634",
+              "slug_l1": "/Harappa-11634"
+          },
+          {
+              "id": 11142,
+              "level": 3,
+              "externalID": "12734",
+              "name": "Chak 185/9L",
+              "name_l1": "چک 185/9 ایل",
+              "slug": "/Harappa_Chak_1859L-12734",
+              "slug_l1": "/Harappa_Chak_1859L-12734"
+          }
+      ],
+      "hierarchyPath": "Chak 185/9L Harappa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12734",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11142",
+      "_highlightResult": {
+          "name": {
+              "value": "Chak 185/9L",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 172,
+      "name": "Harappa",
+      "name_l1": "ہڑپہ",
+      "externalID": "11634",
+      "slug": "/Harappa-11634",
+      "slug_l1": "/Harappa-11634",
+      "_geoloc": {
+          "lat": 30.631196,
+          "lng": 72.865719
+      },
+      "geography": {
+          "lat": 30.631196,
+          "lng": 72.865719
+      },
+      "geo_point": [
+          72.865719,
+          30.631196
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 172,
+              "level": 2,
+              "externalID": "11634",
+              "name": "Harappa",
+              "name_l1": "ہڑپہ",
+              "slug": "/Harappa-11634",
+              "slug_l1": "/Harappa-11634"
+          }
+      ],
+      "hierarchyPath": "Harappa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11634",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "172",
+      "_highlightResult": {
+          "name": {
+              "value": "Harappa",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14436,
+      "name": "Harappa Road",
+      "name_l1": "ہڑپہ روڈ",
+      "externalID": "15949",
+      "slug": "/Harappa_Harappa_Road-15949",
+      "slug_l1": "/Harappa_Harappa_Road-15949",
+      "_geoloc": {
+          "lat": 30.610784,
+          "lng": 72.89935
+      },
+      "geography": {
+          "lat": 30.610784,
+          "lng": 72.89935
+      },
+      "geo_point": [
+          72.89935,
+          30.610784
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 172,
+              "level": 2,
+              "externalID": "11634",
+              "name": "Harappa",
+              "name_l1": "ہڑپہ",
+              "slug": "/Harappa-11634",
+              "slug_l1": "/Harappa-11634"
+          },
+          {
+              "id": 14436,
+              "level": 3,
+              "externalID": "15949",
+              "name": "Harappa Road",
+              "name_l1": "ہڑپہ روڈ",
+              "slug": "/Harappa_Harappa_Road-15949",
+              "slug_l1": "/Harappa_Harappa_Road-15949"
+          }
+      ],
+      "hierarchyPath": "Harappa Road Harappa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15949",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14436",
+      "_highlightResult": {
+          "name": {
+              "value": "Harappa Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11844,
+      "name": "Jinnah Town",
+      "name_l1": "جناح ٹاؤن",
+      "externalID": "13367",
+      "slug": "/Harappa_Jinnah_Town-13367",
+      "slug_l1": "/Harappa_Jinnah_Town-13367",
+      "_geoloc": {
+          "lat": 30.590642,
+          "lng": 72.907939
+      },
+      "geography": {
+          "lat": 30.590642,
+          "lng": 72.907939
+      },
+      "geo_point": [
+          72.907939,
+          30.590642
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 172,
+              "level": 2,
+              "externalID": "11634",
+              "name": "Harappa",
+              "name_l1": "ہڑپہ",
+              "slug": "/Harappa-11634",
+              "slug_l1": "/Harappa-11634"
+          },
+          {
+              "id": 11844,
+              "level": 3,
+              "externalID": "13367",
+              "name": "Jinnah Town",
+              "name_l1": "جناح ٹاؤن",
+              "slug": "/Harappa_Jinnah_Town-13367",
+              "slug_l1": "/Harappa_Jinnah_Town-13367"
+          }
+      ],
+      "hierarchyPath": "Jinnah Town Harappa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13367",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11844",
+      "_highlightResult": {
+          "name": {
+              "value": "Jinnah Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14434,
+      "name": "Multan Road",
+      "name_l1": "ملتان روڈ",
+      "externalID": "15947",
+      "slug": "/Harappa_Multan_Road-15947",
+      "slug_l1": "/Harappa_Multan_Road-15947",
+      "_geoloc": {
+          "lat": 30.597944,
+          "lng": 72.907075
+      },
+      "geography": {
+          "lat": 30.597944,
+          "lng": 72.907075
+      },
+      "geo_point": [
+          72.907075,
+          30.597944
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 172,
+              "level": 2,
+              "externalID": "11634",
+              "name": "Harappa",
+              "name_l1": "ہڑپہ",
+              "slug": "/Harappa-11634",
+              "slug_l1": "/Harappa-11634"
+          },
+          {
+              "id": 14434,
+              "level": 3,
+              "externalID": "15947",
+              "name": "Multan Road",
+              "name_l1": "ملتان روڈ",
+              "slug": "/Harappa_Multan_Road-15947",
+              "slug_l1": "/Harappa_Multan_Road-15947"
+          }
+      ],
+      "hierarchyPath": "Multan Road Harappa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15947",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14434",
+      "_highlightResult": {
+          "name": {
+              "value": "Multan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14435,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "15948",
+      "slug": "/Harappa_Others-15948",
+      "slug_l1": "/Harappa_Others-15948",
+      "_geoloc": {
+          "lat": 30.604948,
+          "lng": 72.904481
+      },
+      "geography": {
+          "lat": 30.604948,
+          "lng": 72.904481
+      },
+      "geo_point": [
+          72.904481,
+          30.604948
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 172,
+              "level": 2,
+              "externalID": "11634",
+              "name": "Harappa",
+              "name_l1": "ہڑپہ",
+              "slug": "/Harappa-11634",
+              "slug_l1": "/Harappa-11634"
+          },
+          {
+              "id": 14435,
+              "level": 3,
+              "externalID": "15948",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Harappa_Others-15948",
+              "slug_l1": "/Harappa_Others-15948"
+          }
+      ],
+      "hierarchyPath": "Others Harappa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15948",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14435",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5801,
+      "name": "Shalimar Town Housing Scheme",
+      "name_l1": "شالیمار ٹاؤن ہاؤسنگ سکیم",
+      "externalID": "11636",
+      "slug": "/Harappa_Shalimar_Town_Housing_Scheme-11636",
+      "slug_l1": "/Harappa_Shalimar_Town_Housing_Scheme-11636",
+      "_geoloc": {
+          "lat": 30.595684,
+          "lng": 72.909943
+      },
+      "geography": {
+          "lat": 30.595684,
+          "lng": 72.909943
+      },
+      "geo_point": [
+          72.909943,
+          30.595684
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 172,
+              "level": 2,
+              "externalID": "11634",
+              "name": "Harappa",
+              "name_l1": "ہڑپہ",
+              "slug": "/Harappa-11634",
+              "slug_l1": "/Harappa-11634"
+          },
+          {
+              "id": 5801,
+              "level": 3,
+              "externalID": "11636",
+              "name": "Shalimar Town Housing Scheme",
+              "name_l1": "شالیمار ٹاؤن ہاؤسنگ سکیم",
+              "slug": "/Harappa_Shalimar_Town_Housing_Scheme-11636",
+              "slug_l1": "/Harappa_Shalimar_Town_Housing_Scheme-11636"
+          }
+      ],
+      "hierarchyPath": "Shalimar Town Housing Scheme Harappa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11636",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5801",
+      "_highlightResult": {
+          "name": {
+              "value": "Shalimar Town Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11146,
+      "name": "Shalimar Valley Housing Society",
+      "name_l1": "شالیمار ویلی ہاؤسنگ سوسائٹی",
+      "externalID": "12733",
+      "slug": "/Harappa_Chak_1859L_Shalimar_Valley_Housing_Society-12733",
+      "slug_l1": "/Harappa_Chak_1859L_Shalimar_Valley_Housing_Society-12733",
+      "_geoloc": {
+          "lat": 30.565016,
+          "lng": 72.921018
+      },
+      "geography": {
+          "lat": 30.565016,
+          "lng": 72.921018
+      },
+      "geo_point": [
+          72.921018,
+          30.565016
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 172,
+              "level": 2,
+              "externalID": "11634",
+              "name": "Harappa",
+              "name_l1": "ہڑپہ",
+              "slug": "/Harappa-11634",
+              "slug_l1": "/Harappa-11634"
+          },
+          {
+              "id": 11142,
+              "level": 3,
+              "externalID": "12734",
+              "name": "Chak 185/9L",
+              "name_l1": "چک 185/9 ایل",
+              "slug": "/Harappa_Chak_1859L-12734",
+              "slug_l1": "/Harappa_Chak_1859L-12734"
+          },
+          {
+              "id": 11146,
+              "level": 4,
+              "externalID": "12733",
+              "name": "Shalimar Valley Housing Society",
+              "name_l1": "شالیمار ویلی ہاؤسنگ سوسائٹی",
+              "slug": "/Harappa_Chak_1859L_Shalimar_Valley_Housing_Society-12733",
+              "slug_l1": "/Harappa_Chak_1859L_Shalimar_Valley_Housing_Society-12733"
+          }
+      ],
+      "hierarchyPath": "Shalimar Valley Housing Society Chak 185/9L Harappa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12733",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11146",
+      "_highlightResult": {
+          "name": {
+              "value": "Shalimar Valley Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

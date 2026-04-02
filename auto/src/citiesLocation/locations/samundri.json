@@ -1,0 +1,695 @@
+[
+  {
+      "id": 18575,
+      "name": "Arch Valley",
+      "name_l1": "آرچ ویلی",
+      "externalID": "19491",
+      "slug": "/Samundri_Arch_Valley-19491",
+      "slug_l1": "/Samundri_Arch_Valley-19491",
+      "_geoloc": {
+          "lat": 31.0909183,
+          "lng": 72.9735471
+      },
+      "geography": {
+          "lat": 31.0909183,
+          "lng": 72.9735471
+      },
+      "geo_point": [
+          72.9735471,
+          31.0909183
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 160,
+              "level": 2,
+              "externalID": "10632",
+              "name": "Samundri",
+              "name_l1": "سمندری",
+              "slug": "/Samundri-10632",
+              "slug_l1": "/Samundri-10632"
+          },
+          {
+              "id": 18575,
+              "level": 3,
+              "externalID": "19491",
+              "name": "Arch Valley",
+              "name_l1": "آرچ ویلی",
+              "slug": "/Samundri_Arch_Valley-19491",
+              "slug_l1": "/Samundri_Arch_Valley-19491"
+          }
+      ],
+      "hierarchyPath": "Arch Valley Samundri Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19491",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18575",
+      "_highlightResult": {
+          "name": {
+              "value": "Arch Valley",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15909,
+      "name": "Gojra Road Samundari",
+      "name_l1": "گوجرہ روڈ سمندری",
+      "externalID": "17261",
+      "slug": "/Samundri_Gojra_Road_Samundari-17261",
+      "slug_l1": "/Samundri_Gojra_Road_Samundari-17261",
+      "_geoloc": {
+          "lat": 31.067417,
+          "lng": 72.921694
+      },
+      "geography": {
+          "lat": 31.067417,
+          "lng": 72.921694
+      },
+      "geo_point": [
+          72.921694,
+          31.067417
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 160,
+              "level": 2,
+              "externalID": "10632",
+              "name": "Samundri",
+              "name_l1": "سمندری",
+              "slug": "/Samundri-10632",
+              "slug_l1": "/Samundri-10632"
+          },
+          {
+              "id": 15909,
+              "level": 3,
+              "externalID": "17261",
+              "name": "Gojra Road Samundari",
+              "name_l1": "گوجرہ روڈ سمندری",
+              "slug": "/Samundri_Gojra_Road_Samundari-17261",
+              "slug_l1": "/Samundri_Gojra_Road_Samundari-17261"
+          }
+      ],
+      "hierarchyPath": "Gojra Road Samundari Samundri Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17261",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "15909",
+      "_highlightResult": {
+          "name": {
+              "value": "Gojra Road Samundari",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15809,
+      "name": "Gold Park City",
+      "name_l1": "گولڈ پارک سٹی",
+      "externalID": "17166",
+      "slug": "/Samundri_Gojra_Road_Samundari_Gold_Park_City-17166",
+      "slug_l1": "/Samundri_Gojra_Road_Samundari_Gold_Park_City-17166",
+      "_geoloc": {
+          "lat": 31.07324583,
+          "lng": 72.92652324
+      },
+      "geography": {
+          "lat": 31.07324583,
+          "lng": 72.92652324
+      },
+      "geo_point": [
+          72.92652324,
+          31.07324583
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 160,
+              "level": 2,
+              "externalID": "10632",
+              "name": "Samundri",
+              "name_l1": "سمندری",
+              "slug": "/Samundri-10632",
+              "slug_l1": "/Samundri-10632"
+          },
+          {
+              "id": 15909,
+              "level": 3,
+              "externalID": "17261",
+              "name": "Gojra Road Samundari",
+              "name_l1": "گوجرہ روڈ سمندری",
+              "slug": "/Samundri_Gojra_Road_Samundari-17261",
+              "slug_l1": "/Samundri_Gojra_Road_Samundari-17261"
+          },
+          {
+              "id": 15809,
+              "level": 4,
+              "externalID": "17166",
+              "name": "Gold Park City",
+              "name_l1": "گولڈ پارک سٹی",
+              "slug": "/Samundri_Gojra_Road_Samundari_Gold_Park_City-17166",
+              "slug_l1": "/Samundri_Gojra_Road_Samundari_Gold_Park_City-17166"
+          }
+      ],
+      "hierarchyPath": "Gold Park City Gojra Road Samundari Samundri Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17166",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15809",
+      "_highlightResult": {
+          "name": {
+              "value": "Gold Park City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18578,
+      "name": "Kehkashan Colony",
+      "name_l1": "کہکشاں کالونی",
+      "externalID": "19495",
+      "slug": "/Samundri_Kehkashan_Colony-19495",
+      "slug_l1": "/Samundri_Kehkashan_Colony-19495",
+      "_geoloc": {
+          "lat": 31.056961,
+          "lng": 72.955125
+      },
+      "geography": {
+          "lat": 31.056961,
+          "lng": 72.955125
+      },
+      "geo_point": [
+          72.955125,
+          31.056961
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 160,
+              "level": 2,
+              "externalID": "10632",
+              "name": "Samundri",
+              "name_l1": "سمندری",
+              "slug": "/Samundri-10632",
+              "slug_l1": "/Samundri-10632"
+          },
+          {
+              "id": 18578,
+              "level": 3,
+              "externalID": "19495",
+              "name": "Kehkashan Colony",
+              "name_l1": "کہکشاں کالونی",
+              "slug": "/Samundri_Kehkashan_Colony-19495",
+              "slug_l1": "/Samundri_Kehkashan_Colony-19495"
+          }
+      ],
+      "hierarchyPath": "Kehkashan Colony Samundri Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19495",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18578",
+      "_highlightResult": {
+          "name": {
+              "value": "Kehkashan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18576,
+      "name": "Kohala Village",
+      "name_l1": "کوہالہ ولیج",
+      "externalID": "19492",
+      "slug": "/Samundri_Kohala_Village-19492",
+      "slug_l1": "/Samundri_Kohala_Village-19492",
+      "_geoloc": {
+          "lat": 31.065686,
+          "lng": 72.836792
+      },
+      "geography": {
+          "lat": 31.065686,
+          "lng": 72.836792
+      },
+      "geo_point": [
+          72.836792,
+          31.065686
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 160,
+              "level": 2,
+              "externalID": "10632",
+              "name": "Samundri",
+              "name_l1": "سمندری",
+              "slug": "/Samundri-10632",
+              "slug_l1": "/Samundri-10632"
+          },
+          {
+              "id": 18576,
+              "level": 3,
+              "externalID": "19492",
+              "name": "Kohala Village",
+              "name_l1": "کوہالہ ولیج",
+              "slug": "/Samundri_Kohala_Village-19492",
+              "slug_l1": "/Samundri_Kohala_Village-19492"
+          }
+      ],
+      "hierarchyPath": "Kohala Village Samundri Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19492",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18576",
+      "_highlightResult": {
+          "name": {
+              "value": "Kohala Village",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18579,
+      "name": "Madina Garden",
+      "name_l1": "مدینہ گارڈن",
+      "externalID": "19496",
+      "slug": "/Samundri_Madina_Garden-19496",
+      "slug_l1": "/Samundri_Madina_Garden-19496",
+      "_geoloc": {
+          "lat": 31.0602211,
+          "lng": 72.9392079
+      },
+      "geography": {
+          "lat": 31.0602211,
+          "lng": 72.9392079
+      },
+      "geo_point": [
+          72.9392079,
+          31.0602211
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 160,
+              "level": 2,
+              "externalID": "10632",
+              "name": "Samundri",
+              "name_l1": "سمندری",
+              "slug": "/Samundri-10632",
+              "slug_l1": "/Samundri-10632"
+          },
+          {
+              "id": 18579,
+              "level": 3,
+              "externalID": "19496",
+              "name": "Madina Garden",
+              "name_l1": "مدینہ گارڈن",
+              "slug": "/Samundri_Madina_Garden-19496",
+              "slug_l1": "/Samundri_Madina_Garden-19496"
+          }
+      ],
+      "hierarchyPath": "Madina Garden Samundri Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19496",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18579",
+      "_highlightResult": {
+          "name": {
+              "value": "Madina Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18695,
+      "name": "Mane Bypass",
+      "name_l1": "مانے بائی پاس",
+      "externalID": "19610",
+      "slug": "/Samundri_Mane_Bypass-19610",
+      "slug_l1": "/Samundri_Mane_Bypass-19610",
+      "_geoloc": {
+          "lat": 31.066849,
+          "lng": 72.949428
+      },
+      "geography": {
+          "lat": 31.066849,
+          "lng": 72.949428
+      },
+      "geo_point": [
+          72.949428,
+          31.066849
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 160,
+              "level": 2,
+              "externalID": "10632",
+              "name": "Samundri",
+              "name_l1": "سمندری",
+              "slug": "/Samundri-10632",
+              "slug_l1": "/Samundri-10632"
+          },
+          {
+              "id": 18695,
+              "level": 3,
+              "externalID": "19610",
+              "name": "Mane Bypass",
+              "name_l1": "مانے بائی پاس",
+              "slug": "/Samundri_Mane_Bypass-19610",
+              "slug_l1": "/Samundri_Mane_Bypass-19610"
+          }
+      ],
+      "hierarchyPath": "Mane Bypass Samundri Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19610",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18695",
+      "_highlightResult": {
+          "name": {
+              "value": "Mane Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5284,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "10661",
+      "slug": "/Samundri_Others-10661",
+      "slug_l1": "/Samundri_Others-10661",
+      "_geoloc": {
+          "lat": 31.063019,
+          "lng": 72.952465
+      },
+      "geography": {
+          "lat": 31.063019,
+          "lng": 72.952465
+      },
+      "geo_point": [
+          72.952465,
+          31.063019
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 160,
+              "level": 2,
+              "externalID": "10632",
+              "name": "Samundri",
+              "name_l1": "سمندری",
+              "slug": "/Samundri-10632",
+              "slug_l1": "/Samundri-10632"
+          },
+          {
+              "id": 5284,
+              "level": 3,
+              "externalID": "10661",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Samundri_Others-10661",
+              "slug_l1": "/Samundri_Others-10661"
+          }
+      ],
+      "hierarchyPath": "Others Samundri Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10661",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5284",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 160,
+      "name": "Samundri",
+      "name_l1": "سمندری",
+      "externalID": "10632",
+      "slug": "/Samundri-10632",
+      "slug_l1": "/Samundri-10632",
+      "_geoloc": {
+          "lat": 31.066301,
+          "lng": 72.94969
+      },
+      "geography": {
+          "lat": 31.066301,
+          "lng": 72.94969
+      },
+      "geo_point": [
+          72.94969,
+          31.066301
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 160,
+              "level": 2,
+              "externalID": "10632",
+              "name": "Samundri",
+              "name_l1": "سمندری",
+              "slug": "/Samundri-10632",
+              "slug_l1": "/Samundri-10632"
+          }
+      ],
+      "hierarchyPath": "Samundri Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10632",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "160",
+      "_highlightResult": {
+          "name": {
+              "value": "Samundri",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

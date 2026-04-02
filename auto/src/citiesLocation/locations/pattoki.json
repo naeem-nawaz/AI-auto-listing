@@ -1,0 +1,378 @@
+[
+  {
+      "id": 19352,
+      "name": "Multan Road",
+      "name_l1": "ملتان روڈ",
+      "externalID": "20234",
+      "slug": "/Pattoki_Multan_Road-20234",
+      "slug_l1": "/Pattoki_Multan_Road-20234",
+      "_geoloc": {
+          "lat": 31.026874,
+          "lng": 73.849749
+      },
+      "geography": {
+          "lat": 31.026874,
+          "lng": 73.849749
+      },
+      "geo_point": [
+          73.849749,
+          31.026874
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4007,
+              "level": 2,
+              "externalID": "8197",
+              "name": "Pattoki",
+              "name_l1": "پتوکی",
+              "slug": "/Pattoki-8197",
+              "slug_l1": "/Pattoki-8197"
+          },
+          {
+              "id": 19352,
+              "level": 3,
+              "externalID": "20234",
+              "name": "Multan Road",
+              "name_l1": "ملتان روڈ",
+              "slug": "/Pattoki_Multan_Road-20234",
+              "slug_l1": "/Pattoki_Multan_Road-20234"
+          }
+      ],
+      "hierarchyPath": "Multan Road Pattoki Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20234",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19352",
+      "_highlightResult": {
+          "name": {
+              "value": "Multan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18718,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "19633",
+      "slug": "/Pattoki_Others-19633",
+      "slug_l1": "/Pattoki_Others-19633",
+      "_geoloc": {
+          "lat": 31.041957,
+          "lng": 73.865862
+      },
+      "geography": {
+          "lat": 31.041957,
+          "lng": 73.865862
+      },
+      "geo_point": [
+          73.865862,
+          31.041957
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4007,
+              "level": 2,
+              "externalID": "8197",
+              "name": "Pattoki",
+              "name_l1": "پتوکی",
+              "slug": "/Pattoki-8197",
+              "slug_l1": "/Pattoki-8197"
+          },
+          {
+              "id": 18718,
+              "level": 3,
+              "externalID": "19633",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Pattoki_Others-19633",
+              "slug_l1": "/Pattoki_Others-19633"
+          }
+      ],
+      "hierarchyPath": "Others Pattoki Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19633",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18718",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4007,
+      "name": "Pattoki",
+      "name_l1": "پتوکی",
+      "externalID": "8197",
+      "slug": "/Pattoki-8197",
+      "slug_l1": "/Pattoki-8197",
+      "_geoloc": {
+          "lat": 31.029916,
+          "lng": 73.851371
+      },
+      "geography": {
+          "lat": 31.029916,
+          "lng": 73.851371
+      },
+      "geo_point": [
+          73.851371,
+          31.029916
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4007,
+              "level": 2,
+              "externalID": "8197",
+              "name": "Pattoki",
+              "name_l1": "پتوکی",
+              "slug": "/Pattoki-8197",
+              "slug_l1": "/Pattoki-8197"
+          }
+      ],
+      "hierarchyPath": "Pattoki Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8197",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "4007",
+      "_highlightResult": {
+          "name": {
+              "value": "Pattoki",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9258,
+      "name": "Khayaban-e-Yousaf Housing Scheme",
+      "name_l1": "خیابان یوسف ہاؤسنگ سکیم",
+      "externalID": "12219",
+      "slug": "/Pattoki_Khayaban_e_Yousaf_Housing_Scheme-12219",
+      "slug_l1": "/Pattoki_Khayaban_e_Yousaf_Housing_Scheme-12219",
+      "_geoloc": {
+          "lat": 31.024395,
+          "lng": 73.84723
+      },
+      "geography": {
+          "lat": 31.024395,
+          "lng": 73.84723
+      },
+      "geo_point": [
+          73.84723,
+          31.024395
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4007,
+              "level": 2,
+              "externalID": "8197",
+              "name": "Pattoki",
+              "name_l1": "پتوکی",
+              "slug": "/Pattoki-8197",
+              "slug_l1": "/Pattoki-8197"
+          },
+          {
+              "id": 9258,
+              "level": 3,
+              "externalID": "12219",
+              "name": "Khayaban-e-Yousaf Housing Scheme",
+              "name_l1": "خیابان یوسف ہاؤسنگ سکیم",
+              "slug": "/Pattoki_Khayaban_e_Yousaf_Housing_Scheme-12219",
+              "slug_l1": "/Pattoki_Khayaban_e_Yousaf_Housing_Scheme-12219"
+          }
+      ],
+      "hierarchyPath": "Khayaban-e-Yousaf Housing Scheme Pattoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12219",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9258",
+      "_highlightResult": {
+          "name": {
+              "value": "Khayaban-e-Yousaf Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8695,
+      "name": "London City",
+      "name_l1": "لندن سِٹی",
+      "externalID": "10568",
+      "slug": "/Pattoki_London_City-10568",
+      "slug_l1": "/Pattoki_London_City-10568",
+      "_geoloc": {
+          "lat": 31.032615,
+          "lng": 73.851556
+      },
+      "geography": {
+          "lat": 31.032615,
+          "lng": 73.851556
+      },
+      "geo_point": [
+          73.851556,
+          31.032615
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4007,
+              "level": 2,
+              "externalID": "8197",
+              "name": "Pattoki",
+              "name_l1": "پتوکی",
+              "slug": "/Pattoki-8197",
+              "slug_l1": "/Pattoki-8197"
+          },
+          {
+              "id": 8695,
+              "level": 3,
+              "externalID": "10568",
+              "name": "London City",
+              "name_l1": "لندن سِٹی",
+              "slug": "/Pattoki_London_City-10568",
+              "slug_l1": "/Pattoki_London_City-10568"
+          }
+      ],
+      "hierarchyPath": "London City Pattoki Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10568",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8695",
+      "_highlightResult": {
+          "name": {
+              "value": "London City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

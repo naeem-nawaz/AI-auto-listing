@@ -1,0 +1,935 @@
+[
+  {
+      "id": 89,
+      "name": "Muzaffargarh",
+      "name_l1": "مظفر گڑہ",
+      "externalID": "1722",
+      "slug": "/Muzaffargarh-1722",
+      "slug_l1": "/Muzaffargarh-1722",
+      "_geoloc": {
+          "lat": 30.065454189747,
+          "lng": 71.188745498657
+      },
+      "geography": {
+          "lat": 30.065454189747,
+          "lng": 71.188745498657
+      },
+      "geo_point": [
+          71.188745498657,
+          30.065454189747
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          }
+      ],
+      "hierarchyPath": "Muzaffargarh Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1722",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "89",
+      "_highlightResult": {
+          "name": {
+              "value": "Muzaffargarh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14148,
+      "name": "MM Road",
+      "name_l1": "ایم ایم روڈ",
+      "externalID": "15618",
+      "slug": "/Muzaffargarh_MM_Road-15618",
+      "slug_l1": "/Muzaffargarh_MM_Road-15618",
+      "_geoloc": {
+          "lat": 30.117938,
+          "lng": 71.220456
+      },
+      "geography": {
+          "lat": 30.117938,
+          "lng": 71.220456
+      },
+      "geo_point": [
+          71.220456,
+          30.117938
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 14148,
+              "level": 3,
+              "externalID": "15618",
+              "name": "MM Road",
+              "name_l1": "ایم ایم روڈ",
+              "slug": "/Muzaffargarh_MM_Road-15618",
+              "slug_l1": "/Muzaffargarh_MM_Road-15618"
+          }
+      ],
+      "hierarchyPath": "MM Road Muzaffargarh Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15618",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "14148",
+      "_highlightResult": {
+          "name": {
+              "value": "MM Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1250,
+      "name": "Others",
+      "name_l1": "علاوہ",
+      "externalID": "1723",
+      "slug": "/Muzaffargarh_Others-1723",
+      "slug_l1": "/Muzaffargarh_Others-1723",
+      "_geoloc": {
+          "lat": 30.0736,
+          "lng": 71.1805
+      },
+      "geography": {
+          "lat": 30.0736,
+          "lng": 71.1805
+      },
+      "geo_point": [
+          71.1805,
+          30.0736
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 1250,
+              "level": 3,
+              "externalID": "1723",
+              "name": "Others",
+              "name_l1": "علاوہ",
+              "slug": "/Muzaffargarh_Others-1723",
+              "slug_l1": "/Muzaffargarh_Others-1723"
+          }
+      ],
+      "hierarchyPath": "Others Muzaffargarh Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1723",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1250",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11177,
+      "name": "Bypass Road",
+      "name_l1": "بائی پاس روڈ",
+      "externalID": "12779",
+      "slug": "/Muzaffargarh_Bypass_Road-12779",
+      "slug_l1": "/Muzaffargarh_Bypass_Road-12779",
+      "_geoloc": {
+          "lat": 30.30041,
+          "lng": 71.362634
+      },
+      "geography": {
+          "lat": 30.30041,
+          "lng": 71.362634
+      },
+      "geo_point": [
+          71.362634,
+          30.30041
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 11177,
+              "level": 3,
+              "externalID": "12779",
+              "name": "Bypass Road",
+              "name_l1": "بائی پاس روڈ",
+              "slug": "/Muzaffargarh_Bypass_Road-12779",
+              "slug_l1": "/Muzaffargarh_Bypass_Road-12779"
+          }
+      ],
+      "hierarchyPath": "Bypass Road Muzaffargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12779",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11177",
+      "_highlightResult": {
+          "name": {
+              "value": "Bypass Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11737,
+      "name": "Chowk Munda",
+      "name_l1": "چوک منڈا",
+      "externalID": "13262",
+      "slug": "/Muzaffargarh_Chowk_Munda-13262",
+      "slug_l1": "/Muzaffargarh_Chowk_Munda-13262",
+      "_geoloc": {
+          "lat": 30.581565,
+          "lng": 71.236726
+      },
+      "geography": {
+          "lat": 30.581565,
+          "lng": 71.236726
+      },
+      "geo_point": [
+          71.236726,
+          30.581565
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 11737,
+              "level": 3,
+              "externalID": "13262",
+              "name": "Chowk Munda",
+              "name_l1": "چوک منڈا",
+              "slug": "/Muzaffargarh_Chowk_Munda-13262",
+              "slug_l1": "/Muzaffargarh_Chowk_Munda-13262"
+          }
+      ],
+      "hierarchyPath": "Chowk Munda Muzaffargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13262",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11737",
+      "_highlightResult": {
+          "name": {
+              "value": "Chowk Munda",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14979,
+      "name": "Chowk Munda - Rangpur Road",
+      "name_l1": "چوک منڈا ۔ رنگ پور روڈ",
+      "externalID": "16494",
+      "slug": "/Muzaffargarh_Chowk_Munda___Rangpur_Road-16494",
+      "slug_l1": "/Muzaffargarh_Chowk_Munda___Rangpur_Road-16494",
+      "_geoloc": {
+          "lat": 30.581491,
+          "lng": 71.244873
+      },
+      "geography": {
+          "lat": 30.581491,
+          "lng": 71.244873
+      },
+      "geo_point": [
+          71.244873,
+          30.581491
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 14979,
+              "level": 3,
+              "externalID": "16494",
+              "name": "Chowk Munda - Rangpur Road",
+              "name_l1": "چوک منڈا ۔ رنگ پور روڈ",
+              "slug": "/Muzaffargarh_Chowk_Munda___Rangpur_Road-16494",
+              "slug_l1": "/Muzaffargarh_Chowk_Munda___Rangpur_Road-16494"
+          }
+      ],
+      "hierarchyPath": "Chowk Munda - Rangpur Road Muzaffargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16494",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14979",
+      "_highlightResult": {
+          "name": {
+              "value": "Chowk Munda - Rangpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11760,
+      "name": "Chowk Sarwar Shaheed",
+      "name_l1": "چوک سرور شہید",
+      "externalID": "13285",
+      "slug": "/Muzaffargarh_Chowk_Sarwar_Shaheed-13285",
+      "slug_l1": "/Muzaffargarh_Chowk_Sarwar_Shaheed-13285",
+      "_geoloc": {
+          "lat": 30.580963,
+          "lng": 71.235583
+      },
+      "geography": {
+          "lat": 30.580963,
+          "lng": 71.235583
+      },
+      "geo_point": [
+          71.235583,
+          30.580963
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 11760,
+              "level": 3,
+              "externalID": "13285",
+              "name": "Chowk Sarwar Shaheed",
+              "name_l1": "چوک سرور شہید",
+              "slug": "/Muzaffargarh_Chowk_Sarwar_Shaheed-13285",
+              "slug_l1": "/Muzaffargarh_Chowk_Sarwar_Shaheed-13285"
+          }
+      ],
+      "hierarchyPath": "Chowk Sarwar Shaheed Muzaffargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13285",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11760",
+      "_highlightResult": {
+          "name": {
+              "value": "Chowk Sarwar Shaheed",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11646,
+      "name": "Committee Chowk",
+      "name_l1": "کمیٹی چوک",
+      "externalID": "13171",
+      "slug": "/Muzaffargarh_Committee_Chowk-13171",
+      "slug_l1": "/Muzaffargarh_Committee_Chowk-13171",
+      "_geoloc": {
+          "lat": 30.070922,
+          "lng": 71.193454
+      },
+      "geography": {
+          "lat": 30.070922,
+          "lng": 71.193454
+      },
+      "geo_point": [
+          71.193454,
+          30.070922
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 11646,
+              "level": 3,
+              "externalID": "13171",
+              "name": "Committee Chowk",
+              "name_l1": "کمیٹی چوک",
+              "slug": "/Muzaffargarh_Committee_Chowk-13171",
+              "slug_l1": "/Muzaffargarh_Committee_Chowk-13171"
+          }
+      ],
+      "hierarchyPath": "Committee Chowk Muzaffargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13171",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11646",
+      "_highlightResult": {
+          "name": {
+              "value": "Committee Chowk",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11629,
+      "name": "DG Khan Road",
+      "name_l1": "ڈی جی خان روڈ",
+      "externalID": "13155",
+      "slug": "/Muzaffargarh_DG_Khan_Road-13155",
+      "slug_l1": "/Muzaffargarh_DG_Khan_Road-13155",
+      "_geoloc": {
+          "lat": 30.067819,
+          "lng": 71.165598
+      },
+      "geography": {
+          "lat": 30.067819,
+          "lng": 71.165598
+      },
+      "geo_point": [
+          71.165598,
+          30.067819
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 11629,
+              "level": 3,
+              "externalID": "13155",
+              "name": "DG Khan Road",
+              "name_l1": "ڈی جی خان روڈ",
+              "slug": "/Muzaffargarh_DG_Khan_Road-13155",
+              "slug_l1": "/Muzaffargarh_DG_Khan_Road-13155"
+          }
+      ],
+      "hierarchyPath": "DG Khan Road Muzaffargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13155",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11629",
+      "_highlightResult": {
+          "name": {
+              "value": "DG Khan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14149,
+      "name": "Haji Colony",
+      "name_l1": "حاجی کالونی",
+      "externalID": "15619",
+      "slug": "/Muzaffargarh_MM_Road_Haji_Colony-15619",
+      "slug_l1": "/Muzaffargarh_MM_Road_Haji_Colony-15619",
+      "_geoloc": {
+          "lat": 30.1187005,
+          "lng": 71.21739
+      },
+      "geography": {
+          "lat": 30.1187005,
+          "lng": 71.21739
+      },
+      "geo_point": [
+          71.21739,
+          30.1187005
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 14148,
+              "level": 3,
+              "externalID": "15618",
+              "name": "MM Road",
+              "name_l1": "ایم ایم روڈ",
+              "slug": "/Muzaffargarh_MM_Road-15618",
+              "slug_l1": "/Muzaffargarh_MM_Road-15618"
+          },
+          {
+              "id": 14149,
+              "level": 4,
+              "externalID": "15619",
+              "name": "Haji Colony",
+              "name_l1": "حاجی کالونی",
+              "slug": "/Muzaffargarh_MM_Road_Haji_Colony-15619",
+              "slug_l1": "/Muzaffargarh_MM_Road_Haji_Colony-15619"
+          }
+      ],
+      "hierarchyPath": "Haji Colony MM Road Muzaffargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15619",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14149",
+      "_highlightResult": {
+          "name": {
+              "value": "Haji Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11628,
+      "name": "Jhang Road",
+      "name_l1": "جھنگ روڈ",
+      "externalID": "13154",
+      "slug": "/Muzaffargarh_Jhang_Road-13154",
+      "slug_l1": "/Muzaffargarh_Jhang_Road-13154",
+      "_geoloc": {
+          "lat": 30.092322,
+          "lng": 71.191422
+      },
+      "geography": {
+          "lat": 30.092322,
+          "lng": 71.191422
+      },
+      "geo_point": [
+          71.191422,
+          30.092322
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 11628,
+              "level": 3,
+              "externalID": "13154",
+              "name": "Jhang Road",
+              "name_l1": "جھنگ روڈ",
+              "slug": "/Muzaffargarh_Jhang_Road-13154",
+              "slug_l1": "/Muzaffargarh_Jhang_Road-13154"
+          }
+      ],
+      "hierarchyPath": "Jhang Road Muzaffargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13154",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11628",
+      "_highlightResult": {
+          "name": {
+              "value": "Jhang Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11186,
+      "name": "Royal City",
+      "name_l1": "رائل سٹی",
+      "externalID": "12780",
+      "slug": "/Muzaffargarh_Bypass_Road_Royal_City-12780",
+      "slug_l1": "/Muzaffargarh_Bypass_Road_Royal_City-12780",
+      "_geoloc": {
+          "lat": 30.2970053,
+          "lng": 71.3551597
+      },
+      "geography": {
+          "lat": 30.2970053,
+          "lng": 71.3551597
+      },
+      "geo_point": [
+          71.3551597,
+          30.2970053
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 89,
+              "level": 2,
+              "externalID": "1722",
+              "name": "Muzaffargarh",
+              "name_l1": "مظفر گڑہ",
+              "slug": "/Muzaffargarh-1722",
+              "slug_l1": "/Muzaffargarh-1722"
+          },
+          {
+              "id": 11177,
+              "level": 3,
+              "externalID": "12779",
+              "name": "Bypass Road",
+              "name_l1": "بائی پاس روڈ",
+              "slug": "/Muzaffargarh_Bypass_Road-12779",
+              "slug_l1": "/Muzaffargarh_Bypass_Road-12779"
+          },
+          {
+              "id": 11186,
+              "level": 4,
+              "externalID": "12780",
+              "name": "Royal City",
+              "name_l1": "رائل سٹی",
+              "slug": "/Muzaffargarh_Bypass_Road_Royal_City-12780",
+              "slug_l1": "/Muzaffargarh_Bypass_Road_Royal_City-12780"
+          }
+      ],
+      "hierarchyPath": "Royal City Bypass Road Muzaffargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12780",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11186",
+      "_highlightResult": {
+          "name": {
+              "value": "Royal City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

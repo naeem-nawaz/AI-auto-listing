@@ -1,0 +1,695 @@
+[
+  {
+      "id": 18710,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "19626",
+      "slug": "/Raiwind_Others-19626",
+      "slug_l1": "/Raiwind_Others-19626",
+      "_geoloc": {
+          "lat": 31.243804,
+          "lng": 74.21341
+      },
+      "geography": {
+          "lat": 31.243804,
+          "lng": 74.21341
+      },
+      "geo_point": [
+          74.21341,
+          31.243804
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16460,
+              "level": 2,
+              "externalID": "17707",
+              "name": "Raiwind",
+              "name_l1": "رائے ونڈ",
+              "slug": "/Raiwind-17707",
+              "slug_l1": "/Raiwind-17707"
+          },
+          {
+              "id": 18710,
+              "level": 3,
+              "externalID": "19626",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Raiwind_Others-19626",
+              "slug_l1": "/Raiwind_Others-19626"
+          }
+      ],
+      "hierarchyPath": "Others Raiwind Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19626",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18710",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16460,
+      "name": "Raiwind",
+      "name_l1": "رائے ونڈ",
+      "externalID": "17707",
+      "slug": "/Raiwind-17707",
+      "slug_l1": "/Raiwind-17707",
+      "_geoloc": {
+          "lat": 31.247301,
+          "lng": 74.215715
+      },
+      "geography": {
+          "lat": 31.247301,
+          "lng": 74.215715
+      },
+      "geo_point": [
+          74.215715,
+          31.247301
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16460,
+              "level": 2,
+              "externalID": "17707",
+              "name": "Raiwind",
+              "name_l1": "رائے ونڈ",
+              "slug": "/Raiwind-17707",
+              "slug_l1": "/Raiwind-17707"
+          }
+      ],
+      "hierarchyPath": "Raiwind Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17707",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16460",
+      "_highlightResult": {
+          "name": {
+              "value": "Raiwind",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18713,
+      "name": "Ashraf Garden",
+      "name_l1": "اشرف گارڈن",
+      "externalID": "19629",
+      "slug": "/Raiwind_Ashraf_Garden-19629",
+      "slug_l1": "/Raiwind_Ashraf_Garden-19629",
+      "_geoloc": {
+          "lat": 31.252166,
+          "lng": 74.208147
+      },
+      "geography": {
+          "lat": 31.252166,
+          "lng": 74.208147
+      },
+      "geo_point": [
+          74.208147,
+          31.252166
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16460,
+              "level": 2,
+              "externalID": "17707",
+              "name": "Raiwind",
+              "name_l1": "رائے ونڈ",
+              "slug": "/Raiwind-17707",
+              "slug_l1": "/Raiwind-17707"
+          },
+          {
+              "id": 18713,
+              "level": 3,
+              "externalID": "19629",
+              "name": "Ashraf Garden",
+              "name_l1": "اشرف گارڈن",
+              "slug": "/Raiwind_Ashraf_Garden-19629",
+              "slug_l1": "/Raiwind_Ashraf_Garden-19629"
+          }
+      ],
+      "hierarchyPath": "Ashraf Garden Raiwind Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19629",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18713",
+      "_highlightResult": {
+          "name": {
+              "value": "Ashraf Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18712,
+      "name": "Basti Amin Pura",
+      "name_l1": "بستی امین پورہ",
+      "externalID": "19628",
+      "slug": "/Raiwind_Basti_Amin_Pura-19628",
+      "slug_l1": "/Raiwind_Basti_Amin_Pura-19628",
+      "_geoloc": {
+          "lat": 31.245713,
+          "lng": 74.222487
+      },
+      "geography": {
+          "lat": 31.245713,
+          "lng": 74.222487
+      },
+      "geo_point": [
+          74.222487,
+          31.245713
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16460,
+              "level": 2,
+              "externalID": "17707",
+              "name": "Raiwind",
+              "name_l1": "رائے ونڈ",
+              "slug": "/Raiwind-17707",
+              "slug_l1": "/Raiwind-17707"
+          },
+          {
+              "id": 18712,
+              "level": 3,
+              "externalID": "19628",
+              "name": "Basti Amin Pura",
+              "name_l1": "بستی امین پورہ",
+              "slug": "/Raiwind_Basti_Amin_Pura-19628",
+              "slug_l1": "/Raiwind_Basti_Amin_Pura-19628"
+          }
+      ],
+      "hierarchyPath": "Basti Amin Pura Raiwind Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19628",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18712",
+      "_highlightResult": {
+          "name": {
+              "value": "Basti Amin Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18714,
+      "name": "Green Earth Farms",
+      "name_l1": "گرین ارتھ فارمز",
+      "externalID": "19624",
+      "slug": "/Raiwind_Pattoki___Raiwind_Road_Green_Earth_Farms-19624",
+      "slug_l1": "/Raiwind_Pattoki___Raiwind_Road_Green_Earth_Farms-19624",
+      "_geoloc": {
+          "lat": 31.214634,
+          "lng": 74.176036
+      },
+      "geography": {
+          "lat": 31.214634,
+          "lng": 74.176036
+      },
+      "geo_point": [
+          74.176036,
+          31.214634
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16460,
+              "level": 2,
+              "externalID": "17707",
+              "name": "Raiwind",
+              "name_l1": "رائے ونڈ",
+              "slug": "/Raiwind-17707",
+              "slug_l1": "/Raiwind-17707"
+          },
+          {
+              "id": 18708,
+              "level": 3,
+              "externalID": "19623",
+              "name": "Pattoki - Raiwind Road",
+              "name_l1": "پتوکی ۔ رائیونڈ روڈ",
+              "slug": "/Raiwind_Pattoki___Raiwind_Road-19623",
+              "slug_l1": "/Raiwind_Pattoki___Raiwind_Road-19623"
+          },
+          {
+              "id": 18714,
+              "level": 4,
+              "externalID": "19624",
+              "name": "Green Earth Farms",
+              "name_l1": "گرین ارتھ فارمز",
+              "slug": "/Raiwind_Pattoki___Raiwind_Road_Green_Earth_Farms-19624",
+              "slug_l1": "/Raiwind_Pattoki___Raiwind_Road_Green_Earth_Farms-19624"
+          }
+      ],
+      "hierarchyPath": "Green Earth Farms Pattoki - Raiwind Road Raiwind Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19624",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18714",
+      "_highlightResult": {
+          "name": {
+              "value": "Green Earth Farms",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18711,
+      "name": "Manga - Raiwind Road",
+      "name_l1": "مانگا ۔ رائے ونڈ روڈ",
+      "externalID": "19627",
+      "slug": "/Raiwind_Manga___Raiwind_Road-19627",
+      "slug_l1": "/Raiwind_Manga___Raiwind_Road-19627",
+      "_geoloc": {
+          "lat": 31.250887,
+          "lng": 74.194785
+      },
+      "geography": {
+          "lat": 31.250887,
+          "lng": 74.194785
+      },
+      "geo_point": [
+          74.194785,
+          31.250887
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16460,
+              "level": 2,
+              "externalID": "17707",
+              "name": "Raiwind",
+              "name_l1": "رائے ونڈ",
+              "slug": "/Raiwind-17707",
+              "slug_l1": "/Raiwind-17707"
+          },
+          {
+              "id": 18711,
+              "level": 3,
+              "externalID": "19627",
+              "name": "Manga - Raiwind Road",
+              "name_l1": "مانگا ۔ رائے ونڈ روڈ",
+              "slug": "/Raiwind_Manga___Raiwind_Road-19627",
+              "slug_l1": "/Raiwind_Manga___Raiwind_Road-19627"
+          }
+      ],
+      "hierarchyPath": "Manga - Raiwind Road Raiwind Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19627",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18711",
+      "_highlightResult": {
+          "name": {
+              "value": "Manga - Raiwind Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18708,
+      "name": "Pattoki - Raiwind Road",
+      "name_l1": "پتوکی ۔ رائیونڈ روڈ",
+      "externalID": "19623",
+      "slug": "/Raiwind_Pattoki___Raiwind_Road-19623",
+      "slug_l1": "/Raiwind_Pattoki___Raiwind_Road-19623",
+      "_geoloc": {
+          "lat": 31.213606,
+          "lng": 74.166705
+      },
+      "geography": {
+          "lat": 31.213606,
+          "lng": 74.166705
+      },
+      "geo_point": [
+          74.166705,
+          31.213606
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16460,
+              "level": 2,
+              "externalID": "17707",
+              "name": "Raiwind",
+              "name_l1": "رائے ونڈ",
+              "slug": "/Raiwind-17707",
+              "slug_l1": "/Raiwind-17707"
+          },
+          {
+              "id": 18708,
+              "level": 3,
+              "externalID": "19623",
+              "name": "Pattoki - Raiwind Road",
+              "name_l1": "پتوکی ۔ رائیونڈ روڈ",
+              "slug": "/Raiwind_Pattoki___Raiwind_Road-19623",
+              "slug_l1": "/Raiwind_Pattoki___Raiwind_Road-19623"
+          }
+      ],
+      "hierarchyPath": "Pattoki - Raiwind Road Raiwind Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19623",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18708",
+      "_highlightResult": {
+          "name": {
+              "value": "Pattoki - Raiwind Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19964,
+      "name": "Raiwind Bypass",
+      "name_l1": "رائیونڈ بائی پاس",
+      "externalID": "20744",
+      "slug": "/Raiwind_Raiwind_Bypass-20744",
+      "slug_l1": "/Raiwind_Raiwind_Bypass-20744",
+      "_geoloc": {
+          "lat": 31.257391,
+          "lng": 74.214558
+      },
+      "geography": {
+          "lat": 31.257391,
+          "lng": 74.214558
+      },
+      "geo_point": [
+          74.214558,
+          31.257391
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16460,
+              "level": 2,
+              "externalID": "17707",
+              "name": "Raiwind",
+              "name_l1": "رائے ونڈ",
+              "slug": "/Raiwind-17707",
+              "slug_l1": "/Raiwind-17707"
+          },
+          {
+              "id": 19964,
+              "level": 3,
+              "externalID": "20744",
+              "name": "Raiwind Bypass",
+              "name_l1": "رائیونڈ بائی پاس",
+              "slug": "/Raiwind_Raiwind_Bypass-20744",
+              "slug_l1": "/Raiwind_Raiwind_Bypass-20744"
+          }
+      ],
+      "hierarchyPath": "Raiwind Bypass Raiwind Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20744",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19964",
+      "_highlightResult": {
+          "name": {
+              "value": "Raiwind Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18709,
+      "name": "Sabir Town",
+      "name_l1": "صابر ٹاؤن",
+      "externalID": "19625",
+      "slug": "/Raiwind_Sabir_Town-19625",
+      "slug_l1": "/Raiwind_Sabir_Town-19625",
+      "_geoloc": {
+          "lat": 31.237056,
+          "lng": 74.214951
+      },
+      "geography": {
+          "lat": 31.237056,
+          "lng": 74.214951
+      },
+      "geo_point": [
+          74.214951,
+          31.237056
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 16460,
+              "level": 2,
+              "externalID": "17707",
+              "name": "Raiwind",
+              "name_l1": "رائے ونڈ",
+              "slug": "/Raiwind-17707",
+              "slug_l1": "/Raiwind-17707"
+          },
+          {
+              "id": 18709,
+              "level": 3,
+              "externalID": "19625",
+              "name": "Sabir Town",
+              "name_l1": "صابر ٹاؤن",
+              "slug": "/Raiwind_Sabir_Town-19625",
+              "slug_l1": "/Raiwind_Sabir_Town-19625"
+          }
+      ],
+      "hierarchyPath": "Sabir Town Raiwind Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19625",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18709",
+      "_highlightResult": {
+          "name": {
+              "value": "Sabir Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

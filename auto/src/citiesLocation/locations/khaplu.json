@@ -1,0 +1,70 @@
+[
+  {
+      "id": 16490,
+      "name": "Khaplu",
+      "name_l1": "خپلو",
+      "externalID": "17732",
+      "slug": "/Khaplu-17732",
+      "slug_l1": "/Khaplu-17732",
+      "_geoloc": {
+          "lat": 35.160832,
+          "lng": 76.335227
+      },
+      "geography": {
+          "lat": 35.160832,
+          "lng": 76.335227
+      },
+      "geo_point": [
+          76.335227,
+          35.160832
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 16490,
+              "level": 2,
+              "externalID": "17732",
+              "name": "Khaplu",
+              "name_l1": "خپلو",
+              "slug": "/Khaplu-17732",
+              "slug_l1": "/Khaplu-17732"
+          }
+      ],
+      "hierarchyPath": "Khaplu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17732",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16490",
+      "_highlightResult": {
+          "name": {
+              "value": "Khaplu",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,5852 @@
+[
+  {
+      "id": 65,
+      "name": "Nowshera",
+      "name_l1": "نوشہرہ",
+      "externalID": "1424",
+      "slug": "/Nowshera-1424",
+      "slug_l1": "/Nowshera-1424",
+      "_geoloc": {
+          "lat": 34.008301932644,
+          "lng": 72.000360488892
+      },
+      "geography": {
+          "lat": 34.008301932644,
+          "lng": 72.000360488892
+      },
+      "geo_point": [
+          72.000360488892,
+          34.008301932644
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          }
+      ],
+      "hierarchyPath": "Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 192,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1424",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "65",
+      "_highlightResult": {
+          "name": {
+              "value": "Nowshera",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1155,
+      "name": "ASC Housing Society",
+      "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی",
+      "externalID": "1427",
+      "slug": "/Nowshera_A.S.C_Colony-1427",
+      "slug_l1": "/Nowshera_A.S.C_Colony-1427",
+      "_geoloc": {
+          "lat": 33.988527,
+          "lng": 72.002163
+      },
+      "geography": {
+          "lat": 33.988527,
+          "lng": 72.002163
+      },
+      "geo_point": [
+          72.002163,
+          33.988527
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1155,
+              "level": 3,
+              "externalID": "1427",
+              "name": "ASC Housing Society",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی",
+              "slug": "/Nowshera_A.S.C_Colony-1427",
+              "slug_l1": "/Nowshera_A.S.C_Colony-1427"
+          }
+      ],
+      "hierarchyPath": "ASC Housing Society Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 66,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1427",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1155",
+      "_highlightResult": {
+          "name": {
+              "value": "ASC Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13619,
+      "name": "Jalozai Housing Scheme",
+      "name_l1": "جلوزئی ہاؤسنگ سکیم",
+      "externalID": "15087",
+      "slug": "/Nowshera_Jalozai_Housing_Scheme-15087",
+      "slug_l1": "/Nowshera_Jalozai_Housing_Scheme-15087",
+      "_geoloc": {
+          "lat": 33.93554,
+          "lng": 71.801836
+      },
+      "geography": {
+          "lat": 33.93554,
+          "lng": 71.801836
+      },
+      "geo_point": [
+          71.801836,
+          33.93554
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 13619,
+              "level": 3,
+              "externalID": "15087",
+              "name": "Jalozai Housing Scheme",
+              "name_l1": "جلوزئی ہاؤسنگ سکیم",
+              "slug": "/Nowshera_Jalozai_Housing_Scheme-15087",
+              "slug_l1": "/Nowshera_Jalozai_Housing_Scheme-15087"
+          }
+      ],
+      "hierarchyPath": "Jalozai Housing Scheme Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 48,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15087",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13619",
+      "_highlightResult": {
+          "name": {
+              "value": "Jalozai Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3486,
+      "name": "Armour Colony",
+      "name_l1": "آرمر کالونی",
+      "externalID": "7557",
+      "slug": "/Nowshera_Armour_Colony-7557",
+      "slug_l1": "/Nowshera_Armour_Colony-7557",
+      "_geoloc": {
+          "lat": 33.973474,
+          "lng": 71.983066
+      },
+      "geography": {
+          "lat": 33.973474,
+          "lng": 71.983066
+      },
+      "geo_point": [
+          71.983066,
+          33.973474
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3486,
+              "level": 3,
+              "externalID": "7557",
+              "name": "Armour Colony",
+              "name_l1": "آرمر کالونی",
+              "slug": "/Nowshera_Armour_Colony-7557",
+              "slug_l1": "/Nowshera_Armour_Colony-7557"
+          }
+      ],
+      "hierarchyPath": "Armour Colony Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 45,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7557",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "3486",
+      "_highlightResult": {
+          "name": {
+              "value": "Armour Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17161,
+      "name": "ASC Housing Society Phase 2",
+      "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی فیز 2",
+      "externalID": "18307",
+      "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307",
+      "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307",
+      "_geoloc": {
+          "lat": 33.991374,
+          "lng": 72.008904
+      },
+      "geography": {
+          "lat": 33.991374,
+          "lng": 72.008904
+      },
+      "geo_point": [
+          72.008904,
+          33.991374
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1155,
+              "level": 3,
+              "externalID": "1427",
+              "name": "ASC Housing Society",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی",
+              "slug": "/Nowshera_A.S.C_Colony-1427",
+              "slug_l1": "/Nowshera_A.S.C_Colony-1427"
+          },
+          {
+              "id": 17161,
+              "level": 4,
+              "externalID": "18307",
+              "name": "ASC Housing Society Phase 2",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی فیز 2",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307"
+          }
+      ],
+      "hierarchyPath": "ASC Housing Society Phase 2 ASC Housing Society Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 36,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18307",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "17161",
+      "_highlightResult": {
+          "name": {
+              "value": "ASC Housing Society Phase 2",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17164,
+      "name": "ASC Phase 2 - Rehman Baba Block",
+      "name_l1": "اے ایس سی فیز 2 رحمان بابا بلاک",
+      "externalID": "18310",
+      "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Rehman_Baba_Block-18310",
+      "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Rehman_Baba_Block-18310",
+      "_geoloc": {
+          "lat": 33.977249550606,
+          "lng": 72.013435712675
+      },
+      "geography": {
+          "lat": 33.977249550606,
+          "lng": 72.013435712675
+      },
+      "geo_point": [
+          72.013435712675,
+          33.977249550606
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1155,
+              "level": 3,
+              "externalID": "1427",
+              "name": "ASC Housing Society",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی",
+              "slug": "/Nowshera_A.S.C_Colony-1427",
+              "slug_l1": "/Nowshera_A.S.C_Colony-1427"
+          },
+          {
+              "id": 17161,
+              "level": 4,
+              "externalID": "18307",
+              "name": "ASC Housing Society Phase 2",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی فیز 2",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307"
+          },
+          {
+              "id": 17164,
+              "level": 5,
+              "externalID": "18310",
+              "name": "ASC Phase 2 - Rehman Baba Block",
+              "name_l1": "اے ایس سی فیز 2 رحمان بابا بلاک",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Rehman_Baba_Block-18310",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Rehman_Baba_Block-18310"
+          }
+      ],
+      "hierarchyPath": "ASC Phase 2 - Rehman Baba Block ASC Housing Society Phase 2 ASC Housing Society Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18310",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17164",
+      "_highlightResult": {
+          "name": {
+              "value": "ASC Phase 2 - Rehman Baba Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1153,
+      "name": "Cantt",
+      "name_l1": "کینٹ",
+      "externalID": "1425",
+      "slug": "/Nowshera_Cantt-1425",
+      "slug_l1": "/Nowshera_Cantt-1425",
+      "_geoloc": {
+          "lat": 34.005516,
+          "lng": 72.008296
+      },
+      "geography": {
+          "lat": 34.005516,
+          "lng": 72.008296
+      },
+      "geo_point": [
+          72.008296,
+          34.005516
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1153,
+              "level": 3,
+              "externalID": "1425",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Nowshera_Cantt-1425",
+              "slug_l1": "/Nowshera_Cantt-1425"
+          }
+      ],
+      "hierarchyPath": "Cantt Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1425",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1153",
+      "_highlightResult": {
+          "name": {
+              "value": "Cantt",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9066,
+      "name": "Paradise City",
+      "name_l1": "پیراڑائزسٹی",
+      "externalID": "11619",
+      "slug": "/Nowshera_Cantt_Paradise_City-11619",
+      "slug_l1": "/Nowshera_Cantt_Paradise_City-11619",
+      "_geoloc": {
+          "lat": 33.96659075,
+          "lng": 72.04271772
+      },
+      "geography": {
+          "lat": 33.96659075,
+          "lng": 72.04271772
+      },
+      "geo_point": [
+          72.04271772,
+          33.96659075
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1153,
+              "level": 3,
+              "externalID": "1425",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Nowshera_Cantt-1425",
+              "slug_l1": "/Nowshera_Cantt-1425"
+          },
+          {
+              "id": 9066,
+              "level": 4,
+              "externalID": "11619",
+              "name": "Paradise City",
+              "name_l1": "پیراڑائزسٹی",
+              "slug": "/Nowshera_Cantt_Paradise_City-11619",
+              "slug_l1": "/Nowshera_Cantt_Paradise_City-11619"
+          }
+      ],
+      "hierarchyPath": "Paradise City Cantt Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11619",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "9066",
+      "_highlightResult": {
+          "name": {
+              "value": "Paradise City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13920,
+      "name": "Manki Sharif Road",
+      "name_l1": "مانکی شریف روڈ",
+      "externalID": "15392",
+      "slug": "/Nowshera_Manki_Sharif_Road-15392",
+      "slug_l1": "/Nowshera_Manki_Sharif_Road-15392",
+      "_geoloc": {
+          "lat": 33.965138,
+          "lng": 71.975407
+      },
+      "geography": {
+          "lat": 33.965138,
+          "lng": 71.975407
+      },
+      "geo_point": [
+          71.975407,
+          33.965138
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 13920,
+              "level": 3,
+              "externalID": "15392",
+              "name": "Manki Sharif Road",
+              "name_l1": "مانکی شریف روڈ",
+              "slug": "/Nowshera_Manki_Sharif_Road-15392",
+              "slug_l1": "/Nowshera_Manki_Sharif_Road-15392"
+          }
+      ],
+      "hierarchyPath": "Manki Sharif Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15392",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "13920",
+      "_highlightResult": {
+          "name": {
+              "value": "Manki Sharif Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8789,
+      "name": "AL-Makkah Town",
+      "name_l1": "ال مکہ ٹاون",
+      "externalID": "10866",
+      "slug": "/Nowshera_GT_Road_AL_Makkah_Town-10866",
+      "slug_l1": "/Nowshera_GT_Road_AL_Makkah_Town-10866",
+      "_geoloc": {
+          "lat": 34.00626,
+          "lng": 72.086633
+      },
+      "geography": {
+          "lat": 34.00626,
+          "lng": 72.086633
+      },
+      "geo_point": [
+          72.086633,
+          34.00626
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3489,
+              "level": 3,
+              "externalID": "7560",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Nowshera_GT_Road-7560",
+              "slug_l1": "/Nowshera_GT_Road-7560"
+          },
+          {
+              "id": 8789,
+              "level": 4,
+              "externalID": "10866",
+              "name": "AL-Makkah Town",
+              "name_l1": "ال مکہ ٹاون",
+              "slug": "/Nowshera_GT_Road_AL_Makkah_Town-10866",
+              "slug_l1": "/Nowshera_GT_Road_AL_Makkah_Town-10866"
+          }
+      ],
+      "hierarchyPath": "AL-Makkah Town GT Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10866",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8789",
+      "_highlightResult": {
+          "name": {
+              "value": "AL-Makkah Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8800,
+      "name": "ASC Colony Phase II",
+      "name_l1": "اے ایس سی کالونی فیز ٹو",
+      "externalID": "10911",
+      "slug": "/Nowshera_Nowshera_Bypass_Road_ASC_Colony_Phase_II-10911",
+      "slug_l1": "/Nowshera_Nowshera_Bypass_Road_ASC_Colony_Phase_II-10911",
+      "_geoloc": {
+          "lat": 33.97265071,
+          "lng": 72.01589902
+      },
+      "geography": {
+          "lat": 33.97265071,
+          "lng": 72.01589902
+      },
+      "geo_point": [
+          72.01589902,
+          33.97265071
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3498,
+              "level": 3,
+              "externalID": "7569",
+              "name": "Nowshera Bypass Road",
+              "name_l1": "نوشہرہ بائی پاس روڈ",
+              "slug": "/Nowshera_Bypass_Road-7569",
+              "slug_l1": "/Nowshera_Bypass_Road-7569"
+          },
+          {
+              "id": 8800,
+              "level": 4,
+              "externalID": "10911",
+              "name": "ASC Colony Phase II",
+              "name_l1": "اے ایس سی کالونی فیز ٹو",
+              "slug": "/Nowshera_Nowshera_Bypass_Road_ASC_Colony_Phase_II-10911",
+              "slug_l1": "/Nowshera_Nowshera_Bypass_Road_ASC_Colony_Phase_II-10911"
+          }
+      ],
+      "hierarchyPath": "ASC Colony Phase II Nowshera Bypass Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10911",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8800",
+      "_highlightResult": {
+          "name": {
+              "value": "ASC Colony Phase II",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1236,
+      "name": "Azakhel",
+      "name_l1": "ازاخیل",
+      "externalID": "1700",
+      "slug": "/Nowshera_Azakhel-1700",
+      "slug_l1": "/Nowshera_Azakhel-1700",
+      "_geoloc": {
+          "lat": 33.999023,
+          "lng": 71.883788
+      },
+      "geography": {
+          "lat": 33.999023,
+          "lng": 71.883788
+      },
+      "geo_point": [
+          71.883788,
+          33.999023
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1236,
+              "level": 3,
+              "externalID": "1700",
+              "name": "Azakhel",
+              "name_l1": "ازاخیل",
+              "slug": "/Nowshera_Azakhel-1700",
+              "slug_l1": "/Nowshera_Azakhel-1700"
+          }
+      ],
+      "hierarchyPath": "Azakhel Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1700",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1236",
+      "_highlightResult": {
+          "name": {
+              "value": "Azakhel",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17689,
+      "name": "Golden Villas",
+      "name_l1": "گولڈن ولاز",
+      "externalID": "18765",
+      "slug": "/Nowshera_Golden_Villas-18765",
+      "slug_l1": "/Nowshera_Golden_Villas-18765",
+      "_geoloc": {
+          "lat": 33.9813445,
+          "lng": 71.9984405
+      },
+      "geography": {
+          "lat": 33.9813445,
+          "lng": 71.9984405
+      },
+      "geo_point": [
+          71.9984405,
+          33.9813445
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 17689,
+              "level": 3,
+              "externalID": "18765",
+              "name": "Golden Villas",
+              "name_l1": "گولڈن ولاز",
+              "slug": "/Nowshera_Golden_Villas-18765",
+              "slug_l1": "/Nowshera_Golden_Villas-18765"
+          }
+      ],
+      "hierarchyPath": "Golden Villas Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18765",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17689",
+      "_highlightResult": {
+          "name": {
+              "value": "Golden Villas",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3489,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "7560",
+      "slug": "/Nowshera_GT_Road-7560",
+      "slug_l1": "/Nowshera_GT_Road-7560",
+      "_geoloc": {
+          "lat": 34.004965,
+          "lng": 71.981649
+      },
+      "geography": {
+          "lat": 34.004965,
+          "lng": 71.981649
+      },
+      "geo_point": [
+          71.981649,
+          34.004965
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3489,
+              "level": 3,
+              "externalID": "7560",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Nowshera_GT_Road-7560",
+              "slug_l1": "/Nowshera_GT_Road-7560"
+          }
+      ],
+      "hierarchyPath": "GT Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7560",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "3489",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1229,
+      "name": "Hakimabad",
+      "name_l1": "حکیم آباد",
+      "externalID": "1691",
+      "slug": "/Nowshera_Hakim_Abad_-1691",
+      "slug_l1": "/Nowshera_Hakim_Abad_-1691",
+      "_geoloc": {
+          "lat": 34.01489,
+          "lng": 72.031932
+      },
+      "geography": {
+          "lat": 34.01489,
+          "lng": 72.031932
+      },
+      "geo_point": [
+          72.031932,
+          34.01489
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1229,
+              "level": 3,
+              "externalID": "1691",
+              "name": "Hakimabad",
+              "name_l1": "حکیم آباد",
+              "slug": "/Nowshera_Hakim_Abad_-1691",
+              "slug_l1": "/Nowshera_Hakim_Abad_-1691"
+          }
+      ],
+      "hierarchyPath": "Hakimabad Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1691",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1229",
+      "_highlightResult": {
+          "name": {
+              "value": "Hakimabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3497,
+      "name": "Nowshera - Mardan Road",
+      "name_l1": "نوشہرہ ۔ مردان روڈ",
+      "externalID": "7568",
+      "slug": "/Nowshera_Mardan_Road-7568",
+      "slug_l1": "/Nowshera_Mardan_Road-7568",
+      "_geoloc": {
+          "lat": 34.014214,
+          "lng": 71.985512
+      },
+      "geography": {
+          "lat": 34.014214,
+          "lng": 71.985512
+      },
+      "geo_point": [
+          71.985512,
+          34.014214
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3497,
+              "level": 3,
+              "externalID": "7568",
+              "name": "Nowshera - Mardan Road",
+              "name_l1": "نوشہرہ ۔ مردان روڈ",
+              "slug": "/Nowshera_Mardan_Road-7568",
+              "slug_l1": "/Nowshera_Mardan_Road-7568"
+          }
+      ],
+      "hierarchyPath": "Nowshera - Mardan Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7568",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3497",
+      "_highlightResult": {
+          "name": {
+              "value": "Nowshera - Mardan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3498,
+      "name": "Nowshera Bypass Road",
+      "name_l1": "نوشہرہ بائی پاس روڈ",
+      "externalID": "7569",
+      "slug": "/Nowshera_Bypass_Road-7569",
+      "slug_l1": "/Nowshera_Bypass_Road-7569",
+      "_geoloc": {
+          "lat": 33.998881,
+          "lng": 71.98656
+      },
+      "geography": {
+          "lat": 33.998881,
+          "lng": 71.98656
+      },
+      "geo_point": [
+          71.98656,
+          33.998881
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3498,
+              "level": 3,
+              "externalID": "7569",
+              "name": "Nowshera Bypass Road",
+              "name_l1": "نوشہرہ بائی پاس روڈ",
+              "slug": "/Nowshera_Bypass_Road-7569",
+              "slug_l1": "/Nowshera_Bypass_Road-7569"
+          }
+      ],
+      "hierarchyPath": "Nowshera Bypass Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7569",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "3498",
+      "_highlightResult": {
+          "name": {
+              "value": "Nowshera Bypass Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17031,
+      "name": "Satellite Town",
+      "name_l1": "سیٹلائٹ ٹاؤن",
+      "externalID": "18183",
+      "slug": "/Nowshera_Manki_Sharif_Road_Satellite_Town-18183",
+      "slug_l1": "/Nowshera_Manki_Sharif_Road_Satellite_Town-18183",
+      "_geoloc": {
+          "lat": 33.9561008,
+          "lng": 71.9820469
+      },
+      "geography": {
+          "lat": 33.9561008,
+          "lng": 71.9820469
+      },
+      "geo_point": [
+          71.9820469,
+          33.9561008
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 13920,
+              "level": 3,
+              "externalID": "15392",
+              "name": "Manki Sharif Road",
+              "name_l1": "مانکی شریف روڈ",
+              "slug": "/Nowshera_Manki_Sharif_Road-15392",
+              "slug_l1": "/Nowshera_Manki_Sharif_Road-15392"
+          },
+          {
+              "id": 17031,
+              "level": 4,
+              "externalID": "18183",
+              "name": "Satellite Town",
+              "name_l1": "سیٹلائٹ ٹاؤن",
+              "slug": "/Nowshera_Manki_Sharif_Road_Satellite_Town-18183",
+              "slug_l1": "/Nowshera_Manki_Sharif_Road_Satellite_Town-18183"
+          }
+      ],
+      "hierarchyPath": "Satellite Town Manki Sharif Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18183",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17031",
+      "_highlightResult": {
+          "name": {
+              "value": "Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3483,
+      "name": "Abu Obaida Colony",
+      "name_l1": "ابو عبیدہ کالونی",
+      "externalID": "7554",
+      "slug": "/Nowshera_Abu_Obaida_Colony-7554",
+      "slug_l1": "/Nowshera_Abu_Obaida_Colony-7554",
+      "_geoloc": {
+          "lat": 33.984079,
+          "lng": 71.996405
+      },
+      "geography": {
+          "lat": 33.984079,
+          "lng": 71.996405
+      },
+      "geo_point": [
+          71.996405,
+          33.984079
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3483,
+              "level": 3,
+              "externalID": "7554",
+              "name": "Abu Obaida Colony",
+              "name_l1": "ابو عبیدہ کالونی",
+              "slug": "/Nowshera_Abu_Obaida_Colony-7554",
+              "slug_l1": "/Nowshera_Abu_Obaida_Colony-7554"
+          }
+      ],
+      "hierarchyPath": "Abu Obaida Colony Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7554",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3483",
+      "_highlightResult": {
+          "name": {
+              "value": "Abu Obaida Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1227,
+      "name": "AC Colony",
+      "name_l1": "اے سی کالونی",
+      "externalID": "1689",
+      "slug": "/Nowshera_A.C_Colony-1689",
+      "slug_l1": "/Nowshera_A.C_Colony-1689",
+      "_geoloc": {
+          "lat": 34.001443,
+          "lng": 72.029958
+      },
+      "geography": {
+          "lat": 34.001443,
+          "lng": 72.029958
+      },
+      "geo_point": [
+          72.029958,
+          34.001443
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1227,
+              "level": 3,
+              "externalID": "1689",
+              "name": "AC Colony",
+              "name_l1": "اے سی کالونی",
+              "slug": "/Nowshera_A.C_Colony-1689",
+              "slug_l1": "/Nowshera_A.C_Colony-1689"
+          }
+      ],
+      "hierarchyPath": "AC Colony Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1689",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1227",
+      "_highlightResult": {
+          "name": {
+              "value": "AC Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1239,
+      "name": "Akbarpura",
+      "name_l1": "اکبر پورہ",
+      "externalID": "1703",
+      "slug": "/Nowshera_Akbarpura-1703",
+      "slug_l1": "/Nowshera_Akbarpura-1703",
+      "_geoloc": {
+          "lat": 34.056073,
+          "lng": 71.721482
+      },
+      "geography": {
+          "lat": 34.056073,
+          "lng": 71.721482
+      },
+      "geo_point": [
+          71.721482,
+          34.056073
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1239,
+              "level": 3,
+              "externalID": "1703",
+              "name": "Akbarpura",
+              "name_l1": "اکبر پورہ",
+              "slug": "/Nowshera_Akbarpura-1703",
+              "slug_l1": "/Nowshera_Akbarpura-1703"
+          }
+      ],
+      "hierarchyPath": "Akbarpura Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1703",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1239",
+      "_highlightResult": {
+          "name": {
+              "value": "Akbarpura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1234,
+      "name": "Akora Khattak",
+      "name_l1": "اکوڑہ خٹک",
+      "externalID": "1698",
+      "slug": "/Nowshera_Akora_Khattak-1698",
+      "slug_l1": "/Nowshera_Akora_Khattak-1698",
+      "_geoloc": {
+          "lat": 34.000553,
+          "lng": 72.121632
+      },
+      "geography": {
+          "lat": 34.000553,
+          "lng": 72.121632
+      },
+      "geo_point": [
+          72.121632,
+          34.000553
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1234,
+              "level": 3,
+              "externalID": "1698",
+              "name": "Akora Khattak",
+              "name_l1": "اکوڑہ خٹک",
+              "slug": "/Nowshera_Akora_Khattak-1698",
+              "slug_l1": "/Nowshera_Akora_Khattak-1698"
+          }
+      ],
+      "hierarchyPath": "Akora Khattak Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1698",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1234",
+      "_highlightResult": {
+          "name": {
+              "value": "Akora Khattak",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3484,
+      "name": "Akramabad",
+      "name_l1": "اکرم آباد",
+      "externalID": "7555",
+      "slug": "/Nowshera_Akramabad-7555",
+      "slug_l1": "/Nowshera_Akramabad-7555",
+      "_geoloc": {
+          "lat": 34.005997,
+          "lng": 71.965685
+      },
+      "geography": {
+          "lat": 34.005997,
+          "lng": 71.965685
+      },
+      "geo_point": [
+          71.965685,
+          34.005997
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3484,
+              "level": 3,
+              "externalID": "7555",
+              "name": "Akramabad",
+              "name_l1": "اکرم آباد",
+              "slug": "/Nowshera_Akramabad-7555",
+              "slug_l1": "/Nowshera_Akramabad-7555"
+          }
+      ],
+      "hierarchyPath": "Akramabad Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7555",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3484",
+      "_highlightResult": {
+          "name": {
+              "value": "Akramabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3485,
+      "name": "Amangarh",
+      "name_l1": "امانت گڑھ",
+      "externalID": "7556",
+      "slug": "/Nowshera_Amangarh-7556",
+      "slug_l1": "/Nowshera_Amangarh-7556",
+      "_geoloc": {
+          "lat": 34.005783,
+          "lng": 71.929622
+      },
+      "geography": {
+          "lat": 34.005783,
+          "lng": 71.929622
+      },
+      "geo_point": [
+          71.929622,
+          34.005783
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3485,
+              "level": 3,
+              "externalID": "7556",
+              "name": "Amangarh",
+              "name_l1": "امانت گڑھ",
+              "slug": "/Nowshera_Amangarh-7556",
+              "slug_l1": "/Nowshera_Amangarh-7556"
+          }
+      ],
+      "hierarchyPath": "Amangarh Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7556",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3485",
+      "_highlightResult": {
+          "name": {
+              "value": "Amangarh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22041,
+      "name": "ASC Colony Phase I",
+      "name_l1": "اے ایس سی کالونی فیز 1",
+      "externalID": "22111",
+      "slug": "/Nowshera_Nowshera_Bypass_Road_ASC_Colony_Phase_I-22111",
+      "slug_l1": "/Nowshera_Nowshera_Bypass_Road_ASC_Colony_Phase_I-22111",
+      "_geoloc": {
+          "lat": 33.990863088232,
+          "lng": 72.002102668597
+      },
+      "geography": {
+          "lat": 33.990863088232,
+          "lng": 72.002102668597
+      },
+      "geo_point": [
+          72.002102668597,
+          33.990863088232
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3498,
+              "level": 3,
+              "externalID": "7569",
+              "name": "Nowshera Bypass Road",
+              "name_l1": "نوشہرہ بائی پاس روڈ",
+              "slug": "/Nowshera_Bypass_Road-7569",
+              "slug_l1": "/Nowshera_Bypass_Road-7569"
+          },
+          {
+              "id": 22041,
+              "level": 4,
+              "externalID": "22111",
+              "name": "ASC Colony Phase I",
+              "name_l1": "اے ایس سی کالونی فیز 1",
+              "slug": "/Nowshera_Nowshera_Bypass_Road_ASC_Colony_Phase_I-22111",
+              "slug_l1": "/Nowshera_Nowshera_Bypass_Road_ASC_Colony_Phase_I-22111"
+          }
+      ],
+      "hierarchyPath": "ASC Colony Phase I Nowshera Bypass Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22111",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22041",
+      "_highlightResult": {
+          "name": {
+              "value": "ASC Colony Phase I",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17165,
+      "name": "ASC Phase 2 - Abdul Sattar Edhi Block",
+      "name_l1": "اے ایس سی فیز 2 - عبدالستار ایدھی بلاک",
+      "externalID": "18311",
+      "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Abdul_Sattar_Edhi_Block-18311",
+      "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Abdul_Sattar_Edhi_Block-18311",
+      "_geoloc": {
+          "lat": 33.969516664272,
+          "lng": 72.010916434534
+      },
+      "geography": {
+          "lat": 33.969516664272,
+          "lng": 72.010916434534
+      },
+      "geo_point": [
+          72.010916434534,
+          33.969516664272
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1155,
+              "level": 3,
+              "externalID": "1427",
+              "name": "ASC Housing Society",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی",
+              "slug": "/Nowshera_A.S.C_Colony-1427",
+              "slug_l1": "/Nowshera_A.S.C_Colony-1427"
+          },
+          {
+              "id": 17161,
+              "level": 4,
+              "externalID": "18307",
+              "name": "ASC Housing Society Phase 2",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی فیز 2",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307"
+          },
+          {
+              "id": 17165,
+              "level": 5,
+              "externalID": "18311",
+              "name": "ASC Phase 2 - Abdul Sattar Edhi Block",
+              "name_l1": "اے ایس سی فیز 2 - عبدالستار ایدھی بلاک",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Abdul_Sattar_Edhi_Block-18311",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Abdul_Sattar_Edhi_Block-18311"
+          }
+      ],
+      "hierarchyPath": "ASC Phase 2 - Abdul Sattar Edhi Block ASC Housing Society Phase 2 ASC Housing Society Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18311",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17165",
+      "_highlightResult": {
+          "name": {
+              "value": "ASC Phase 2 - Abdul Sattar Edhi Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17166,
+      "name": "ASC Phase 2 - Civic Centre Commercial Block",
+      "name_l1": "اے ایس سی فیز 2 - سوک سینٹر کمرشل بلاک",
+      "externalID": "18312",
+      "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Civic_Centre_Commercial_Block-18312",
+      "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Civic_Centre_Commercial_Block-18312",
+      "_geoloc": {
+          "lat": 33.972439784568,
+          "lng": 72.017341798499
+      },
+      "geography": {
+          "lat": 33.972439784568,
+          "lng": 72.017341798499
+      },
+      "geo_point": [
+          72.017341798499,
+          33.972439784568
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1155,
+              "level": 3,
+              "externalID": "1427",
+              "name": "ASC Housing Society",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی",
+              "slug": "/Nowshera_A.S.C_Colony-1427",
+              "slug_l1": "/Nowshera_A.S.C_Colony-1427"
+          },
+          {
+              "id": 17161,
+              "level": 4,
+              "externalID": "18307",
+              "name": "ASC Housing Society Phase 2",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی فیز 2",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307"
+          },
+          {
+              "id": 17166,
+              "level": 5,
+              "externalID": "18312",
+              "name": "ASC Phase 2 - Civic Centre Commercial Block",
+              "name_l1": "اے ایس سی فیز 2 - سوک سینٹر کمرشل بلاک",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Civic_Centre_Commercial_Block-18312",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Civic_Centre_Commercial_Block-18312"
+          }
+      ],
+      "hierarchyPath": "ASC Phase 2 - Civic Centre Commercial Block ASC Housing Society Phase 2 ASC Housing Society Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18312",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17166",
+      "_highlightResult": {
+          "name": {
+              "value": "ASC Phase 2 - Civic Centre Commercial Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17163,
+      "name": "ASC Phase 2 - Colonel Sher Khan Shaheed Block",
+      "name_l1": "اے ایس سی فیز 2 - کرنل شیر خان شہید بلاک",
+      "externalID": "18309",
+      "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Colonel_Sher_Khan_Shaheed_Block-18309",
+      "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Colonel_Sher_Khan_Shaheed_Block-18309",
+      "_geoloc": {
+          "lat": 33.968949849325,
+          "lng": 72.021085476479
+      },
+      "geography": {
+          "lat": 33.968949849325,
+          "lng": 72.021085476479
+      },
+      "geo_point": [
+          72.021085476479,
+          33.968949849325
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1155,
+              "level": 3,
+              "externalID": "1427",
+              "name": "ASC Housing Society",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی",
+              "slug": "/Nowshera_A.S.C_Colony-1427",
+              "slug_l1": "/Nowshera_A.S.C_Colony-1427"
+          },
+          {
+              "id": 17161,
+              "level": 4,
+              "externalID": "18307",
+              "name": "ASC Housing Society Phase 2",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی فیز 2",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307"
+          },
+          {
+              "id": 17163,
+              "level": 5,
+              "externalID": "18309",
+              "name": "ASC Phase 2 - Colonel Sher Khan Shaheed Block",
+              "name_l1": "اے ایس سی فیز 2 - کرنل شیر خان شہید بلاک",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Colonel_Sher_Khan_Shaheed_Block-18309",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Colonel_Sher_Khan_Shaheed_Block-18309"
+          }
+      ],
+      "hierarchyPath": "ASC Phase 2 - Colonel Sher Khan Shaheed Block ASC Housing Society Phase 2 ASC Housing Society Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18309",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17163",
+      "_highlightResult": {
+          "name": {
+              "value": "ASC Phase 2 - Colonel Sher Khan Shaheed Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17162,
+      "name": "ASC Phase 2 - Khushal Khan Khattak Block",
+      "name_l1": "اے ایس سی فیز 2 - خوشال خان خٹک بلاک",
+      "externalID": "18308",
+      "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Khushal_Khan_Khattak_Block-18308",
+      "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Khushal_Khan_Khattak_Block-18308",
+      "_geoloc": {
+          "lat": 33.975265955029,
+          "lng": 72.020912798915
+      },
+      "geography": {
+          "lat": 33.975265955029,
+          "lng": 72.020912798915
+      },
+      "geo_point": [
+          72.020912798915,
+          33.975265955029
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1155,
+              "level": 3,
+              "externalID": "1427",
+              "name": "ASC Housing Society",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی",
+              "slug": "/Nowshera_A.S.C_Colony-1427",
+              "slug_l1": "/Nowshera_A.S.C_Colony-1427"
+          },
+          {
+              "id": 17161,
+              "level": 4,
+              "externalID": "18307",
+              "name": "ASC Housing Society Phase 2",
+              "name_l1": "اے ایس سی ہاؤسنگ سوسائٹی فیز 2",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2-18307"
+          },
+          {
+              "id": 17162,
+              "level": 5,
+              "externalID": "18308",
+              "name": "ASC Phase 2 - Khushal Khan Khattak Block",
+              "name_l1": "اے ایس سی فیز 2 - خوشال خان خٹک بلاک",
+              "slug": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Khushal_Khan_Khattak_Block-18308",
+              "slug_l1": "/Nowshera_ASC_Housing_Society_ASC_Housing_Society_Phase_2_ASC_Phase_2___Khushal_Khan_Khattak_Block-18308"
+          }
+      ],
+      "hierarchyPath": "ASC Phase 2 - Khushal Khan Khattak Block ASC Housing Society Phase 2 ASC Housing Society Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18308",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17162",
+      "_highlightResult": {
+          "name": {
+              "value": "ASC Phase 2 - Khushal Khan Khattak Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3487,
+      "name": "Ashoorabad",
+      "name_l1": "اشورہ آباد",
+      "externalID": "7558",
+      "slug": "/Nowshera_Ashoorabad-7558",
+      "slug_l1": "/Nowshera_Ashoorabad-7558",
+      "_geoloc": {
+          "lat": 34.005641,
+          "lng": 71.946445
+      },
+      "geography": {
+          "lat": 34.005641,
+          "lng": 71.946445
+      },
+      "geo_point": [
+          71.946445,
+          34.005641
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3487,
+              "level": 3,
+              "externalID": "7558",
+              "name": "Ashoorabad",
+              "name_l1": "اشورہ آباد",
+              "slug": "/Nowshera_Ashoorabad-7558",
+              "slug_l1": "/Nowshera_Ashoorabad-7558"
+          }
+      ],
+      "hierarchyPath": "Ashoorabad Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7558",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3487",
+      "_highlightResult": {
+          "name": {
+              "value": "Ashoorabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1228,
+      "name": "Badrashi",
+      "name_l1": "بدرشی",
+      "externalID": "1690",
+      "slug": "/Nowshera_Badrashi-1690",
+      "slug_l1": "/Nowshera_Badrashi-1690",
+      "_geoloc": {
+          "lat": 33.990342,
+          "lng": 72.014172
+      },
+      "geography": {
+          "lat": 33.990342,
+          "lng": 72.014172
+      },
+      "geo_point": [
+          72.014172,
+          33.990342
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1228,
+              "level": 3,
+              "externalID": "1690",
+              "name": "Badrashi",
+              "name_l1": "بدرشی",
+              "slug": "/Nowshera_Badrashi-1690",
+              "slug_l1": "/Nowshera_Badrashi-1690"
+          }
+      ],
+      "hierarchyPath": "Badrashi Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1690",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1228",
+      "_highlightResult": {
+          "name": {
+              "value": "Badrashi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3488,
+      "name": "Dheri Kati Khel",
+      "name_l1": "ڈھیری کٹی خیل",
+      "externalID": "7559",
+      "slug": "/Nowshera_Dheri_Kati_Khel-7559",
+      "slug_l1": "/Nowshera_Dheri_Kati_Khel-7559",
+      "_geoloc": {
+          "lat": 34.000589,
+          "lng": 72.036481
+      },
+      "geography": {
+          "lat": 34.000589,
+          "lng": 72.036481
+      },
+      "geo_point": [
+          72.036481,
+          34.000589
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3488,
+              "level": 3,
+              "externalID": "7559",
+              "name": "Dheri Kati Khel",
+              "name_l1": "ڈھیری کٹی خیل",
+              "slug": "/Nowshera_Dheri_Kati_Khel-7559",
+              "slug_l1": "/Nowshera_Dheri_Kati_Khel-7559"
+          }
+      ],
+      "hierarchyPath": "Dheri Kati Khel Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7559",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3488",
+      "_highlightResult": {
+          "name": {
+              "value": "Dheri Kati Khel",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11341,
+      "name": "DKK Paradise Road",
+      "name_l1": "ڈی کے کے پیراڈایَزروڈ",
+      "externalID": "12897",
+      "slug": "/Nowshera_DKK_Paradise_Road-12897",
+      "slug_l1": "/Nowshera_DKK_Paradise_Road-12897",
+      "_geoloc": {
+          "lat": 33.971455,
+          "lng": 72.038462
+      },
+      "geography": {
+          "lat": 33.971455,
+          "lng": 72.038462
+      },
+      "geo_point": [
+          72.038462,
+          33.971455
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 11341,
+              "level": 3,
+              "externalID": "12897",
+              "name": "DKK Paradise Road",
+              "name_l1": "ڈی کے کے پیراڈایَزروڈ",
+              "slug": "/Nowshera_DKK_Paradise_Road-12897",
+              "slug_l1": "/Nowshera_DKK_Paradise_Road-12897"
+          }
+      ],
+      "hierarchyPath": "DKK Paradise Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12897",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11341",
+      "_highlightResult": {
+          "name": {
+              "value": "DKK Paradise Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11460,
+      "name": "Gulberg Model City Nowshera",
+      "name_l1": "گلبرگ ماڈل سٹی نوشہرہ",
+      "externalID": "12987",
+      "slug": "/Nowshera_Armour_Colony_Gulberg_Model_City_Nowshera-12987",
+      "slug_l1": "/Nowshera_Armour_Colony_Gulberg_Model_City_Nowshera-12987",
+      "_geoloc": {
+          "lat": 33.972426,
+          "lng": 71.990778
+      },
+      "geography": {
+          "lat": 33.972426,
+          "lng": 71.990778
+      },
+      "geo_point": [
+          71.990778,
+          33.972426
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3486,
+              "level": 3,
+              "externalID": "7557",
+              "name": "Armour Colony",
+              "name_l1": "آرمر کالونی",
+              "slug": "/Nowshera_Armour_Colony-7557",
+              "slug_l1": "/Nowshera_Armour_Colony-7557"
+          },
+          {
+              "id": 11460,
+              "level": 4,
+              "externalID": "12987",
+              "name": "Gulberg Model City Nowshera",
+              "name_l1": "گلبرگ ماڈل سٹی نوشہرہ",
+              "slug": "/Nowshera_Armour_Colony_Gulberg_Model_City_Nowshera-12987",
+              "slug_l1": "/Nowshera_Armour_Colony_Gulberg_Model_City_Nowshera-12987"
+          }
+      ],
+      "hierarchyPath": "Gulberg Model City Nowshera Armour Colony Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12987",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11460",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulberg Model City Nowshera",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1235,
+      "name": "Jehangira",
+      "name_l1": "جہانگیرہ",
+      "externalID": "1699",
+      "slug": "/Nowshera_Jehangira_-1699",
+      "slug_l1": "/Nowshera_Jehangira_-1699",
+      "_geoloc": {
+          "lat": 33.962868,
+          "lng": 72.221518
+      },
+      "geography": {
+          "lat": 33.962868,
+          "lng": 72.221518
+      },
+      "geo_point": [
+          72.221518,
+          33.962868
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1235,
+              "level": 3,
+              "externalID": "1699",
+              "name": "Jehangira",
+              "name_l1": "جہانگیرہ",
+              "slug": "/Nowshera_Jehangira_-1699",
+              "slug_l1": "/Nowshera_Jehangira_-1699"
+          }
+      ],
+      "hierarchyPath": "Jehangira Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1699",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1235",
+      "_highlightResult": {
+          "name": {
+              "value": "Jehangira",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11376,
+      "name": "Kaka Sahib Road",
+      "name_l1": "کاکا صاحب روڈ",
+      "externalID": "12932",
+      "slug": "/Nowshera_Kaka_Sahib_Road-12932",
+      "slug_l1": "/Nowshera_Kaka_Sahib_Road-12932",
+      "_geoloc": {
+          "lat": 33.967818,
+          "lng": 72.031769
+      },
+      "geography": {
+          "lat": 33.967818,
+          "lng": 72.031769
+      },
+      "geo_point": [
+          72.031769,
+          33.967818
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 11376,
+              "level": 3,
+              "externalID": "12932",
+              "name": "Kaka Sahib Road",
+              "name_l1": "کاکا صاحب روڈ",
+              "slug": "/Nowshera_Kaka_Sahib_Road-12932",
+              "slug_l1": "/Nowshera_Kaka_Sahib_Road-12932"
+          }
+      ],
+      "hierarchyPath": "Kaka Sahib Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12932",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11376",
+      "_highlightResult": {
+          "name": {
+              "value": "Kaka Sahib Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1156,
+      "name": "Kalan",
+      "name_l1": "کلاں",
+      "externalID": "1428",
+      "slug": "/Nowshera_Kalan-1428",
+      "slug_l1": "/Nowshera_Kalan-1428",
+      "_geoloc": {
+          "lat": 34.018235,
+          "lng": 71.984641
+      },
+      "geography": {
+          "lat": 34.018235,
+          "lng": 71.984641
+      },
+      "geo_point": [
+          71.984641,
+          34.018235
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1156,
+              "level": 3,
+              "externalID": "1428",
+              "name": "Kalan",
+              "name_l1": "کلاں",
+              "slug": "/Nowshera_Kalan-1428",
+              "slug_l1": "/Nowshera_Kalan-1428"
+          }
+      ],
+      "hierarchyPath": "Kalan Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1428",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1156",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3490,
+      "name": "Kandar",
+      "name_l1": "قندھار",
+      "externalID": "7561",
+      "slug": "/Nowshera_Kandar-7561",
+      "slug_l1": "/Nowshera_Kandar-7561",
+      "_geoloc": {
+          "lat": 34.033172,
+          "lng": 72.004223
+      },
+      "geography": {
+          "lat": 34.033172,
+          "lng": 72.004223
+      },
+      "geo_point": [
+          72.004223,
+          34.033172
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3490,
+              "level": 3,
+              "externalID": "7561",
+              "name": "Kandar",
+              "name_l1": "قندھار",
+              "slug": "/Nowshera_Kandar-7561",
+              "slug_l1": "/Nowshera_Kandar-7561"
+          }
+      ],
+      "hierarchyPath": "Kandar Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7561",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3490",
+      "_highlightResult": {
+          "name": {
+              "value": "Kandar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3491,
+      "name": "Karimi Town",
+      "name_l1": "کریمی ٹاؤن",
+      "externalID": "7562",
+      "slug": "/Nowshera_Karimi_Town-7562",
+      "slug_l1": "/Nowshera_Karimi_Town-7562",
+      "_geoloc": {
+          "lat": 34.006566,
+          "lng": 71.953654
+      },
+      "geography": {
+          "lat": 34.006566,
+          "lng": 71.953654
+      },
+      "geo_point": [
+          71.953654,
+          34.006566
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3491,
+              "level": 3,
+              "externalID": "7562",
+              "name": "Karimi Town",
+              "name_l1": "کریمی ٹاؤن",
+              "slug": "/Nowshera_Karimi_Town-7562",
+              "slug_l1": "/Nowshera_Karimi_Town-7562"
+          }
+      ],
+      "hierarchyPath": "Karimi Town Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7562",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3491",
+      "_highlightResult": {
+          "name": {
+              "value": "Karimi Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1238,
+      "name": "Khalil Town",
+      "name_l1": "خلیل ٹاؤن",
+      "externalID": "1702",
+      "slug": "/Nowshera_Khalil_Town_-1702",
+      "slug_l1": "/Nowshera_Khalil_Town_-1702",
+      "_geoloc": {
+          "lat": 33.969805,
+          "lng": 71.976881
+      },
+      "geography": {
+          "lat": 33.969805,
+          "lng": 71.976881
+      },
+      "geo_point": [
+          71.976881,
+          33.969805
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1238,
+              "level": 3,
+              "externalID": "1702",
+              "name": "Khalil Town",
+              "name_l1": "خلیل ٹاؤن",
+              "slug": "/Nowshera_Khalil_Town_-1702",
+              "slug_l1": "/Nowshera_Khalil_Town_-1702"
+          }
+      ],
+      "hierarchyPath": "Khalil Town Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1702",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1238",
+      "_highlightResult": {
+          "name": {
+              "value": "Khalil Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3492,
+      "name": "Khat Kalay",
+      "name_l1": "کھٹ کالے",
+      "externalID": "7563",
+      "slug": "/Nowshera_Khat_Kalay-7563",
+      "slug_l1": "/Nowshera_Khat_Kalay-7563",
+      "_geoloc": {
+          "lat": 34.004929,
+          "lng": 71.95899
+      },
+      "geography": {
+          "lat": 34.004929,
+          "lng": 71.95899
+      },
+      "geo_point": [
+          71.95899,
+          34.004929
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3492,
+              "level": 3,
+              "externalID": "7563",
+              "name": "Khat Kalay",
+              "name_l1": "کھٹ کالے",
+              "slug": "/Nowshera_Khat_Kalay-7563",
+              "slug_l1": "/Nowshera_Khat_Kalay-7563"
+          }
+      ],
+      "hierarchyPath": "Khat Kalay Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7563",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3492",
+      "_highlightResult": {
+          "name": {
+              "value": "Khat Kalay",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20897,
+      "name": "Khattak City",
+      "name_l1": "خٹک سٹی",
+      "externalID": "21484",
+      "slug": "/Nowshera_GT_Road_Khattak_City-21484",
+      "slug_l1": "/Nowshera_GT_Road_Khattak_City-21484",
+      "_geoloc": {
+          "lat": 34.00845467153,
+          "lng": 71.838475929006
+      },
+      "geography": {
+          "lat": 34.00845467153,
+          "lng": 71.838475929006
+      },
+      "geo_point": [
+          71.838475929006,
+          34.00845467153
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3489,
+              "level": 3,
+              "externalID": "7560",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Nowshera_GT_Road-7560",
+              "slug_l1": "/Nowshera_GT_Road-7560"
+          },
+          {
+              "id": 20897,
+              "level": 4,
+              "externalID": "21484",
+              "name": "Khattak City",
+              "name_l1": "خٹک سٹی",
+              "slug": "/Nowshera_GT_Road_Khattak_City-21484",
+              "slug_l1": "/Nowshera_GT_Road_Khattak_City-21484"
+          }
+      ],
+      "hierarchyPath": "Khattak City GT Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21484",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20897",
+      "_highlightResult": {
+          "name": {
+              "value": "Khattak City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1230,
+      "name": "Khattak Colony",
+      "name_l1": "خٹک کالونی",
+      "externalID": "1692",
+      "slug": "/Nowshera_Khattak_Colony-1692",
+      "slug_l1": "/Nowshera_Khattak_Colony-1692",
+      "_geoloc": {
+          "lat": 33.989986,
+          "lng": 71.996797
+      },
+      "geography": {
+          "lat": 33.989986,
+          "lng": 71.996797
+      },
+      "geo_point": [
+          71.996797,
+          33.989986
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1230,
+              "level": 3,
+              "externalID": "1692",
+              "name": "Khattak Colony",
+              "name_l1": "خٹک کالونی",
+              "slug": "/Nowshera_Khattak_Colony-1692",
+              "slug_l1": "/Nowshera_Khattak_Colony-1692"
+          }
+      ],
+      "hierarchyPath": "Khattak Colony Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1692",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1230",
+      "_highlightResult": {
+          "name": {
+              "value": "Khattak Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15701,
+      "name": "Khayaban-e-Peshawar",
+      "name_l1": "خیابانِ پشاور",
+      "externalID": "17125",
+      "slug": "/Nowshera__Khayaban_e_Peshawar-17125",
+      "slug_l1": "/Nowshera__Khayaban_e_Peshawar-17125",
+      "_geoloc": {
+          "lat": 34.010878,
+          "lng": 71.865006
+      },
+      "geography": {
+          "lat": 34.010878,
+          "lng": 71.865006
+      },
+      "geo_point": [
+          71.865006,
+          34.010878
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 15701,
+              "level": 3,
+              "externalID": "17125",
+              "name": "Khayaban-e-Peshawar",
+              "name_l1": "خیابانِ پشاور",
+              "slug": "/Nowshera__Khayaban_e_Peshawar-17125",
+              "slug_l1": "/Nowshera__Khayaban_e_Peshawar-17125"
+          }
+      ],
+      "hierarchyPath": "Khayaban-e-Peshawar Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17125",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15701",
+      "_highlightResult": {
+          "name": {
+              "value": "Khayaban-e-Peshawar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16595,
+      "name": "Khushal Garden",
+      "name_l1": "خوشحال گارڈن",
+      "externalID": "17807",
+      "slug": "/Nowshera_Khushal_Garden-17807",
+      "slug_l1": "/Nowshera_Khushal_Garden-17807",
+      "_geoloc": {
+          "lat": 33.980444,
+          "lng": 71.998139
+      },
+      "geography": {
+          "lat": 33.980444,
+          "lng": 71.998139
+      },
+      "geo_point": [
+          71.998139,
+          33.980444
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 16595,
+              "level": 3,
+              "externalID": "17807",
+              "name": "Khushal Garden",
+              "name_l1": "خوشحال گارڈن",
+              "slug": "/Nowshera_Khushal_Garden-17807",
+              "slug_l1": "/Nowshera_Khushal_Garden-17807"
+          }
+      ],
+      "hierarchyPath": "Khushal Garden Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17807",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16595",
+      "_highlightResult": {
+          "name": {
+              "value": "Khushal Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4424,
+      "name": "Khyber Garden",
+      "name_l1": "خیبر گارڈن",
+      "externalID": "8967",
+      "slug": "/Nowshera_Khyber_Garden-8967",
+      "slug_l1": "/Nowshera_Khyber_Garden-8967",
+      "_geoloc": {
+          "lat": 34.055709,
+          "lng": 72.134351
+      },
+      "geography": {
+          "lat": 34.055709,
+          "lng": 72.134351
+      },
+      "geo_point": [
+          72.134351,
+          34.055709
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 4424,
+              "level": 3,
+              "externalID": "8967",
+              "name": "Khyber Garden",
+              "name_l1": "خیبر گارڈن",
+              "slug": "/Nowshera_Khyber_Garden-8967",
+              "slug_l1": "/Nowshera_Khyber_Garden-8967"
+          }
+      ],
+      "hierarchyPath": "Khyber Garden Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8967",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4424",
+      "_highlightResult": {
+          "name": {
+              "value": "Khyber Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16686,
+      "name": "Layluma Cottages",
+      "name_l1": "لیلیوما کاٹیجز",
+      "externalID": "17898",
+      "slug": "/Nowshera_GT_Road_Layluma_Cottages-17898",
+      "slug_l1": "/Nowshera_GT_Road_Layluma_Cottages-17898",
+      "_geoloc": {
+          "lat": 34.011472,
+          "lng": 72.051361
+      },
+      "geography": {
+          "lat": 34.011472,
+          "lng": 72.051361
+      },
+      "geo_point": [
+          72.051361,
+          34.011472
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3489,
+              "level": 3,
+              "externalID": "7560",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Nowshera_GT_Road-7560",
+              "slug_l1": "/Nowshera_GT_Road-7560"
+          },
+          {
+              "id": 16686,
+              "level": 4,
+              "externalID": "17898",
+              "name": "Layluma Cottages",
+              "name_l1": "لیلیوما کاٹیجز",
+              "slug": "/Nowshera_GT_Road_Layluma_Cottages-17898",
+              "slug_l1": "/Nowshera_GT_Road_Layluma_Cottages-17898"
+          }
+      ],
+      "hierarchyPath": "Layluma Cottages GT Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17898",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16686",
+      "_highlightResult": {
+          "name": {
+              "value": "Layluma Cottages",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3493,
+      "name": "Madina Colony",
+      "name_l1": "مدینہ کالونی",
+      "externalID": "7564",
+      "slug": "/Nowshera_Madina_Colony-7564",
+      "slug_l1": "/Nowshera_Madina_Colony-7564",
+      "_geoloc": {
+          "lat": 33.987744,
+          "lng": 71.992714
+      },
+      "geography": {
+          "lat": 33.987744,
+          "lng": 71.992714
+      },
+      "geo_point": [
+          71.992714,
+          33.987744
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3493,
+              "level": 3,
+              "externalID": "7564",
+              "name": "Madina Colony",
+              "name_l1": "مدینہ کالونی",
+              "slug": "/Nowshera_Madina_Colony-7564",
+              "slug_l1": "/Nowshera_Madina_Colony-7564"
+          }
+      ],
+      "hierarchyPath": "Madina Colony Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7564",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3493",
+      "_highlightResult": {
+          "name": {
+              "value": "Madina Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13921,
+      "name": "Manki Sharif",
+      "name_l1": "مانکی شریف",
+      "externalID": "15393",
+      "slug": "/Nowshera_Manki_Sharif_Road_Manki_Sharif-15393",
+      "slug_l1": "/Nowshera_Manki_Sharif_Road_Manki_Sharif-15393",
+      "_geoloc": {
+          "lat": 33.944407,
+          "lng": 71.972402
+      },
+      "geography": {
+          "lat": 33.944407,
+          "lng": 71.972402
+      },
+      "geo_point": [
+          71.972402,
+          33.944407
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 13920,
+              "level": 3,
+              "externalID": "15392",
+              "name": "Manki Sharif Road",
+              "name_l1": "مانکی شریف روڈ",
+              "slug": "/Nowshera_Manki_Sharif_Road-15392",
+              "slug_l1": "/Nowshera_Manki_Sharif_Road-15392"
+          },
+          {
+              "id": 13921,
+              "level": 4,
+              "externalID": "15393",
+              "name": "Manki Sharif",
+              "name_l1": "مانکی شریف",
+              "slug": "/Nowshera_Manki_Sharif_Road_Manki_Sharif-15393",
+              "slug_l1": "/Nowshera_Manki_Sharif_Road_Manki_Sharif-15393"
+          }
+      ],
+      "hierarchyPath": "Manki Sharif Manki Sharif Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15393",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13921",
+      "_highlightResult": {
+          "name": {
+              "value": "Manki Sharif",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3494,
+      "name": "Mir Hassan Colony",
+      "name_l1": "میر حسن کالونی",
+      "externalID": "7565",
+      "slug": "/Nowshera_Mir_Hassan_Colony-7565",
+      "slug_l1": "/Nowshera_Mir_Hassan_Colony-7565",
+      "_geoloc": {
+          "lat": 34.007704,
+          "lng": 72.053804
+      },
+      "geography": {
+          "lat": 34.007704,
+          "lng": 72.053804
+      },
+      "geo_point": [
+          72.053804,
+          34.007704
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3494,
+              "level": 3,
+              "externalID": "7565",
+              "name": "Mir Hassan Colony",
+              "name_l1": "میر حسن کالونی",
+              "slug": "/Nowshera_Mir_Hassan_Colony-7565",
+              "slug_l1": "/Nowshera_Mir_Hassan_Colony-7565"
+          }
+      ],
+      "hierarchyPath": "Mir Hassan Colony Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7565",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3494",
+      "_highlightResult": {
+          "name": {
+              "value": "Mir Hassan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3496,
+      "name": "Mohabbat Khel",
+      "name_l1": "محبت خیل",
+      "externalID": "7567",
+      "slug": "/Nowshera_Mohabbat_Khel-7567",
+      "slug_l1": "/Nowshera_Mohabbat_Khel-7567",
+      "_geoloc": {
+          "lat": 34.02019,
+          "lng": 71.973281
+      },
+      "geography": {
+          "lat": 34.02019,
+          "lng": 71.973281
+      },
+      "geo_point": [
+          71.973281,
+          34.02019
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3496,
+              "level": 3,
+              "externalID": "7567",
+              "name": "Mohabbat Khel",
+              "name_l1": "محبت خیل",
+              "slug": "/Nowshera_Mohabbat_Khel-7567",
+              "slug_l1": "/Nowshera_Mohabbat_Khel-7567"
+          }
+      ],
+      "hierarchyPath": "Mohabbat Khel Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7567",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3496",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohabbat Khel",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3495,
+      "name": "Mohalla Meeta Khel",
+      "name_l1": "محلہ مِیٹا خیل",
+      "externalID": "7566",
+      "slug": "/Nowshera_Mohalla_Meeta_Khel-7566",
+      "slug_l1": "/Nowshera_Mohalla_Meeta_Khel-7566",
+      "_geoloc": {
+          "lat": 34.018981,
+          "lng": 71.975205
+      },
+      "geography": {
+          "lat": 34.018981,
+          "lng": 71.975205
+      },
+      "geo_point": [
+          71.975205,
+          34.018981
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3495,
+              "level": 3,
+              "externalID": "7566",
+              "name": "Mohalla Meeta Khel",
+              "name_l1": "محلہ مِیٹا خیل",
+              "slug": "/Nowshera_Mohalla_Meeta_Khel-7566",
+              "slug_l1": "/Nowshera_Mohalla_Meeta_Khel-7566"
+          }
+      ],
+      "hierarchyPath": "Mohalla Meeta Khel Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7566",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3495",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Meeta Khel",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8794,
+      "name": "Muslim Educational City",
+      "name_l1": "مسلم ایجوکیشن سٹی",
+      "externalID": "10881",
+      "slug": "/Nowshera_GT_Road_Muslim_Educational_City-10881",
+      "slug_l1": "/Nowshera_GT_Road_Muslim_Educational_City-10881",
+      "_geoloc": {
+          "lat": 34.008676,
+          "lng": 71.881619
+      },
+      "geography": {
+          "lat": 34.008676,
+          "lng": 71.881619
+      },
+      "geo_point": [
+          71.881619,
+          34.008676
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3489,
+              "level": 3,
+              "externalID": "7560",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Nowshera_GT_Road-7560",
+              "slug_l1": "/Nowshera_GT_Road-7560"
+          },
+          {
+              "id": 8794,
+              "level": 4,
+              "externalID": "10881",
+              "name": "Muslim Educational City",
+              "name_l1": "مسلم ایجوکیشن سٹی",
+              "slug": "/Nowshera_GT_Road_Muslim_Educational_City-10881",
+              "slug_l1": "/Nowshera_GT_Road_Muslim_Educational_City-10881"
+          }
+      ],
+      "hierarchyPath": "Muslim Educational City GT Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10881",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8794",
+      "_highlightResult": {
+          "name": {
+              "value": "Muslim Educational City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11350,
+      "name": "New City Nowshera",
+      "name_l1": "نیو سٹی نوشہرہ",
+      "externalID": "12905",
+      "slug": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera-12905",
+      "slug_l1": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera-12905",
+      "_geoloc": {
+          "lat": 33.966999,
+          "lng": 72.032106
+      },
+      "geography": {
+          "lat": 33.966999,
+          "lng": 72.032106
+      },
+      "geo_point": [
+          72.032106,
+          33.966999
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 11376,
+              "level": 3,
+              "externalID": "12932",
+              "name": "Kaka Sahib Road",
+              "name_l1": "کاکا صاحب روڈ",
+              "slug": "/Nowshera_Kaka_Sahib_Road-12932",
+              "slug_l1": "/Nowshera_Kaka_Sahib_Road-12932"
+          },
+          {
+              "id": 11350,
+              "level": 4,
+              "externalID": "12905",
+              "name": "New City Nowshera",
+              "name_l1": "نیو سٹی نوشہرہ",
+              "slug": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera-12905",
+              "slug_l1": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera-12905"
+          }
+      ],
+      "hierarchyPath": "New City Nowshera Kaka Sahib Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12905",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11350",
+      "_highlightResult": {
+          "name": {
+              "value": "New City Nowshera",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17546,
+      "name": "New City Phase 2",
+      "name_l1": "نیو سٹی فیز 2",
+      "externalID": "18622",
+      "slug": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera_New_City_Phase_2-18622",
+      "slug_l1": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera_New_City_Phase_2-18622",
+      "_geoloc": {
+          "lat": 33.96265101,
+          "lng": 72.02565675
+      },
+      "geography": {
+          "lat": 33.96265101,
+          "lng": 72.02565675
+      },
+      "geo_point": [
+          72.02565675,
+          33.96265101
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 11376,
+              "level": 3,
+              "externalID": "12932",
+              "name": "Kaka Sahib Road",
+              "name_l1": "کاکا صاحب روڈ",
+              "slug": "/Nowshera_Kaka_Sahib_Road-12932",
+              "slug_l1": "/Nowshera_Kaka_Sahib_Road-12932"
+          },
+          {
+              "id": 11350,
+              "level": 4,
+              "externalID": "12905",
+              "name": "New City Nowshera",
+              "name_l1": "نیو سٹی نوشہرہ",
+              "slug": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera-12905",
+              "slug_l1": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera-12905"
+          },
+          {
+              "id": 17546,
+              "level": 5,
+              "externalID": "18622",
+              "name": "New City Phase 2",
+              "name_l1": "نیو سٹی فیز 2",
+              "slug": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera_New_City_Phase_2-18622",
+              "slug_l1": "/Nowshera_Kaka_Sahib_Road_New_City_Nowshera_New_City_Phase_2-18622"
+          }
+      ],
+      "hierarchyPath": "New City Phase 2 New City Nowshera Kaka Sahib Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18622",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17546",
+      "_highlightResult": {
+          "name": {
+              "value": "New City Phase 2",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5650,
+      "name": "Nihal Pura",
+      "name_l1": "نہال پورہ",
+      "externalID": "11304",
+      "slug": "/Nowshera_Nihal_Pura-11304",
+      "slug_l1": "/Nowshera_Nihal_Pura-11304",
+      "_geoloc": {
+          "lat": 33.956704,
+          "lng": 72.204908
+      },
+      "geography": {
+          "lat": 33.956704,
+          "lng": 72.204908
+      },
+      "geo_point": [
+          72.204908,
+          33.956704
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 5650,
+              "level": 3,
+              "externalID": "11304",
+              "name": "Nihal Pura",
+              "name_l1": "نہال پورہ",
+              "slug": "/Nowshera_Nihal_Pura-11304",
+              "slug_l1": "/Nowshera_Nihal_Pura-11304"
+          }
+      ],
+      "hierarchyPath": "Nihal Pura Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11304",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5650",
+      "_highlightResult": {
+          "name": {
+              "value": "Nihal Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1154,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1426",
+      "slug": "/Nowshera_Others-1426",
+      "slug_l1": "/Nowshera_Others-1426",
+      "_geoloc": {
+          "lat": 34.0159,
+          "lng": 71.9755
+      },
+      "geography": {
+          "lat": 34.0159,
+          "lng": 71.9755
+      },
+      "geo_point": [
+          71.9755,
+          34.0159
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1154,
+              "level": 3,
+              "externalID": "1426",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Nowshera_Others-1426",
+              "slug_l1": "/Nowshera_Others-1426"
+          }
+      ],
+      "hierarchyPath": "Others Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1426",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1154",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1237,
+      "name": "Pabbi",
+      "name_l1": "پبی",
+      "externalID": "1701",
+      "slug": "/Nowshera_Pabbi-1701",
+      "slug_l1": "/Nowshera_Pabbi-1701",
+      "_geoloc": {
+          "lat": 34.009768,
+          "lng": 71.80388
+      },
+      "geography": {
+          "lat": 34.009768,
+          "lng": 71.80388
+      },
+      "geo_point": [
+          71.80388,
+          34.009768
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1237,
+              "level": 3,
+              "externalID": "1701",
+              "name": "Pabbi",
+              "name_l1": "پبی",
+              "slug": "/Nowshera_Pabbi-1701",
+              "slug_l1": "/Nowshera_Pabbi-1701"
+          }
+      ],
+      "hierarchyPath": "Pabbi Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1701",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1237",
+      "_highlightResult": {
+          "name": {
+              "value": "Pabbi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13294,
+      "name": "Paradise City Block E",
+      "name_l1": "پیراڈائز سٹی بلاک ای",
+      "externalID": "14744",
+      "slug": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_E-14744",
+      "slug_l1": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_E-14744",
+      "_geoloc": {
+          "lat": 33.96871644,
+          "lng": 72.04030382
+      },
+      "geography": {
+          "lat": 33.96871644,
+          "lng": 72.04030382
+      },
+      "geo_point": [
+          72.04030382,
+          33.96871644
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1153,
+              "level": 3,
+              "externalID": "1425",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Nowshera_Cantt-1425",
+              "slug_l1": "/Nowshera_Cantt-1425"
+          },
+          {
+              "id": 9066,
+              "level": 4,
+              "externalID": "11619",
+              "name": "Paradise City",
+              "name_l1": "پیراڑائزسٹی",
+              "slug": "/Nowshera_Cantt_Paradise_City-11619",
+              "slug_l1": "/Nowshera_Cantt_Paradise_City-11619"
+          },
+          {
+              "id": 13294,
+              "level": 5,
+              "externalID": "14744",
+              "name": "Paradise City Block E",
+              "name_l1": "پیراڈائز سٹی بلاک ای",
+              "slug": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_E-14744",
+              "slug_l1": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_E-14744"
+          }
+      ],
+      "hierarchyPath": "Paradise City Block E Paradise City Cantt Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14744",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13294",
+      "_highlightResult": {
+          "name": {
+              "value": "Paradise City Block E",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13297,
+      "name": "Paradise City Block F",
+      "name_l1": "پیراڈائز سٹی بلاک ایف",
+      "externalID": "14747",
+      "slug": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_F-14747",
+      "slug_l1": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_F-14747",
+      "_geoloc": {
+          "lat": 33.96911865,
+          "lng": 72.04374631
+      },
+      "geography": {
+          "lat": 33.96911865,
+          "lng": 72.04374631
+      },
+      "geo_point": [
+          72.04374631,
+          33.96911865
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1153,
+              "level": 3,
+              "externalID": "1425",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Nowshera_Cantt-1425",
+              "slug_l1": "/Nowshera_Cantt-1425"
+          },
+          {
+              "id": 9066,
+              "level": 4,
+              "externalID": "11619",
+              "name": "Paradise City",
+              "name_l1": "پیراڑائزسٹی",
+              "slug": "/Nowshera_Cantt_Paradise_City-11619",
+              "slug_l1": "/Nowshera_Cantt_Paradise_City-11619"
+          },
+          {
+              "id": 13297,
+              "level": 5,
+              "externalID": "14747",
+              "name": "Paradise City Block F",
+              "name_l1": "پیراڈائز سٹی بلاک ایف",
+              "slug": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_F-14747",
+              "slug_l1": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_F-14747"
+          }
+      ],
+      "hierarchyPath": "Paradise City Block F Paradise City Cantt Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14747",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13297",
+      "_highlightResult": {
+          "name": {
+              "value": "Paradise City Block F",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13301,
+      "name": "Paradise City Block G",
+      "name_l1": "پیراڈائز سٹی بلاک جی",
+      "externalID": "14752",
+      "slug": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_G-14752",
+      "slug_l1": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_G-14752",
+      "_geoloc": {
+          "lat": 33.96473604,
+          "lng": 72.04157842
+      },
+      "geography": {
+          "lat": 33.96473604,
+          "lng": 72.04157842
+      },
+      "geo_point": [
+          72.04157842,
+          33.96473604
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1153,
+              "level": 3,
+              "externalID": "1425",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Nowshera_Cantt-1425",
+              "slug_l1": "/Nowshera_Cantt-1425"
+          },
+          {
+              "id": 9066,
+              "level": 4,
+              "externalID": "11619",
+              "name": "Paradise City",
+              "name_l1": "پیراڑائزسٹی",
+              "slug": "/Nowshera_Cantt_Paradise_City-11619",
+              "slug_l1": "/Nowshera_Cantt_Paradise_City-11619"
+          },
+          {
+              "id": 13301,
+              "level": 5,
+              "externalID": "14752",
+              "name": "Paradise City Block G",
+              "name_l1": "پیراڈائز سٹی بلاک جی",
+              "slug": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_G-14752",
+              "slug_l1": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_G-14752"
+          }
+      ],
+      "hierarchyPath": "Paradise City Block G Paradise City Cantt Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14752",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13301",
+      "_highlightResult": {
+          "name": {
+              "value": "Paradise City Block G",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13312,
+      "name": "Paradise City Block H",
+      "name_l1": "پیراڈائز سٹی بلاک ایچ",
+      "externalID": "14761",
+      "slug": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_H-14761",
+      "slug_l1": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_H-14761",
+      "_geoloc": {
+          "lat": 33.96408726,
+          "lng": 72.04471068
+      },
+      "geography": {
+          "lat": 33.96408726,
+          "lng": 72.04471068
+      },
+      "geo_point": [
+          72.04471068,
+          33.96408726
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1153,
+              "level": 3,
+              "externalID": "1425",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Nowshera_Cantt-1425",
+              "slug_l1": "/Nowshera_Cantt-1425"
+          },
+          {
+              "id": 9066,
+              "level": 4,
+              "externalID": "11619",
+              "name": "Paradise City",
+              "name_l1": "پیراڑائزسٹی",
+              "slug": "/Nowshera_Cantt_Paradise_City-11619",
+              "slug_l1": "/Nowshera_Cantt_Paradise_City-11619"
+          },
+          {
+              "id": 13312,
+              "level": 5,
+              "externalID": "14761",
+              "name": "Paradise City Block H",
+              "name_l1": "پیراڈائز سٹی بلاک ایچ",
+              "slug": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_H-14761",
+              "slug_l1": "/Nowshera_Cantt_Paradise_City_Paradise_City_Block_H-14761"
+          }
+      ],
+      "hierarchyPath": "Paradise City Block H Paradise City Cantt Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14761",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13312",
+      "_highlightResult": {
+          "name": {
+              "value": "Paradise City Block H",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9188,
+      "name": "Paradise Farms",
+      "name_l1": "پیراڈائیز فارمز",
+      "externalID": "11925",
+      "slug": "/Nowshera_Badrashi_Paradise_Farms-11925",
+      "slug_l1": "/Nowshera_Badrashi_Paradise_Farms-11925",
+      "_geoloc": {
+          "lat": 33.972031,
+          "lng": 72.035281
+      },
+      "geography": {
+          "lat": 33.972031,
+          "lng": 72.035281
+      },
+      "geo_point": [
+          72.035281,
+          33.972031
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1228,
+              "level": 3,
+              "externalID": "1690",
+              "name": "Badrashi",
+              "name_l1": "بدرشی",
+              "slug": "/Nowshera_Badrashi-1690",
+              "slug_l1": "/Nowshera_Badrashi-1690"
+          },
+          {
+              "id": 9188,
+              "level": 4,
+              "externalID": "11925",
+              "name": "Paradise Farms",
+              "name_l1": "پیراڈائیز فارمز",
+              "slug": "/Nowshera_Badrashi_Paradise_Farms-11925",
+              "slug_l1": "/Nowshera_Badrashi_Paradise_Farms-11925"
+          }
+      ],
+      "hierarchyPath": "Paradise Farms Badrashi Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11925",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9188",
+      "_highlightResult": {
+          "name": {
+              "value": "Paradise Farms",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14686,
+      "name": "Pir Pai Road",
+      "name_l1": "پیر پائی روڈ",
+      "externalID": "16236",
+      "slug": "/Nowshera_Pir_Pai_Road-16236",
+      "slug_l1": "/Nowshera_Pir_Pai_Road-16236",
+      "_geoloc": {
+          "lat": 34.003093,
+          "lng": 71.898695
+      },
+      "geography": {
+          "lat": 34.003093,
+          "lng": 71.898695
+      },
+      "geo_point": [
+          71.898695,
+          34.003093
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 14686,
+              "level": 3,
+              "externalID": "16236",
+              "name": "Pir Pai Road",
+              "name_l1": "پیر پائی روڈ",
+              "slug": "/Nowshera_Pir_Pai_Road-16236",
+              "slug_l1": "/Nowshera_Pir_Pai_Road-16236"
+          }
+      ],
+      "hierarchyPath": "Pir Pai Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16236",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14686",
+      "_highlightResult": {
+          "name": {
+              "value": "Pir Pai Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1231,
+      "name": "Risalpur Town",
+      "name_l1": "رِسالپور ٹاؤن",
+      "externalID": "1693",
+      "slug": "/Nowshera_Risalpur_Town-1693",
+      "slug_l1": "/Nowshera_Risalpur_Town-1693",
+      "_geoloc": {
+          "lat": 34.082237,
+          "lng": 71.972408
+      },
+      "geography": {
+          "lat": 34.082237,
+          "lng": 71.972408
+      },
+      "geo_point": [
+          71.972408,
+          34.082237
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1231,
+              "level": 3,
+              "externalID": "1693",
+              "name": "Risalpur Town",
+              "name_l1": "رِسالپور ٹاؤن",
+              "slug": "/Nowshera_Risalpur_Town-1693",
+              "slug_l1": "/Nowshera_Risalpur_Town-1693"
+          }
+      ],
+      "hierarchyPath": "Risalpur Town Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1693",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1231",
+      "_highlightResult": {
+          "name": {
+              "value": "Risalpur Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3499,
+      "name": "Saddar",
+      "name_l1": "صدر",
+      "externalID": "7570",
+      "slug": "/Nowshera_Saddar-7570",
+      "slug_l1": "/Nowshera_Saddar-7570",
+      "_geoloc": {
+          "lat": 34.003649,
+          "lng": 71.985927
+      },
+      "geography": {
+          "lat": 34.003649,
+          "lng": 71.985927
+      },
+      "geo_point": [
+          71.985927,
+          34.003649
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3499,
+              "level": 3,
+              "externalID": "7570",
+              "name": "Saddar",
+              "name_l1": "صدر",
+              "slug": "/Nowshera_Saddar-7570",
+              "slug_l1": "/Nowshera_Saddar-7570"
+          }
+      ],
+      "hierarchyPath": "Saddar Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7570",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3499",
+      "_highlightResult": {
+          "name": {
+              "value": "Saddar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3500,
+      "name": "Shah Mir Garhi",
+      "name_l1": "شاہ میر گڑھی",
+      "externalID": "7571",
+      "slug": "/Nowshera_Shah_Mir_Garhi-7571",
+      "slug_l1": "/Nowshera_Shah_Mir_Garhi-7571",
+      "_geoloc": {
+          "lat": 34.021044,
+          "lng": 71.980956
+      },
+      "geography": {
+          "lat": 34.021044,
+          "lng": 71.980956
+      },
+      "geo_point": [
+          71.980956,
+          34.021044
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3500,
+              "level": 3,
+              "externalID": "7571",
+              "name": "Shah Mir Garhi",
+              "name_l1": "شاہ میر گڑھی",
+              "slug": "/Nowshera_Shah_Mir_Garhi-7571",
+              "slug_l1": "/Nowshera_Shah_Mir_Garhi-7571"
+          }
+      ],
+      "hierarchyPath": "Shah Mir Garhi Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7571",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3500",
+      "_highlightResult": {
+          "name": {
+              "value": "Shah Mir Garhi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14186,
+      "name": "Shaheen Educational City",
+      "name_l1": "شاہین  ایجوکیشنل  سٹی",
+      "externalID": "15661",
+      "slug": "/Nowshera_GT_Road_Shaheen_Educational_City-15661",
+      "slug_l1": "/Nowshera_GT_Road_Shaheen_Educational_City-15661",
+      "_geoloc": {
+          "lat": 34.010296,
+          "lng": 71.870785
+      },
+      "geography": {
+          "lat": 34.010296,
+          "lng": 71.870785
+      },
+      "geo_point": [
+          71.870785,
+          34.010296
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3489,
+              "level": 3,
+              "externalID": "7560",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Nowshera_GT_Road-7560",
+              "slug_l1": "/Nowshera_GT_Road-7560"
+          },
+          {
+              "id": 14186,
+              "level": 4,
+              "externalID": "15661",
+              "name": "Shaheen Educational City",
+              "name_l1": "شاہین  ایجوکیشنل  سٹی",
+              "slug": "/Nowshera_GT_Road_Shaheen_Educational_City-15661",
+              "slug_l1": "/Nowshera_GT_Road_Shaheen_Educational_City-15661"
+          }
+      ],
+      "hierarchyPath": "Shaheen Educational City GT Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15661",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14186",
+      "_highlightResult": {
+          "name": {
+              "value": "Shaheen Educational City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3501,
+      "name": "Shama Town",
+      "name_l1": "شمع ٹاؤن",
+      "externalID": "7572",
+      "slug": "/Nowshera_Shama_Town-7572",
+      "slug_l1": "/Nowshera_Shama_Town-7572",
+      "_geoloc": {
+          "lat": 34.003862,
+          "lng": 71.952038
+      },
+      "geography": {
+          "lat": 34.003862,
+          "lng": 71.952038
+      },
+      "geo_point": [
+          71.952038,
+          34.003862
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3501,
+              "level": 3,
+              "externalID": "7572",
+              "name": "Shama Town",
+              "name_l1": "شمع ٹاؤن",
+              "slug": "/Nowshera_Shama_Town-7572",
+              "slug_l1": "/Nowshera_Shama_Town-7572"
+          }
+      ],
+      "hierarchyPath": "Shama Town Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7572",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3501",
+      "_highlightResult": {
+          "name": {
+              "value": "Shama Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11786,
+      "name": "Shami Road",
+      "name_l1": "شامی روڈ",
+      "externalID": "13309",
+      "slug": "/Nowshera_Cantt_Shami_Road-13309",
+      "slug_l1": "/Nowshera_Cantt_Shami_Road-13309",
+      "_geoloc": {
+          "lat": 34.008711,
+          "lng": 72.000638
+      },
+      "geography": {
+          "lat": 34.008711,
+          "lng": 72.000638
+      },
+      "geo_point": [
+          72.000638,
+          34.008711
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 1153,
+              "level": 3,
+              "externalID": "1425",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Nowshera_Cantt-1425",
+              "slug_l1": "/Nowshera_Cantt-1425"
+          },
+          {
+              "id": 11786,
+              "level": 4,
+              "externalID": "13309",
+              "name": "Shami Road",
+              "name_l1": "شامی روڈ",
+              "slug": "/Nowshera_Cantt_Shami_Road-13309",
+              "slug_l1": "/Nowshera_Cantt_Shami_Road-13309"
+          }
+      ],
+      "hierarchyPath": "Shami Road Cantt Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13309",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11786",
+      "_highlightResult": {
+          "name": {
+              "value": "Shami Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3502,
+      "name": "Wapda Town",
+      "name_l1": "واپڈا ٹاؤن",
+      "externalID": "7573",
+      "slug": "/Nowshera_Wapda_Town-7573",
+      "slug_l1": "/Nowshera_Wapda_Town-7573",
+      "_geoloc": {
+          "lat": 34.0259707,
+          "lng": 71.74097538
+      },
+      "geography": {
+          "lat": 34.0259707,
+          "lng": 71.74097538
+      },
+      "geo_point": [
+          71.74097538,
+          34.0259707
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 3502,
+              "level": 3,
+              "externalID": "7573",
+              "name": "Wapda Town",
+              "name_l1": "واپڈا ٹاؤن",
+              "slug": "/Nowshera_Wapda_Town-7573",
+              "slug_l1": "/Nowshera_Wapda_Town-7573"
+          }
+      ],
+      "hierarchyPath": "Wapda Town Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7573",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3502",
+      "_highlightResult": {
+          "name": {
+              "value": "Wapda Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22318,
+      "name": "Wattar Road",
+      "name_l1": "وتر روڈ",
+      "externalID": "22371",
+      "slug": "/Nowshera_Wattar_Road-22371",
+      "slug_l1": "/Nowshera_Wattar_Road-22371",
+      "_geoloc": {
+          "lat": 33.994726,
+          "lng": 72.066046
+      },
+      "geography": {
+          "lat": 33.994726,
+          "lng": 72.066046
+      },
+      "geo_point": [
+          72.066046,
+          33.994726
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 65,
+              "level": 2,
+              "externalID": "1424",
+              "name": "Nowshera",
+              "name_l1": "نوشہرہ",
+              "slug": "/Nowshera-1424",
+              "slug_l1": "/Nowshera-1424"
+          },
+          {
+              "id": 22318,
+              "level": 3,
+              "externalID": "22371",
+              "name": "Wattar Road",
+              "name_l1": "وتر روڈ",
+              "slug": "/Nowshera_Wattar_Road-22371",
+              "slug_l1": "/Nowshera_Wattar_Road-22371"
+          }
+      ],
+      "hierarchyPath": "Wattar Road Nowshera Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22371",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22318",
+      "_highlightResult": {
+          "name": {
+              "value": "Wattar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

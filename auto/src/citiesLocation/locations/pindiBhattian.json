@@ -1,0 +1,704 @@
+[
+  {
+      "id": 49,
+      "name": "Pindi Bhattian",
+      "name_l1": "پنڈی بھٹیاں",
+      "externalID": "975",
+      "slug": "/Pindi_Bhattian-975",
+      "slug_l1": "/Pindi_Bhattian-975",
+      "_geoloc": {
+          "lat": 31.896287,
+          "lng": 73.276098
+      },
+      "geography": {
+          "lat": 31.896287,
+          "lng": 73.276098
+      },
+      "geo_point": [
+          73.276098,
+          31.896287
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 49,
+              "level": 2,
+              "externalID": "975",
+              "name": "Pindi Bhattian",
+              "name_l1": "پنڈی بھٹیاں",
+              "slug": "/Pindi_Bhattian-975",
+              "slug_l1": "/Pindi_Bhattian-975"
+          }
+      ],
+      "hierarchyPath": "Pindi Bhattian Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "975",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "49",
+      "_highlightResult": {
+          "name": {
+              "value": "Pindi Bhattian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11626,
+      "name": "Chiniot - Pindi Bhattian Road",
+      "name_l1": "چنیوٹ - پنڈی بھٹیاں روڈ",
+      "externalID": "13151",
+      "slug": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road-13151",
+      "slug_l1": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road-13151",
+      "_geoloc": {
+          "lat": 31.894047,
+          "lng": 73.262019
+      },
+      "geography": {
+          "lat": 31.894047,
+          "lng": 73.262019
+      },
+      "geo_point": [
+          73.262019,
+          31.894047
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 49,
+              "level": 2,
+              "externalID": "975",
+              "name": "Pindi Bhattian",
+              "name_l1": "پنڈی بھٹیاں",
+              "slug": "/Pindi_Bhattian-975",
+              "slug_l1": "/Pindi_Bhattian-975"
+          },
+          {
+              "id": 11626,
+              "level": 3,
+              "externalID": "13151",
+              "name": "Chiniot - Pindi Bhattian Road",
+              "name_l1": "چنیوٹ - پنڈی بھٹیاں روڈ",
+              "slug": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road-13151",
+              "slug_l1": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road-13151"
+          }
+      ],
+      "hierarchyPath": "Chiniot - Pindi Bhattian Road Pindi Bhattian Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13151",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11626",
+      "_highlightResult": {
+          "name": {
+              "value": "Chiniot - Pindi Bhattian Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15243,
+      "name": "Pindi Bhattian - Faisalabad Motorway",
+      "name_l1": "پنڈی بھٹیاں۔ فیصل آباد موٹر وے",
+      "externalID": "16726",
+      "slug": "/Pindi_Bhattian_Pindi_Bhattian___Faisalabad_Motorway-16726",
+      "slug_l1": "/Pindi_Bhattian_Pindi_Bhattian___Faisalabad_Motorway-16726",
+      "_geoloc": {
+          "lat": 31.526736,
+          "lng": 73.073961
+      },
+      "geography": {
+          "lat": 31.526736,
+          "lng": 73.073961
+      },
+      "geo_point": [
+          73.073961,
+          31.526736
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 49,
+              "level": 2,
+              "externalID": "975",
+              "name": "Pindi Bhattian",
+              "name_l1": "پنڈی بھٹیاں",
+              "slug": "/Pindi_Bhattian-975",
+              "slug_l1": "/Pindi_Bhattian-975"
+          },
+          {
+              "id": 15243,
+              "level": 3,
+              "externalID": "16726",
+              "name": "Pindi Bhattian - Faisalabad Motorway",
+              "name_l1": "پنڈی بھٹیاں۔ فیصل آباد موٹر وے",
+              "slug": "/Pindi_Bhattian_Pindi_Bhattian___Faisalabad_Motorway-16726",
+              "slug_l1": "/Pindi_Bhattian_Pindi_Bhattian___Faisalabad_Motorway-16726"
+          }
+      ],
+      "hierarchyPath": "Pindi Bhattian - Faisalabad Motorway Pindi Bhattian Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16726",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15243",
+      "_highlightResult": {
+          "name": {
+              "value": "Pindi Bhattian - Faisalabad Motorway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20753,
+      "name": "Chenab City Housing Scheme",
+      "name_l1": "چناب سٹی ہاؤسنگ سکیم",
+      "externalID": "21387",
+      "slug": "/Pindi_Bhattian_Wazirabad_Road_Chenab_City_Housing_Scheme-21387",
+      "slug_l1": "/Pindi_Bhattian_Wazirabad_Road_Chenab_City_Housing_Scheme-21387",
+      "_geoloc": {
+          "lat": 31.920527367393,
+          "lng": 73.278338861332
+      },
+      "geography": {
+          "lat": 31.920527367393,
+          "lng": 73.278338861332
+      },
+      "geo_point": [
+          73.278338861332,
+          31.920527367393
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 49,
+              "level": 2,
+              "externalID": "975",
+              "name": "Pindi Bhattian",
+              "name_l1": "پنڈی بھٹیاں",
+              "slug": "/Pindi_Bhattian-975",
+              "slug_l1": "/Pindi_Bhattian-975"
+          },
+          {
+              "id": 20752,
+              "level": 3,
+              "externalID": "21386",
+              "name": "Wazirabad Road",
+              "name_l1": "وزیرآباد روڈ",
+              "slug": "/Pindi_Bhattian_Wazirabad_Road-21386",
+              "slug_l1": "/Pindi_Bhattian_Wazirabad_Road-21386"
+          },
+          {
+              "id": 20753,
+              "level": 4,
+              "externalID": "21387",
+              "name": "Chenab City Housing Scheme",
+              "name_l1": "چناب سٹی ہاؤسنگ سکیم",
+              "slug": "/Pindi_Bhattian_Wazirabad_Road_Chenab_City_Housing_Scheme-21387",
+              "slug_l1": "/Pindi_Bhattian_Wazirabad_Road_Chenab_City_Housing_Scheme-21387"
+          }
+      ],
+      "hierarchyPath": "Chenab City Housing Scheme Wazirabad Road Pindi Bhattian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21387",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20753",
+      "_highlightResult": {
+          "name": {
+              "value": "Chenab City Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18463,
+      "name": "Hamza Town",
+      "name_l1": "حمزہ ٹاؤن",
+      "externalID": "19378",
+      "slug": "/Pindi_Bhattian_Hamza_Town-19378",
+      "slug_l1": "/Pindi_Bhattian_Hamza_Town-19378",
+      "_geoloc": {
+          "lat": 31.892574,
+          "lng": 73.277907
+      },
+      "geography": {
+          "lat": 31.892574,
+          "lng": 73.277907
+      },
+      "geo_point": [
+          73.277907,
+          31.892574
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 49,
+              "level": 2,
+              "externalID": "975",
+              "name": "Pindi Bhattian",
+              "name_l1": "پنڈی بھٹیاں",
+              "slug": "/Pindi_Bhattian-975",
+              "slug_l1": "/Pindi_Bhattian-975"
+          },
+          {
+              "id": 18463,
+              "level": 3,
+              "externalID": "19378",
+              "name": "Hamza Town",
+              "name_l1": "حمزہ ٹاؤن",
+              "slug": "/Pindi_Bhattian_Hamza_Town-19378",
+              "slug_l1": "/Pindi_Bhattian_Hamza_Town-19378"
+          }
+      ],
+      "hierarchyPath": "Hamza Town Pindi Bhattian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19378",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18463",
+      "_highlightResult": {
+          "name": {
+              "value": "Hamza Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18464,
+      "name": "Lahore Road",
+      "name_l1": "لاہور روڈ",
+      "externalID": "19379",
+      "slug": "/Pindi_Bhattian_Lahore_Road-19379",
+      "slug_l1": "/Pindi_Bhattian_Lahore_Road-19379",
+      "_geoloc": {
+          "lat": 31.9064491,
+          "lng": 73.2835006
+      },
+      "geography": {
+          "lat": 31.9064491,
+          "lng": 73.2835006
+      },
+      "geo_point": [
+          73.2835006,
+          31.9064491
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 49,
+              "level": 2,
+              "externalID": "975",
+              "name": "Pindi Bhattian",
+              "name_l1": "پنڈی بھٹیاں",
+              "slug": "/Pindi_Bhattian-975",
+              "slug_l1": "/Pindi_Bhattian-975"
+          },
+          {
+              "id": 18464,
+              "level": 3,
+              "externalID": "19379",
+              "name": "Lahore Road",
+              "name_l1": "لاہور روڈ",
+              "slug": "/Pindi_Bhattian_Lahore_Road-19379",
+              "slug_l1": "/Pindi_Bhattian_Lahore_Road-19379"
+          }
+      ],
+      "hierarchyPath": "Lahore Road Pindi Bhattian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19379",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18464",
+      "_highlightResult": {
+          "name": {
+              "value": "Lahore Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11627,
+      "name": "Medina Valley Housing Society",
+      "name_l1": "مدینہ ویلی ہاؤسنگ سوسائٹی",
+      "externalID": "13152",
+      "slug": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road_Medina_Valley_Housing_Society-13152",
+      "slug_l1": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road_Medina_Valley_Housing_Society-13152",
+      "_geoloc": {
+          "lat": 31.895333,
+          "lng": 73.26425
+      },
+      "geography": {
+          "lat": 31.895333,
+          "lng": 73.26425
+      },
+      "geo_point": [
+          73.26425,
+          31.895333
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 49,
+              "level": 2,
+              "externalID": "975",
+              "name": "Pindi Bhattian",
+              "name_l1": "پنڈی بھٹیاں",
+              "slug": "/Pindi_Bhattian-975",
+              "slug_l1": "/Pindi_Bhattian-975"
+          },
+          {
+              "id": 11626,
+              "level": 3,
+              "externalID": "13151",
+              "name": "Chiniot - Pindi Bhattian Road",
+              "name_l1": "چنیوٹ - پنڈی بھٹیاں روڈ",
+              "slug": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road-13151",
+              "slug_l1": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road-13151"
+          },
+          {
+              "id": 11627,
+              "level": 4,
+              "externalID": "13152",
+              "name": "Medina Valley Housing Society",
+              "name_l1": "مدینہ ویلی ہاؤسنگ سوسائٹی",
+              "slug": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road_Medina_Valley_Housing_Society-13152",
+              "slug_l1": "/Pindi_Bhattian_Chiniot___Pindi_Bhattian_Road_Medina_Valley_Housing_Society-13152"
+          }
+      ],
+      "hierarchyPath": "Medina Valley Housing Society Chiniot - Pindi Bhattian Road Pindi Bhattian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13152",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11627",
+      "_highlightResult": {
+          "name": {
+              "value": "Medina Valley Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11625,
+      "name": "Others",
+      "name_l1": "ادرذ",
+      "externalID": "13150",
+      "slug": "/Pindi_Bhattian_Others-13150",
+      "slug_l1": "/Pindi_Bhattian_Others-13150",
+      "_geoloc": {
+          "lat": 31.898445,
+          "lng": 73.276031
+      },
+      "geography": {
+          "lat": 31.898445,
+          "lng": 73.276031
+      },
+      "geo_point": [
+          73.276031,
+          31.898445
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 49,
+              "level": 2,
+              "externalID": "975",
+              "name": "Pindi Bhattian",
+              "name_l1": "پنڈی بھٹیاں",
+              "slug": "/Pindi_Bhattian-975",
+              "slug_l1": "/Pindi_Bhattian-975"
+          },
+          {
+              "id": 11625,
+              "level": 3,
+              "externalID": "13150",
+              "name": "Others",
+              "name_l1": "ادرذ",
+              "slug": "/Pindi_Bhattian_Others-13150",
+              "slug_l1": "/Pindi_Bhattian_Others-13150"
+          }
+      ],
+      "hierarchyPath": "Others Pindi Bhattian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13150",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11625",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20752,
+      "name": "Wazirabad Road",
+      "name_l1": "وزیرآباد روڈ",
+      "externalID": "21386",
+      "slug": "/Pindi_Bhattian_Wazirabad_Road-21386",
+      "slug_l1": "/Pindi_Bhattian_Wazirabad_Road-21386",
+      "_geoloc": {
+          "lat": 31.925289,
+          "lng": 73.280504
+      },
+      "geography": {
+          "lat": 31.925289,
+          "lng": 73.280504
+      },
+      "geo_point": [
+          73.280504,
+          31.925289
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 49,
+              "level": 2,
+              "externalID": "975",
+              "name": "Pindi Bhattian",
+              "name_l1": "پنڈی بھٹیاں",
+              "slug": "/Pindi_Bhattian-975",
+              "slug_l1": "/Pindi_Bhattian-975"
+          },
+          {
+              "id": 20752,
+              "level": 3,
+              "externalID": "21386",
+              "name": "Wazirabad Road",
+              "name_l1": "وزیرآباد روڈ",
+              "slug": "/Pindi_Bhattian_Wazirabad_Road-21386",
+              "slug_l1": "/Pindi_Bhattian_Wazirabad_Road-21386"
+          }
+      ],
+      "hierarchyPath": "Wazirabad Road Pindi Bhattian Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21386",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "20752",
+      "_highlightResult": {
+          "name": {
+              "value": "Wazirabad Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

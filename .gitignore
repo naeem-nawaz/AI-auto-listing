@@ -1,0 +1,18 @@
+# React app (auto)
+auto/node_modules/
+auto/build/
+auto/.env
+auto/.env.*
+auto/npm-debug.log*
+auto/yarn-debug.log*
+auto/yarn-error.log*
+auto/coverage/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Secrets
+.env
+.env.local

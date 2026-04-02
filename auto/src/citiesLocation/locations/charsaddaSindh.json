@@ -1,0 +1,301 @@
+[
+  {
+      "id": 91,
+      "name": "Dadu",
+      "name_l1": "دادو",
+      "externalID": "1727",
+      "slug": "/Dadu-1727",
+      "slug_l1": "/Dadu-1727",
+      "_geoloc": {
+          "lat": 26.723840278933,
+          "lng": 67.769680023193
+      },
+      "geography": {
+          "lat": 26.723840278933,
+          "lng": 67.769680023193
+      },
+      "geo_point": [
+          67.769680023193,
+          26.723840278933
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 91,
+              "level": 2,
+              "externalID": "1727",
+              "name": "Dadu",
+              "name_l1": "دادو",
+              "slug": "/Dadu-1727",
+              "slug_l1": "/Dadu-1727"
+          }
+      ],
+      "hierarchyPath": "Dadu Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1727",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "91",
+      "_highlightResult": {
+          "name": {
+              "value": "Dadu",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4347,
+      "name": "Halani",
+      "name_l1": "ہالانی",
+      "externalID": "8805",
+      "slug": "/Dadu_Halani-8805",
+      "slug_l1": "/Dadu_Halani-8805",
+      "_geoloc": {
+          "lat": 27.086486,
+          "lng": 68.313074
+      },
+      "geography": {
+          "lat": 27.086486,
+          "lng": 68.313074
+      },
+      "geo_point": [
+          68.313074,
+          27.086486
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 91,
+              "level": 2,
+              "externalID": "1727",
+              "name": "Dadu",
+              "name_l1": "دادو",
+              "slug": "/Dadu-1727",
+              "slug_l1": "/Dadu-1727"
+          },
+          {
+              "id": 4347,
+              "level": 3,
+              "externalID": "8805",
+              "name": "Halani",
+              "name_l1": "ہالانی",
+              "slug": "/Dadu_Halani-8805",
+              "slug_l1": "/Dadu_Halani-8805"
+          }
+      ],
+      "hierarchyPath": "Halani Dadu Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8805",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4347",
+      "_highlightResult": {
+          "name": {
+              "value": "Halani",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14647,
+      "name": "Johi",
+      "name_l1": "جوہی",
+      "externalID": "16197",
+      "slug": "/Dadu_Johi-16197",
+      "slug_l1": "/Dadu_Johi-16197",
+      "_geoloc": {
+          "lat": 26.694467,
+          "lng": 67.619516
+      },
+      "geography": {
+          "lat": 26.694467,
+          "lng": 67.619516
+      },
+      "geo_point": [
+          67.619516,
+          26.694467
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 91,
+              "level": 2,
+              "externalID": "1727",
+              "name": "Dadu",
+              "name_l1": "دادو",
+              "slug": "/Dadu-1727",
+              "slug_l1": "/Dadu-1727"
+          },
+          {
+              "id": 14647,
+              "level": 3,
+              "externalID": "16197",
+              "name": "Johi",
+              "name_l1": "جوہی",
+              "slug": "/Dadu_Johi-16197",
+              "slug_l1": "/Dadu_Johi-16197"
+          }
+      ],
+      "hierarchyPath": "Johi Dadu Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16197",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14647",
+      "_highlightResult": {
+          "name": {
+              "value": "Johi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1253,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1728",
+      "slug": "/Dadu_Others-1728",
+      "slug_l1": "/Dadu_Others-1728",
+      "_geoloc": {
+          "lat": 26.7341,
+          "lng": 67.7795
+      },
+      "geography": {
+          "lat": 26.7341,
+          "lng": 67.7795
+      },
+      "geo_point": [
+          67.7795,
+          26.7341
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 91,
+              "level": 2,
+              "externalID": "1727",
+              "name": "Dadu",
+              "name_l1": "دادو",
+              "slug": "/Dadu-1727",
+              "slug_l1": "/Dadu-1727"
+          },
+          {
+              "id": 1253,
+              "level": 3,
+              "externalID": "1728",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Dadu_Others-1728",
+              "slug_l1": "/Dadu_Others-1728"
+          }
+      ],
+      "hierarchyPath": "Others Dadu Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1728",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1253",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

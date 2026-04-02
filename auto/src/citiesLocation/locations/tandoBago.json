@@ -1,0 +1,224 @@
+[
+  {
+      "id": 11462,
+      "name": "Mir Mohalla",
+      "name_l1": "میر محلہ",
+      "externalID": "12989",
+      "slug": "/Tando_Bago_Mir_Mohalla-12989",
+      "slug_l1": "/Tando_Bago_Mir_Mohalla-12989",
+      "_geoloc": {
+          "lat": 24.791592,
+          "lng": 68.967076
+      },
+      "geography": {
+          "lat": 24.791592,
+          "lng": 68.967076
+      },
+      "geo_point": [
+          68.967076,
+          24.791592
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 173,
+              "level": 2,
+              "externalID": "11700",
+              "name": "Tando Bago",
+              "name_l1": "ٹنڈو باگو",
+              "slug": "/Tando_Bago-11700",
+              "slug_l1": "/Tando_Bago-11700"
+          },
+          {
+              "id": 11462,
+              "level": 3,
+              "externalID": "12989",
+              "name": "Mir Mohalla",
+              "name_l1": "میر محلہ",
+              "slug": "/Tando_Bago_Mir_Mohalla-12989",
+              "slug_l1": "/Tando_Bago_Mir_Mohalla-12989"
+          }
+      ],
+      "hierarchyPath": "Mir Mohalla Tando Bago Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12989",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11462",
+      "_highlightResult": {
+          "name": {
+              "value": "Mir Mohalla",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11461,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "12988",
+      "slug": "/Tando_Bago_Others-12988",
+      "slug_l1": "/Tando_Bago_Others-12988",
+      "_geoloc": {
+          "lat": 24.78681,
+          "lng": 68.96466
+      },
+      "geography": {
+          "lat": 24.78681,
+          "lng": 68.96466
+      },
+      "geo_point": [
+          68.96466,
+          24.78681
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 173,
+              "level": 2,
+              "externalID": "11700",
+              "name": "Tando Bago",
+              "name_l1": "ٹنڈو باگو",
+              "slug": "/Tando_Bago-11700",
+              "slug_l1": "/Tando_Bago-11700"
+          },
+          {
+              "id": 11461,
+              "level": 3,
+              "externalID": "12988",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Tando_Bago_Others-12988",
+              "slug_l1": "/Tando_Bago_Others-12988"
+          }
+      ],
+      "hierarchyPath": "Others Tando Bago Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12988",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11461",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 173,
+      "name": "Tando Bago",
+      "name_l1": "ٹنڈو باگو",
+      "externalID": "11700",
+      "slug": "/Tando_Bago-11700",
+      "slug_l1": "/Tando_Bago-11700",
+      "_geoloc": {
+          "lat": 24.78837,
+          "lng": 68.967147
+      },
+      "geography": {
+          "lat": 24.78837,
+          "lng": 68.967147
+      },
+      "geo_point": [
+          68.967147,
+          24.78837
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 173,
+              "level": 2,
+              "externalID": "11700",
+              "name": "Tando Bago",
+              "name_l1": "ٹنڈو باگو",
+              "slug": "/Tando_Bago-11700",
+              "slug_l1": "/Tando_Bago-11700"
+          }
+      ],
+      "hierarchyPath": "Tando Bago Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11700",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "173",
+      "_highlightResult": {
+          "name": {
+              "value": "Tando Bago",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

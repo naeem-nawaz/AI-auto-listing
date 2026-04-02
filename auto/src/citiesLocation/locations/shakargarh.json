@@ -1,0 +1,867 @@
+[
+  {
+      "id": 11740,
+      "name": "Noor Kot Road",
+      "name_l1": "نور کوٹ روڈ",
+      "externalID": "13265",
+      "slug": "/Shakargarh_Noor_Kot_Road-13265",
+      "slug_l1": "/Shakargarh_Noor_Kot_Road-13265",
+      "_geoloc": {
+          "lat": 32.251535,
+          "lng": 75.155483
+      },
+      "geography": {
+          "lat": 32.251535,
+          "lng": 75.155483
+      },
+      "geo_point": [
+          75.155483,
+          32.251535
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 11740,
+              "level": 3,
+              "externalID": "13265",
+              "name": "Noor Kot Road",
+              "name_l1": "نور کوٹ روڈ",
+              "slug": "/Shakargarh_Noor_Kot_Road-13265",
+              "slug_l1": "/Shakargarh_Noor_Kot_Road-13265"
+          }
+      ],
+      "hierarchyPath": "Noor Kot Road Shakargarh Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13265",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11740",
+      "_highlightResult": {
+          "name": {
+              "value": "Noor Kot Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 178,
+      "name": "Shakargarh",
+      "name_l1": "شکر گڑھ",
+      "externalID": "12170",
+      "slug": "/Shakargarh-12170",
+      "slug_l1": "/Shakargarh-12170",
+      "_geoloc": {
+          "lat": 32.263272,
+          "lng": 75.159241
+      },
+      "geography": {
+          "lat": 32.263272,
+          "lng": 75.159241
+      },
+      "geo_point": [
+          75.159241,
+          32.263272
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          }
+      ],
+      "hierarchyPath": "Shakargarh Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12170",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "178",
+      "_highlightResult": {
+          "name": {
+              "value": "Shakargarh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21386,
+      "name": "Dinpur",
+      "name_l1": "دین پور",
+      "externalID": "21973",
+      "slug": "/Shakargarh_Shakargarh_Bypass_Dinpur-21973",
+      "slug_l1": "/Shakargarh_Shakargarh_Bypass_Dinpur-21973",
+      "_geoloc": {
+          "lat": 32.25291,
+          "lng": 75.171237
+      },
+      "geography": {
+          "lat": 32.25291,
+          "lng": 75.171237
+      },
+      "geo_point": [
+          75.171237,
+          32.25291
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 11741,
+              "level": 3,
+              "externalID": "13266",
+              "name": "Shakargarh Bypass",
+              "name_l1": "شکرگڑھ بائی پاس",
+              "slug": "/Shakargarh_Shakargarh_Bypass-13266",
+              "slug_l1": "/Shakargarh_Shakargarh_Bypass-13266"
+          },
+          {
+              "id": 21386,
+              "level": 4,
+              "externalID": "21973",
+              "name": "Dinpur",
+              "name_l1": "دین پور",
+              "slug": "/Shakargarh_Shakargarh_Bypass_Dinpur-21973",
+              "slug_l1": "/Shakargarh_Shakargarh_Bypass_Dinpur-21973"
+          }
+      ],
+      "hierarchyPath": "Dinpur Shakargarh Bypass Shakargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21973",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21386",
+      "_highlightResult": {
+          "name": {
+              "value": "Dinpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11743,
+      "name": "Gumtala Road",
+      "name_l1": "گم تالا روڈ",
+      "externalID": "13268",
+      "slug": "/Shakargarh_Gumtala_Road-13268",
+      "slug_l1": "/Shakargarh_Gumtala_Road-13268",
+      "_geoloc": {
+          "lat": 32.256156,
+          "lng": 75.14968
+      },
+      "geography": {
+          "lat": 32.256156,
+          "lng": 75.14968
+      },
+      "geo_point": [
+          75.14968,
+          32.256156
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 11743,
+              "level": 3,
+              "externalID": "13268",
+              "name": "Gumtala Road",
+              "name_l1": "گم تالا روڈ",
+              "slug": "/Shakargarh_Gumtala_Road-13268",
+              "slug_l1": "/Shakargarh_Gumtala_Road-13268"
+          }
+      ],
+      "hierarchyPath": "Gumtala Road Shakargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13268",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11743",
+      "_highlightResult": {
+          "name": {
+              "value": "Gumtala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21385,
+      "name": "Ikhlas Pur Road",
+      "name_l1": "اخلاص پور روڈ",
+      "externalID": "21974",
+      "slug": "/Sialkot_Ikhlas_Pur_Road-21974",
+      "slug_l1": "/Sialkot_Ikhlas_Pur_Road-21974",
+      "_geoloc": {
+          "lat": 32.255663,
+          "lng": 75.242637
+      },
+      "geography": {
+          "lat": 32.255663,
+          "lng": 75.242637
+      },
+      "geo_point": [
+          75.242637,
+          32.255663
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 21385,
+              "level": 3,
+              "externalID": "21974",
+              "name": "Ikhlas Pur Road",
+              "name_l1": "اخلاص پور روڈ",
+              "slug": "/Sialkot_Ikhlas_Pur_Road-21974",
+              "slug_l1": "/Sialkot_Ikhlas_Pur_Road-21974"
+          }
+      ],
+      "hierarchyPath": "Ikhlas Pur Road Shakargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21974",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21385",
+      "_highlightResult": {
+          "name": {
+              "value": "Ikhlas Pur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11744,
+      "name": "Iqbal Pura",
+      "name_l1": "اقبال پورہ",
+      "externalID": "13269",
+      "slug": "/Shakargarh_Noor_Kot_Road_Iqbal_Pura-13269",
+      "slug_l1": "/Shakargarh_Noor_Kot_Road_Iqbal_Pura-13269",
+      "_geoloc": {
+          "lat": 32.252807,
+          "lng": 75.159182
+      },
+      "geography": {
+          "lat": 32.252807,
+          "lng": 75.159182
+      },
+      "geo_point": [
+          75.159182,
+          32.252807
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 11740,
+              "level": 3,
+              "externalID": "13265",
+              "name": "Noor Kot Road",
+              "name_l1": "نور کوٹ روڈ",
+              "slug": "/Shakargarh_Noor_Kot_Road-13265",
+              "slug_l1": "/Shakargarh_Noor_Kot_Road-13265"
+          },
+          {
+              "id": 11744,
+              "level": 4,
+              "externalID": "13269",
+              "name": "Iqbal Pura",
+              "name_l1": "اقبال پورہ",
+              "slug": "/Shakargarh_Noor_Kot_Road_Iqbal_Pura-13269",
+              "slug_l1": "/Shakargarh_Noor_Kot_Road_Iqbal_Pura-13269"
+          }
+      ],
+      "hierarchyPath": "Iqbal Pura Noor Kot Road Shakargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13269",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11744",
+      "_highlightResult": {
+          "name": {
+              "value": "Iqbal Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11745,
+      "name": "Mohallah Mughal Pura",
+      "name_l1": "محلہ مغل پور",
+      "externalID": "13270",
+      "slug": "/Shakargarh_Noor_Kot_Road_Mohallah_Mughal_Pura-13270",
+      "slug_l1": "/Shakargarh_Noor_Kot_Road_Mohallah_Mughal_Pura-13270",
+      "_geoloc": {
+          "lat": 32.260933,
+          "lng": 75.162104
+      },
+      "geography": {
+          "lat": 32.260933,
+          "lng": 75.162104
+      },
+      "geo_point": [
+          75.162104,
+          32.260933
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 11740,
+              "level": 3,
+              "externalID": "13265",
+              "name": "Noor Kot Road",
+              "name_l1": "نور کوٹ روڈ",
+              "slug": "/Shakargarh_Noor_Kot_Road-13265",
+              "slug_l1": "/Shakargarh_Noor_Kot_Road-13265"
+          },
+          {
+              "id": 11745,
+              "level": 4,
+              "externalID": "13270",
+              "name": "Mohallah Mughal Pura",
+              "name_l1": "محلہ مغل پور",
+              "slug": "/Shakargarh_Noor_Kot_Road_Mohallah_Mughal_Pura-13270",
+              "slug_l1": "/Shakargarh_Noor_Kot_Road_Mohallah_Mughal_Pura-13270"
+          }
+      ],
+      "hierarchyPath": "Mohallah Mughal Pura Noor Kot Road Shakargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13270",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11745",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohallah Mughal Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11739,
+      "name": "Muslim Town",
+      "name_l1": "مسلم ٹاؤن",
+      "externalID": "13264",
+      "slug": "/Shakargarh_Muslim_Town-13264",
+      "slug_l1": "/Shakargarh_Muslim_Town-13264",
+      "_geoloc": {
+          "lat": 32.255109,
+          "lng": 75.157007
+      },
+      "geography": {
+          "lat": 32.255109,
+          "lng": 75.157007
+      },
+      "geo_point": [
+          75.157007,
+          32.255109
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 11739,
+              "level": 3,
+              "externalID": "13264",
+              "name": "Muslim Town",
+              "name_l1": "مسلم ٹاؤن",
+              "slug": "/Shakargarh_Muslim_Town-13264",
+              "slug_l1": "/Shakargarh_Muslim_Town-13264"
+          }
+      ],
+      "hierarchyPath": "Muslim Town Shakargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13264",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11739",
+      "_highlightResult": {
+          "name": {
+              "value": "Muslim Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11738,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13263",
+      "slug": "/Shakargarh_Others-13263",
+      "slug_l1": "/Shakargarh_Others-13263",
+      "_geoloc": {
+          "lat": 32.260899,
+          "lng": 75.163009
+      },
+      "geography": {
+          "lat": 32.260899,
+          "lng": 75.163009
+      },
+      "geo_point": [
+          75.163009,
+          32.260899
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 11738,
+              "level": 3,
+              "externalID": "13263",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Shakargarh_Others-13263",
+              "slug_l1": "/Shakargarh_Others-13263"
+          }
+      ],
+      "hierarchyPath": "Others Shakargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13263",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11738",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11742,
+      "name": "Railway Road",
+      "name_l1": "ریلوے روڈ",
+      "externalID": "13267",
+      "slug": "/Shakargarh_Railway_Road-13267",
+      "slug_l1": "/Shakargarh_Railway_Road-13267",
+      "_geoloc": {
+          "lat": 32.26639,
+          "lng": 75.153575
+      },
+      "geography": {
+          "lat": 32.26639,
+          "lng": 75.153575
+      },
+      "geo_point": [
+          75.153575,
+          32.26639
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 11742,
+              "level": 3,
+              "externalID": "13267",
+              "name": "Railway Road",
+              "name_l1": "ریلوے روڈ",
+              "slug": "/Shakargarh_Railway_Road-13267",
+              "slug_l1": "/Shakargarh_Railway_Road-13267"
+          }
+      ],
+      "hierarchyPath": "Railway Road Shakargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13267",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11742",
+      "_highlightResult": {
+          "name": {
+              "value": "Railway Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11741,
+      "name": "Shakargarh Bypass",
+      "name_l1": "شکرگڑھ بائی پاس",
+      "externalID": "13266",
+      "slug": "/Shakargarh_Shakargarh_Bypass-13266",
+      "slug_l1": "/Shakargarh_Shakargarh_Bypass-13266",
+      "_geoloc": {
+          "lat": 32.248378,
+          "lng": 75.164739
+      },
+      "geography": {
+          "lat": 32.248378,
+          "lng": 75.164739
+      },
+      "geo_point": [
+          75.164739,
+          32.248378
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 178,
+              "level": 2,
+              "externalID": "12170",
+              "name": "Shakargarh",
+              "name_l1": "شکر گڑھ",
+              "slug": "/Shakargarh-12170",
+              "slug_l1": "/Shakargarh-12170"
+          },
+          {
+              "id": 11741,
+              "level": 3,
+              "externalID": "13266",
+              "name": "Shakargarh Bypass",
+              "name_l1": "شکرگڑھ بائی پاس",
+              "slug": "/Shakargarh_Shakargarh_Bypass-13266",
+              "slug_l1": "/Shakargarh_Shakargarh_Bypass-13266"
+          }
+      ],
+      "hierarchyPath": "Shakargarh Bypass Shakargarh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13266",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11741",
+      "_highlightResult": {
+          "name": {
+              "value": "Shakargarh Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

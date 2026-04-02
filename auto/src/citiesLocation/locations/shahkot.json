@@ -1,0 +1,1542 @@
+[
+  {
+      "id": 4356,
+      "name": "Lahore - Sheikhupura Road",
+      "name_l1": "لاہور ۔ شیخوپورہ روڈ",
+      "externalID": "8823",
+      "slug": "/Shahkot_Lahore___Sheikhupura_Road-8823",
+      "slug_l1": "/Shahkot_Lahore___Sheikhupura_Road-8823",
+      "_geoloc": {
+          "lat": 31.580521,
+          "lng": 73.501909
+      },
+      "geography": {
+          "lat": 31.580521,
+          "lng": 73.501909
+      },
+      "geo_point": [
+          73.501909,
+          31.580521
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4356,
+              "level": 3,
+              "externalID": "8823",
+              "name": "Lahore - Sheikhupura Road",
+              "name_l1": "لاہور ۔ شیخوپورہ روڈ",
+              "slug": "/Shahkot_Lahore___Sheikhupura_Road-8823",
+              "slug_l1": "/Shahkot_Lahore___Sheikhupura_Road-8823"
+          }
+      ],
+      "hierarchyPath": "Lahore - Sheikhupura Road Shahkot Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8823",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4356",
+      "_highlightResult": {
+          "name": {
+              "value": "Lahore - Sheikhupura Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 120,
+      "name": "Shahkot",
+      "name_l1": "شاہکوٹ",
+      "externalID": "8552",
+      "slug": "/Shahkot-8552",
+      "slug_l1": "/Shahkot-8552",
+      "_geoloc": {
+          "lat": 31.576172,
+          "lng": 73.480976
+      },
+      "geography": {
+          "lat": 31.576172,
+          "lng": 73.480976
+      },
+      "geo_point": [
+          73.480976,
+          31.576172
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          }
+      ],
+      "hierarchyPath": "Shahkot Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8552",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "120",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahkot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4361,
+      "name": "90 Chitti Road",
+      "name_l1": "نوے چٹی روڈ",
+      "externalID": "8828",
+      "slug": "/Shahkot_90_Chitti_Road-8828",
+      "slug_l1": "/Shahkot_90_Chitti_Road-8828",
+      "_geoloc": {
+          "lat": 31.541923,
+          "lng": 73.446528
+      },
+      "geography": {
+          "lat": 31.541923,
+          "lng": 73.446528
+      },
+      "geo_point": [
+          73.446528,
+          31.541923
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4361,
+              "level": 3,
+              "externalID": "8828",
+              "name": "90 Chitti Road",
+              "name_l1": "نوے چٹی روڈ",
+              "slug": "/Shahkot_90_Chitti_Road-8828",
+              "slug_l1": "/Shahkot_90_Chitti_Road-8828"
+          }
+      ],
+      "hierarchyPath": "90 Chitti Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8828",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4361",
+      "_highlightResult": {
+          "name": {
+              "value": "90 Chitti Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4121,
+      "name": "Anarkali Bazar",
+      "name_l1": "انارکلی بازار",
+      "externalID": "8560",
+      "slug": "/Shahkot_Anarkali_Bazar-8560",
+      "slug_l1": "/Shahkot_Anarkali_Bazar-8560",
+      "_geoloc": {
+          "lat": 31.576175,
+          "lng": 73.481327
+      },
+      "geography": {
+          "lat": 31.576175,
+          "lng": 73.481327
+      },
+      "geo_point": [
+          73.481327,
+          31.576175
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4121,
+              "level": 3,
+              "externalID": "8560",
+              "name": "Anarkali Bazar",
+              "name_l1": "انارکلی بازار",
+              "slug": "/Shahkot_Anarkali_Bazar-8560",
+              "slug_l1": "/Shahkot_Anarkali_Bazar-8560"
+          }
+      ],
+      "hierarchyPath": "Anarkali Bazar Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8560",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4121",
+      "_highlightResult": {
+          "name": {
+              "value": "Anarkali Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4119,
+      "name": "College Road",
+      "name_l1": "کالج روڈ",
+      "externalID": "8558",
+      "slug": "/Shahkot_College_Road-8558",
+      "slug_l1": "/Shahkot_College_Road-8558",
+      "_geoloc": {
+          "lat": 31.575252,
+          "lng": 73.488563
+      },
+      "geography": {
+          "lat": 31.575252,
+          "lng": 73.488563
+      },
+      "geo_point": [
+          73.488563,
+          31.575252
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4119,
+              "level": 3,
+              "externalID": "8558",
+              "name": "College Road",
+              "name_l1": "کالج روڈ",
+              "slug": "/Shahkot_College_Road-8558",
+              "slug_l1": "/Shahkot_College_Road-8558"
+          }
+      ],
+      "hierarchyPath": "College Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8558",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4119",
+      "_highlightResult": {
+          "name": {
+              "value": "College Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4355,
+      "name": "Faisalabad Road",
+      "name_l1": "فیصل آباد روڈ",
+      "externalID": "8822",
+      "slug": "/Shahkot_Faisalabad_Road-8822",
+      "slug_l1": "/Shahkot_Faisalabad_Road-8822",
+      "_geoloc": {
+          "lat": 31.573391,
+          "lng": 73.456376
+      },
+      "geography": {
+          "lat": 31.573391,
+          "lng": 73.456376
+      },
+      "geo_point": [
+          73.456376,
+          31.573391
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4355,
+              "level": 3,
+              "externalID": "8822",
+              "name": "Faisalabad Road",
+              "name_l1": "فیصل آباد روڈ",
+              "slug": "/Shahkot_Faisalabad_Road-8822",
+              "slug_l1": "/Shahkot_Faisalabad_Road-8822"
+          }
+      ],
+      "hierarchyPath": "Faisalabad Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8822",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4355",
+      "_highlightResult": {
+          "name": {
+              "value": "Faisalabad Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4360,
+      "name": "Gulshan Colony",
+      "name_l1": "گلشن کالونی",
+      "externalID": "8827",
+      "slug": "/Shahkot_Gulshan_Colony-8827",
+      "slug_l1": "/Shahkot_Gulshan_Colony-8827",
+      "_geoloc": {
+          "lat": 31.568217,
+          "lng": 73.484448
+      },
+      "geography": {
+          "lat": 31.568217,
+          "lng": 73.484448
+      },
+      "geo_point": [
+          73.484448,
+          31.568217
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4360,
+              "level": 3,
+              "externalID": "8827",
+              "name": "Gulshan Colony",
+              "name_l1": "گلشن کالونی",
+              "slug": "/Shahkot_Gulshan_Colony-8827",
+              "slug_l1": "/Shahkot_Gulshan_Colony-8827"
+          }
+      ],
+      "hierarchyPath": "Gulshan Colony Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8827",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4360",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4359,
+      "name": "Iftikhar Colony",
+      "name_l1": "افتخار کالونی",
+      "externalID": "8826",
+      "slug": "/Shahkot_Iftikhar_Colony-8826",
+      "slug_l1": "/Shahkot_Iftikhar_Colony-8826",
+      "_geoloc": {
+          "lat": 31.569987,
+          "lng": 73.489257
+      },
+      "geography": {
+          "lat": 31.569987,
+          "lng": 73.489257
+      },
+      "geo_point": [
+          73.489257,
+          31.569987
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4359,
+              "level": 3,
+              "externalID": "8826",
+              "name": "Iftikhar Colony",
+              "name_l1": "افتخار کالونی",
+              "slug": "/Shahkot_Iftikhar_Colony-8826",
+              "slug_l1": "/Shahkot_Iftikhar_Colony-8826"
+          }
+      ],
+      "hierarchyPath": "Iftikhar Colony Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8826",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4359",
+      "_highlightResult": {
+          "name": {
+              "value": "Iftikhar Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4114,
+      "name": "Jaranwala Road",
+      "name_l1": "جڑانوالہ روڈ",
+      "externalID": "8553",
+      "slug": "/Shahkot_Jaranwala_Road-8553",
+      "slug_l1": "/Shahkot_Jaranwala_Road-8553",
+      "_geoloc": {
+          "lat": 31.571287,
+          "lng": 73.482574
+      },
+      "geography": {
+          "lat": 31.571287,
+          "lng": 73.482574
+      },
+      "geo_point": [
+          73.482574,
+          31.571287
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4114,
+              "level": 3,
+              "externalID": "8553",
+              "name": "Jaranwala Road",
+              "name_l1": "جڑانوالہ روڈ",
+              "slug": "/Shahkot_Jaranwala_Road-8553",
+              "slug_l1": "/Shahkot_Jaranwala_Road-8553"
+          }
+      ],
+      "hierarchyPath": "Jaranwala Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8553",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4114",
+      "_highlightResult": {
+          "name": {
+              "value": "Jaranwala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4357,
+      "name": "Jhumra Road",
+      "name_l1": "جھمرہ روڈ",
+      "externalID": "8824",
+      "slug": "/Shahkot_Jhumra_Road-8824",
+      "slug_l1": "/Shahkot_Jhumra_Road-8824",
+      "_geoloc": {
+          "lat": 31.574345,
+          "lng": 73.473826
+      },
+      "geography": {
+          "lat": 31.574345,
+          "lng": 73.473826
+      },
+      "geo_point": [
+          73.473826,
+          31.574345
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4357,
+              "level": 3,
+              "externalID": "8824",
+              "name": "Jhumra Road",
+              "name_l1": "جھمرہ روڈ",
+              "slug": "/Shahkot_Jhumra_Road-8824",
+              "slug_l1": "/Shahkot_Jhumra_Road-8824"
+          }
+      ],
+      "hierarchyPath": "Jhumra Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8824",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4357",
+      "_highlightResult": {
+          "name": {
+              "value": "Jhumra Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4362,
+      "name": "Landa Bazar",
+      "name_l1": "لنڈا بازار",
+      "externalID": "8829",
+      "slug": "/Shahkot_Landa_Bazar-8829",
+      "slug_l1": "/Shahkot_Landa_Bazar-8829",
+      "_geoloc": {
+          "lat": 31.571893,
+          "lng": 73.480765
+      },
+      "geography": {
+          "lat": 31.571893,
+          "lng": 73.480765
+      },
+      "geo_point": [
+          73.480765,
+          31.571893
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4362,
+              "level": 3,
+              "externalID": "8829",
+              "name": "Landa Bazar",
+              "name_l1": "لنڈا بازار",
+              "slug": "/Shahkot_Landa_Bazar-8829",
+              "slug_l1": "/Shahkot_Landa_Bazar-8829"
+          }
+      ],
+      "hierarchyPath": "Landa Bazar Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8829",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4362",
+      "_highlightResult": {
+          "name": {
+              "value": "Landa Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4118,
+      "name": "Manawala Bazar",
+      "name_l1": "منانوالہ بازار",
+      "externalID": "8557",
+      "slug": "/Shahkot_Manawala_Bazar-8557",
+      "slug_l1": "/Shahkot_Manawala_Bazar-8557",
+      "_geoloc": {
+          "lat": 31.570944,
+          "lng": 73.482347
+      },
+      "geography": {
+          "lat": 31.570944,
+          "lng": 73.482347
+      },
+      "geo_point": [
+          73.482347,
+          31.570944
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4118,
+              "level": 3,
+              "externalID": "8557",
+              "name": "Manawala Bazar",
+              "name_l1": "منانوالہ بازار",
+              "slug": "/Shahkot_Manawala_Bazar-8557",
+              "slug_l1": "/Shahkot_Manawala_Bazar-8557"
+          }
+      ],
+      "hierarchyPath": "Manawala Bazar Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8557",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4118",
+      "_highlightResult": {
+          "name": {
+              "value": "Manawala Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4116,
+      "name": "Nankana Road",
+      "name_l1": "ننکانہ روڈ",
+      "externalID": "8555",
+      "slug": "/Shahkot_Nankana_Road-8555",
+      "slug_l1": "/Shahkot_Nankana_Road-8555",
+      "_geoloc": {
+          "lat": 31.573121,
+          "lng": 73.48528
+      },
+      "geography": {
+          "lat": 31.573121,
+          "lng": 73.48528
+      },
+      "geo_point": [
+          73.48528,
+          31.573121
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4116,
+              "level": 3,
+              "externalID": "8555",
+              "name": "Nankana Road",
+              "name_l1": "ننکانہ روڈ",
+              "slug": "/Shahkot_Nankana_Road-8555",
+              "slug_l1": "/Shahkot_Nankana_Road-8555"
+          }
+      ],
+      "hierarchyPath": "Nankana Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8555",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "4116",
+      "_highlightResult": {
+          "name": {
+              "value": "Nankana Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4115,
+      "name": "Safdarabad Road",
+      "name_l1": "صفدرآباد روڈ",
+      "externalID": "8554",
+      "slug": "/Shahkot_Safdarabad_Road-8554",
+      "slug_l1": "/Shahkot_Safdarabad_Road-8554",
+      "_geoloc": {
+          "lat": 31.590028,
+          "lng": 73.489609
+      },
+      "geography": {
+          "lat": 31.590028,
+          "lng": 73.489609
+      },
+      "geo_point": [
+          73.489609,
+          31.590028
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4115,
+              "level": 3,
+              "externalID": "8554",
+              "name": "Safdarabad Road",
+              "name_l1": "صفدرآباد روڈ",
+              "slug": "/Shahkot_Safdarabad_Road-8554",
+              "slug_l1": "/Shahkot_Safdarabad_Road-8554"
+          }
+      ],
+      "hierarchyPath": "Safdarabad Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8554",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4115",
+      "_highlightResult": {
+          "name": {
+              "value": "Safdarabad Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4120,
+      "name": "Sahi Road",
+      "name_l1": "ساھی روڈ",
+      "externalID": "8559",
+      "slug": "/Shahkot_Sahi_Road-8559",
+      "slug_l1": "/Shahkot_Sahi_Road-8559",
+      "_geoloc": {
+          "lat": 31.579024,
+          "lng": 73.486572
+      },
+      "geography": {
+          "lat": 31.579024,
+          "lng": 73.486572
+      },
+      "geo_point": [
+          73.486572,
+          31.579024
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4120,
+              "level": 3,
+              "externalID": "8559",
+              "name": "Sahi Road",
+              "name_l1": "ساھی روڈ",
+              "slug": "/Shahkot_Sahi_Road-8559",
+              "slug_l1": "/Shahkot_Sahi_Road-8559"
+          }
+      ],
+      "hierarchyPath": "Sahi Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8559",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4120",
+      "_highlightResult": {
+          "name": {
+              "value": "Sahi Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4358,
+      "name": "Salar Wala Road",
+      "name_l1": "سالار والا روڈ",
+      "externalID": "8825",
+      "slug": "/Shahkot_Salar_Wala_Road-8825",
+      "slug_l1": "/Shahkot_Salar_Wala_Road-8825",
+      "_geoloc": {
+          "lat": 31.594683,
+          "lng": 73.441759
+      },
+      "geography": {
+          "lat": 31.594683,
+          "lng": 73.441759
+      },
+      "geo_point": [
+          73.441759,
+          31.594683
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4358,
+              "level": 3,
+              "externalID": "8825",
+              "name": "Salar Wala Road",
+              "name_l1": "سالار والا روڈ",
+              "slug": "/Shahkot_Salar_Wala_Road-8825",
+              "slug_l1": "/Shahkot_Salar_Wala_Road-8825"
+          }
+      ],
+      "hierarchyPath": "Salar Wala Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8825",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4358",
+      "_highlightResult": {
+          "name": {
+              "value": "Salar Wala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4122,
+      "name": "Sangla Bazar",
+      "name_l1": "سانگلہ بازار",
+      "externalID": "8561",
+      "slug": "/Shahkot_Sangla_Bazar-8561",
+      "slug_l1": "/Shahkot_Sangla_Bazar-8561",
+      "_geoloc": {
+          "lat": 31.575215,
+          "lng": 73.483328
+      },
+      "geography": {
+          "lat": 31.575215,
+          "lng": 73.483328
+      },
+      "geo_point": [
+          73.483328,
+          31.575215
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4122,
+              "level": 3,
+              "externalID": "8561",
+              "name": "Sangla Bazar",
+              "name_l1": "سانگلہ بازار",
+              "slug": "/Shahkot_Sangla_Bazar-8561",
+              "slug_l1": "/Shahkot_Sangla_Bazar-8561"
+          }
+      ],
+      "hierarchyPath": "Sangla Bazar Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8561",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4122",
+      "_highlightResult": {
+          "name": {
+              "value": "Sangla Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4117,
+      "name": "Sangla Hill Road",
+      "name_l1": "سانگلہ ہل روڈ",
+      "externalID": "8556",
+      "slug": "/Shahkot_Sangla_Hill_Road-8556",
+      "slug_l1": "/Shahkot_Sangla_Hill_Road-8556",
+      "_geoloc": {
+          "lat": 31.578361,
+          "lng": 73.471216
+      },
+      "geography": {
+          "lat": 31.578361,
+          "lng": 73.471216
+      },
+      "geo_point": [
+          73.471216,
+          31.578361
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4117,
+              "level": 3,
+              "externalID": "8556",
+              "name": "Sangla Hill Road",
+              "name_l1": "سانگلہ ہل روڈ",
+              "slug": "/Shahkot_Sangla_Hill_Road-8556",
+              "slug_l1": "/Shahkot_Sangla_Hill_Road-8556"
+          }
+      ],
+      "hierarchyPath": "Sangla Hill Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8556",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4117",
+      "_highlightResult": {
+          "name": {
+              "value": "Sangla Hill Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8958,
+      "name": "Shalimar Town",
+      "name_l1": "شالیمار ٹاون",
+      "externalID": "11397",
+      "slug": "/Shahkot_Nankana_Road_Shalimar_Town-11397",
+      "slug_l1": "/Shahkot_Nankana_Road_Shalimar_Town-11397",
+      "_geoloc": {
+          "lat": 31.560616,
+          "lng": 73.497965
+      },
+      "geography": {
+          "lat": 31.560616,
+          "lng": 73.497965
+      },
+      "geo_point": [
+          73.497965,
+          31.560616
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4116,
+              "level": 3,
+              "externalID": "8555",
+              "name": "Nankana Road",
+              "name_l1": "ننکانہ روڈ",
+              "slug": "/Shahkot_Nankana_Road-8555",
+              "slug_l1": "/Shahkot_Nankana_Road-8555"
+          },
+          {
+              "id": 8958,
+              "level": 4,
+              "externalID": "11397",
+              "name": "Shalimar Town",
+              "name_l1": "شالیمار ٹاون",
+              "slug": "/Shahkot_Nankana_Road_Shalimar_Town-11397",
+              "slug_l1": "/Shahkot_Nankana_Road_Shalimar_Town-11397"
+          }
+      ],
+      "hierarchyPath": "Shalimar Town Nankana Road Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11397",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8958",
+      "_highlightResult": {
+          "name": {
+              "value": "Shalimar Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4363,
+      "name": "Wapda Colony",
+      "name_l1": "واپڈا کالونی",
+      "externalID": "8830",
+      "slug": "/Shahkot_Wapda_Colony-8830",
+      "slug_l1": "/Shahkot_Wapda_Colony-8830",
+      "_geoloc": {
+          "lat": 31.575973,
+          "lng": 73.482997
+      },
+      "geography": {
+          "lat": 31.575973,
+          "lng": 73.482997
+      },
+      "geo_point": [
+          73.482997,
+          31.575973
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 120,
+              "level": 2,
+              "externalID": "8552",
+              "name": "Shahkot",
+              "name_l1": "شاہکوٹ",
+              "slug": "/Shahkot-8552",
+              "slug_l1": "/Shahkot-8552"
+          },
+          {
+              "id": 4363,
+              "level": 3,
+              "externalID": "8830",
+              "name": "Wapda Colony",
+              "name_l1": "واپڈا کالونی",
+              "slug": "/Shahkot_Wapda_Colony-8830",
+              "slug_l1": "/Shahkot_Wapda_Colony-8830"
+          }
+      ],
+      "hierarchyPath": "Wapda Colony Shahkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8830",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4363",
+      "_highlightResult": {
+          "name": {
+              "value": "Wapda Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

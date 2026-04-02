@@ -1,0 +1,636 @@
+[
+  {
+      "id": 157,
+      "name": "Jampur",
+      "name_l1": "جام پور",
+      "externalID": "10484",
+      "slug": "/Jampur-10484",
+      "slug_l1": "/Jampur-10484",
+      "_geoloc": {
+          "lat": 29.646395,
+          "lng": 70.591262
+      },
+      "geography": {
+          "lat": 29.646395,
+          "lng": 70.591262
+      },
+      "geo_point": [
+          70.591262,
+          29.646395
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 157,
+              "level": 2,
+              "externalID": "10484",
+              "name": "Jampur",
+              "name_l1": "جام پور",
+              "slug": "/Jampur-10484",
+              "slug_l1": "/Jampur-10484"
+          }
+      ],
+      "hierarchyPath": "Jampur Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10484",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "157",
+      "_highlightResult": {
+          "name": {
+              "value": "Jampur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20957,
+      "name": "Jampur Road",
+      "name_l1": "جام پور روڈ",
+      "externalID": "21555",
+      "slug": "/Jampur_Jampur_Road-21555",
+      "slug_l1": "/Jampur_Jampur_Road-21555",
+      "_geoloc": {
+          "lat": 29.66098,
+          "lng": 70.599513
+      },
+      "geography": {
+          "lat": 29.66098,
+          "lng": 70.599513
+      },
+      "geo_point": [
+          70.599513,
+          29.66098
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 157,
+              "level": 2,
+              "externalID": "10484",
+              "name": "Jampur",
+              "name_l1": "جام پور",
+              "slug": "/Jampur-10484",
+              "slug_l1": "/Jampur-10484"
+          },
+          {
+              "id": 20957,
+              "level": 3,
+              "externalID": "21555",
+              "name": "Jampur Road",
+              "name_l1": "جام پور روڈ",
+              "slug": "/Jampur_Jampur_Road-21555",
+              "slug_l1": "/Jampur_Jampur_Road-21555"
+          }
+      ],
+      "hierarchyPath": "Jampur Road Jampur Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21555",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20957",
+      "_highlightResult": {
+          "name": {
+              "value": "Jampur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14454,
+      "name": "City Commercial Center",
+      "name_l1": "سٹی کمرشل سینٹر",
+      "externalID": "15969",
+      "slug": "/Jampur_Indus_Highway_City_Commercial_Center-15969",
+      "slug_l1": "/Jampur_Indus_Highway_City_Commercial_Center-15969",
+      "_geoloc": {
+          "lat": 29.6652889,
+          "lng": 70.6009268
+      },
+      "geography": {
+          "lat": 29.6652889,
+          "lng": 70.6009268
+      },
+      "geo_point": [
+          70.6009268,
+          29.6652889
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 157,
+              "level": 2,
+              "externalID": "10484",
+              "name": "Jampur",
+              "name_l1": "جام پور",
+              "slug": "/Jampur-10484",
+              "slug_l1": "/Jampur-10484"
+          },
+          {
+              "id": 14453,
+              "level": 3,
+              "externalID": "15968",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jampur_Indus_Highway-15968",
+              "slug_l1": "/Jampur_Indus_Highway-15968"
+          },
+          {
+              "id": 14454,
+              "level": 4,
+              "externalID": "15969",
+              "name": "City Commercial Center",
+              "name_l1": "سٹی کمرشل سینٹر",
+              "slug": "/Jampur_Indus_Highway_City_Commercial_Center-15969",
+              "slug_l1": "/Jampur_Indus_Highway_City_Commercial_Center-15969"
+          }
+      ],
+      "hierarchyPath": "City Commercial Center Indus Highway Jampur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15969",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14454",
+      "_highlightResult": {
+          "name": {
+              "value": "City Commercial Center",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16761,
+      "name": "Gulberg City",
+      "name_l1": "گلبرگ سٹی",
+      "externalID": "17969",
+      "slug": "/Jampur_Indus_Highway_Gulberg_City-17969",
+      "slug_l1": "/Jampur_Indus_Highway_Gulberg_City-17969",
+      "_geoloc": {
+          "lat": 29.6833118,
+          "lng": 70.6033077
+      },
+      "geography": {
+          "lat": 29.6833118,
+          "lng": 70.6033077
+      },
+      "geo_point": [
+          70.6033077,
+          29.6833118
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 157,
+              "level": 2,
+              "externalID": "10484",
+              "name": "Jampur",
+              "name_l1": "جام پور",
+              "slug": "/Jampur-10484",
+              "slug_l1": "/Jampur-10484"
+          },
+          {
+              "id": 14453,
+              "level": 3,
+              "externalID": "15968",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jampur_Indus_Highway-15968",
+              "slug_l1": "/Jampur_Indus_Highway-15968"
+          },
+          {
+              "id": 16761,
+              "level": 4,
+              "externalID": "17969",
+              "name": "Gulberg City",
+              "name_l1": "گلبرگ سٹی",
+              "slug": "/Jampur_Indus_Highway_Gulberg_City-17969",
+              "slug_l1": "/Jampur_Indus_Highway_Gulberg_City-17969"
+          }
+      ],
+      "hierarchyPath": "Gulberg City Indus Highway Jampur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17969",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16761",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulberg City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14453,
+      "name": "Indus Highway",
+      "name_l1": "انڈس ہائی وے",
+      "externalID": "15968",
+      "slug": "/Jampur_Indus_Highway-15968",
+      "slug_l1": "/Jampur_Indus_Highway-15968",
+      "_geoloc": {
+          "lat": 29.663273,
+          "lng": 70.599927
+      },
+      "geography": {
+          "lat": 29.663273,
+          "lng": 70.599927
+      },
+      "geo_point": [
+          70.599927,
+          29.663273
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 157,
+              "level": 2,
+              "externalID": "10484",
+              "name": "Jampur",
+              "name_l1": "جام پور",
+              "slug": "/Jampur-10484",
+              "slug_l1": "/Jampur-10484"
+          },
+          {
+              "id": 14453,
+              "level": 3,
+              "externalID": "15968",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jampur_Indus_Highway-15968",
+              "slug_l1": "/Jampur_Indus_Highway-15968"
+          }
+      ],
+      "hierarchyPath": "Indus Highway Jampur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15968",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "14453",
+      "_highlightResult": {
+          "name": {
+              "value": "Indus Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20958,
+      "name": "Johar Town",
+      "name_l1": "جوہر ٹاؤن",
+      "externalID": "21556",
+      "slug": "/Jampur_Indus_Highway_Johar_Town-21556",
+      "slug_l1": "/Jampur_Indus_Highway_Johar_Town-21556",
+      "_geoloc": {
+          "lat": 29.660574450662,
+          "lng": 70.601988030261
+      },
+      "geography": {
+          "lat": 29.660574450662,
+          "lng": 70.601988030261
+      },
+      "geo_point": [
+          70.601988030261,
+          29.660574450662
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 157,
+              "level": 2,
+              "externalID": "10484",
+              "name": "Jampur",
+              "name_l1": "جام پور",
+              "slug": "/Jampur-10484",
+              "slug_l1": "/Jampur-10484"
+          },
+          {
+              "id": 14453,
+              "level": 3,
+              "externalID": "15968",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Jampur_Indus_Highway-15968",
+              "slug_l1": "/Jampur_Indus_Highway-15968"
+          },
+          {
+              "id": 20958,
+              "level": 4,
+              "externalID": "21556",
+              "name": "Johar Town",
+              "name_l1": "جوہر ٹاؤن",
+              "slug": "/Jampur_Indus_Highway_Johar_Town-21556",
+              "slug_l1": "/Jampur_Indus_Highway_Johar_Town-21556"
+          }
+      ],
+      "hierarchyPath": "Johar Town Indus Highway Jampur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21556",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20958",
+      "_highlightResult": {
+          "name": {
+              "value": "Johar Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5270,
+      "name": "Kotla Mughlan",
+      "name_l1": "کوٹلہ مغلاں",
+      "externalID": "10620",
+      "slug": "/Jampur_Kotla_Mughlan-10620",
+      "slug_l1": "/Jampur_Kotla_Mughlan-10620",
+      "_geoloc": {
+          "lat": 29.546782,
+          "lng": 70.608216
+      },
+      "geography": {
+          "lat": 29.546782,
+          "lng": 70.608216
+      },
+      "geo_point": [
+          70.608216,
+          29.546782
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 157,
+              "level": 2,
+              "externalID": "10484",
+              "name": "Jampur",
+              "name_l1": "جام پور",
+              "slug": "/Jampur-10484",
+              "slug_l1": "/Jampur-10484"
+          },
+          {
+              "id": 5270,
+              "level": 3,
+              "externalID": "10620",
+              "name": "Kotla Mughlan",
+              "name_l1": "کوٹلہ مغلاں",
+              "slug": "/Jampur_Kotla_Mughlan-10620",
+              "slug_l1": "/Jampur_Kotla_Mughlan-10620"
+          }
+      ],
+      "hierarchyPath": "Kotla Mughlan Jampur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10620",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5270",
+      "_highlightResult": {
+          "name": {
+              "value": "Kotla Mughlan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20959,
+      "name": "Lundi Pitafi Road",
+      "name_l1": "لنڈی پتافی روڈ",
+      "externalID": "21557",
+      "slug": "/Jampur_Lundi_Pitafi_Road-21557",
+      "slug_l1": "/Jampur_Lundi_Pitafi_Road-21557",
+      "_geoloc": {
+          "lat": 29.64331833707,
+          "lng": 70.609884886355
+      },
+      "geography": {
+          "lat": 29.64331833707,
+          "lng": 70.609884886355
+      },
+      "geo_point": [
+          70.609884886355,
+          29.64331833707
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 157,
+              "level": 2,
+              "externalID": "10484",
+              "name": "Jampur",
+              "name_l1": "جام پور",
+              "slug": "/Jampur-10484",
+              "slug_l1": "/Jampur-10484"
+          },
+          {
+              "id": 20959,
+              "level": 3,
+              "externalID": "21557",
+              "name": "Lundi Pitafi Road",
+              "name_l1": "لنڈی پتافی روڈ",
+              "slug": "/Jampur_Lundi_Pitafi_Road-21557",
+              "slug_l1": "/Jampur_Lundi_Pitafi_Road-21557"
+          }
+      ],
+      "hierarchyPath": "Lundi Pitafi Road Jampur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21557",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20959",
+      "_highlightResult": {
+          "name": {
+              "value": "Lundi Pitafi Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+      "id": 11815,
+      "name": "Indus Highway",
+      "name_l1": "انڈس ہائی وے",
+      "externalID": "13338",
+      "slug": "/Karak_Indus_Highway-13338",
+      "slug_l1": "/Karak_Indus_Highway-13338",
+      "_geoloc": {
+          "lat": 33.10778,
+          "lng": 71.108105
+      },
+      "geography": {
+          "lat": 33.10778,
+          "lng": 71.108105
+      },
+      "geo_point": [
+          71.108105,
+          33.10778
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 136,
+              "level": 2,
+              "externalID": "9484",
+              "name": "Karak",
+              "name_l1": "کرک",
+              "slug": "/Karak-9484",
+              "slug_l1": "/Karak-9484"
+          },
+          {
+              "id": 11815,
+              "level": 3,
+              "externalID": "13338",
+              "name": "Indus Highway",
+              "name_l1": "انڈس ہائی وے",
+              "slug": "/Karak_Indus_Highway-13338",
+              "slug_l1": "/Karak_Indus_Highway-13338"
+          }
+      ],
+      "hierarchyPath": "Indus Highway Karak Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13338",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11815",
+      "_highlightResult": {
+          "name": {
+              "value": "Indus Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 136,
+      "name": "Karak",
+      "name_l1": "کرک",
+      "externalID": "9484",
+      "slug": "/Karak-9484",
+      "slug_l1": "/Karak-9484",
+      "_geoloc": {
+          "lat": 33.111907,
+          "lng": 71.092468
+      },
+      "geography": {
+          "lat": 33.111907,
+          "lng": 71.092468
+      },
+      "geo_point": [
+          71.092468,
+          33.111907
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 136,
+              "level": 2,
+              "externalID": "9484",
+              "name": "Karak",
+              "name_l1": "کرک",
+              "slug": "/Karak-9484",
+              "slug_l1": "/Karak-9484"
+          }
+      ],
+      "hierarchyPath": "Karak Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9484",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "136",
+      "_highlightResult": {
+          "name": {
+              "value": "Karak",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11814,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13337",
+      "slug": "/Karak_Others-13337",
+      "slug_l1": "/Karak_Others-13337",
+      "_geoloc": {
+          "lat": 33.1093,
+          "lng": 71.090049
+      },
+      "geography": {
+          "lat": 33.1093,
+          "lng": 71.090049
+      },
+      "geo_point": [
+          71.090049,
+          33.1093
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 136,
+              "level": 2,
+              "externalID": "9484",
+              "name": "Karak",
+              "name_l1": "کرک",
+              "slug": "/Karak-9484",
+              "slug_l1": "/Karak-9484"
+          },
+          {
+              "id": 11814,
+              "level": 3,
+              "externalID": "13337",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Karak_Others-13337",
+              "slug_l1": "/Karak_Others-13337"
+          }
+      ],
+      "hierarchyPath": "Others Karak Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13337",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11814",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

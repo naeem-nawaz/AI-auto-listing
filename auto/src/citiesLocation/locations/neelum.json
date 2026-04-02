@@ -1,0 +1,233 @@
+[
+  {
+      "id": 21428,
+      "name": "Jail Road",
+      "name_l1": "جیل روڈ",
+      "externalID": "22012",
+      "slug": "/Neelum_Others_Jail_Road-22012",
+      "slug_l1": "/Neelum_Others_Jail_Road-22012",
+      "_geoloc": {
+          "lat": 21.4348968,
+          "lng": 39.21428603
+      },
+      "geography": {
+          "lat": 21.4348968,
+          "lng": 39.21428603
+      },
+      "geo_point": [
+          39.21428603,
+          21.4348968
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 97,
+              "level": 2,
+              "externalID": "1741",
+              "name": "Neelum",
+              "name_l1": "نیلم",
+              "slug": "/Neelum-1741",
+              "slug_l1": "/Neelum-1741"
+          },
+          {
+              "id": 1268,
+              "level": 3,
+              "externalID": "1759",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Neelum_Others-1759",
+              "slug_l1": "/Neelum_Others-1759"
+          },
+          {
+              "id": 21428,
+              "level": 4,
+              "externalID": "22012",
+              "name": "Jail Road",
+              "name_l1": "جیل روڈ",
+              "slug": "/Neelum_Others_Jail_Road-22012",
+              "slug_l1": "/Neelum_Others_Jail_Road-22012"
+          }
+      ],
+      "hierarchyPath": "Jail Road Others Neelum Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22012",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21428",
+      "_highlightResult": {
+          "name": {
+              "value": "Jail Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 97,
+      "name": "Neelum",
+      "name_l1": "نیلم",
+      "externalID": "1741",
+      "slug": "/Neelum-1741",
+      "slug_l1": "/Neelum-1741",
+      "_geoloc": {
+          "lat": 34.557034,
+          "lng": 73.894771
+      },
+      "geography": {
+          "lat": 34.557034,
+          "lng": 73.894771
+      },
+      "geo_point": [
+          73.894771,
+          34.557034
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 97,
+              "level": 2,
+              "externalID": "1741",
+              "name": "Neelum",
+              "name_l1": "نیلم",
+              "slug": "/Neelum-1741",
+              "slug_l1": "/Neelum-1741"
+          }
+      ],
+      "hierarchyPath": "Neelum Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1741",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "97",
+      "_highlightResult": {
+          "name": {
+              "value": "Neelum",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1268,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1759",
+      "slug": "/Neelum_Others-1759",
+      "slug_l1": "/Neelum_Others-1759",
+      "_geoloc": {
+          "lat": 33.9259,
+          "lng": 73.781
+      },
+      "geography": {
+          "lat": 33.9259,
+          "lng": 73.781
+      },
+      "geo_point": [
+          73.781,
+          33.9259
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 97,
+              "level": 2,
+              "externalID": "1741",
+              "name": "Neelum",
+              "name_l1": "نیلم",
+              "slug": "/Neelum-1741",
+              "slug_l1": "/Neelum-1741"
+          },
+          {
+              "id": 1268,
+              "level": 3,
+              "externalID": "1759",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Neelum_Others-1759",
+              "slug_l1": "/Neelum_Others-1759"
+          }
+      ],
+      "hierarchyPath": "Others Neelum Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1759",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1268",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

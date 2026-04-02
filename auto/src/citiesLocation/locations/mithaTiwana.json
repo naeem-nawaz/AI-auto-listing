@@ -1,0 +1,147 @@
+[
+  {
+      "id": 11895,
+      "name": "Mitha Tiwana",
+      "name_l1": "میٹھا توانا",
+      "externalID": "13421",
+      "slug": "/Mitha_Tiwana-13421",
+      "slug_l1": "/Mitha_Tiwana-13421",
+      "_geoloc": {
+          "lat": 32.2475,
+          "lng": 72.108525
+      },
+      "geography": {
+          "lat": 32.2475,
+          "lng": 72.108525
+      },
+      "geo_point": [
+          72.108525,
+          32.2475
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 11895,
+              "level": 2,
+              "externalID": "13421",
+              "name": "Mitha Tiwana",
+              "name_l1": "میٹھا توانا",
+              "slug": "/Mitha_Tiwana-13421",
+              "slug_l1": "/Mitha_Tiwana-13421"
+          }
+      ],
+      "hierarchyPath": "Mitha Tiwana Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13421",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11895",
+      "_highlightResult": {
+          "name": {
+              "value": "Mitha Tiwana",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11899,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13422",
+      "slug": "/Mitha_Tiwana_Others-13422",
+      "slug_l1": "/Mitha_Tiwana_Others-13422",
+      "_geoloc": {
+          "lat": 32.246119,
+          "lng": 72.107402
+      },
+      "geography": {
+          "lat": 32.246119,
+          "lng": 72.107402
+      },
+      "geo_point": [
+          72.107402,
+          32.246119
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 11895,
+              "level": 2,
+              "externalID": "13421",
+              "name": "Mitha Tiwana",
+              "name_l1": "میٹھا توانا",
+              "slug": "/Mitha_Tiwana-13421",
+              "slug_l1": "/Mitha_Tiwana-13421"
+          },
+          {
+              "id": 11899,
+              "level": 3,
+              "externalID": "13422",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Mitha_Tiwana_Others-13422",
+              "slug_l1": "/Mitha_Tiwana_Others-13422"
+          }
+      ],
+      "hierarchyPath": "Others Mitha Tiwana Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13422",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11899",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

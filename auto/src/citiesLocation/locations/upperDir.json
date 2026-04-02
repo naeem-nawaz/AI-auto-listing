@@ -1,0 +1,233 @@
+[
+  {
+      "id": 19226,
+      "name": "Kumrat Valley",
+      "name_l1": "کمراٹ ویلی",
+      "externalID": "20108",
+      "slug": "/Upper_Dir_Kumrat_Valley-20108",
+      "slug_l1": "/Upper_Dir_Kumrat_Valley-20108",
+      "_geoloc": {
+          "lat": 35.55207,
+          "lng": 72.214141
+      },
+      "geography": {
+          "lat": 35.55207,
+          "lng": 72.214141
+      },
+      "geo_point": [
+          72.214141,
+          35.55207
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 16501,
+              "level": 2,
+              "externalID": "17743",
+              "name": "Upper Dir",
+              "name_l1": "اپر دیر",
+              "slug": "/Upper_Dir-17743",
+              "slug_l1": "/Upper_Dir-17743"
+          },
+          {
+              "id": 19226,
+              "level": 3,
+              "externalID": "20108",
+              "name": "Kumrat Valley",
+              "name_l1": "کمراٹ ویلی",
+              "slug": "/Upper_Dir_Kumrat_Valley-20108",
+              "slug_l1": "/Upper_Dir_Kumrat_Valley-20108"
+          }
+      ],
+      "hierarchyPath": "Kumrat Valley Upper Dir Khyber Pakhtunkhwa Pakistan",
+      "adCount": 24,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20108",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "19226",
+      "_highlightResult": {
+          "name": {
+              "value": "Kumrat Valley",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16501,
+      "name": "Upper Dir",
+      "name_l1": "اپر دیر",
+      "externalID": "17743",
+      "slug": "/Upper_Dir-17743",
+      "slug_l1": "/Upper_Dir-17743",
+      "_geoloc": {
+          "lat": 35.411437,
+          "lng": 72.005642
+      },
+      "geography": {
+          "lat": 35.411437,
+          "lng": 72.005642
+      },
+      "geo_point": [
+          72.005642,
+          35.411437
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 16501,
+              "level": 2,
+              "externalID": "17743",
+              "name": "Upper Dir",
+              "name_l1": "اپر دیر",
+              "slug": "/Upper_Dir-17743",
+              "slug_l1": "/Upper_Dir-17743"
+          }
+      ],
+      "hierarchyPath": "Upper Dir Khyber Pakhtunkhwa Pakistan",
+      "adCount": 24,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17743",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16501",
+      "_highlightResult": {
+          "name": {
+              "value": "Upper Dir",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19555,
+      "name": "Jannat Resort",
+      "name_l1": "جنت ریزورٹ",
+      "externalID": "20404",
+      "slug": "/Upper_Dir_Kumrat_Valley_Jannat_Resort-20404",
+      "slug_l1": "/Upper_Dir_Kumrat_Valley_Jannat_Resort-20404",
+      "_geoloc": {
+          "lat": 35.505230543471,
+          "lng": 72.243683817791
+      },
+      "geography": {
+          "lat": 35.505230543471,
+          "lng": 72.243683817791
+      },
+      "geo_point": [
+          72.243683817791,
+          35.505230543471
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 16501,
+              "level": 2,
+              "externalID": "17743",
+              "name": "Upper Dir",
+              "name_l1": "اپر دیر",
+              "slug": "/Upper_Dir-17743",
+              "slug_l1": "/Upper_Dir-17743"
+          },
+          {
+              "id": 19226,
+              "level": 3,
+              "externalID": "20108",
+              "name": "Kumrat Valley",
+              "name_l1": "کمراٹ ویلی",
+              "slug": "/Upper_Dir_Kumrat_Valley-20108",
+              "slug_l1": "/Upper_Dir_Kumrat_Valley-20108"
+          },
+          {
+              "id": 19555,
+              "level": 4,
+              "externalID": "20404",
+              "name": "Jannat Resort",
+              "name_l1": "جنت ریزورٹ",
+              "slug": "/Upper_Dir_Kumrat_Valley_Jannat_Resort-20404",
+              "slug_l1": "/Upper_Dir_Kumrat_Valley_Jannat_Resort-20404"
+          }
+      ],
+      "hierarchyPath": "Jannat Resort Kumrat Valley Upper Dir Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20404",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19555",
+      "_highlightResult": {
+          "name": {
+              "value": "Jannat Resort",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

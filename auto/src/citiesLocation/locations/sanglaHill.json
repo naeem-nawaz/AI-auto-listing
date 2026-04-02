@@ -1,0 +1,577 @@
+[
+  {
+      "id": 20281,
+      "name": "Bhulair Road",
+      "name_l1": "بھولیر روڈ",
+      "externalID": "20996",
+      "slug": "/Sangla_Hill_Bhulair_Road-20996",
+      "slug_l1": "/Sangla_Hill_Bhulair_Road-20996",
+      "_geoloc": {
+          "lat": 31.724894849027,
+          "lng": 73.351157088543
+      },
+      "geography": {
+          "lat": 31.724894849027,
+          "lng": 73.351157088543
+      },
+      "geo_point": [
+          73.351157088543,
+          31.724894849027
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4123,
+              "level": 2,
+              "externalID": "8563",
+              "name": "Sangla Hill",
+              "name_l1": "سانگلہ ہل",
+              "slug": "/Sangla_Hill-8563",
+              "slug_l1": "/Sangla_Hill-8563"
+          },
+          {
+              "id": 20281,
+              "level": 3,
+              "externalID": "20996",
+              "name": "Bhulair Road",
+              "name_l1": "بھولیر روڈ",
+              "slug": "/Sangla_Hill_Bhulair_Road-20996",
+              "slug_l1": "/Sangla_Hill_Bhulair_Road-20996"
+          }
+      ],
+      "hierarchyPath": "Bhulair Road Sangla Hill Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20996",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "20281",
+      "_highlightResult": {
+          "name": {
+              "value": "Bhulair Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20283,
+      "name": "Chenab City",
+      "name_l1": "چناب سٹی",
+      "externalID": "20997",
+      "slug": "/Sangla_Hill_Bhulair_Road_Chenab_City-20997",
+      "slug_l1": "/Sangla_Hill_Bhulair_Road_Chenab_City-20997",
+      "_geoloc": {
+          "lat": 31.720834836503,
+          "lng": 73.356618759177
+      },
+      "geography": {
+          "lat": 31.720834836503,
+          "lng": 73.356618759177
+      },
+      "geo_point": [
+          73.356618759177,
+          31.720834836503
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4123,
+              "level": 2,
+              "externalID": "8563",
+              "name": "Sangla Hill",
+              "name_l1": "سانگلہ ہل",
+              "slug": "/Sangla_Hill-8563",
+              "slug_l1": "/Sangla_Hill-8563"
+          },
+          {
+              "id": 20281,
+              "level": 3,
+              "externalID": "20996",
+              "name": "Bhulair Road",
+              "name_l1": "بھولیر روڈ",
+              "slug": "/Sangla_Hill_Bhulair_Road-20996",
+              "slug_l1": "/Sangla_Hill_Bhulair_Road-20996"
+          },
+          {
+              "id": 20283,
+              "level": 4,
+              "externalID": "20997",
+              "name": "Chenab City",
+              "name_l1": "چناب سٹی",
+              "slug": "/Sangla_Hill_Bhulair_Road_Chenab_City-20997",
+              "slug_l1": "/Sangla_Hill_Bhulair_Road_Chenab_City-20997"
+          }
+      ],
+      "hierarchyPath": "Chenab City Bhulair Road Sangla Hill Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20997",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "20283",
+      "_highlightResult": {
+          "name": {
+              "value": "Chenab City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20540,
+      "name": "Chenab City - Block A",
+      "name_l1": "چناب سٹی - بلاک اے",
+      "externalID": "21202",
+      "slug": "/Sangla_Hill_Bhulair_Road_Chenab_City_Chenab_City___Block_A-21202",
+      "slug_l1": "/Sangla_Hill_Bhulair_Road_Chenab_City_Chenab_City___Block_A-21202",
+      "_geoloc": {
+          "lat": 31.71973552,
+          "lng": 73.35685828
+      },
+      "geography": {
+          "lat": 31.71973552,
+          "lng": 73.35685828
+      },
+      "geo_point": [
+          73.35685828,
+          31.71973552
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4123,
+              "level": 2,
+              "externalID": "8563",
+              "name": "Sangla Hill",
+              "name_l1": "سانگلہ ہل",
+              "slug": "/Sangla_Hill-8563",
+              "slug_l1": "/Sangla_Hill-8563"
+          },
+          {
+              "id": 20281,
+              "level": 3,
+              "externalID": "20996",
+              "name": "Bhulair Road",
+              "name_l1": "بھولیر روڈ",
+              "slug": "/Sangla_Hill_Bhulair_Road-20996",
+              "slug_l1": "/Sangla_Hill_Bhulair_Road-20996"
+          },
+          {
+              "id": 20283,
+              "level": 4,
+              "externalID": "20997",
+              "name": "Chenab City",
+              "name_l1": "چناب سٹی",
+              "slug": "/Sangla_Hill_Bhulair_Road_Chenab_City-20997",
+              "slug_l1": "/Sangla_Hill_Bhulair_Road_Chenab_City-20997"
+          },
+          {
+              "id": 20540,
+              "level": 5,
+              "externalID": "21202",
+              "name": "Chenab City - Block A",
+              "name_l1": "چناب سٹی - بلاک اے",
+              "slug": "/Sangla_Hill_Bhulair_Road_Chenab_City_Chenab_City___Block_A-21202",
+              "slug_l1": "/Sangla_Hill_Bhulair_Road_Chenab_City_Chenab_City___Block_A-21202"
+          }
+      ],
+      "hierarchyPath": "Chenab City - Block A Chenab City Bhulair Road Sangla Hill Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21202",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20540",
+      "_highlightResult": {
+          "name": {
+              "value": "Chenab City - Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20541,
+      "name": "Chenab City - Block B",
+      "name_l1": "چناب سٹی - بلاک بی",
+      "externalID": "21203",
+      "slug": "/Sangla_Hill_Bhulair_Road_Chenab_City_Chenab_City___Block_B-21203",
+      "slug_l1": "/Sangla_Hill_Bhulair_Road_Chenab_City_Chenab_City___Block_B-21203",
+      "_geoloc": {
+          "lat": 31.71924951,
+          "lng": 73.35354956
+      },
+      "geography": {
+          "lat": 31.71924951,
+          "lng": 73.35354956
+      },
+      "geo_point": [
+          73.35354956,
+          31.71924951
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4123,
+              "level": 2,
+              "externalID": "8563",
+              "name": "Sangla Hill",
+              "name_l1": "سانگلہ ہل",
+              "slug": "/Sangla_Hill-8563",
+              "slug_l1": "/Sangla_Hill-8563"
+          },
+          {
+              "id": 20281,
+              "level": 3,
+              "externalID": "20996",
+              "name": "Bhulair Road",
+              "name_l1": "بھولیر روڈ",
+              "slug": "/Sangla_Hill_Bhulair_Road-20996",
+              "slug_l1": "/Sangla_Hill_Bhulair_Road-20996"
+          },
+          {
+              "id": 20283,
+              "level": 4,
+              "externalID": "20997",
+              "name": "Chenab City",
+              "name_l1": "چناب سٹی",
+              "slug": "/Sangla_Hill_Bhulair_Road_Chenab_City-20997",
+              "slug_l1": "/Sangla_Hill_Bhulair_Road_Chenab_City-20997"
+          },
+          {
+              "id": 20541,
+              "level": 5,
+              "externalID": "21203",
+              "name": "Chenab City - Block B",
+              "name_l1": "چناب سٹی - بلاک بی",
+              "slug": "/Sangla_Hill_Bhulair_Road_Chenab_City_Chenab_City___Block_B-21203",
+              "slug_l1": "/Sangla_Hill_Bhulair_Road_Chenab_City_Chenab_City___Block_B-21203"
+          }
+      ],
+      "hierarchyPath": "Chenab City - Block B Chenab City Bhulair Road Sangla Hill Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21203",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20541",
+      "_highlightResult": {
+          "name": {
+              "value": "Chenab City - Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20389,
+      "name": "Ladhar 116",
+      "name_l1": "لدھڑ 116",
+      "externalID": "21100",
+      "slug": "/Sangla_Hill_Ladhar_116-21100",
+      "slug_l1": "/Sangla_Hill_Ladhar_116-21100",
+      "_geoloc": {
+          "lat": 31.779450071758,
+          "lng": 73.346844793278
+      },
+      "geography": {
+          "lat": 31.779450071758,
+          "lng": 73.346844793278
+      },
+      "geo_point": [
+          73.346844793278,
+          31.779450071758
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4123,
+              "level": 2,
+              "externalID": "8563",
+              "name": "Sangla Hill",
+              "name_l1": "سانگلہ ہل",
+              "slug": "/Sangla_Hill-8563",
+              "slug_l1": "/Sangla_Hill-8563"
+          },
+          {
+              "id": 20389,
+              "level": 3,
+              "externalID": "21100",
+              "name": "Ladhar 116",
+              "name_l1": "لدھڑ 116",
+              "slug": "/Sangla_Hill_Ladhar_116-21100",
+              "slug_l1": "/Sangla_Hill_Ladhar_116-21100"
+          }
+      ],
+      "hierarchyPath": "Ladhar 116 Sangla Hill Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21100",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20389",
+      "_highlightResult": {
+          "name": {
+              "value": "Ladhar 116",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4123,
+      "name": "Sangla Hill",
+      "name_l1": "سانگلہ ہل",
+      "externalID": "8563",
+      "slug": "/Sangla_Hill-8563",
+      "slug_l1": "/Sangla_Hill-8563",
+      "_geoloc": {
+          "lat": 31.717197,
+          "lng": 73.37554
+      },
+      "geography": {
+          "lat": 31.717197,
+          "lng": 73.37554
+      },
+      "geo_point": [
+          73.37554,
+          31.717197
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4123,
+              "level": 2,
+              "externalID": "8563",
+              "name": "Sangla Hill",
+              "name_l1": "سانگلہ ہل",
+              "slug": "/Sangla_Hill-8563",
+              "slug_l1": "/Sangla_Hill-8563"
+          }
+      ],
+      "hierarchyPath": "Sangla Hill Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8563",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "4123",
+      "_highlightResult": {
+          "name": {
+              "value": "Sangla Hill",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15345,
+      "name": "Shahkot - Sangla Hill Road",
+      "name_l1": "شاہکوٹ ۔ سانگلہ ہل روڈ",
+      "externalID": "16827",
+      "slug": "/Sangla_Hill_Shahkot___Sangla_Hill_Road-16827",
+      "slug_l1": "/Sangla_Hill_Shahkot___Sangla_Hill_Road-16827",
+      "_geoloc": {
+          "lat": 31.704177,
+          "lng": 73.384297
+      },
+      "geography": {
+          "lat": 31.704177,
+          "lng": 73.384297
+      },
+      "geo_point": [
+          73.384297,
+          31.704177
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4123,
+              "level": 2,
+              "externalID": "8563",
+              "name": "Sangla Hill",
+              "name_l1": "سانگلہ ہل",
+              "slug": "/Sangla_Hill-8563",
+              "slug_l1": "/Sangla_Hill-8563"
+          },
+          {
+              "id": 15345,
+              "level": 3,
+              "externalID": "16827",
+              "name": "Shahkot - Sangla Hill Road",
+              "name_l1": "شاہکوٹ ۔ سانگلہ ہل روڈ",
+              "slug": "/Sangla_Hill_Shahkot___Sangla_Hill_Road-16827",
+              "slug_l1": "/Sangla_Hill_Shahkot___Sangla_Hill_Road-16827"
+          }
+      ],
+      "hierarchyPath": "Shahkot - Sangla Hill Road Sangla Hill Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16827",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15345",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahkot - Sangla Hill Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

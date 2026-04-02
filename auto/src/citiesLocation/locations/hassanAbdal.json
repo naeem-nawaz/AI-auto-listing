@@ -1,0 +1,1542 @@
+[
+  {
+      "id": 31,
+      "name": "Hassan Abdal",
+      "name_l1": "حسن ابدال",
+      "externalID": "399",
+      "slug": "/Hassan_Abdal-399",
+      "slug_l1": "/Hassan_Abdal-399",
+      "_geoloc": {
+          "lat": 33.821119,
+          "lng": 72.687435
+      },
+      "geography": {
+          "lat": 33.821119,
+          "lng": 72.687435
+      },
+      "geo_point": [
+          72.687435,
+          33.821119
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          }
+      ],
+      "hierarchyPath": "Hassan Abdal Punjab Pakistan",
+      "adCount": 24,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "399",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "31",
+      "_highlightResult": {
+          "name": {
+              "value": "Hassan Abdal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2168,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "5359",
+      "slug": "/Hasan_Abdal_GT_Road-5359",
+      "slug_l1": "/Hasan_Abdal_GT_Road-5359",
+      "_geoloc": {
+          "lat": 33.82031,
+          "lng": 72.681221
+      },
+      "geography": {
+          "lat": 33.82031,
+          "lng": 72.681221
+      },
+      "geo_point": [
+          72.681221,
+          33.82031
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2168,
+              "level": 3,
+              "externalID": "5359",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Hasan_Abdal_GT_Road-5359",
+              "slug_l1": "/Hasan_Abdal_GT_Road-5359"
+          }
+      ],
+      "hierarchyPath": "GT Road Hassan Abdal Punjab Pakistan",
+      "adCount": 18,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5359",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "2168",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15230,
+      "name": "Khyber City",
+      "name_l1": "خیبر سٹی",
+      "externalID": "16713",
+      "slug": "/Hassan_Abdal_Khyber_City-16713",
+      "slug_l1": "/Hassan_Abdal_Khyber_City-16713",
+      "_geoloc": {
+          "lat": 33.805571,
+          "lng": 72.559653
+      },
+      "geography": {
+          "lat": 33.805571,
+          "lng": 72.559653
+      },
+      "geo_point": [
+          72.559653,
+          33.805571
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 15230,
+              "level": 3,
+              "externalID": "16713",
+              "name": "Khyber City",
+              "name_l1": "خیبر سٹی",
+              "slug": "/Hassan_Abdal_Khyber_City-16713",
+              "slug_l1": "/Hassan_Abdal_Khyber_City-16713"
+          }
+      ],
+      "hierarchyPath": "Khyber City Hassan Abdal Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16713",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15230",
+      "_highlightResult": {
+          "name": {
+              "value": "Khyber City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19558,
+      "name": "New City Paradise",
+      "name_l1": "نیو سٹی پیراڈائیز",
+      "externalID": "20407",
+      "slug": "/Hassan_Abdal_GT_Road_New_City_Paradise-20407",
+      "slug_l1": "/Hassan_Abdal_GT_Road_New_City_Paradise-20407",
+      "_geoloc": {
+          "lat": 33.8225,
+          "lng": 72.617067
+      },
+      "geography": {
+          "lat": 33.8225,
+          "lng": 72.617067
+      },
+      "geo_point": [
+          72.617067,
+          33.8225
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2168,
+              "level": 3,
+              "externalID": "5359",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Hasan_Abdal_GT_Road-5359",
+              "slug_l1": "/Hasan_Abdal_GT_Road-5359"
+          },
+          {
+              "id": 19558,
+              "level": 4,
+              "externalID": "20407",
+              "name": "New City Paradise",
+              "name_l1": "نیو سٹی پیراڈائیز",
+              "slug": "/Hassan_Abdal_GT_Road_New_City_Paradise-20407",
+              "slug_l1": "/Hassan_Abdal_GT_Road_New_City_Paradise-20407"
+          }
+      ],
+      "hierarchyPath": "New City Paradise GT Road Hassan Abdal Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20407",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19558",
+      "_highlightResult": {
+          "name": {
+              "value": "New City Paradise",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2167,
+      "name": "Dhoke Dollian",
+      "name_l1": "ڈھوک ڈولیاں",
+      "externalID": "5358",
+      "slug": "/Hasan_Abdal_Dhoke_Dollian-5358",
+      "slug_l1": "/Hasan_Abdal_Dhoke_Dollian-5358",
+      "_geoloc": {
+          "lat": 33.808678,
+          "lng": 72.691466
+      },
+      "geography": {
+          "lat": 33.808678,
+          "lng": 72.691466
+      },
+      "geo_point": [
+          72.691466,
+          33.808678
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2167,
+              "level": 3,
+              "externalID": "5358",
+              "name": "Dhoke Dollian",
+              "name_l1": "ڈھوک ڈولیاں",
+              "slug": "/Hasan_Abdal_Dhoke_Dollian-5358",
+              "slug_l1": "/Hasan_Abdal_Dhoke_Dollian-5358"
+          }
+      ],
+      "hierarchyPath": "Dhoke Dollian Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5358",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2167",
+      "_highlightResult": {
+          "name": {
+              "value": "Dhoke Dollian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2169,
+      "name": "Hasrat Nagri",
+      "name_l1": "حسرت نگری",
+      "externalID": "5360",
+      "slug": "/Hasan_Abdal_Hasrat_Nagri-5360",
+      "slug_l1": "/Hasan_Abdal_Hasrat_Nagri-5360",
+      "_geoloc": {
+          "lat": 33.82802,
+          "lng": 72.703632
+      },
+      "geography": {
+          "lat": 33.82802,
+          "lng": 72.703632
+      },
+      "geo_point": [
+          72.703632,
+          33.82802
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2169,
+              "level": 3,
+              "externalID": "5360",
+              "name": "Hasrat Nagri",
+              "name_l1": "حسرت نگری",
+              "slug": "/Hasan_Abdal_Hasrat_Nagri-5360",
+              "slug_l1": "/Hasan_Abdal_Hasrat_Nagri-5360"
+          }
+      ],
+      "hierarchyPath": "Hasrat Nagri Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5360",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2169",
+      "_highlightResult": {
+          "name": {
+              "value": "Hasrat Nagri",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5338,
+      "name": "Islam Shaheed Road",
+      "name_l1": "اسلام شہید روڈ",
+      "externalID": "10735",
+      "slug": "/Hassan_Abdal_Islam_Shaheed_Road-10735",
+      "slug_l1": "/Hassan_Abdal_Islam_Shaheed_Road-10735",
+      "_geoloc": {
+          "lat": 33.821662,
+          "lng": 72.690936
+      },
+      "geography": {
+          "lat": 33.821662,
+          "lng": 72.690936
+      },
+      "geo_point": [
+          72.690936,
+          33.821662
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 5338,
+              "level": 3,
+              "externalID": "10735",
+              "name": "Islam Shaheed Road",
+              "name_l1": "اسلام شہید روڈ",
+              "slug": "/Hassan_Abdal_Islam_Shaheed_Road-10735",
+              "slug_l1": "/Hassan_Abdal_Islam_Shaheed_Road-10735"
+          }
+      ],
+      "hierarchyPath": "Islam Shaheed Road Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10735",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5338",
+      "_highlightResult": {
+          "name": {
+              "value": "Islam Shaheed Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2170,
+      "name": "Karakoram Highway",
+      "name_l1": "قراقرم ہائی وے",
+      "externalID": "5361",
+      "slug": "/Hasan_Abdal_Karakoram_Highway-5361",
+      "slug_l1": "/Hasan_Abdal_Karakoram_Highway-5361",
+      "_geoloc": {
+          "lat": 33.823466,
+          "lng": 72.684708
+      },
+      "geography": {
+          "lat": 33.823466,
+          "lng": 72.684708
+      },
+      "geo_point": [
+          72.684708,
+          33.823466
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2170,
+              "level": 3,
+              "externalID": "5361",
+              "name": "Karakoram Highway",
+              "name_l1": "قراقرم ہائی وے",
+              "slug": "/Hasan_Abdal_Karakoram_Highway-5361",
+              "slug_l1": "/Hasan_Abdal_Karakoram_Highway-5361"
+          }
+      ],
+      "hierarchyPath": "Karakoram Highway Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5361",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2170",
+      "_highlightResult": {
+          "name": {
+              "value": "Karakoram Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2171,
+      "name": "Khawaja Nagar",
+      "name_l1": "خواجہ نگر",
+      "externalID": "5362",
+      "slug": "/Hasan_Abdal_Khawaja_Nagar-5362",
+      "slug_l1": "/Hasan_Abdal_Khawaja_Nagar-5362",
+      "_geoloc": {
+          "lat": 33.825578,
+          "lng": 72.696508
+      },
+      "geography": {
+          "lat": 33.825578,
+          "lng": 72.696508
+      },
+      "geo_point": [
+          72.696508,
+          33.825578
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2171,
+              "level": 3,
+              "externalID": "5362",
+              "name": "Khawaja Nagar",
+              "name_l1": "خواجہ نگر",
+              "slug": "/Hasan_Abdal_Khawaja_Nagar-5362",
+              "slug_l1": "/Hasan_Abdal_Khawaja_Nagar-5362"
+          }
+      ],
+      "hierarchyPath": "Khawaja Nagar Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5362",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2171",
+      "_highlightResult": {
+          "name": {
+              "value": "Khawaja Nagar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2172,
+      "name": "Latif Colony",
+      "name_l1": "لطیف کالونی",
+      "externalID": "5363",
+      "slug": "/Hasan_Abdal_Latif_Colony-5363",
+      "slug_l1": "/Hasan_Abdal_Latif_Colony-5363",
+      "_geoloc": {
+          "lat": 33.826968,
+          "lng": 72.670482
+      },
+      "geography": {
+          "lat": 33.826968,
+          "lng": 72.670482
+      },
+      "geo_point": [
+          72.670482,
+          33.826968
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2172,
+              "level": 3,
+              "externalID": "5363",
+              "name": "Latif Colony",
+              "name_l1": "لطیف کالونی",
+              "slug": "/Hasan_Abdal_Latif_Colony-5363",
+              "slug_l1": "/Hasan_Abdal_Latif_Colony-5363"
+          }
+      ],
+      "hierarchyPath": "Latif Colony Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5363",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2172",
+      "_highlightResult": {
+          "name": {
+              "value": "Latif Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5337,
+      "name": "Main Bazar",
+      "name_l1": "مین بازار",
+      "externalID": "10734",
+      "slug": "/Hassan_Abdal_Main_Bazar-10734",
+      "slug_l1": "/Hassan_Abdal_Main_Bazar-10734",
+      "_geoloc": {
+          "lat": 33.821112,
+          "lng": 72.687852
+      },
+      "geography": {
+          "lat": 33.821112,
+          "lng": 72.687852
+      },
+      "geo_point": [
+          72.687852,
+          33.821112
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 5337,
+              "level": 3,
+              "externalID": "10734",
+              "name": "Main Bazar",
+              "name_l1": "مین بازار",
+              "slug": "/Hassan_Abdal_Main_Bazar-10734",
+              "slug_l1": "/Hassan_Abdal_Main_Bazar-10734"
+          }
+      ],
+      "hierarchyPath": "Main Bazar Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10734",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5337",
+      "_highlightResult": {
+          "name": {
+              "value": "Main Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2173,
+      "name": "Mehmood Abad",
+      "name_l1": "محمود آباد",
+      "externalID": "5364",
+      "slug": "/Hasan_Abdal_Mehmood_Abad-5364",
+      "slug_l1": "/Hasan_Abdal_Mehmood_Abad-5364",
+      "_geoloc": {
+          "lat": 33.825453,
+          "lng": 72.689127
+      },
+      "geography": {
+          "lat": 33.825453,
+          "lng": 72.689127
+      },
+      "geo_point": [
+          72.689127,
+          33.825453
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2173,
+              "level": 3,
+              "externalID": "5364",
+              "name": "Mehmood Abad",
+              "name_l1": "محمود آباد",
+              "slug": "/Hasan_Abdal_Mehmood_Abad-5364",
+              "slug_l1": "/Hasan_Abdal_Mehmood_Abad-5364"
+          }
+      ],
+      "hierarchyPath": "Mehmood Abad Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5364",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2173",
+      "_highlightResult": {
+          "name": {
+              "value": "Mehmood Abad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2174,
+      "name": "Mohalla Irshad Nagar",
+      "name_l1": "محلہ ارشاد نگر",
+      "externalID": "5365",
+      "slug": "/Hasan_Abdal_Mohalla_Irshad_Nagar-5365",
+      "slug_l1": "/Hasan_Abdal_Mohalla_Irshad_Nagar-5365",
+      "_geoloc": {
+          "lat": 33.823261,
+          "lng": 72.677466
+      },
+      "geography": {
+          "lat": 33.823261,
+          "lng": 72.677466
+      },
+      "geo_point": [
+          72.677466,
+          33.823261
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2174,
+              "level": 3,
+              "externalID": "5365",
+              "name": "Mohalla Irshad Nagar",
+              "name_l1": "محلہ ارشاد نگر",
+              "slug": "/Hasan_Abdal_Mohalla_Irshad_Nagar-5365",
+              "slug_l1": "/Hasan_Abdal_Mohalla_Irshad_Nagar-5365"
+          }
+      ],
+      "hierarchyPath": "Mohalla Irshad Nagar Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5365",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2174",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Irshad Nagar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2175,
+      "name": "Mohalla Meelad Nagar",
+      "name_l1": "محلہ میلاد نگر",
+      "externalID": "5366",
+      "slug": "/Hasan_Abdal_Mohalla_Meelad_Nagar-5366",
+      "slug_l1": "/Hasan_Abdal_Mohalla_Meelad_Nagar-5366",
+      "_geoloc": {
+          "lat": 33.824642,
+          "lng": 72.684107
+      },
+      "geography": {
+          "lat": 33.824642,
+          "lng": 72.684107
+      },
+      "geo_point": [
+          72.684107,
+          33.824642
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2175,
+              "level": 3,
+              "externalID": "5366",
+              "name": "Mohalla Meelad Nagar",
+              "name_l1": "محلہ میلاد نگر",
+              "slug": "/Hasan_Abdal_Mohalla_Meelad_Nagar-5366",
+              "slug_l1": "/Hasan_Abdal_Mohalla_Meelad_Nagar-5366"
+          }
+      ],
+      "hierarchyPath": "Mohalla Meelad Nagar Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5366",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2175",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Meelad Nagar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2176,
+      "name": "Mohalla Punjabian",
+      "name_l1": "محلہ پنجابیاں",
+      "externalID": "5367",
+      "slug": "/Hasan_Abdal_Mohalla_Punjabian-5367",
+      "slug_l1": "/Hasan_Abdal_Mohalla_Punjabian-5367",
+      "_geoloc": {
+          "lat": 33.822904,
+          "lng": 72.684912
+      },
+      "geography": {
+          "lat": 33.822904,
+          "lng": 72.684912
+      },
+      "geo_point": [
+          72.684912,
+          33.822904
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2176,
+              "level": 3,
+              "externalID": "5367",
+              "name": "Mohalla Punjabian",
+              "name_l1": "محلہ پنجابیاں",
+              "slug": "/Hasan_Abdal_Mohalla_Punjabian-5367",
+              "slug_l1": "/Hasan_Abdal_Mohalla_Punjabian-5367"
+          }
+      ],
+      "hierarchyPath": "Mohalla Punjabian Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5367",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2176",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Punjabian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2177,
+      "name": "Mohalla Shaheedabad",
+      "name_l1": "محلہ شہید آباد",
+      "externalID": "5368",
+      "slug": "/Hasan_Abdal_Mohalla_Shaheedabad-5368",
+      "slug_l1": "/Hasan_Abdal_Mohalla_Shaheedabad-5368",
+      "_geoloc": {
+          "lat": 33.824598,
+          "lng": 72.672048
+      },
+      "geography": {
+          "lat": 33.824598,
+          "lng": 72.672048
+      },
+      "geo_point": [
+          72.672048,
+          33.824598
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2177,
+              "level": 3,
+              "externalID": "5368",
+              "name": "Mohalla Shaheedabad",
+              "name_l1": "محلہ شہید آباد",
+              "slug": "/Hasan_Abdal_Mohalla_Shaheedabad-5368",
+              "slug_l1": "/Hasan_Abdal_Mohalla_Shaheedabad-5368"
+          }
+      ],
+      "hierarchyPath": "Mohalla Shaheedabad Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5368",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2177",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Shaheedabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2178,
+      "name": "Mohammad Khan Colony",
+      "name_l1": "محمد خان کالونی",
+      "externalID": "5369",
+      "slug": "/Hasan_Abdal_Mohammad_Khan_Colony-5369",
+      "slug_l1": "/Hasan_Abdal_Mohammad_Khan_Colony-5369",
+      "_geoloc": {
+          "lat": 33.821781,
+          "lng": 72.667648
+      },
+      "geography": {
+          "lat": 33.821781,
+          "lng": 72.667648
+      },
+      "geo_point": [
+          72.667648,
+          33.821781
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2178,
+              "level": 3,
+              "externalID": "5369",
+              "name": "Mohammad Khan Colony",
+              "name_l1": "محمد خان کالونی",
+              "slug": "/Hasan_Abdal_Mohammad_Khan_Colony-5369",
+              "slug_l1": "/Hasan_Abdal_Mohammad_Khan_Colony-5369"
+          }
+      ],
+      "hierarchyPath": "Mohammad Khan Colony Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5369",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2178",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohammad Khan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 301,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "400",
+      "slug": "/Hasan_Abdal_Others-400",
+      "slug_l1": "/Hasan_Abdal_Others-400",
+      "_geoloc": {
+          "lat": 33.8195,
+          "lng": 72.689
+      },
+      "geography": {
+          "lat": 33.8195,
+          "lng": 72.689
+      },
+      "geo_point": [
+          72.689,
+          33.8195
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 301,
+              "level": 3,
+              "externalID": "400",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Hasan_Abdal_Others-400",
+              "slug_l1": "/Hasan_Abdal_Others-400"
+          }
+      ],
+      "hierarchyPath": "Others Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "400",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "301",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16754,
+      "name": "Shah Jolan Road",
+      "name_l1": "شاہ جولان روڈ",
+      "externalID": "17962",
+      "slug": "/Hassan_Abdal_Shah_Jolan_Road-17962",
+      "slug_l1": "/Hassan_Abdal_Shah_Jolan_Road-17962",
+      "_geoloc": {
+          "lat": 33.819194,
+          "lng": 72.683518
+      },
+      "geography": {
+          "lat": 33.819194,
+          "lng": 72.683518
+      },
+      "geo_point": [
+          72.683518,
+          33.819194
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 16754,
+              "level": 3,
+              "externalID": "17962",
+              "name": "Shah Jolan Road",
+              "name_l1": "شاہ جولان روڈ",
+              "slug": "/Hassan_Abdal_Shah_Jolan_Road-17962",
+              "slug_l1": "/Hassan_Abdal_Shah_Jolan_Road-17962"
+          }
+      ],
+      "hierarchyPath": "Shah Jolan Road Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17962",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16754",
+      "_highlightResult": {
+          "name": {
+              "value": "Shah Jolan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2179,
+      "name": "Walli Nagar",
+      "name_l1": "ولی نگر",
+      "externalID": "5370",
+      "slug": "/Hasan_Abdal_Walli_Nagar-5370",
+      "slug_l1": "/Hasan_Abdal_Walli_Nagar-5370",
+      "_geoloc": {
+          "lat": 33.824188,
+          "lng": 72.704555
+      },
+      "geography": {
+          "lat": 33.824188,
+          "lng": 72.704555
+      },
+      "geo_point": [
+          72.704555,
+          33.824188
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 31,
+              "level": 2,
+              "externalID": "399",
+              "name": "Hassan Abdal",
+              "name_l1": "حسن ابدال",
+              "slug": "/Hassan_Abdal-399",
+              "slug_l1": "/Hassan_Abdal-399"
+          },
+          {
+              "id": 2179,
+              "level": 3,
+              "externalID": "5370",
+              "name": "Walli Nagar",
+              "name_l1": "ولی نگر",
+              "slug": "/Hasan_Abdal_Walli_Nagar-5370",
+              "slug_l1": "/Hasan_Abdal_Walli_Nagar-5370"
+          }
+      ],
+      "hierarchyPath": "Walli Nagar Hassan Abdal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5370",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2179",
+      "_highlightResult": {
+          "name": {
+              "value": "Walli Nagar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

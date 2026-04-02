@@ -1,0 +1,772 @@
+[
+  {
+      "id": 12348,
+      "name": "Chak 715 GB",
+      "name_l1": "چک 715 جی بی",
+      "externalID": "13829",
+      "slug": "/Kamalia_Chak_715_GB-13829",
+      "slug_l1": "/Kamalia_Chak_715_GB-13829",
+      "_geoloc": {
+          "lat": 30.703308,
+          "lng": 72.574929
+      },
+      "geography": {
+          "lat": 30.703308,
+          "lng": 72.574929
+      },
+      "geo_point": [
+          72.574929,
+          30.703308
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          },
+          {
+              "id": 12348,
+              "level": 3,
+              "externalID": "13829",
+              "name": "Chak 715 GB",
+              "name_l1": "چک 715 جی بی",
+              "slug": "/Kamalia_Chak_715_GB-13829",
+              "slug_l1": "/Kamalia_Chak_715_GB-13829"
+          }
+      ],
+      "hierarchyPath": "Chak 715 GB Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13829",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12348",
+      "_highlightResult": {
+          "name": {
+              "value": "Chak 715 GB",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18443,
+      "name": "Chichawatni Road",
+      "name_l1": "چیچہ وطنی روڈ",
+      "externalID": "19358",
+      "slug": "/Kamalia_Chichawatni_Road-19358",
+      "slug_l1": "/Kamalia_Chichawatni_Road-19358",
+      "_geoloc": {
+          "lat": 30.6436578,
+          "lng": 72.6676195
+      },
+      "geography": {
+          "lat": 30.6436578,
+          "lng": 72.6676195
+      },
+      "geo_point": [
+          72.6676195,
+          30.6436578
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          },
+          {
+              "id": 18443,
+              "level": 3,
+              "externalID": "19358",
+              "name": "Chichawatni Road",
+              "name_l1": "چیچہ وطنی روڈ",
+              "slug": "/Kamalia_Chichawatni_Road-19358",
+              "slug_l1": "/Kamalia_Chichawatni_Road-19358"
+          }
+      ],
+      "hierarchyPath": "Chichawatni Road Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19358",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18443",
+      "_highlightResult": {
+          "name": {
+              "value": "Chichawatni Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 155,
+      "name": "Kamalia",
+      "name_l1": "کمالیہ",
+      "externalID": "10416",
+      "slug": "/Kamalia-10416",
+      "slug_l1": "/Kamalia-10416",
+      "_geoloc": {
+          "lat": 30.723426,
+          "lng": 72.645312
+      },
+      "geography": {
+          "lat": 30.723426,
+          "lng": 72.645312
+      },
+      "geo_point": [
+          72.645312,
+          30.723426
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          }
+      ],
+      "hierarchyPath": "Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10416",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "155",
+      "_highlightResult": {
+          "name": {
+              "value": "Kamalia",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6183,
+      "name": "Kamalia Mamu Kanjan Road",
+      "name_l1": "کمالیا مامو کانجن روڈ",
+      "externalID": "12394",
+      "slug": "/Kamalia_Kamalia_Mamu_Kanjan_Road-12394",
+      "slug_l1": "/Kamalia_Kamalia_Mamu_Kanjan_Road-12394",
+      "_geoloc": {
+          "lat": 30.750477,
+          "lng": 72.680104
+      },
+      "geography": {
+          "lat": 30.750477,
+          "lng": 72.680104
+      },
+      "geo_point": [
+          72.680104,
+          30.750477
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          },
+          {
+              "id": 6183,
+              "level": 3,
+              "externalID": "12394",
+              "name": "Kamalia Mamu Kanjan Road",
+              "name_l1": "کمالیا مامو کانجن روڈ",
+              "slug": "/Kamalia_Kamalia_Mamu_Kanjan_Road-12394",
+              "slug_l1": "/Kamalia_Kamalia_Mamu_Kanjan_Road-12394"
+          }
+      ],
+      "hierarchyPath": "Kamalia Mamu Kanjan Road Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12394",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6183",
+      "_highlightResult": {
+          "name": {
+              "value": "Kamalia Mamu Kanjan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11810,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13333",
+      "slug": "/Kamalia_Others-13333",
+      "slug_l1": "/Kamalia_Others-13333",
+      "_geoloc": {
+          "lat": 30.722681,
+          "lng": 72.647683
+      },
+      "geography": {
+          "lat": 30.722681,
+          "lng": 72.647683
+      },
+      "geo_point": [
+          72.647683,
+          30.722681
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          },
+          {
+              "id": 11810,
+              "level": 3,
+              "externalID": "13333",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Kamalia_Others-13333",
+              "slug_l1": "/Kamalia_Others-13333"
+          }
+      ],
+      "hierarchyPath": "Others Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13333",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11810",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17046,
+      "name": "Pir Mahal Road",
+      "name_l1": "پیر محل روڈ",
+      "externalID": "18198",
+      "slug": "/Kamalia_Pir_Mahal_Road-18198",
+      "slug_l1": "/Kamalia_Pir_Mahal_Road-18198",
+      "_geoloc": {
+          "lat": 30.769615,
+          "lng": 72.5400171
+      },
+      "geography": {
+          "lat": 30.769615,
+          "lng": 72.5400171
+      },
+      "geo_point": [
+          72.5400171,
+          30.769615
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          },
+          {
+              "id": 17046,
+              "level": 3,
+              "externalID": "18198",
+              "name": "Pir Mahal Road",
+              "name_l1": "پیر محل روڈ",
+              "slug": "/Kamalia_Pir_Mahal_Road-18198",
+              "slug_l1": "/Kamalia_Pir_Mahal_Road-18198"
+          }
+      ],
+      "hierarchyPath": "Pir Mahal Road Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18198",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17046",
+      "_highlightResult": {
+          "name": {
+              "value": "Pir Mahal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5686,
+      "name": "Railway Road",
+      "name_l1": "ریلوے روڈ",
+      "externalID": "11377",
+      "slug": "/Kamalia_Railway_Road-11377",
+      "slug_l1": "/Kamalia_Railway_Road-11377",
+      "_geoloc": {
+          "lat": 30.731013,
+          "lng": 72.633116
+      },
+      "geography": {
+          "lat": 30.731013,
+          "lng": 72.633116
+      },
+      "geo_point": [
+          72.633116,
+          30.731013
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          },
+          {
+              "id": 5686,
+              "level": 3,
+              "externalID": "11377",
+              "name": "Railway Road",
+              "name_l1": "ریلوے روڈ",
+              "slug": "/Kamalia_Railway_Road-11377",
+              "slug_l1": "/Kamalia_Railway_Road-11377"
+          }
+      ],
+      "hierarchyPath": "Railway Road Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11377",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5686",
+      "_highlightResult": {
+          "name": {
+              "value": "Railway Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8951,
+      "name": "Shalimar Forts",
+      "name_l1": "شالیمارفورٹس",
+      "externalID": "11381",
+      "slug": "/Kamalia_Railway_Road_Shalimar_Forts-11381",
+      "slug_l1": "/Kamalia_Railway_Road_Shalimar_Forts-11381",
+      "_geoloc": {
+          "lat": 30.725455,
+          "lng": 72.624249
+      },
+      "geography": {
+          "lat": 30.725455,
+          "lng": 72.624249
+      },
+      "geo_point": [
+          72.624249,
+          30.725455
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          },
+          {
+              "id": 5686,
+              "level": 3,
+              "externalID": "11377",
+              "name": "Railway Road",
+              "name_l1": "ریلوے روڈ",
+              "slug": "/Kamalia_Railway_Road-11377",
+              "slug_l1": "/Kamalia_Railway_Road-11377"
+          },
+          {
+              "id": 8951,
+              "level": 4,
+              "externalID": "11381",
+              "name": "Shalimar Forts",
+              "name_l1": "شالیمارفورٹس",
+              "slug": "/Kamalia_Railway_Road_Shalimar_Forts-11381",
+              "slug_l1": "/Kamalia_Railway_Road_Shalimar_Forts-11381"
+          }
+      ],
+      "hierarchyPath": "Shalimar Forts Railway Road Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11381",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8951",
+      "_highlightResult": {
+          "name": {
+              "value": "Shalimar Forts",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5800,
+      "name": "Shalimar Town",
+      "name_l1": "شالیمار ٹاؤن",
+      "externalID": "11635",
+      "slug": "/Kamalia_Shalimar_Town-11635",
+      "slug_l1": "/Kamalia_Shalimar_Town-11635",
+      "_geoloc": {
+          "lat": 30.70950768,
+          "lng": 72.65406662
+      },
+      "geography": {
+          "lat": 30.70950768,
+          "lng": 72.65406662
+      },
+      "geo_point": [
+          72.65406662,
+          30.70950768
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          },
+          {
+              "id": 5800,
+              "level": 3,
+              "externalID": "11635",
+              "name": "Shalimar Town",
+              "name_l1": "شالیمار ٹاؤن",
+              "slug": "/Kamalia_Shalimar_Town-11635",
+              "slug_l1": "/Kamalia_Shalimar_Town-11635"
+          }
+      ],
+      "hierarchyPath": "Shalimar Town Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11635",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5800",
+      "_highlightResult": {
+          "name": {
+              "value": "Shalimar Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18442,
+      "name": "Zeeshan Colony",
+      "name_l1": "ذیشان کالونی",
+      "externalID": "19357",
+      "slug": "/Kamalia_Zeeshan_Colony-19357",
+      "slug_l1": "/Kamalia_Zeeshan_Colony-19357",
+      "_geoloc": {
+          "lat": 30.735759,
+          "lng": 72.643215
+      },
+      "geography": {
+          "lat": 30.735759,
+          "lng": 72.643215
+      },
+      "geo_point": [
+          72.643215,
+          30.735759
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 155,
+              "level": 2,
+              "externalID": "10416",
+              "name": "Kamalia",
+              "name_l1": "کمالیہ",
+              "slug": "/Kamalia-10416",
+              "slug_l1": "/Kamalia-10416"
+          },
+          {
+              "id": 18442,
+              "level": 3,
+              "externalID": "19357",
+              "name": "Zeeshan Colony",
+              "name_l1": "ذیشان کالونی",
+              "slug": "/Kamalia_Zeeshan_Colony-19357",
+              "slug_l1": "/Kamalia_Zeeshan_Colony-19357"
+          }
+      ],
+      "hierarchyPath": "Zeeshan Colony Kamalia Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19357",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18442",
+      "_highlightResult": {
+          "name": {
+              "value": "Zeeshan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

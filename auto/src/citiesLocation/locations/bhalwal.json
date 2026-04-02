@@ -1,0 +1,2388 @@
+[
+  {
+      "id": 21162,
+      "name": "22 Chak",
+      "name_l1": "22 ہر",
+      "externalID": "21752",
+      "slug": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak-21752",
+      "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak-21752",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.33027722
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.33027722
+      },
+      "geo_point": [
+          74.33027722,
+          35.0
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18522,
+              "level": 3,
+              "externalID": "19439",
+              "name": "22 Chak Ajnala Road",
+              "name_l1": "22 چک اجنالہ روڈ",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road-19439",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road-19439"
+          },
+          {
+              "id": 21104,
+              "level": 4,
+              "externalID": "21700",
+              "name": "22 Chak Ajnala Road",
+              "name_l1": "22 چک اجنالہ روڈ",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road-21700",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road-21700"
+          },
+          {
+              "id": 21162,
+              "level": 5,
+              "externalID": "21752",
+              "name": "22 Chak",
+              "name_l1": "22 ہر",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak-21752",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak-21752"
+          }
+      ],
+      "hierarchyPath": "22 Chak 22 Chak Ajnala Road 22 Chak Ajnala Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21752",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "21162",
+      "_highlightResult": {
+          "name": {
+              "value": "22 Chak",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22107,
+      "name": "22 Chak Ajanal Road",
+      "name_l1": "22 چک اجنال روڈ",
+      "externalID": "22174",
+      "slug": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak_22_Chak_Ajanal_Road_-22174",
+      "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak_22_Chak_Ajanal_Road_-22174",
+      "_geoloc": {
+          "lat": 24.591513387558,
+          "lng": 46.661234621801
+      },
+      "geography": {
+          "lat": 24.591513387558,
+          "lng": 46.661234621801
+      },
+      "geo_point": [
+          46.661234621801,
+          24.591513387558
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18522,
+              "level": 3,
+              "externalID": "19439",
+              "name": "22 Chak Ajnala Road",
+              "name_l1": "22 چک اجنالہ روڈ",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road-19439",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road-19439"
+          },
+          {
+              "id": 21104,
+              "level": 4,
+              "externalID": "21700",
+              "name": "22 Chak Ajnala Road",
+              "name_l1": "22 چک اجنالہ روڈ",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road-21700",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road-21700"
+          },
+          {
+              "id": 21162,
+              "level": 5,
+              "externalID": "21752",
+              "name": "22 Chak",
+              "name_l1": "22 ہر",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak-21752",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak-21752"
+          },
+          {
+              "id": 22107,
+              "level": 6,
+              "externalID": "22174",
+              "name": "22 Chak Ajanal Road",
+              "name_l1": "22 چک اجنال روڈ",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak_22_Chak_Ajanal_Road_-22174",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road_22_Chak_22_Chak_Ajanal_Road_-22174"
+          }
+      ],
+      "hierarchyPath": "22 Chak Ajanal Road 22 Chak 22 Chak Ajnala Road 22 Chak Ajnala Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22174",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22107",
+      "_highlightResult": {
+          "name": {
+              "value": "22 Chak Ajanal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21104,
+      "name": "22 Chak Ajnala Road",
+      "name_l1": "22 چک اجنالہ روڈ",
+      "externalID": "21700",
+      "slug": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road-21700",
+      "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road-21700",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.37885739
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.37885739
+      },
+      "geo_point": [
+          74.37885739,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18522,
+              "level": 3,
+              "externalID": "19439",
+              "name": "22 Chak Ajnala Road",
+              "name_l1": "22 چک اجنالہ روڈ",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road-19439",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road-19439"
+          },
+          {
+              "id": 21104,
+              "level": 4,
+              "externalID": "21700",
+              "name": "22 Chak Ajnala Road",
+              "name_l1": "22 چک اجنالہ روڈ",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road-21700",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road_22_Chak_Ajnala_Road-21700"
+          }
+      ],
+      "hierarchyPath": "22 Chak Ajnala Road 22 Chak Ajnala Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21700",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "21104",
+      "_highlightResult": {
+          "name": {
+              "value": "22 Chak Ajnala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18522,
+      "name": "22 Chak Ajnala Road",
+      "name_l1": "22 چک اجنالہ روڈ",
+      "externalID": "19439",
+      "slug": "/Bhalwal_22_Chak_Ajnala_Road-19439",
+      "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road-19439",
+      "_geoloc": {
+          "lat": 32.229397,
+          "lng": 72.857265
+      },
+      "geography": {
+          "lat": 32.229397,
+          "lng": 72.857265
+      },
+      "geo_point": [
+          72.857265,
+          32.229397
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18522,
+              "level": 3,
+              "externalID": "19439",
+              "name": "22 Chak Ajnala Road",
+              "name_l1": "22 چک اجنالہ روڈ",
+              "slug": "/Bhalwal_22_Chak_Ajnala_Road-19439",
+              "slug_l1": "/Bhalwal_22_Chak_Ajnala_Road-19439"
+          }
+      ],
+      "hierarchyPath": "22 Chak Ajnala Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19439",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18522",
+      "_highlightResult": {
+          "name": {
+              "value": "22 Chak Ajnala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21137,
+      "name": "26 Chak",
+      "name_l1": "26 ہر ایک",
+      "externalID": "21733",
+      "slug": "/Bhalwal_Others_26_Chak_-21733",
+      "slug_l1": "/Bhalwal_Others_26_Chak_-21733",
+      "_geoloc": {
+          "lat": 31.51608772,
+          "lng": 74.37209344
+      },
+      "geography": {
+          "lat": 31.51608772,
+          "lng": 74.37209344
+      },
+      "geo_point": [
+          74.37209344,
+          31.51608772
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5859,
+              "level": 3,
+              "externalID": "11769",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Bhalwal_Others-11769",
+              "slug_l1": "/Bhalwal_Others-11769"
+          },
+          {
+              "id": 21137,
+              "level": 4,
+              "externalID": "21733",
+              "name": "26 Chak",
+              "name_l1": "26 ہر ایک",
+              "slug": "/Bhalwal_Others_26_Chak_-21733",
+              "slug_l1": "/Bhalwal_Others_26_Chak_-21733"
+          }
+      ],
+      "hierarchyPath": "26 Chak Others Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21733",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21137",
+      "_highlightResult": {
+          "name": {
+              "value": "26 Chak",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21101,
+      "name": "Al Fazal Town",
+      "name_l1": "الفضل ٹاؤن",
+      "externalID": "21697",
+      "slug": "/Bhalwal_Al_Fazal_Town_Al_Fazal_Town-21697",
+      "slug_l1": "/Bhalwal_Al_Fazal_Town_Al_Fazal_Town-21697",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.33027722
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.33027722
+      },
+      "geo_point": [
+          74.33027722,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18518,
+              "level": 3,
+              "externalID": "19434",
+              "name": "Al Fazal Town",
+              "name_l1": "الفضل ٹاؤن",
+              "slug": "/Bhalwal_Al_Fazal_Town-19434",
+              "slug_l1": "/Bhalwal_Al_Fazal_Town-19434"
+          },
+          {
+              "id": 21101,
+              "level": 4,
+              "externalID": "21697",
+              "name": "Al Fazal Town",
+              "name_l1": "الفضل ٹاؤن",
+              "slug": "/Bhalwal_Al_Fazal_Town_Al_Fazal_Town-21697",
+              "slug_l1": "/Bhalwal_Al_Fazal_Town_Al_Fazal_Town-21697"
+          }
+      ],
+      "hierarchyPath": "Al Fazal Town Al Fazal Town Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21697",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21101",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Fazal Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18518,
+      "name": "Al Fazal Town",
+      "name_l1": "الفضل ٹاؤن",
+      "externalID": "19434",
+      "slug": "/Bhalwal_Al_Fazal_Town-19434",
+      "slug_l1": "/Bhalwal_Al_Fazal_Town-19434",
+      "_geoloc": {
+          "lat": 32.262935,
+          "lng": 72.908943
+      },
+      "geography": {
+          "lat": 32.262935,
+          "lng": 72.908943
+      },
+      "geo_point": [
+          72.908943,
+          32.262935
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18518,
+              "level": 3,
+              "externalID": "19434",
+              "name": "Al Fazal Town",
+              "name_l1": "الفضل ٹاؤن",
+              "slug": "/Bhalwal_Al_Fazal_Town-19434",
+              "slug_l1": "/Bhalwal_Al_Fazal_Town-19434"
+          }
+      ],
+      "hierarchyPath": "Al Fazal Town Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19434",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18518",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Fazal Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5860,
+      "name": "Ali Zahoor Colony",
+      "name_l1": "علی ظہورکالونی",
+      "externalID": "11770",
+      "slug": "/Bhalwal_Ali_Zahoor_Colony-11770",
+      "slug_l1": "/Bhalwal_Ali_Zahoor_Colony-11770",
+      "_geoloc": {
+          "lat": 32.276451,
+          "lng": 72.885917
+      },
+      "geography": {
+          "lat": 32.276451,
+          "lng": 72.885917
+      },
+      "geo_point": [
+          72.885917,
+          32.276451
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5860,
+              "level": 3,
+              "externalID": "11770",
+              "name": "Ali Zahoor Colony",
+              "name_l1": "علی ظہورکالونی",
+              "slug": "/Bhalwal_Ali_Zahoor_Colony-11770",
+              "slug_l1": "/Bhalwal_Ali_Zahoor_Colony-11770"
+          }
+      ],
+      "hierarchyPath": "Ali Zahoor Colony Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11770",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5860",
+      "_highlightResult": {
+          "name": {
+              "value": "Ali Zahoor Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21114,
+      "name": "Ali Zahoor Colony",
+      "name_l1": "علی ظہور کلونی",
+      "externalID": "21709",
+      "slug": "/Bhalwal_Ali_Zahoor_Colony_Ali_Zahoor_Colony-21709",
+      "slug_l1": "/Bhalwal_Ali_Zahoor_Colony_Ali_Zahoor_Colony-21709",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.39839819
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.39839819
+      },
+      "geo_point": [
+          74.39839819,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5860,
+              "level": 3,
+              "externalID": "11770",
+              "name": "Ali Zahoor Colony",
+              "name_l1": "علی ظہورکالونی",
+              "slug": "/Bhalwal_Ali_Zahoor_Colony-11770",
+              "slug_l1": "/Bhalwal_Ali_Zahoor_Colony-11770"
+          },
+          {
+              "id": 21114,
+              "level": 4,
+              "externalID": "21709",
+              "name": "Ali Zahoor Colony",
+              "name_l1": "علی ظہور کلونی",
+              "slug": "/Bhalwal_Ali_Zahoor_Colony_Ali_Zahoor_Colony-21709",
+              "slug_l1": "/Bhalwal_Ali_Zahoor_Colony_Ali_Zahoor_Colony-21709"
+          }
+      ],
+      "hierarchyPath": "Ali Zahoor Colony Ali Zahoor Colony Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21709",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21114",
+      "_highlightResult": {
+          "name": {
+              "value": "Ali Zahoor Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 167,
+      "name": "Bhalwal",
+      "name_l1": "بھلوال",
+      "externalID": "11142",
+      "slug": "/Bhalwal-11142",
+      "slug_l1": "/Bhalwal-11142",
+      "_geoloc": {
+          "lat": 32.275687,
+          "lng": 72.904302
+      },
+      "geography": {
+          "lat": 32.275687,
+          "lng": 72.904302
+      },
+      "geo_point": [
+          72.904302,
+          32.275687
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          }
+      ],
+      "hierarchyPath": "Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11142",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "167",
+      "_highlightResult": {
+          "name": {
+              "value": "Bhalwal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21096,
+      "name": "Bhera Road",
+      "name_l1": "بیلہ روڈ",
+      "externalID": "21692",
+      "slug": "/Bhalwal_Bhera_Road_Bhera_Road-21692",
+      "slug_l1": "/Bhalwal_Bhera_Road_Bhera_Road-21692",
+      "_geoloc": {
+          "lat": 32.27962048,
+          "lng": 72.89897598
+      },
+      "geography": {
+          "lat": 32.27962048,
+          "lng": 72.89897598
+      },
+      "geo_point": [
+          72.89897598,
+          32.27962048
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18519,
+              "level": 3,
+              "externalID": "19435",
+              "name": "Bhera Road",
+              "name_l1": "بھیرہ روڈ",
+              "slug": "/Bhalwal_Bhera_Road-19435",
+              "slug_l1": "/Bhalwal_Bhera_Road-19435"
+          },
+          {
+              "id": 21096,
+              "level": 4,
+              "externalID": "21692",
+              "name": "Bhera Road",
+              "name_l1": "بیلہ روڈ",
+              "slug": "/Bhalwal_Bhera_Road_Bhera_Road-21692",
+              "slug_l1": "/Bhalwal_Bhera_Road_Bhera_Road-21692"
+          }
+      ],
+      "hierarchyPath": "Bhera Road Bhera Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21692",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21096",
+      "_highlightResult": {
+          "name": {
+              "value": "Bhera Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18519,
+      "name": "Bhera Road",
+      "name_l1": "بھیرہ روڈ",
+      "externalID": "19435",
+      "slug": "/Bhalwal_Bhera_Road-19435",
+      "slug_l1": "/Bhalwal_Bhera_Road-19435",
+      "_geoloc": {
+          "lat": 32.280201,
+          "lng": 72.898461
+      },
+      "geography": {
+          "lat": 32.280201,
+          "lng": 72.898461
+      },
+      "geo_point": [
+          72.898461,
+          32.280201
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18519,
+              "level": 3,
+              "externalID": "19435",
+              "name": "Bhera Road",
+              "name_l1": "بھیرہ روڈ",
+              "slug": "/Bhalwal_Bhera_Road-19435",
+              "slug_l1": "/Bhalwal_Bhera_Road-19435"
+          }
+      ],
+      "hierarchyPath": "Bhera Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19435",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18519",
+      "_highlightResult": {
+          "name": {
+              "value": "Bhera Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21117,
+      "name": "Circular Road",
+      "name_l1": "سرکلر روڈ",
+      "externalID": "21713",
+      "slug": "/Bhalwal_Circular_Road_Circular_Road-21713",
+      "slug_l1": "/Bhalwal_Circular_Road_Circular_Road-21713",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.33027722
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.33027722
+      },
+      "geo_point": [
+          74.33027722,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18520,
+              "level": 3,
+              "externalID": "19436",
+              "name": "Circular Road",
+              "name_l1": "سرکلر روڈ",
+              "slug": "/Bhalwal_Circular_Road-19436",
+              "slug_l1": "/Bhalwal_Circular_Road-19436"
+          },
+          {
+              "id": 21117,
+              "level": 4,
+              "externalID": "21713",
+              "name": "Circular Road",
+              "name_l1": "سرکلر روڈ",
+              "slug": "/Bhalwal_Circular_Road_Circular_Road-21713",
+              "slug_l1": "/Bhalwal_Circular_Road_Circular_Road-21713"
+          }
+      ],
+      "hierarchyPath": "Circular Road Circular Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21713",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21117",
+      "_highlightResult": {
+          "name": {
+              "value": "Circular Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18520,
+      "name": "Circular Road",
+      "name_l1": "سرکلر روڈ",
+      "externalID": "19436",
+      "slug": "/Bhalwal_Circular_Road-19436",
+      "slug_l1": "/Bhalwal_Circular_Road-19436",
+      "_geoloc": {
+          "lat": 32.4812119,
+          "lng": 72.9067808
+      },
+      "geography": {
+          "lat": 32.4812119,
+          "lng": 72.9067808
+      },
+      "geo_point": [
+          72.9067808,
+          32.4812119
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18520,
+              "level": 3,
+              "externalID": "19436",
+              "name": "Circular Road",
+              "name_l1": "سرکلر روڈ",
+              "slug": "/Bhalwal_Circular_Road-19436",
+              "slug_l1": "/Bhalwal_Circular_Road-19436"
+          }
+      ],
+      "hierarchyPath": "Circular Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19436",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18520",
+      "_highlightResult": {
+          "name": {
+              "value": "Circular Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21120,
+      "name": "Goand Pura",
+      "name_l1": "گوبد پورہ",
+      "externalID": "21716",
+      "slug": "/Bhalwal_Goband_Pura_Goand_Pura-21716",
+      "slug_l1": "/Bhalwal_Goband_Pura_Goand_Pura-21716",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 80.0
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 80.0
+      },
+      "geo_point": [
+          80.0,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5865,
+              "level": 3,
+              "externalID": "11775",
+              "name": "Goband Pura",
+              "name_l1": "گوبند پورہ",
+              "slug": "/Bhalwal_Goband_Pura-11775",
+              "slug_l1": "/Bhalwal_Goband_Pura-11775"
+          },
+          {
+              "id": 21120,
+              "level": 4,
+              "externalID": "21716",
+              "name": "Goand Pura",
+              "name_l1": "گوبد پورہ",
+              "slug": "/Bhalwal_Goband_Pura_Goand_Pura-21716",
+              "slug_l1": "/Bhalwal_Goband_Pura_Goand_Pura-21716"
+          }
+      ],
+      "hierarchyPath": "Goand Pura Goband Pura Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21716",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21120",
+      "_highlightResult": {
+          "name": {
+              "value": "Goand Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5865,
+      "name": "Goband Pura",
+      "name_l1": "گوبند پورہ",
+      "externalID": "11775",
+      "slug": "/Bhalwal_Goband_Pura-11775",
+      "slug_l1": "/Bhalwal_Goband_Pura-11775",
+      "_geoloc": {
+          "lat": 32.26805,
+          "lng": 72.897941
+      },
+      "geography": {
+          "lat": 32.26805,
+          "lng": 72.897941
+      },
+      "geo_point": [
+          72.897941,
+          32.26805
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5865,
+              "level": 3,
+              "externalID": "11775",
+              "name": "Goband Pura",
+              "name_l1": "گوبند پورہ",
+              "slug": "/Bhalwal_Goband_Pura-11775",
+              "slug_l1": "/Bhalwal_Goband_Pura-11775"
+          }
+      ],
+      "hierarchyPath": "Goband Pura Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11775",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5865",
+      "_highlightResult": {
+          "name": {
+              "value": "Goband Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21112,
+      "name": "Goband Pura",
+      "name_l1": "گوبند پورہ",
+      "externalID": "21708",
+      "slug": "/Bhalwal_Goband_Pura_Goband_Pura-21708",
+      "slug_l1": "/Bhalwal_Goband_Pura_Goband_Pura-21708",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.33027722
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.33027722
+      },
+      "geo_point": [
+          74.33027722,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5865,
+              "level": 3,
+              "externalID": "11775",
+              "name": "Goband Pura",
+              "name_l1": "گوبند پورہ",
+              "slug": "/Bhalwal_Goband_Pura-11775",
+              "slug_l1": "/Bhalwal_Goband_Pura-11775"
+          },
+          {
+              "id": 21112,
+              "level": 4,
+              "externalID": "21708",
+              "name": "Goband Pura",
+              "name_l1": "گوبند پورہ",
+              "slug": "/Bhalwal_Goband_Pura_Goband_Pura-21708",
+              "slug_l1": "/Bhalwal_Goband_Pura_Goband_Pura-21708"
+          }
+      ],
+      "hierarchyPath": "Goband Pura Goband Pura Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21708",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21112",
+      "_highlightResult": {
+          "name": {
+              "value": "Goband Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18521,
+      "name": "Gujrat - Sargodha Road",
+      "name_l1": "گجرات سرگودھا روڈ",
+      "externalID": "19437",
+      "slug": "/Bhalwal_Gujrat___Sargodha_Road-19437",
+      "slug_l1": "/Bhalwal_Gujrat___Sargodha_Road-19437",
+      "_geoloc": {
+          "lat": 32.276058,
+          "lng": 72.8985556
+      },
+      "geography": {
+          "lat": 32.276058,
+          "lng": 72.8985556
+      },
+      "geo_point": [
+          72.8985556,
+          32.276058
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18521,
+              "level": 3,
+              "externalID": "19437",
+              "name": "Gujrat - Sargodha Road",
+              "name_l1": "گجرات سرگودھا روڈ",
+              "slug": "/Bhalwal_Gujrat___Sargodha_Road-19437",
+              "slug_l1": "/Bhalwal_Gujrat___Sargodha_Road-19437"
+          }
+      ],
+      "hierarchyPath": "Gujrat - Sargodha Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19437",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18521",
+      "_highlightResult": {
+          "name": {
+              "value": "Gujrat - Sargodha Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21280,
+      "name": "Ijaz Colony",
+      "name_l1": "اعجاز کالونی",
+      "externalID": "21869",
+      "slug": "/Bhalwal_Ijaz_Colony_Ijaz_Colony-21869",
+      "slug_l1": "/Bhalwal_Ijaz_Colony_Ijaz_Colony-21869",
+      "_geoloc": {
+          "lat": 29.416091,
+          "lng": 75.310625
+      },
+      "geography": {
+          "lat": 29.416091,
+          "lng": 75.310625
+      },
+      "geo_point": [
+          75.310625,
+          29.416091
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18517,
+              "level": 3,
+              "externalID": "19433",
+              "name": "Ijaz Colony",
+              "name_l1": "اعجاز کالونی",
+              "slug": "/Bhalwal_Ijaz_Colony-19433",
+              "slug_l1": "/Bhalwal_Ijaz_Colony-19433"
+          },
+          {
+              "id": 21280,
+              "level": 4,
+              "externalID": "21869",
+              "name": "Ijaz Colony",
+              "name_l1": "اعجاز کالونی",
+              "slug": "/Bhalwal_Ijaz_Colony_Ijaz_Colony-21869",
+              "slug_l1": "/Bhalwal_Ijaz_Colony_Ijaz_Colony-21869"
+          }
+      ],
+      "hierarchyPath": "Ijaz Colony Ijaz Colony Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21869",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21280",
+      "_highlightResult": {
+          "name": {
+              "value": "Ijaz Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18517,
+      "name": "Ijaz Colony",
+      "name_l1": "اعجاز کالونی",
+      "externalID": "19433",
+      "slug": "/Bhalwal_Ijaz_Colony-19433",
+      "slug_l1": "/Bhalwal_Ijaz_Colony-19433",
+      "_geoloc": {
+          "lat": 32.280032,
+          "lng": 72.888298
+      },
+      "geography": {
+          "lat": 32.280032,
+          "lng": 72.888298
+      },
+      "geo_point": [
+          72.888298,
+          32.280032
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18517,
+              "level": 3,
+              "externalID": "19433",
+              "name": "Ijaz Colony",
+              "name_l1": "اعجاز کالونی",
+              "slug": "/Bhalwal_Ijaz_Colony-19433",
+              "slug_l1": "/Bhalwal_Ijaz_Colony-19433"
+          }
+      ],
+      "hierarchyPath": "Ijaz Colony Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19433",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18517",
+      "_highlightResult": {
+          "name": {
+              "value": "Ijaz Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18524,
+      "name": "Noor Hayat Colony",
+      "name_l1": "نور حیات کالونی",
+      "externalID": "19438",
+      "slug": "/Bhalwal_Gujrat___Sargodha_Road_Noor_Hayat_Colony-19438",
+      "slug_l1": "/Bhalwal_Gujrat___Sargodha_Road_Noor_Hayat_Colony-19438",
+      "_geoloc": {
+          "lat": 32.273265,
+          "lng": 72.891211
+      },
+      "geography": {
+          "lat": 32.273265,
+          "lng": 72.891211
+      },
+      "geo_point": [
+          72.891211,
+          32.273265
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 18521,
+              "level": 3,
+              "externalID": "19437",
+              "name": "Gujrat - Sargodha Road",
+              "name_l1": "گجرات سرگودھا روڈ",
+              "slug": "/Bhalwal_Gujrat___Sargodha_Road-19437",
+              "slug_l1": "/Bhalwal_Gujrat___Sargodha_Road-19437"
+          },
+          {
+              "id": 18524,
+              "level": 4,
+              "externalID": "19438",
+              "name": "Noor Hayat Colony",
+              "name_l1": "نور حیات کالونی",
+              "slug": "/Bhalwal_Gujrat___Sargodha_Road_Noor_Hayat_Colony-19438",
+              "slug_l1": "/Bhalwal_Gujrat___Sargodha_Road_Noor_Hayat_Colony-19438"
+          }
+      ],
+      "hierarchyPath": "Noor Hayat Colony Gujrat - Sargodha Road Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19438",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18524",
+      "_highlightResult": {
+          "name": {
+              "value": "Noor Hayat Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5859,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "11769",
+      "slug": "/Bhalwal_Others-11769",
+      "slug_l1": "/Bhalwal_Others-11769",
+      "_geoloc": {
+          "lat": 32.273148,
+          "lng": 72.90147
+      },
+      "geography": {
+          "lat": 32.273148,
+          "lng": 72.90147
+      },
+      "geo_point": [
+          72.90147,
+          32.273148
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5859,
+              "level": 3,
+              "externalID": "11769",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Bhalwal_Others-11769",
+              "slug_l1": "/Bhalwal_Others-11769"
+          }
+      ],
+      "hierarchyPath": "Others Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11769",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5859",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5862,
+      "name": "Qaisarabad",
+      "name_l1": "قیصرآباد",
+      "externalID": "11772",
+      "slug": "/Bhalwal_Qaisarabad-11772",
+      "slug_l1": "/Bhalwal_Qaisarabad-11772",
+      "_geoloc": {
+          "lat": 32.271603,
+          "lng": 72.883665
+      },
+      "geography": {
+          "lat": 32.271603,
+          "lng": 72.883665
+      },
+      "geo_point": [
+          72.883665,
+          32.271603
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5862,
+              "level": 3,
+              "externalID": "11772",
+              "name": "Qaisarabad",
+              "name_l1": "قیصرآباد",
+              "slug": "/Bhalwal_Qaisarabad-11772",
+              "slug_l1": "/Bhalwal_Qaisarabad-11772"
+          }
+      ],
+      "hierarchyPath": "Qaisarabad Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11772",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5862",
+      "_highlightResult": {
+          "name": {
+              "value": "Qaisarabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21130,
+      "name": "Qaisarabad",
+      "name_l1": "قیصر آباد",
+      "externalID": "21725",
+      "slug": "/Bhalwal_Qaisarabad_Qaisarabad-21725",
+      "slug_l1": "/Bhalwal_Qaisarabad_Qaisarabad-21725",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.37209344
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.37209344
+      },
+      "geo_point": [
+          74.37209344,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5862,
+              "level": 3,
+              "externalID": "11772",
+              "name": "Qaisarabad",
+              "name_l1": "قیصرآباد",
+              "slug": "/Bhalwal_Qaisarabad-11772",
+              "slug_l1": "/Bhalwal_Qaisarabad-11772"
+          },
+          {
+              "id": 21130,
+              "level": 4,
+              "externalID": "21725",
+              "name": "Qaisarabad",
+              "name_l1": "قیصر آباد",
+              "slug": "/Bhalwal_Qaisarabad_Qaisarabad-21725",
+              "slug_l1": "/Bhalwal_Qaisarabad_Qaisarabad-21725"
+          }
+      ],
+      "hierarchyPath": "Qaisarabad Qaisarabad Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21725",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21130",
+      "_highlightResult": {
+          "name": {
+              "value": "Qaisarabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5863,
+      "name": "Salman Colony",
+      "name_l1": "سلیمان کالونی",
+      "externalID": "11773",
+      "slug": "/Bhalwal_Salman_Colony-11773",
+      "slug_l1": "/Bhalwal_Salman_Colony-11773",
+      "_geoloc": {
+          "lat": 32.265046,
+          "lng": 72.895145
+      },
+      "geography": {
+          "lat": 32.265046,
+          "lng": 72.895145
+      },
+      "geo_point": [
+          72.895145,
+          32.265046
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5863,
+              "level": 3,
+              "externalID": "11773",
+              "name": "Salman Colony",
+              "name_l1": "سلیمان کالونی",
+              "slug": "/Bhalwal_Salman_Colony-11773",
+              "slug_l1": "/Bhalwal_Salman_Colony-11773"
+          }
+      ],
+      "hierarchyPath": "Salman Colony Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11773",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5863",
+      "_highlightResult": {
+          "name": {
+              "value": "Salman Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5864,
+      "name": "Sulaiman Pura",
+      "name_l1": "سلیمان پورہ",
+      "externalID": "11774",
+      "slug": "/Bhalwal_Sulaiman_Pura-11774",
+      "slug_l1": "/Bhalwal_Sulaiman_Pura-11774",
+      "_geoloc": {
+          "lat": 32.262922,
+          "lng": 72.898364
+      },
+      "geography": {
+          "lat": 32.262922,
+          "lng": 72.898364
+      },
+      "geo_point": [
+          72.898364,
+          32.262922
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5864,
+              "level": 3,
+              "externalID": "11774",
+              "name": "Sulaiman Pura",
+              "name_l1": "سلیمان پورہ",
+              "slug": "/Bhalwal_Sulaiman_Pura-11774",
+              "slug_l1": "/Bhalwal_Sulaiman_Pura-11774"
+          }
+      ],
+      "hierarchyPath": "Sulaiman Pura Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11774",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5864",
+      "_highlightResult": {
+          "name": {
+              "value": "Sulaiman Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21157,
+      "name": "Zahoor Hayat",
+      "name_l1": "ظہور حیات",
+      "externalID": "21747",
+      "slug": "/Bhalwal_Zahoor_Hayat_Colony_Zahoor_Hayat_-21747",
+      "slug_l1": "/Bhalwal_Zahoor_Hayat_Colony_Zahoor_Hayat_-21747",
+      "_geoloc": {
+          "lat": 31.58018777,
+          "lng": 74.33027722
+      },
+      "geography": {
+          "lat": 31.58018777,
+          "lng": 74.33027722
+      },
+      "geo_point": [
+          74.33027722,
+          31.58018777
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5861,
+              "level": 3,
+              "externalID": "11771",
+              "name": "Zahoor Hayat Colony",
+              "name_l1": "ظہور حیات کالونی",
+              "slug": "/Bhalwal_Zahoor_Hayat_Colony-11771",
+              "slug_l1": "/Bhalwal_Zahoor_Hayat_Colony-11771"
+          },
+          {
+              "id": 21157,
+              "level": 4,
+              "externalID": "21747",
+              "name": "Zahoor Hayat",
+              "name_l1": "ظہور حیات",
+              "slug": "/Bhalwal_Zahoor_Hayat_Colony_Zahoor_Hayat_-21747",
+              "slug_l1": "/Bhalwal_Zahoor_Hayat_Colony_Zahoor_Hayat_-21747"
+          }
+      ],
+      "hierarchyPath": "Zahoor Hayat Zahoor Hayat Colony Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21747",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21157",
+      "_highlightResult": {
+          "name": {
+              "value": "Zahoor Hayat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5861,
+      "name": "Zahoor Hayat Colony",
+      "name_l1": "ظہور حیات کالونی",
+      "externalID": "11771",
+      "slug": "/Bhalwal_Zahoor_Hayat_Colony-11771",
+      "slug_l1": "/Bhalwal_Zahoor_Hayat_Colony-11771",
+      "_geoloc": {
+          "lat": 32.269333,
+          "lng": 72.888243
+      },
+      "geography": {
+          "lat": 32.269333,
+          "lng": 72.888243
+      },
+      "geo_point": [
+          72.888243,
+          32.269333
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5861,
+              "level": 3,
+              "externalID": "11771",
+              "name": "Zahoor Hayat Colony",
+              "name_l1": "ظہور حیات کالونی",
+              "slug": "/Bhalwal_Zahoor_Hayat_Colony-11771",
+              "slug_l1": "/Bhalwal_Zahoor_Hayat_Colony-11771"
+          }
+      ],
+      "hierarchyPath": "Zahoor Hayat Colony Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11771",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5861",
+      "_highlightResult": {
+          "name": {
+              "value": "Zahoor Hayat Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21125,
+      "name": "Zahoor Hayat Colony",
+      "name_l1": "ظہور حیات کالونی",
+      "externalID": "21721",
+      "slug": "/Bhalwal_Zahoor_Hayat_Colony_Zahoor_Hayat_Colony-21721",
+      "slug_l1": "/Bhalwal_Zahoor_Hayat_Colony_Zahoor_Hayat_Colony-21721",
+      "_geoloc": {
+          "lat": 35.0,
+          "lng": 74.39839819
+      },
+      "geography": {
+          "lat": 35.0,
+          "lng": 74.39839819
+      },
+      "geo_point": [
+          74.39839819,
+          35.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 167,
+              "level": 2,
+              "externalID": "11142",
+              "name": "Bhalwal",
+              "name_l1": "بھلوال",
+              "slug": "/Bhalwal-11142",
+              "slug_l1": "/Bhalwal-11142"
+          },
+          {
+              "id": 5861,
+              "level": 3,
+              "externalID": "11771",
+              "name": "Zahoor Hayat Colony",
+              "name_l1": "ظہور حیات کالونی",
+              "slug": "/Bhalwal_Zahoor_Hayat_Colony-11771",
+              "slug_l1": "/Bhalwal_Zahoor_Hayat_Colony-11771"
+          },
+          {
+              "id": 21125,
+              "level": 4,
+              "externalID": "21721",
+              "name": "Zahoor Hayat Colony",
+              "name_l1": "ظہور حیات کالونی",
+              "slug": "/Bhalwal_Zahoor_Hayat_Colony_Zahoor_Hayat_Colony-21721",
+              "slug_l1": "/Bhalwal_Zahoor_Hayat_Colony_Zahoor_Hayat_Colony-21721"
+          }
+      ],
+      "hierarchyPath": "Zahoor Hayat Colony Zahoor Hayat Colony Bhalwal Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21721",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21125",
+      "_highlightResult": {
+          "name": {
+              "value": "Zahoor Hayat Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

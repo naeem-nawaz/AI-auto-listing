@@ -1,0 +1,224 @@
+[
+  {
+      "id": 4152,
+      "name": "Hala",
+      "name_l1": "ھالہ",
+      "externalID": "8608",
+      "slug": "/Matiari_Hala-8608",
+      "slug_l1": "/Matiari_Hala-8608",
+      "_geoloc": {
+          "lat": 25.809951,
+          "lng": 68.429726
+      },
+      "geography": {
+          "lat": 25.809951,
+          "lng": 68.429726
+      },
+      "geo_point": [
+          68.429726,
+          25.809951
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 121,
+              "level": 2,
+              "externalID": "8606",
+              "name": "Matiari",
+              "name_l1": "مٹیاری",
+              "slug": "/Matiari-8606",
+              "slug_l1": "/Matiari-8606"
+          },
+          {
+              "id": 4152,
+              "level": 3,
+              "externalID": "8608",
+              "name": "Hala",
+              "name_l1": "ھالہ",
+              "slug": "/Matiari_Hala-8608",
+              "slug_l1": "/Matiari_Hala-8608"
+          }
+      ],
+      "hierarchyPath": "Hala Matiari Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8608",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4152",
+      "_highlightResult": {
+          "name": {
+              "value": "Hala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 121,
+      "name": "Matiari",
+      "name_l1": "مٹیاری",
+      "externalID": "8606",
+      "slug": "/Matiari-8606",
+      "slug_l1": "/Matiari-8606",
+      "_geoloc": {
+          "lat": 25.600103,
+          "lng": 68.450097
+      },
+      "geography": {
+          "lat": 25.600103,
+          "lng": 68.450097
+      },
+      "geo_point": [
+          68.450097,
+          25.600103
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 121,
+              "level": 2,
+              "externalID": "8606",
+              "name": "Matiari",
+              "name_l1": "مٹیاری",
+              "slug": "/Matiari-8606",
+              "slug_l1": "/Matiari-8606"
+          }
+      ],
+      "hierarchyPath": "Matiari Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8606",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "121",
+      "_highlightResult": {
+          "name": {
+              "value": "Matiari",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4155,
+      "name": "Saeedabad",
+      "name_l1": "سعید آباد",
+      "externalID": "8612",
+      "slug": "/Matiari_Saeedabad-8612",
+      "slug_l1": "/Matiari_Saeedabad-8612",
+      "_geoloc": {
+          "lat": 25.963565,
+          "lng": 68.372792
+      },
+      "geography": {
+          "lat": 25.963565,
+          "lng": 68.372792
+      },
+      "geo_point": [
+          68.372792,
+          25.963565
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 121,
+              "level": 2,
+              "externalID": "8606",
+              "name": "Matiari",
+              "name_l1": "مٹیاری",
+              "slug": "/Matiari-8606",
+              "slug_l1": "/Matiari-8606"
+          },
+          {
+              "id": 4155,
+              "level": 3,
+              "externalID": "8612",
+              "name": "Saeedabad",
+              "name_l1": "سعید آباد",
+              "slug": "/Matiari_Saeedabad-8612",
+              "slug_l1": "/Matiari_Saeedabad-8612"
+          }
+      ],
+      "hierarchyPath": "Saeedabad Matiari Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8612",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4155",
+      "_highlightResult": {
+          "name": {
+              "value": "Saeedabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

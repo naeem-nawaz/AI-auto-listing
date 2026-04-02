@@ -1,0 +1,10 @@
+export const PROPERTY_TYPE_GROUPS = ['Home', 'Plots', 'Commercial'];
+export const HOME_PROPERTY_TYPES = ['House', 'Flat', 'Upper Portion', 'Lower Portion', 'Farm House', 'Room', 'Penthouse'];
+export const PLOT_PROPERTY_TYPES = ['Residential Plot', 'Commercial Plot', 'Agricultural', 'Industry Land', 'Plot File', 'Plot Form'];
+export const COMMERCIAL_PROPERTY_TYPES = ['Office', 'Shop', 'Warehouse portion','Factory', 'Building', 'other',];
+export const PURPOSE_OPTIONS = ['Sell', 'Buy', 'Rent'];
+export const PRICE_OPTIONS = ['Rs 200,000', 'Rs 1,000,000+', 'Rs 350,000', 'Rs500,000', 'Rs750,000', 'Custom Price'];
+export const SIZE_UNITS = ['Square Feet ( Sq. Ft.)', 'Square Meters ( Sq. M.)', 'Square Yards ( Sq. Yd.)', 'Marla', 'Kanal'];
+export const BEDROOM_OPTIONS = ['1', '2', '3', '4', '5', '6+'];
+export const BATHROOM_OPTIONS = ['1', '2', '3', '4', '5', '6+'];
+export const FEATURE_OPTIONS = ['Parking', 'Pool', 'Gym', 'Garden', 'Balcony', 'Security'];

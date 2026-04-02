@@ -1,0 +1,1917 @@
+[
+  {
+      "id": 18489,
+      "name": "Agha Nadeem Colony",
+      "name_l1": "آغا ندیم کالونی",
+      "externalID": "19403",
+      "slug": "/Lodhran_Agha_Nadeem_Colony-19403",
+      "slug_l1": "/Lodhran_Agha_Nadeem_Colony-19403",
+      "_geoloc": {
+          "lat": 29.509973,
+          "lng": 71.632846
+      },
+      "geography": {
+          "lat": 29.509973,
+          "lng": 71.632846
+      },
+      "geo_point": [
+          71.632846,
+          29.509973
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 18489,
+              "level": 3,
+              "externalID": "19403",
+              "name": "Agha Nadeem Colony",
+              "name_l1": "آغا ندیم کالونی",
+              "slug": "/Lodhran_Agha_Nadeem_Colony-19403",
+              "slug_l1": "/Lodhran_Agha_Nadeem_Colony-19403"
+          }
+      ],
+      "hierarchyPath": "Agha Nadeem Colony Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19403",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18489",
+      "_highlightResult": {
+          "name": {
+              "value": "Agha Nadeem Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21256,
+      "name": "Al Noor Garden",
+      "name_l1": "النور گارڈن",
+      "externalID": "21846",
+      "slug": "/Lodhran_Lodhran_Bypass_Al_Noor_Garden-21846",
+      "slug_l1": "/Lodhran_Lodhran_Bypass_Al_Noor_Garden-21846",
+      "_geoloc": {
+          "lat": 29.514278631304,
+          "lng": 71.638888472203
+      },
+      "geography": {
+          "lat": 29.514278631304,
+          "lng": 71.638888472203
+      },
+      "geo_point": [
+          71.638888472203,
+          29.514278631304
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 13959,
+              "level": 3,
+              "externalID": "15437",
+              "name": "Lodhran Bypass",
+              "name_l1": "لودھراں بائی پاس",
+              "slug": "/Lodhran_Lodhran_Bypass-15437",
+              "slug_l1": "/Lodhran_Lodhran_Bypass-15437"
+          },
+          {
+              "id": 21256,
+              "level": 4,
+              "externalID": "21846",
+              "name": "Al Noor Garden",
+              "name_l1": "النور گارڈن",
+              "slug": "/Lodhran_Lodhran_Bypass_Al_Noor_Garden-21846",
+              "slug_l1": "/Lodhran_Lodhran_Bypass_Al_Noor_Garden-21846"
+          }
+      ],
+      "hierarchyPath": "Al Noor Garden Lodhran Bypass Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21846",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21256",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Noor Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21255,
+      "name": "Al Noor Orchard",
+      "name_l1": "النور آرچرڈ",
+      "externalID": "21845",
+      "slug": "/Lodhran_Lodhran_Bypass_Al_Noor_Orchard-21845",
+      "slug_l1": "/Lodhran_Lodhran_Bypass_Al_Noor_Orchard-21845",
+      "_geoloc": {
+          "lat": 29.533443408794,
+          "lng": 71.646776147634
+      },
+      "geography": {
+          "lat": 29.533443408794,
+          "lng": 71.646776147634
+      },
+      "geo_point": [
+          71.646776147634,
+          29.533443408794
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 13959,
+              "level": 3,
+              "externalID": "15437",
+              "name": "Lodhran Bypass",
+              "name_l1": "لودھراں بائی پاس",
+              "slug": "/Lodhran_Lodhran_Bypass-15437",
+              "slug_l1": "/Lodhran_Lodhran_Bypass-15437"
+          },
+          {
+              "id": 21255,
+              "level": 4,
+              "externalID": "21845",
+              "name": "Al Noor Orchard",
+              "name_l1": "النور آرچرڈ",
+              "slug": "/Lodhran_Lodhran_Bypass_Al_Noor_Orchard-21845",
+              "slug_l1": "/Lodhran_Lodhran_Bypass_Al_Noor_Orchard-21845"
+          }
+      ],
+      "hierarchyPath": "Al Noor Orchard Lodhran Bypass Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21845",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21255",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Noor Orchard",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15458,
+      "name": "Al-Makkah Orchard Housing Scheme",
+      "name_l1": "ال-مکّہ آرچرڈ ہاؤسنگ سکیم",
+      "externalID": "16900",
+      "slug": "/Lodhran_Kahror_Pakka_Road_Al_Makkah_Orchard_Housing_Scheme-16900",
+      "slug_l1": "/Lodhran_Kahror_Pakka_Road_Al_Makkah_Orchard_Housing_Scheme-16900",
+      "_geoloc": {
+          "lat": 29.548559,
+          "lng": 71.653868
+      },
+      "geography": {
+          "lat": 29.548559,
+          "lng": 71.653868
+      },
+      "geo_point": [
+          71.653868,
+          29.548559
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5131,
+              "level": 3,
+              "externalID": "10333",
+              "name": "Kahror Pakka Road",
+              "name_l1": "کہرور پکا روڈ",
+              "slug": "/Lodhran_Kahror_Pakka_Road-10333",
+              "slug_l1": "/Lodhran_Kahror_Pakka_Road-10333"
+          },
+          {
+              "id": 15458,
+              "level": 4,
+              "externalID": "16900",
+              "name": "Al-Makkah Orchard Housing Scheme",
+              "name_l1": "ال-مکّہ آرچرڈ ہاؤسنگ سکیم",
+              "slug": "/Lodhran_Kahror_Pakka_Road_Al_Makkah_Orchard_Housing_Scheme-16900",
+              "slug_l1": "/Lodhran_Kahror_Pakka_Road_Al_Makkah_Orchard_Housing_Scheme-16900"
+          }
+      ],
+      "hierarchyPath": "Al-Makkah Orchard Housing Scheme Kahror Pakka Road Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16900",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15458",
+      "_highlightResult": {
+          "name": {
+              "value": "Al-Makkah Orchard Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15202,
+      "name": "B Colony",
+      "name_l1": "بی کالونی",
+      "externalID": "16685",
+      "slug": "/Lodhran_B_Colony-16685",
+      "slug_l1": "/Lodhran_B_Colony-16685",
+      "_geoloc": {
+          "lat": 29.514873,
+          "lng": 71.631895
+      },
+      "geography": {
+          "lat": 29.514873,
+          "lng": 71.631895
+      },
+      "geo_point": [
+          71.631895,
+          29.514873
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 15202,
+              "level": 3,
+              "externalID": "16685",
+              "name": "B Colony",
+              "name_l1": "بی کالونی",
+              "slug": "/Lodhran_B_Colony-16685",
+              "slug_l1": "/Lodhran_B_Colony-16685"
+          }
+      ],
+      "hierarchyPath": "B Colony Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16685",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15202",
+      "_highlightResult": {
+          "name": {
+              "value": "B Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11938,
+      "name": "Ghalla Mandi Road",
+      "name_l1": "غلہ منڈی روڈ",
+      "externalID": "13459",
+      "slug": "/Lodhran_Ghalla_Mandi_Road-13459",
+      "slug_l1": "/Lodhran_Ghalla_Mandi_Road-13459",
+      "_geoloc": {
+          "lat": 29.535443,
+          "lng": 71.629051
+      },
+      "geography": {
+          "lat": 29.535443,
+          "lng": 71.629051
+      },
+      "geo_point": [
+          71.629051,
+          29.535443
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 11938,
+              "level": 3,
+              "externalID": "13459",
+              "name": "Ghalla Mandi Road",
+              "name_l1": "غلہ منڈی روڈ",
+              "slug": "/Lodhran_Ghalla_Mandi_Road-13459",
+              "slug_l1": "/Lodhran_Ghalla_Mandi_Road-13459"
+          }
+      ],
+      "hierarchyPath": "Ghalla Mandi Road Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13459",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11938",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghalla Mandi Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5077,
+      "name": "Gulberg Colony",
+      "name_l1": "گلبرگ کالونی",
+      "externalID": "10263",
+      "slug": "/Lodhran_Gulberg_Colony-10263",
+      "slug_l1": "/Lodhran_Gulberg_Colony-10263",
+      "_geoloc": {
+          "lat": 29.550276,
+          "lng": 71.651213
+      },
+      "geography": {
+          "lat": 29.550276,
+          "lng": 71.651213
+      },
+      "geo_point": [
+          71.651213,
+          29.550276
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5077,
+              "level": 3,
+              "externalID": "10263",
+              "name": "Gulberg Colony",
+              "name_l1": "گلبرگ کالونی",
+              "slug": "/Lodhran_Gulberg_Colony-10263",
+              "slug_l1": "/Lodhran_Gulberg_Colony-10263"
+          }
+      ],
+      "hierarchyPath": "Gulberg Colony Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10263",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5077",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulberg Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18490,
+      "name": "Jalalpur Road",
+      "name_l1": "جلال پور روڈ",
+      "externalID": "19404",
+      "slug": "/Lodhran_Jalalpur_Road-19404",
+      "slug_l1": "/Lodhran_Jalalpur_Road-19404",
+      "_geoloc": {
+          "lat": 29.7085313,
+          "lng": 71.4527342
+      },
+      "geography": {
+          "lat": 29.7085313,
+          "lng": 71.4527342
+      },
+      "geo_point": [
+          71.4527342,
+          29.7085313
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 18490,
+              "level": 3,
+              "externalID": "19404",
+              "name": "Jalalpur Road",
+              "name_l1": "جلال پور روڈ",
+              "slug": "/Lodhran_Jalalpur_Road-19404",
+              "slug_l1": "/Lodhran_Jalalpur_Road-19404"
+          }
+      ],
+      "hierarchyPath": "Jalalpur Road Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19404",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18490",
+      "_highlightResult": {
+          "name": {
+              "value": "Jalalpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5131,
+      "name": "Kahror Pakka Road",
+      "name_l1": "کہرور پکا روڈ",
+      "externalID": "10333",
+      "slug": "/Lodhran_Kahror_Pakka_Road-10333",
+      "slug_l1": "/Lodhran_Kahror_Pakka_Road-10333",
+      "_geoloc": {
+          "lat": 29.548328,
+          "lng": 71.650116
+      },
+      "geography": {
+          "lat": 29.548328,
+          "lng": 71.650116
+      },
+      "geo_point": [
+          71.650116,
+          29.548328
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5131,
+              "level": 3,
+              "externalID": "10333",
+              "name": "Kahror Pakka Road",
+              "name_l1": "کہرور پکا روڈ",
+              "slug": "/Lodhran_Kahror_Pakka_Road-10333",
+              "slug_l1": "/Lodhran_Kahror_Pakka_Road-10333"
+          }
+      ],
+      "hierarchyPath": "Kahror Pakka Road Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10333",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5131",
+      "_highlightResult": {
+          "name": {
+              "value": "Kahror Pakka Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 146,
+      "name": "Lodhran",
+      "name_l1": "لودھران",
+      "externalID": "9872",
+      "slug": "/Lodhran-9872",
+      "slug_l1": "/Lodhran-9872",
+      "_geoloc": {
+          "lat": 29.540343,
+          "lng": 71.631549
+      },
+      "geography": {
+          "lat": 29.540343,
+          "lng": 71.631549
+      },
+      "geo_point": [
+          71.631549,
+          29.540343
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          }
+      ],
+      "hierarchyPath": "Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9872",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "146",
+      "_highlightResult": {
+          "name": {
+              "value": "Lodhran",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13959,
+      "name": "Lodhran Bypass",
+      "name_l1": "لودھراں بائی پاس",
+      "externalID": "15437",
+      "slug": "/Lodhran_Lodhran_Bypass-15437",
+      "slug_l1": "/Lodhran_Lodhran_Bypass-15437",
+      "_geoloc": {
+          "lat": 29.561372,
+          "lng": 71.651459
+      },
+      "geography": {
+          "lat": 29.561372,
+          "lng": 71.651459
+      },
+      "geo_point": [
+          71.651459,
+          29.561372
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 13959,
+              "level": 3,
+              "externalID": "15437",
+              "name": "Lodhran Bypass",
+              "name_l1": "لودھراں بائی پاس",
+              "slug": "/Lodhran_Lodhran_Bypass-15437",
+              "slug_l1": "/Lodhran_Lodhran_Bypass-15437"
+          }
+      ],
+      "hierarchyPath": "Lodhran Bypass Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15437",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "13959",
+      "_highlightResult": {
+          "name": {
+              "value": "Lodhran Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8964,
+      "name": "Model City",
+      "name_l1": "مآڈل سٹی",
+      "externalID": "11409",
+      "slug": "/Lodhran_National_Highway_5_Model_City-11409",
+      "slug_l1": "/Lodhran_National_Highway_5_Model_City-11409",
+      "_geoloc": {
+          "lat": 29.535675,
+          "lng": 71.650184
+      },
+      "geography": {
+          "lat": 29.535675,
+          "lng": 71.650184
+      },
+      "geo_point": [
+          71.650184,
+          29.535675
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5699,
+              "level": 3,
+              "externalID": "11404",
+              "name": "National Highway 5",
+              "name_l1": "نیشنل ہائی وے 5",
+              "slug": "/Lodhran_National_Highway_5-11404",
+              "slug_l1": "/Lodhran_National_Highway_5-11404"
+          },
+          {
+              "id": 8964,
+              "level": 4,
+              "externalID": "11409",
+              "name": "Model City",
+              "name_l1": "مآڈل سٹی",
+              "slug": "/Lodhran_National_Highway_5_Model_City-11409",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City-11409"
+          }
+      ],
+      "hierarchyPath": "Model City National Highway 5 Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11409",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "8964",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13339,
+      "name": "Model City Block A",
+      "name_l1": "ماڈل سٹی بلاک اے",
+      "externalID": "14789",
+      "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A-14789",
+      "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A-14789",
+      "_geoloc": {
+          "lat": 29.53764222,
+          "lng": 71.64922198
+      },
+      "geography": {
+          "lat": 29.53764222,
+          "lng": 71.64922198
+      },
+      "geo_point": [
+          71.64922198,
+          29.53764222
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5699,
+              "level": 3,
+              "externalID": "11404",
+              "name": "National Highway 5",
+              "name_l1": "نیشنل ہائی وے 5",
+              "slug": "/Lodhran_National_Highway_5-11404",
+              "slug_l1": "/Lodhran_National_Highway_5-11404"
+          },
+          {
+              "id": 8964,
+              "level": 4,
+              "externalID": "11409",
+              "name": "Model City",
+              "name_l1": "مآڈل سٹی",
+              "slug": "/Lodhran_National_Highway_5_Model_City-11409",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City-11409"
+          },
+          {
+              "id": 13339,
+              "level": 5,
+              "externalID": "14789",
+              "name": "Model City Block A",
+              "name_l1": "ماڈل سٹی بلاک اے",
+              "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A-14789",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A-14789"
+          }
+      ],
+      "hierarchyPath": "Model City Block A Model City National Highway 5 Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14789",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13339",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13340,
+      "name": "Model City Block A1",
+      "name_l1": "ماڈل سٹی بلاک اے1",
+      "externalID": "14791",
+      "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A1-14791",
+      "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A1-14791",
+      "_geoloc": {
+          "lat": 29.5361637,
+          "lng": 71.64915257
+      },
+      "geography": {
+          "lat": 29.5361637,
+          "lng": 71.64915257
+      },
+      "geo_point": [
+          71.64915257,
+          29.5361637
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5699,
+              "level": 3,
+              "externalID": "11404",
+              "name": "National Highway 5",
+              "name_l1": "نیشنل ہائی وے 5",
+              "slug": "/Lodhran_National_Highway_5-11404",
+              "slug_l1": "/Lodhran_National_Highway_5-11404"
+          },
+          {
+              "id": 8964,
+              "level": 4,
+              "externalID": "11409",
+              "name": "Model City",
+              "name_l1": "مآڈل سٹی",
+              "slug": "/Lodhran_National_Highway_5_Model_City-11409",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City-11409"
+          },
+          {
+              "id": 13340,
+              "level": 5,
+              "externalID": "14791",
+              "name": "Model City Block A1",
+              "name_l1": "ماڈل سٹی بلاک اے1",
+              "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A1-14791",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A1-14791"
+          }
+      ],
+      "hierarchyPath": "Model City Block A1 Model City National Highway 5 Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14791",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13340",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City Block A1",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13343,
+      "name": "Model City Block A2",
+      "name_l1": "ماڈل سٹی بلاک اے2",
+      "externalID": "14794",
+      "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A2-14794",
+      "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A2-14794",
+      "_geoloc": {
+          "lat": 29.53454132,
+          "lng": 71.65003515
+      },
+      "geography": {
+          "lat": 29.53454132,
+          "lng": 71.65003515
+      },
+      "geo_point": [
+          71.65003515,
+          29.53454132
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5699,
+              "level": 3,
+              "externalID": "11404",
+              "name": "National Highway 5",
+              "name_l1": "نیشنل ہائی وے 5",
+              "slug": "/Lodhran_National_Highway_5-11404",
+              "slug_l1": "/Lodhran_National_Highway_5-11404"
+          },
+          {
+              "id": 8964,
+              "level": 4,
+              "externalID": "11409",
+              "name": "Model City",
+              "name_l1": "مآڈل سٹی",
+              "slug": "/Lodhran_National_Highway_5_Model_City-11409",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City-11409"
+          },
+          {
+              "id": 13343,
+              "level": 5,
+              "externalID": "14794",
+              "name": "Model City Block A2",
+              "name_l1": "ماڈل سٹی بلاک اے2",
+              "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A2-14794",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_A2-14794"
+          }
+      ],
+      "hierarchyPath": "Model City Block A2 Model City National Highway 5 Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14794",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13343",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City Block A2",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13345,
+      "name": "Model City Block B",
+      "name_l1": "ماڈل سٹی بلاک بی",
+      "externalID": "14797",
+      "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B-14797",
+      "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B-14797",
+      "_geoloc": {
+          "lat": 29.53740246,
+          "lng": 71.65224602
+      },
+      "geography": {
+          "lat": 29.53740246,
+          "lng": 71.65224602
+      },
+      "geo_point": [
+          71.65224602,
+          29.53740246
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5699,
+              "level": 3,
+              "externalID": "11404",
+              "name": "National Highway 5",
+              "name_l1": "نیشنل ہائی وے 5",
+              "slug": "/Lodhran_National_Highway_5-11404",
+              "slug_l1": "/Lodhran_National_Highway_5-11404"
+          },
+          {
+              "id": 8964,
+              "level": 4,
+              "externalID": "11409",
+              "name": "Model City",
+              "name_l1": "مآڈل سٹی",
+              "slug": "/Lodhran_National_Highway_5_Model_City-11409",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City-11409"
+          },
+          {
+              "id": 13345,
+              "level": 5,
+              "externalID": "14797",
+              "name": "Model City Block B",
+              "name_l1": "ماڈل سٹی بلاک بی",
+              "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B-14797",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B-14797"
+          }
+      ],
+      "hierarchyPath": "Model City Block B Model City National Highway 5 Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14797",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13345",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13346,
+      "name": "Model City Block B1",
+      "name_l1": "ماڈل سٹی بلاک بی1",
+      "externalID": "14798",
+      "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B1-14798",
+      "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B1-14798",
+      "_geoloc": {
+          "lat": 29.53614599,
+          "lng": 71.65230744
+      },
+      "geography": {
+          "lat": 29.53614599,
+          "lng": 71.65230744
+      },
+      "geo_point": [
+          71.65230744,
+          29.53614599
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5699,
+              "level": 3,
+              "externalID": "11404",
+              "name": "National Highway 5",
+              "name_l1": "نیشنل ہائی وے 5",
+              "slug": "/Lodhran_National_Highway_5-11404",
+              "slug_l1": "/Lodhran_National_Highway_5-11404"
+          },
+          {
+              "id": 8964,
+              "level": 4,
+              "externalID": "11409",
+              "name": "Model City",
+              "name_l1": "مآڈل سٹی",
+              "slug": "/Lodhran_National_Highway_5_Model_City-11409",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City-11409"
+          },
+          {
+              "id": 13346,
+              "level": 5,
+              "externalID": "14798",
+              "name": "Model City Block B1",
+              "name_l1": "ماڈل سٹی بلاک بی1",
+              "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B1-14798",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B1-14798"
+          }
+      ],
+      "hierarchyPath": "Model City Block B1 Model City National Highway 5 Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14798",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13346",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City Block B1",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13349,
+      "name": "Model City Block B2",
+      "name_l1": "ماڈل سٹی بلاک بی2",
+      "externalID": "14801",
+      "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B2-14801",
+      "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B2-14801",
+      "_geoloc": {
+          "lat": 29.53434682,
+          "lng": 71.65203298
+      },
+      "geography": {
+          "lat": 29.53434682,
+          "lng": 71.65203298
+      },
+      "geo_point": [
+          71.65203298,
+          29.53434682
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5699,
+              "level": 3,
+              "externalID": "11404",
+              "name": "National Highway 5",
+              "name_l1": "نیشنل ہائی وے 5",
+              "slug": "/Lodhran_National_Highway_5-11404",
+              "slug_l1": "/Lodhran_National_Highway_5-11404"
+          },
+          {
+              "id": 8964,
+              "level": 4,
+              "externalID": "11409",
+              "name": "Model City",
+              "name_l1": "مآڈل سٹی",
+              "slug": "/Lodhran_National_Highway_5_Model_City-11409",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City-11409"
+          },
+          {
+              "id": 13349,
+              "level": 5,
+              "externalID": "14801",
+              "name": "Model City Block B2",
+              "name_l1": "ماڈل سٹی بلاک بی2",
+              "slug": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B2-14801",
+              "slug_l1": "/Lodhran_National_Highway_5_Model_City_Model_City_Block_B2-14801"
+          }
+      ],
+      "hierarchyPath": "Model City Block B2 Model City National Highway 5 Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14801",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13349",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City Block B2",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21254,
+      "name": "Model View Housing Society",
+      "name_l1": "ماڈل ویو ہاؤسنگ سوسائٹی",
+      "externalID": "21844",
+      "slug": "/Lodhran_Lodhran_Bypass_Model_View_Housing_Society-21844",
+      "slug_l1": "/Lodhran_Lodhran_Bypass_Model_View_Housing_Society-21844",
+      "_geoloc": {
+          "lat": 29.569633199685,
+          "lng": 71.650602599711
+      },
+      "geography": {
+          "lat": 29.569633199685,
+          "lng": 71.650602599711
+      },
+      "geo_point": [
+          71.650602599711,
+          29.569633199685
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 13959,
+              "level": 3,
+              "externalID": "15437",
+              "name": "Lodhran Bypass",
+              "name_l1": "لودھراں بائی پاس",
+              "slug": "/Lodhran_Lodhran_Bypass-15437",
+              "slug_l1": "/Lodhran_Lodhran_Bypass-15437"
+          },
+          {
+              "id": 21254,
+              "level": 4,
+              "externalID": "21844",
+              "name": "Model View Housing Society",
+              "name_l1": "ماڈل ویو ہاؤسنگ سوسائٹی",
+              "slug": "/Lodhran_Lodhran_Bypass_Model_View_Housing_Society-21844",
+              "slug_l1": "/Lodhran_Lodhran_Bypass_Model_View_Housing_Society-21844"
+          }
+      ],
+      "hierarchyPath": "Model View Housing Society Lodhran Bypass Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21844",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21254",
+      "_highlightResult": {
+          "name": {
+              "value": "Model View Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5263,
+      "name": "Multan Road",
+      "name_l1": "ملتان روڈ",
+      "externalID": "10582",
+      "slug": "/Lodhran_Multan_Road-10582",
+      "slug_l1": "/Lodhran_Multan_Road-10582",
+      "_geoloc": {
+          "lat": 29.549862,
+          "lng": 71.626603
+      },
+      "geography": {
+          "lat": 29.549862,
+          "lng": 71.626603
+      },
+      "geo_point": [
+          71.626603,
+          29.549862
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5263,
+              "level": 3,
+              "externalID": "10582",
+              "name": "Multan Road",
+              "name_l1": "ملتان روڈ",
+              "slug": "/Lodhran_Multan_Road-10582",
+              "slug_l1": "/Lodhran_Multan_Road-10582"
+          }
+      ],
+      "hierarchyPath": "Multan Road Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10582",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5263",
+      "_highlightResult": {
+          "name": {
+              "value": "Multan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5699,
+      "name": "National Highway 5",
+      "name_l1": "نیشنل ہائی وے 5",
+      "externalID": "11404",
+      "slug": "/Lodhran_National_Highway_5-11404",
+      "slug_l1": "/Lodhran_National_Highway_5-11404",
+      "_geoloc": {
+          "lat": 29.5365,
+          "lng": 71.646721
+      },
+      "geography": {
+          "lat": 29.5365,
+          "lng": 71.646721
+      },
+      "geo_point": [
+          71.646721,
+          29.5365
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 5699,
+              "level": 3,
+              "externalID": "11404",
+              "name": "National Highway 5",
+              "name_l1": "نیشنل ہائی وے 5",
+              "slug": "/Lodhran_National_Highway_5-11404",
+              "slug_l1": "/Lodhran_National_Highway_5-11404"
+          }
+      ],
+      "hierarchyPath": "National Highway 5 Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11404",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5699",
+      "_highlightResult": {
+          "name": {
+              "value": "National Highway 5",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6274,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "12623",
+      "slug": "/Lodhran_Others-12623",
+      "slug_l1": "/Lodhran_Others-12623",
+      "_geoloc": {
+          "lat": 29.540171,
+          "lng": 71.632554
+      },
+      "geography": {
+          "lat": 29.540171,
+          "lng": 71.632554
+      },
+      "geo_point": [
+          71.632554,
+          29.540171
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 6274,
+              "level": 3,
+              "externalID": "12623",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Lodhran_Others-12623",
+              "slug_l1": "/Lodhran_Others-12623"
+          }
+      ],
+      "hierarchyPath": "Others Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12623",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6274",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21329,
+      "name": "Punjab Government Servants Housing Foundation",
+      "name_l1": "پنجاب گورنمنٹ سرونٹ ہاؤسنگ فاؤنڈیشن",
+      "externalID": "21918",
+      "slug": "/Lodhran_Punjab_Government_Servants_Housing_Foundation-21918",
+      "slug_l1": "/Lodhran_Punjab_Government_Servants_Housing_Foundation-21918",
+      "_geoloc": {
+          "lat": 29.497242424071,
+          "lng": 71.628573613742
+      },
+      "geography": {
+          "lat": 29.497242424071,
+          "lng": 71.628573613742
+      },
+      "geo_point": [
+          71.628573613742,
+          29.497242424071
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 146,
+              "level": 2,
+              "externalID": "9872",
+              "name": "Lodhran",
+              "name_l1": "لودھران",
+              "slug": "/Lodhran-9872",
+              "slug_l1": "/Lodhran-9872"
+          },
+          {
+              "id": 21329,
+              "level": 3,
+              "externalID": "21918",
+              "name": "Punjab Government Servants Housing Foundation",
+              "name_l1": "پنجاب گورنمنٹ سرونٹ ہاؤسنگ فاؤنڈیشن",
+              "slug": "/Lodhran_Punjab_Government_Servants_Housing_Foundation-21918",
+              "slug_l1": "/Lodhran_Punjab_Government_Servants_Housing_Foundation-21918"
+          }
+      ],
+      "hierarchyPath": "Punjab Government Servants Housing Foundation Lodhran Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21918",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21329",
+      "_highlightResult": {
+          "name": {
+              "value": "Punjab Government Servants Housing Foundation",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

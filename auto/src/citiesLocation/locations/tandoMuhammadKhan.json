@@ -1,0 +1,2211 @@
+[
+  {
+      "id": 11639,
+      "name": "Tando Muhammad Khan",
+      "name_l1": "ٹنڈو محمد خان",
+      "externalID": "13166",
+      "slug": "/Tando_Muhammad_Khan-13166",
+      "slug_l1": "/Tando_Muhammad_Khan-13166",
+      "_geoloc": {
+          "lat": 25.125317,
+          "lng": 68.540195
+      },
+      "geography": {
+          "lat": 25.125317,
+          "lng": 68.540195
+      },
+      "geo_point": [
+          68.540195,
+          25.125317
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          }
+      ],
+      "hierarchyPath": "Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 27,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13166",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11639",
+      "_highlightResult": {
+          "name": {
+              "value": "Tando Muhammad Khan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19857,
+      "name": "Hyderabad - Badin Road",
+      "name_l1": "حیدرآباد بدین روڈ",
+      "externalID": "20643",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+      "_geoloc": {
+          "lat": 25.14249773409,
+          "lng": 68.531396016141
+      },
+      "geography": {
+          "lat": 25.14249773409,
+          "lng": 68.531396016141
+      },
+      "geo_point": [
+          68.531396016141,
+          25.14249773409
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          }
+      ],
+      "hierarchyPath": "Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 12,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20643",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "19857",
+      "_highlightResult": {
+          "name": {
+              "value": "Hyderabad - Badin Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20073,
+      "name": "Goth Tando Saindad",
+      "name_l1": "گوٹھ ٹنڈو سائیںداد",
+      "externalID": "20816",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Goth_Tando_Saindad-20816",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Goth_Tando_Saindad-20816",
+      "_geoloc": {
+          "lat": 25.141749258202,
+          "lng": 68.528841666021
+      },
+      "geography": {
+          "lat": 25.141749258202,
+          "lng": 68.528841666021
+      },
+      "geo_point": [
+          68.528841666021,
+          25.141749258202
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 20073,
+              "level": 4,
+              "externalID": "20816",
+              "name": "Goth Tando Saindad",
+              "name_l1": "گوٹھ ٹنڈو سائیںداد",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Goth_Tando_Saindad-20816",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Goth_Tando_Saindad-20816"
+          }
+      ],
+      "hierarchyPath": "Goth Tando Saindad Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20816",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20073",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Tando Saindad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11671,
+      "name": "Memon Colony",
+      "name_l1": "میمن کالونی",
+      "externalID": "13196",
+      "slug": "/Tando_Muhammad_Khan_Memon_Colony-13196",
+      "slug_l1": "/Tando_Muhammad_Khan_Memon_Colony-13196",
+      "_geoloc": {
+          "lat": 25.121336,
+          "lng": 68.535209
+      },
+      "geography": {
+          "lat": 25.121336,
+          "lng": 68.535209
+      },
+      "geo_point": [
+          68.535209,
+          25.121336
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 11671,
+              "level": 3,
+              "externalID": "13196",
+              "name": "Memon Colony",
+              "name_l1": "میمن کالونی",
+              "slug": "/Tando_Muhammad_Khan_Memon_Colony-13196",
+              "slug_l1": "/Tando_Muhammad_Khan_Memon_Colony-13196"
+          }
+      ],
+      "hierarchyPath": "Memon Colony Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13196",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11671",
+      "_highlightResult": {
+          "name": {
+              "value": "Memon Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11673,
+      "name": "College Road",
+      "name_l1": "کالج روڈ",
+      "externalID": "13198",
+      "slug": "/Tando_Muhammad_Khan_College_Road-13198",
+      "slug_l1": "/Tando_Muhammad_Khan_College_Road-13198",
+      "_geoloc": {
+          "lat": 25.123106,
+          "lng": 68.541433
+      },
+      "geography": {
+          "lat": 25.123106,
+          "lng": 68.541433
+      },
+      "geo_point": [
+          68.541433,
+          25.123106
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 11673,
+              "level": 3,
+              "externalID": "13198",
+              "name": "College Road",
+              "name_l1": "کالج روڈ",
+              "slug": "/Tando_Muhammad_Khan_College_Road-13198",
+              "slug_l1": "/Tando_Muhammad_Khan_College_Road-13198"
+          }
+      ],
+      "hierarchyPath": "College Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13198",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11673",
+      "_highlightResult": {
+          "name": {
+              "value": "College Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11668,
+      "name": "Gulshan Faiz Colony",
+      "name_l1": "گلشن فیض کالونی",
+      "externalID": "13193",
+      "slug": "/Tando_Muhammad_Khan_Gulshan_Faiz_Colony-13193",
+      "slug_l1": "/Tando_Muhammad_Khan_Gulshan_Faiz_Colony-13193",
+      "_geoloc": {
+          "lat": 25.127894,
+          "lng": 68.541749
+      },
+      "geography": {
+          "lat": 25.127894,
+          "lng": 68.541749
+      },
+      "geo_point": [
+          68.541749,
+          25.127894
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 11668,
+              "level": 3,
+              "externalID": "13193",
+              "name": "Gulshan Faiz Colony",
+              "name_l1": "گلشن فیض کالونی",
+              "slug": "/Tando_Muhammad_Khan_Gulshan_Faiz_Colony-13193",
+              "slug_l1": "/Tando_Muhammad_Khan_Gulshan_Faiz_Colony-13193"
+          }
+      ],
+      "hierarchyPath": "Gulshan Faiz Colony Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13193",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11668",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan Faiz Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11669,
+      "name": "Soomro Mohalla",
+      "name_l1": "سومرو محلہ",
+      "externalID": "13194",
+      "slug": "/Tando_Muhammad_Khan_Soomro_Mohalla-13194",
+      "slug_l1": "/Tando_Muhammad_Khan_Soomro_Mohalla-13194",
+      "_geoloc": {
+          "lat": 25.129015,
+          "lng": 68.541703
+      },
+      "geography": {
+          "lat": 25.129015,
+          "lng": 68.541703
+      },
+      "geo_point": [
+          68.541703,
+          25.129015
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 11669,
+              "level": 3,
+              "externalID": "13194",
+              "name": "Soomro Mohalla",
+              "name_l1": "سومرو محلہ",
+              "slug": "/Tando_Muhammad_Khan_Soomro_Mohalla-13194",
+              "slug_l1": "/Tando_Muhammad_Khan_Soomro_Mohalla-13194"
+          }
+      ],
+      "hierarchyPath": "Soomro Mohalla Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13194",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11669",
+      "_highlightResult": {
+          "name": {
+              "value": "Soomro Mohalla",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19858,
+      "name": "Bin Khalid Housing Scheme",
+      "name_l1": "بن خالد ہاؤسنگ سکیم",
+      "externalID": "20644",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme-20644",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme-20644",
+      "_geoloc": {
+          "lat": 25.1362937954,
+          "lng": 68.530643562628
+      },
+      "geography": {
+          "lat": 25.1362937954,
+          "lng": 68.530643562628
+      },
+      "geo_point": [
+          68.530643562628,
+          25.1362937954
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19858,
+              "level": 4,
+              "externalID": "20644",
+              "name": "Bin Khalid Housing Scheme",
+              "name_l1": "بن خالد ہاؤسنگ سکیم",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme-20644",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme-20644"
+          }
+      ],
+      "hierarchyPath": "Bin Khalid Housing Scheme Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20644",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "19858",
+      "_highlightResult": {
+          "name": {
+              "value": "Bin Khalid Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19860,
+      "name": "Bin Khalid Housing Scheme - Amaan Block",
+      "name_l1": "بن خالد ہاؤسنگ سکیم - امان بلاک",
+      "externalID": "20645",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme_Bin_Khalid_Housing_Scheme___Amaan_Block-20645",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme_Bin_Khalid_Housing_Scheme___Amaan_Block-20645",
+      "_geoloc": {
+          "lat": 25.136546258982,
+          "lng": 68.529671296342
+      },
+      "geography": {
+          "lat": 25.136546258982,
+          "lng": 68.529671296342
+      },
+      "geo_point": [
+          68.529671296342,
+          25.136546258982
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19858,
+              "level": 4,
+              "externalID": "20644",
+              "name": "Bin Khalid Housing Scheme",
+              "name_l1": "بن خالد ہاؤسنگ سکیم",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme-20644",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme-20644"
+          },
+          {
+              "id": 19860,
+              "level": 5,
+              "externalID": "20645",
+              "name": "Bin Khalid Housing Scheme - Amaan Block",
+              "name_l1": "بن خالد ہاؤسنگ سکیم - امان بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme_Bin_Khalid_Housing_Scheme___Amaan_Block-20645",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme_Bin_Khalid_Housing_Scheme___Amaan_Block-20645"
+          }
+      ],
+      "hierarchyPath": "Bin Khalid Housing Scheme - Amaan Block Bin Khalid Housing Scheme Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20645",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19860",
+      "_highlightResult": {
+          "name": {
+              "value": "Bin Khalid Housing Scheme - Amaan Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19861,
+      "name": "Bin Khalid Housing Scheme - Hassan Block",
+      "name_l1": "بن خالد ہاؤسنگ سکیم - حسن بلاک",
+      "externalID": "20646",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme_Bin_Khalid_Housing_Scheme___Hassan_Block-20646",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme_Bin_Khalid_Housing_Scheme___Hassan_Block-20646",
+      "_geoloc": {
+          "lat": 25.136090017547,
+          "lng": 68.531428334569
+      },
+      "geography": {
+          "lat": 25.136090017547,
+          "lng": 68.531428334569
+      },
+      "geo_point": [
+          68.531428334569,
+          25.136090017547
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19858,
+              "level": 4,
+              "externalID": "20644",
+              "name": "Bin Khalid Housing Scheme",
+              "name_l1": "بن خالد ہاؤسنگ سکیم",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme-20644",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme-20644"
+          },
+          {
+              "id": 19861,
+              "level": 5,
+              "externalID": "20646",
+              "name": "Bin Khalid Housing Scheme - Hassan Block",
+              "name_l1": "بن خالد ہاؤسنگ سکیم - حسن بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme_Bin_Khalid_Housing_Scheme___Hassan_Block-20646",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Bin_Khalid_Housing_Scheme_Bin_Khalid_Housing_Scheme___Hassan_Block-20646"
+          }
+      ],
+      "hierarchyPath": "Bin Khalid Housing Scheme - Hassan Block Bin Khalid Housing Scheme Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20646",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19861",
+      "_highlightResult": {
+          "name": {
+              "value": "Bin Khalid Housing Scheme - Hassan Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11674,
+      "name": "Canal Road",
+      "name_l1": "کینال روڈ",
+      "externalID": "13199",
+      "slug": "/Tando_Muhammad_Khan_Canal_Road-13199",
+      "slug_l1": "/Tando_Muhammad_Khan_Canal_Road-13199",
+      "_geoloc": {
+          "lat": 25.127264,
+          "lng": 68.546984
+      },
+      "geography": {
+          "lat": 25.127264,
+          "lng": 68.546984
+      },
+      "geo_point": [
+          68.546984,
+          25.127264
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 11674,
+              "level": 3,
+              "externalID": "13199",
+              "name": "Canal Road",
+              "name_l1": "کینال روڈ",
+              "slug": "/Tando_Muhammad_Khan_Canal_Road-13199",
+              "slug_l1": "/Tando_Muhammad_Khan_Canal_Road-13199"
+          }
+      ],
+      "hierarchyPath": "Canal Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13199",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11674",
+      "_highlightResult": {
+          "name": {
+              "value": "Canal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11672,
+      "name": "Khoja Mohalla",
+      "name_l1": "خوجہ محلہ",
+      "externalID": "13197",
+      "slug": "/Tando_Muhammad_Khan_Khoja_Mohalla-13197",
+      "slug_l1": "/Tando_Muhammad_Khan_Khoja_Mohalla-13197",
+      "_geoloc": {
+          "lat": 25.131471,
+          "lng": 68.5426
+      },
+      "geography": {
+          "lat": 25.131471,
+          "lng": 68.5426
+      },
+      "geo_point": [
+          68.5426,
+          25.131471
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 11672,
+              "level": 3,
+              "externalID": "13197",
+              "name": "Khoja Mohalla",
+              "name_l1": "خوجہ محلہ",
+              "slug": "/Tando_Muhammad_Khan_Khoja_Mohalla-13197",
+              "slug_l1": "/Tando_Muhammad_Khan_Khoja_Mohalla-13197"
+          }
+      ],
+      "hierarchyPath": "Khoja Mohalla Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13197",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11672",
+      "_highlightResult": {
+          "name": {
+              "value": "Khoja Mohalla",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17791,
+      "name": "Nawab Town",
+      "name_l1": "نواب ٹاؤن",
+      "externalID": "18858",
+      "slug": "/Tando_Muhammad_Khan_Nawab_Town-18858",
+      "slug_l1": "/Tando_Muhammad_Khan_Nawab_Town-18858",
+      "_geoloc": {
+          "lat": 25.131697,
+          "lng": 68.529181
+      },
+      "geography": {
+          "lat": 25.131697,
+          "lng": 68.529181
+      },
+      "geo_point": [
+          68.529181,
+          25.131697
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 17791,
+              "level": 3,
+              "externalID": "18858",
+              "name": "Nawab Town",
+              "name_l1": "نواب ٹاؤن",
+              "slug": "/Tando_Muhammad_Khan_Nawab_Town-18858",
+              "slug_l1": "/Tando_Muhammad_Khan_Nawab_Town-18858"
+          }
+      ],
+      "hierarchyPath": "Nawab Town Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18858",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17791",
+      "_highlightResult": {
+          "name": {
+              "value": "Nawab Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19859,
+      "name": "Neem Residency Housing Scheme",
+      "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم",
+      "externalID": "20647",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647",
+      "_geoloc": {
+          "lat": 25.15108117238,
+          "lng": 68.520691182223
+      },
+      "geography": {
+          "lat": 25.15108117238,
+          "lng": 68.520691182223
+      },
+      "geo_point": [
+          68.520691182223,
+          25.15108117238
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19859,
+              "level": 4,
+              "externalID": "20647",
+              "name": "Neem Residency Housing Scheme",
+              "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647"
+          }
+      ],
+      "hierarchyPath": "Neem Residency Housing Scheme Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20647",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "19859",
+      "_highlightResult": {
+          "name": {
+              "value": "Neem Residency Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19862,
+      "name": "Neem Residency Housing Scheme - A Block",
+      "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم - اے بلاک",
+      "externalID": "20648",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___A_Block-20648",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___A_Block-20648",
+      "_geoloc": {
+          "lat": 25.151299650613,
+          "lng": 68.520412921323
+      },
+      "geography": {
+          "lat": 25.151299650613,
+          "lng": 68.520412921323
+      },
+      "geo_point": [
+          68.520412921323,
+          25.151299650613
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19859,
+              "level": 4,
+              "externalID": "20647",
+              "name": "Neem Residency Housing Scheme",
+              "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647"
+          },
+          {
+              "id": 19862,
+              "level": 5,
+              "externalID": "20648",
+              "name": "Neem Residency Housing Scheme - A Block",
+              "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم - اے بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___A_Block-20648",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___A_Block-20648"
+          }
+      ],
+      "hierarchyPath": "Neem Residency Housing Scheme - A Block Neem Residency Housing Scheme Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20648",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19862",
+      "_highlightResult": {
+          "name": {
+              "value": "Neem Residency Housing Scheme - A Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19863,
+      "name": "Neem Residency Housing Scheme - B Block",
+      "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم - بی بلاک",
+      "externalID": "20649",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___B_Block-20649",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___B_Block-20649",
+      "_geoloc": {
+          "lat": 25.151701497,
+          "lng": 68.52121201
+      },
+      "geography": {
+          "lat": 25.151701497,
+          "lng": 68.52121201
+      },
+      "geo_point": [
+          68.52121201,
+          25.151701497
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19859,
+              "level": 4,
+              "externalID": "20647",
+              "name": "Neem Residency Housing Scheme",
+              "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647"
+          },
+          {
+              "id": 19863,
+              "level": 5,
+              "externalID": "20649",
+              "name": "Neem Residency Housing Scheme - B Block",
+              "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم - بی بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___B_Block-20649",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___B_Block-20649"
+          }
+      ],
+      "hierarchyPath": "Neem Residency Housing Scheme - B Block Neem Residency Housing Scheme Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20649",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19863",
+      "_highlightResult": {
+          "name": {
+              "value": "Neem Residency Housing Scheme - B Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19864,
+      "name": "Neem Residency Housing Scheme - C Block",
+      "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم - سی بلاک",
+      "externalID": "20650",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___C_Block-20650",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___C_Block-20650",
+      "_geoloc": {
+          "lat": 25.150423130284,
+          "lng": 68.52065106768
+      },
+      "geography": {
+          "lat": 25.150423130284,
+          "lng": 68.52065106768
+      },
+      "geo_point": [
+          68.52065106768,
+          25.150423130284
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19859,
+              "level": 4,
+              "externalID": "20647",
+              "name": "Neem Residency Housing Scheme",
+              "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme-20647"
+          },
+          {
+              "id": 19864,
+              "level": 5,
+              "externalID": "20650",
+              "name": "Neem Residency Housing Scheme - C Block",
+              "name_l1": "نیم ریذیڈنسی ہاؤسنگ سکیم - سی بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___C_Block-20650",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Neem_Residency_Housing_Scheme_Neem_Residency_Housing_Scheme___C_Block-20650"
+          }
+      ],
+      "hierarchyPath": "Neem Residency Housing Scheme - C Block Neem Residency Housing Scheme Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20650",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19864",
+      "_highlightResult": {
+          "name": {
+              "value": "Neem Residency Housing Scheme - C Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11675,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13200",
+      "slug": "/Tando_Muhammad_Khan_Others-13200",
+      "slug_l1": "/Tando_Muhammad_Khan_Others-13200",
+      "_geoloc": {
+          "lat": 25.124571,
+          "lng": 68.541914
+      },
+      "geography": {
+          "lat": 25.124571,
+          "lng": 68.541914
+      },
+      "geo_point": [
+          68.541914,
+          25.124571
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 11675,
+              "level": 3,
+              "externalID": "13200",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Tando_Muhammad_Khan_Others-13200",
+              "slug_l1": "/Tando_Muhammad_Khan_Others-13200"
+          }
+      ],
+      "hierarchyPath": "Others Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13200",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11675",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11670,
+      "name": "Talpur Colony 12",
+      "name_l1": "تال پور کالونی 12",
+      "externalID": "13195",
+      "slug": "/Tando_Muhammad_Khan_Talpur_Colony_12-13195",
+      "slug_l1": "/Tando_Muhammad_Khan_Talpur_Colony_12-13195",
+      "_geoloc": {
+          "lat": 25.120573,
+          "lng": 68.535261
+      },
+      "geography": {
+          "lat": 25.120573,
+          "lng": 68.535261
+      },
+      "geo_point": [
+          68.535261,
+          25.120573
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 11670,
+              "level": 3,
+              "externalID": "13195",
+              "name": "Talpur Colony 12",
+              "name_l1": "تال پور کالونی 12",
+              "slug": "/Tando_Muhammad_Khan_Talpur_Colony_12-13195",
+              "slug_l1": "/Tando_Muhammad_Khan_Talpur_Colony_12-13195"
+          }
+      ],
+      "hierarchyPath": "Talpur Colony 12 Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13195",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11670",
+      "_highlightResult": {
+          "name": {
+              "value": "Talpur Colony 12",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12365,
+      "name": "Talpur Town",
+      "name_l1": "تالپور ٹاؤن",
+      "externalID": "13846",
+      "slug": "/Tando_Muhammad_Khan_Talpur_Town-13846",
+      "slug_l1": "/Tando_Muhammad_Khan_Talpur_Town-13846",
+      "_geoloc": {
+          "lat": 25.131839,
+          "lng": 68.540087
+      },
+      "geography": {
+          "lat": 25.131839,
+          "lng": 68.540087
+      },
+      "geo_point": [
+          68.540087,
+          25.131839
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 12365,
+              "level": 3,
+              "externalID": "13846",
+              "name": "Talpur Town",
+              "name_l1": "تالپور ٹاؤن",
+              "slug": "/Tando_Muhammad_Khan_Talpur_Town-13846",
+              "slug_l1": "/Tando_Muhammad_Khan_Talpur_Town-13846"
+          }
+      ],
+      "hierarchyPath": "Talpur Town Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13846",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12365",
+      "_highlightResult": {
+          "name": {
+              "value": "Talpur Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19355,
+      "name": "Town One",
+      "name_l1": "ٹاؤن ون",
+      "externalID": "20238",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238",
+      "_geoloc": {
+          "lat": 25.177007203099,
+          "lng": 68.514144635729
+      },
+      "geography": {
+          "lat": 25.177007203099,
+          "lng": 68.514144635729
+      },
+      "geo_point": [
+          68.514144635729,
+          25.177007203099
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19355,
+              "level": 4,
+              "externalID": "20238",
+              "name": "Town One",
+              "name_l1": "ٹاؤن ون",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238"
+          }
+      ],
+      "hierarchyPath": "Town One Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20238",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "19355",
+      "_highlightResult": {
+          "name": {
+              "value": "Town One",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19482,
+      "name": "Town One - Deluxe Block",
+      "name_l1": "ٹاؤن ون - ڈیلکس بلاک",
+      "externalID": "20331",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Deluxe_Block-20331",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Deluxe_Block-20331",
+      "_geoloc": {
+          "lat": 25.17506903321,
+          "lng": 68.51584744751
+      },
+      "geography": {
+          "lat": 25.17506903321,
+          "lng": 68.51584744751
+      },
+      "geo_point": [
+          68.51584744751,
+          25.17506903321
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19355,
+              "level": 4,
+              "externalID": "20238",
+              "name": "Town One",
+              "name_l1": "ٹاؤن ون",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238"
+          },
+          {
+              "id": 19482,
+              "level": 5,
+              "externalID": "20331",
+              "name": "Town One - Deluxe Block",
+              "name_l1": "ٹاؤن ون - ڈیلکس بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Deluxe_Block-20331",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Deluxe_Block-20331"
+          }
+      ],
+      "hierarchyPath": "Town One - Deluxe Block Town One Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20331",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19482",
+      "_highlightResult": {
+          "name": {
+              "value": "Town One - Deluxe Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19483,
+      "name": "Town One - Economy Block",
+      "name_l1": "ٹاؤن ون - اکانومی بلاک",
+      "externalID": "20332",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Economy_Block-20332",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Economy_Block-20332",
+      "_geoloc": {
+          "lat": 25.176886084508,
+          "lng": 68.514382525207
+      },
+      "geography": {
+          "lat": 25.176886084508,
+          "lng": 68.514382525207
+      },
+      "geo_point": [
+          68.514382525207,
+          25.176886084508
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19355,
+              "level": 4,
+              "externalID": "20238",
+              "name": "Town One",
+              "name_l1": "ٹاؤن ون",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238"
+          },
+          {
+              "id": 19483,
+              "level": 5,
+              "externalID": "20332",
+              "name": "Town One - Economy Block",
+              "name_l1": "ٹاؤن ون - اکانومی بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Economy_Block-20332",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Economy_Block-20332"
+          }
+      ],
+      "hierarchyPath": "Town One - Economy Block Town One Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20332",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19483",
+      "_highlightResult": {
+          "name": {
+              "value": "Town One - Economy Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19484,
+      "name": "Town One - Elite Block",
+      "name_l1": "ٹاؤن ون - ایلیٹ بلاک",
+      "externalID": "20333",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Elite_Block-20333",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Elite_Block-20333",
+      "_geoloc": {
+          "lat": 25.174940820887,
+          "lng": 68.514299795658
+      },
+      "geography": {
+          "lat": 25.174940820887,
+          "lng": 68.514299795658
+      },
+      "geo_point": [
+          68.514299795658,
+          25.174940820887
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19355,
+              "level": 4,
+              "externalID": "20238",
+              "name": "Town One",
+              "name_l1": "ٹاؤن ون",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238"
+          },
+          {
+              "id": 19484,
+              "level": 5,
+              "externalID": "20333",
+              "name": "Town One - Elite Block",
+              "name_l1": "ٹاؤن ون - ایلیٹ بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Elite_Block-20333",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Elite_Block-20333"
+          }
+      ],
+      "hierarchyPath": "Town One - Elite Block Town One Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20333",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19484",
+      "_highlightResult": {
+          "name": {
+              "value": "Town One - Elite Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19485,
+      "name": "Town One - Overseas Block",
+      "name_l1": "ٹاؤن ون - اوورسیز بلاک",
+      "externalID": "20334",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Overseas_Block-20334",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Overseas_Block-20334",
+      "_geoloc": {
+          "lat": 25.172239980714,
+          "lng": 68.51826965766
+      },
+      "geography": {
+          "lat": 25.172239980714,
+          "lng": 68.51826965766
+      },
+      "geo_point": [
+          68.51826965766,
+          25.172239980714
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19355,
+              "level": 4,
+              "externalID": "20238",
+              "name": "Town One",
+              "name_l1": "ٹاؤن ون",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238"
+          },
+          {
+              "id": 19485,
+              "level": 5,
+              "externalID": "20334",
+              "name": "Town One - Overseas Block",
+              "name_l1": "ٹاؤن ون - اوورسیز بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Overseas_Block-20334",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Overseas_Block-20334"
+          }
+      ],
+      "hierarchyPath": "Town One - Overseas Block Town One Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20334",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19485",
+      "_highlightResult": {
+          "name": {
+              "value": "Town One - Overseas Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19486,
+      "name": "Town One - Standard Block",
+      "name_l1": "ٹاؤن ون - سٹینڈرڈ بلاک",
+      "externalID": "20335",
+      "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Standard_Block-20335",
+      "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Standard_Block-20335",
+      "_geoloc": {
+          "lat": 25.172820222539,
+          "lng": 68.516987160273
+      },
+      "geography": {
+          "lat": 25.172820222539,
+          "lng": 68.516987160273
+      },
+      "geo_point": [
+          68.516987160273,
+          25.172820222539
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 11639,
+              "level": 2,
+              "externalID": "13166",
+              "name": "Tando Muhammad Khan",
+              "name_l1": "ٹنڈو محمد خان",
+              "slug": "/Tando_Muhammad_Khan-13166",
+              "slug_l1": "/Tando_Muhammad_Khan-13166"
+          },
+          {
+              "id": 19857,
+              "level": 3,
+              "externalID": "20643",
+              "name": "Hyderabad - Badin Road",
+              "name_l1": "حیدرآباد بدین روڈ",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road-20643"
+          },
+          {
+              "id": 19355,
+              "level": 4,
+              "externalID": "20238",
+              "name": "Town One",
+              "name_l1": "ٹاؤن ون",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One-20238"
+          },
+          {
+              "id": 19486,
+              "level": 5,
+              "externalID": "20335",
+              "name": "Town One - Standard Block",
+              "name_l1": "ٹاؤن ون - سٹینڈرڈ بلاک",
+              "slug": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Standard_Block-20335",
+              "slug_l1": "/Tando_Muhammad_Khan_Hyderabad___Badin_Road_Town_One_Town_One___Standard_Block-20335"
+          }
+      ],
+      "hierarchyPath": "Town One - Standard Block Town One Hyderabad - Badin Road Tando Muhammad Khan Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20335",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19486",
+      "_highlightResult": {
+          "name": {
+              "value": "Town One - Standard Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

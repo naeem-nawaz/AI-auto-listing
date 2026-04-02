@@ -1,0 +1,686 @@
+[
+  {
+      "id": 57,
+      "name": "Haroonabad",
+      "name_l1": "ہارون آباد",
+      "externalID": "1152",
+      "slug": "/Haroonabad-1152",
+      "slug_l1": "/Haroonabad-1152",
+      "_geoloc": {
+          "lat": 29.611834280402,
+          "lng": 73.137123584747
+      },
+      "geography": {
+          "lat": 29.611834280402,
+          "lng": 73.137123584747
+      },
+      "geo_point": [
+          73.137123584747,
+          29.611834280402
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 57,
+              "level": 2,
+              "externalID": "1152",
+              "name": "Haroonabad",
+              "name_l1": "ہارون آباد",
+              "slug": "/Haroonabad-1152",
+              "slug_l1": "/Haroonabad-1152"
+          }
+      ],
+      "hierarchyPath": "Haroonabad Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1152",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "57",
+      "_highlightResult": {
+          "name": {
+              "value": "Haroonabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2164,
+      "name": "Haroonabad Bahawalnagar Road",
+      "name_l1": "ہارون آباد بہاولنگر روڈ",
+      "externalID": "5355",
+      "slug": "/Haroonabad_Bahawalnagar_Road-5355",
+      "slug_l1": "/Haroonabad_Bahawalnagar_Road-5355",
+      "_geoloc": {
+          "lat": 29.623068,
+          "lng": 73.140514
+      },
+      "geography": {
+          "lat": 29.623068,
+          "lng": 73.140514
+      },
+      "geo_point": [
+          73.140514,
+          29.623068
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 57,
+              "level": 2,
+              "externalID": "1152",
+              "name": "Haroonabad",
+              "name_l1": "ہارون آباد",
+              "slug": "/Haroonabad-1152",
+              "slug_l1": "/Haroonabad-1152"
+          },
+          {
+              "id": 2164,
+              "level": 3,
+              "externalID": "5355",
+              "name": "Haroonabad Bahawalnagar Road",
+              "name_l1": "ہارون آباد بہاولنگر روڈ",
+              "slug": "/Haroonabad_Bahawalnagar_Road-5355",
+              "slug_l1": "/Haroonabad_Bahawalnagar_Road-5355"
+          }
+      ],
+      "hierarchyPath": "Haroonabad Bahawalnagar Road Haroonabad Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5355",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2164",
+      "_highlightResult": {
+          "name": {
+              "value": "Haroonabad Bahawalnagar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2162,
+      "name": "Bari Road",
+      "name_l1": "باری روڈ",
+      "externalID": "5353",
+      "slug": "/Haroonabad_Bari_Road-5353",
+      "slug_l1": "/Haroonabad_Bari_Road-5353",
+      "_geoloc": {
+          "lat": 29.603545,
+          "lng": 73.143078
+      },
+      "geography": {
+          "lat": 29.603545,
+          "lng": 73.143078
+      },
+      "geo_point": [
+          73.143078,
+          29.603545
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 57,
+              "level": 2,
+              "externalID": "1152",
+              "name": "Haroonabad",
+              "name_l1": "ہارون آباد",
+              "slug": "/Haroonabad-1152",
+              "slug_l1": "/Haroonabad-1152"
+          },
+          {
+              "id": 2162,
+              "level": 3,
+              "externalID": "5353",
+              "name": "Bari Road",
+              "name_l1": "باری روڈ",
+              "slug": "/Haroonabad_Bari_Road-5353",
+              "slug_l1": "/Haroonabad_Bari_Road-5353"
+          }
+      ],
+      "hierarchyPath": "Bari Road Haroonabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5353",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2162",
+      "_highlightResult": {
+          "name": {
+              "value": "Bari Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2163,
+      "name": "Canal Colony",
+      "name_l1": "کینال کالونی",
+      "externalID": "5354",
+      "slug": "/Haroonabad_Canal_Colony-5354",
+      "slug_l1": "/Haroonabad_Canal_Colony-5354",
+      "_geoloc": {
+          "lat": 29.60432,
+          "lng": 73.145206
+      },
+      "geography": {
+          "lat": 29.60432,
+          "lng": 73.145206
+      },
+      "geo_point": [
+          73.145206,
+          29.60432
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 57,
+              "level": 2,
+              "externalID": "1152",
+              "name": "Haroonabad",
+              "name_l1": "ہارون آباد",
+              "slug": "/Haroonabad-1152",
+              "slug_l1": "/Haroonabad-1152"
+          },
+          {
+              "id": 2163,
+              "level": 3,
+              "externalID": "5354",
+              "name": "Canal Colony",
+              "name_l1": "کینال کالونی",
+              "slug": "/Haroonabad_Canal_Colony-5354",
+              "slug_l1": "/Haroonabad_Canal_Colony-5354"
+          }
+      ],
+      "hierarchyPath": "Canal Colony Haroonabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5354",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2163",
+      "_highlightResult": {
+          "name": {
+              "value": "Canal Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 929,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1153",
+      "slug": "/Haroonabad_Others-1153",
+      "slug_l1": "/Haroonabad_Others-1153",
+      "_geoloc": {
+          "lat": 29.613,
+          "lng": 73.1409
+      },
+      "geography": {
+          "lat": 29.613,
+          "lng": 73.1409
+      },
+      "geo_point": [
+          73.1409,
+          29.613
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 57,
+              "level": 2,
+              "externalID": "1152",
+              "name": "Haroonabad",
+              "name_l1": "ہارون آباد",
+              "slug": "/Haroonabad-1152",
+              "slug_l1": "/Haroonabad-1152"
+          },
+          {
+              "id": 929,
+              "level": 3,
+              "externalID": "1153",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Haroonabad_Others-1153",
+              "slug_l1": "/Haroonabad_Others-1153"
+          }
+      ],
+      "hierarchyPath": "Others Haroonabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1153",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "929",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2165,
+      "name": "Phathan Colony",
+      "name_l1": "پٹھان کالونی",
+      "externalID": "5356",
+      "slug": "/Haroonabad_Phathan_Colony-5356",
+      "slug_l1": "/Haroonabad_Phathan_Colony-5356",
+      "_geoloc": {
+          "lat": 29.611903,
+          "lng": 73.146962
+      },
+      "geography": {
+          "lat": 29.611903,
+          "lng": 73.146962
+      },
+      "geo_point": [
+          73.146962,
+          29.611903
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 57,
+              "level": 2,
+              "externalID": "1152",
+              "name": "Haroonabad",
+              "name_l1": "ہارون آباد",
+              "slug": "/Haroonabad-1152",
+              "slug_l1": "/Haroonabad-1152"
+          },
+          {
+              "id": 2165,
+              "level": 3,
+              "externalID": "5356",
+              "name": "Phathan Colony",
+              "name_l1": "پٹھان کالونی",
+              "slug": "/Haroonabad_Phathan_Colony-5356",
+              "slug_l1": "/Haroonabad_Phathan_Colony-5356"
+          }
+      ],
+      "hierarchyPath": "Phathan Colony Haroonabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5356",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2165",
+      "_highlightResult": {
+          "name": {
+              "value": "Phathan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 930,
+      "name": "Sabzazar Housing Scheme",
+      "name_l1": "سبزہ زار ہاؤسنگ سکیم",
+      "externalID": "1154",
+      "slug": "/Haroonabad_Sabzazar_Housing_Scheme-1154",
+      "slug_l1": "/Haroonabad_Sabzazar_Housing_Scheme-1154",
+      "_geoloc": {
+          "lat": 29.612876,
+          "lng": 73.140372
+      },
+      "geography": {
+          "lat": 29.612876,
+          "lng": 73.140372
+      },
+      "geo_point": [
+          73.140372,
+          29.612876
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 57,
+              "level": 2,
+              "externalID": "1152",
+              "name": "Haroonabad",
+              "name_l1": "ہارون آباد",
+              "slug": "/Haroonabad-1152",
+              "slug_l1": "/Haroonabad-1152"
+          },
+          {
+              "id": 930,
+              "level": 3,
+              "externalID": "1154",
+              "name": "Sabzazar Housing Scheme",
+              "name_l1": "سبزہ زار ہاؤسنگ سکیم",
+              "slug": "/Haroonabad_Sabzazar_Housing_Scheme-1154",
+              "slug_l1": "/Haroonabad_Sabzazar_Housing_Scheme-1154"
+          }
+      ],
+      "hierarchyPath": "Sabzazar Housing Scheme Haroonabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1154",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "930",
+      "_highlightResult": {
+          "name": {
+              "value": "Sabzazar Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2166,
+      "name": "Tibba Noor Pura",
+      "name_l1": "ٹِبہ نور پورہ",
+      "externalID": "5357",
+      "slug": "/Haroonabad_Tibba_Noor_Pura-5357",
+      "slug_l1": "/Haroonabad_Tibba_Noor_Pura-5357",
+      "_geoloc": {
+          "lat": 29.605775,
+          "lng": 73.139284
+      },
+      "geography": {
+          "lat": 29.605775,
+          "lng": 73.139284
+      },
+      "geo_point": [
+          73.139284,
+          29.605775
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 57,
+              "level": 2,
+              "externalID": "1152",
+              "name": "Haroonabad",
+              "name_l1": "ہارون آباد",
+              "slug": "/Haroonabad-1152",
+              "slug_l1": "/Haroonabad-1152"
+          },
+          {
+              "id": 2166,
+              "level": 3,
+              "externalID": "5357",
+              "name": "Tibba Noor Pura",
+              "name_l1": "ٹِبہ نور پورہ",
+              "slug": "/Haroonabad_Tibba_Noor_Pura-5357",
+              "slug_l1": "/Haroonabad_Tibba_Noor_Pura-5357"
+          }
+      ],
+      "hierarchyPath": "Tibba Noor Pura Haroonabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5357",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2166",
+      "_highlightResult": {
+          "name": {
+              "value": "Tibba Noor Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 931,
+      "name": "Vital City Housing Scheme",
+      "name_l1": "وائیٹل سٹی ہاؤسنگ سکیم",
+      "externalID": "1155",
+      "slug": "/Haroonabad_Vital_City_Housing_Scheme-1155",
+      "slug_l1": "/Haroonabad_Vital_City_Housing_Scheme-1155",
+      "_geoloc": {
+          "lat": 29.600524,
+          "lng": 73.135939
+      },
+      "geography": {
+          "lat": 29.600524,
+          "lng": 73.135939
+      },
+      "geo_point": [
+          73.135939,
+          29.600524
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 57,
+              "level": 2,
+              "externalID": "1152",
+              "name": "Haroonabad",
+              "name_l1": "ہارون آباد",
+              "slug": "/Haroonabad-1152",
+              "slug_l1": "/Haroonabad-1152"
+          },
+          {
+              "id": 931,
+              "level": 3,
+              "externalID": "1155",
+              "name": "Vital City Housing Scheme",
+              "name_l1": "وائیٹل سٹی ہاؤسنگ سکیم",
+              "slug": "/Haroonabad_Vital_City_Housing_Scheme-1155",
+              "slug_l1": "/Haroonabad_Vital_City_Housing_Scheme-1155"
+          }
+      ],
+      "hierarchyPath": "Vital City Housing Scheme Haroonabad Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1155",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "931",
+      "_highlightResult": {
+          "name": {
+              "value": "Vital City Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

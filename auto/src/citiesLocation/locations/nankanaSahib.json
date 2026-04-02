@@ -1,0 +1,1963 @@
+[
+  {
+      "id": 84,
+      "name": "Nankana Sahib",
+      "name_l1": "ننکانہ صاحب",
+      "externalID": "1687",
+      "slug": "/Nankana_Sahib_-1687",
+      "slug_l1": "/Nankana_Sahib_-1687",
+      "_geoloc": {
+          "lat": 31.451151954024,
+          "lng": 73.700076341629
+      },
+      "geography": {
+          "lat": 31.451151954024,
+          "lng": 73.700076341629
+      },
+      "geo_point": [
+          73.700076341629,
+          31.451151954024
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          }
+      ],
+      "hierarchyPath": "Nankana Sahib Punjab Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1687",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "84",
+      "_highlightResult": {
+          "name": {
+              "value": "Nankana Sahib",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2584,
+      "name": "Nankana Sahib Bypass",
+      "name_l1": "ننکانہ صاحب بائی پاس",
+      "externalID": "5856",
+      "slug": "/Nankana_Sahib_Bypass-5856",
+      "slug_l1": "/Nankana_Sahib_Bypass-5856",
+      "_geoloc": {
+          "lat": 31.442522,
+          "lng": 73.715708
+      },
+      "geography": {
+          "lat": 31.442522,
+          "lng": 73.715708
+      },
+      "geo_point": [
+          73.715708,
+          31.442522
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2584,
+              "level": 3,
+              "externalID": "5856",
+              "name": "Nankana Sahib Bypass",
+              "name_l1": "ننکانہ صاحب بائی پاس",
+              "slug": "/Nankana_Sahib_Bypass-5856",
+              "slug_l1": "/Nankana_Sahib_Bypass-5856"
+          }
+      ],
+      "hierarchyPath": "Nankana Sahib Bypass Nankana Sahib Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5856",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2584",
+      "_highlightResult": {
+          "name": {
+              "value": "Nankana Sahib Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2588,
+      "name": "Shahkot Road",
+      "name_l1": "شاہکوٹ روڈ",
+      "externalID": "5860",
+      "slug": "/Nankana_Sahib_Shahkot_Road-5860",
+      "slug_l1": "/Nankana_Sahib_Shahkot_Road-5860",
+      "_geoloc": {
+          "lat": 31.45012,
+          "lng": 73.698092
+      },
+      "geography": {
+          "lat": 31.45012,
+          "lng": 73.698092
+      },
+      "geo_point": [
+          73.698092,
+          31.45012
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2588,
+              "level": 3,
+              "externalID": "5860",
+              "name": "Shahkot Road",
+              "name_l1": "شاہکوٹ روڈ",
+              "slug": "/Nankana_Sahib_Shahkot_Road-5860",
+              "slug_l1": "/Nankana_Sahib_Shahkot_Road-5860"
+          }
+      ],
+      "hierarchyPath": "Shahkot Road Nankana Sahib Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5860",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2588",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahkot Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2572,
+      "name": "Basti Jogiaan",
+      "name_l1": "بستی جوگیاں",
+      "externalID": "5844",
+      "slug": "/Nankana_Sahib_Basti_Jogiaan-5844",
+      "slug_l1": "/Nankana_Sahib_Basti_Jogiaan-5844",
+      "_geoloc": {
+          "lat": 31.458833,
+          "lng": 73.718562
+      },
+      "geography": {
+          "lat": 31.458833,
+          "lng": 73.718562
+      },
+      "geo_point": [
+          73.718562,
+          31.458833
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2572,
+              "level": 3,
+              "externalID": "5844",
+              "name": "Basti Jogiaan",
+              "name_l1": "بستی جوگیاں",
+              "slug": "/Nankana_Sahib_Basti_Jogiaan-5844",
+              "slug_l1": "/Nankana_Sahib_Basti_Jogiaan-5844"
+          }
+      ],
+      "hierarchyPath": "Basti Jogiaan Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5844",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2572",
+      "_highlightResult": {
+          "name": {
+              "value": "Basti Jogiaan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2573,
+      "name": "Buchey Ki Road",
+      "name_l1": "بُچیکی روڈ",
+      "externalID": "5845",
+      "slug": "/Nankana_Sahib_Buchey_Ki_Road-5845",
+      "slug_l1": "/Nankana_Sahib_Buchey_Ki_Road-5845",
+      "_geoloc": {
+          "lat": 31.442779,
+          "lng": 73.696439
+      },
+      "geography": {
+          "lat": 31.442779,
+          "lng": 73.696439
+      },
+      "geo_point": [
+          73.696439,
+          31.442779
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2573,
+              "level": 3,
+              "externalID": "5845",
+              "name": "Buchey Ki Road",
+              "name_l1": "بُچیکی روڈ",
+              "slug": "/Nankana_Sahib_Buchey_Ki_Road-5845",
+              "slug_l1": "/Nankana_Sahib_Buchey_Ki_Road-5845"
+          }
+      ],
+      "hierarchyPath": "Buchey Ki Road Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5845",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2573",
+      "_highlightResult": {
+          "name": {
+              "value": "Buchey Ki Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2574,
+      "name": "Canada Colony",
+      "name_l1": "کینیڈا کالونی",
+      "externalID": "5846",
+      "slug": "/Nankana_Sahib_Canada_Colony-5846",
+      "slug_l1": "/Nankana_Sahib_Canada_Colony-5846",
+      "_geoloc": {
+          "lat": 31.454806,
+          "lng": 73.699293
+      },
+      "geography": {
+          "lat": 31.454806,
+          "lng": 73.699293
+      },
+      "geo_point": [
+          73.699293,
+          31.454806
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2574,
+              "level": 3,
+              "externalID": "5846",
+              "name": "Canada Colony",
+              "name_l1": "کینیڈا کالونی",
+              "slug": "/Nankana_Sahib_Canada_Colony-5846",
+              "slug_l1": "/Nankana_Sahib_Canada_Colony-5846"
+          }
+      ],
+      "hierarchyPath": "Canada Colony Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5846",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2574",
+      "_highlightResult": {
+          "name": {
+              "value": "Canada Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2575,
+      "name": "Dhoor Kot",
+      "name_l1": "دھور کوٹ",
+      "externalID": "5847",
+      "slug": "/Nankana_Sahib_Dhoor_Kot-5847",
+      "slug_l1": "/Nankana_Sahib_Dhoor_Kot-5847",
+      "_geoloc": {
+          "lat": 31.456782,
+          "lng": 73.694315
+      },
+      "geography": {
+          "lat": 31.456782,
+          "lng": 73.694315
+      },
+      "geo_point": [
+          73.694315,
+          31.456782
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2575,
+              "level": 3,
+              "externalID": "5847",
+              "name": "Dhoor Kot",
+              "name_l1": "دھور کوٹ",
+              "slug": "/Nankana_Sahib_Dhoor_Kot-5847",
+              "slug_l1": "/Nankana_Sahib_Dhoor_Kot-5847"
+          }
+      ],
+      "hierarchyPath": "Dhoor Kot Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5847",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2575",
+      "_highlightResult": {
+          "name": {
+              "value": "Dhoor Kot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2576,
+      "name": "Ghousia Colony",
+      "name_l1": "غوثیہ کالونی",
+      "externalID": "5848",
+      "slug": "/Nankana_Sahib_Ghousia_Colony-5848",
+      "slug_l1": "/Nankana_Sahib_Ghousia_Colony-5848",
+      "_geoloc": {
+          "lat": 31.457039,
+          "lng": 73.716195
+      },
+      "geography": {
+          "lat": 31.457039,
+          "lng": 73.716195
+      },
+      "geo_point": [
+          73.716195,
+          31.457039
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2576,
+              "level": 3,
+              "externalID": "5848",
+              "name": "Ghousia Colony",
+              "name_l1": "غوثیہ کالونی",
+              "slug": "/Nankana_Sahib_Ghousia_Colony-5848",
+              "slug_l1": "/Nankana_Sahib_Ghousia_Colony-5848"
+          }
+      ],
+      "hierarchyPath": "Ghousia Colony Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5848",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2576",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghousia Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2577,
+      "name": "Jaranwala Road",
+      "name_l1": "جڑانوالہ روڈ",
+      "externalID": "5849",
+      "slug": "/Nankana_Sahib_Jaranwala_Road-5849",
+      "slug_l1": "/Nankana_Sahib_Jaranwala_Road-5849",
+      "_geoloc": {
+          "lat": 31.447319,
+          "lng": 73.690839
+      },
+      "geography": {
+          "lat": 31.447319,
+          "lng": 73.690839
+      },
+      "geo_point": [
+          73.690839,
+          31.447319
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2577,
+              "level": 3,
+              "externalID": "5849",
+              "name": "Jaranwala Road",
+              "name_l1": "جڑانوالہ روڈ",
+              "slug": "/Nankana_Sahib_Jaranwala_Road-5849",
+              "slug_l1": "/Nankana_Sahib_Jaranwala_Road-5849"
+          }
+      ],
+      "hierarchyPath": "Jaranwala Road Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5849",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2577",
+      "_highlightResult": {
+          "name": {
+              "value": "Jaranwala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2578,
+      "name": "Kot Hira Das",
+      "name_l1": "کوٹ ہیرا دس",
+      "externalID": "5850",
+      "slug": "/Nankana_Sahib_Kot_Hira_Das-5850",
+      "slug_l1": "/Nankana_Sahib_Kot_Hira_Das-5850",
+      "_geoloc": {
+          "lat": 31.437378,
+          "lng": 73.716788
+      },
+      "geography": {
+          "lat": 31.437378,
+          "lng": 73.716788
+      },
+      "geo_point": [
+          73.716788,
+          31.437378
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2578,
+              "level": 3,
+              "externalID": "5850",
+              "name": "Kot Hira Das",
+              "name_l1": "کوٹ ہیرا دس",
+              "slug": "/Nankana_Sahib_Kot_Hira_Das-5850",
+              "slug_l1": "/Nankana_Sahib_Kot_Hira_Das-5850"
+          }
+      ],
+      "hierarchyPath": "Kot Hira Das Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5850",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2578",
+      "_highlightResult": {
+          "name": {
+              "value": "Kot Hira Das",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2579,
+      "name": "Kot Nihal Das",
+      "name_l1": "کوٹ نہال دس",
+      "externalID": "5851",
+      "slug": "/Nankana_Sahib_Kot_Nihal_Das-5851",
+      "slug_l1": "/Nankana_Sahib_Kot_Nihal_Das-5851",
+      "_geoloc": {
+          "lat": 31.438184,
+          "lng": 73.723068
+      },
+      "geography": {
+          "lat": 31.438184,
+          "lng": 73.723068
+      },
+      "geo_point": [
+          73.723068,
+          31.438184
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2579,
+              "level": 3,
+              "externalID": "5851",
+              "name": "Kot Nihal Das",
+              "name_l1": "کوٹ نہال دس",
+              "slug": "/Nankana_Sahib_Kot_Nihal_Das-5851",
+              "slug_l1": "/Nankana_Sahib_Kot_Nihal_Das-5851"
+          }
+      ],
+      "hierarchyPath": "Kot Nihal Das Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5851",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2579",
+      "_highlightResult": {
+          "name": {
+              "value": "Kot Nihal Das",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2580,
+      "name": "Maliwala",
+      "name_l1": "مَلی والا",
+      "externalID": "5852",
+      "slug": "/Nankana_Sahib_Maliwala-5852",
+      "slug_l1": "/Nankana_Sahib_Maliwala-5852",
+      "_geoloc": {
+          "lat": 31.460663,
+          "lng": 73.707004
+      },
+      "geography": {
+          "lat": 31.460663,
+          "lng": 73.707004
+      },
+      "geo_point": [
+          73.707004,
+          31.460663
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2580,
+              "level": 3,
+              "externalID": "5852",
+              "name": "Maliwala",
+              "name_l1": "مَلی والا",
+              "slug": "/Nankana_Sahib_Maliwala-5852",
+              "slug_l1": "/Nankana_Sahib_Maliwala-5852"
+          }
+      ],
+      "hierarchyPath": "Maliwala Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5852",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2580",
+      "_highlightResult": {
+          "name": {
+              "value": "Maliwala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2581,
+      "name": "Mananwala Bypass",
+      "name_l1": "مناں والا بائی پاس",
+      "externalID": "5853",
+      "slug": "/Nankana_Sahib_Mananwala_Bypass-5853",
+      "slug_l1": "/Nankana_Sahib_Mananwala_Bypass-5853",
+      "_geoloc": {
+          "lat": 31.451749,
+          "lng": 73.702941
+      },
+      "geography": {
+          "lat": 31.451749,
+          "lng": 73.702941
+      },
+      "geo_point": [
+          73.702941,
+          31.451749
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2581,
+              "level": 3,
+              "externalID": "5853",
+              "name": "Mananwala Bypass",
+              "name_l1": "مناں والا بائی پاس",
+              "slug": "/Nankana_Sahib_Mananwala_Bypass-5853",
+              "slug_l1": "/Nankana_Sahib_Mananwala_Bypass-5853"
+          }
+      ],
+      "hierarchyPath": "Mananwala Bypass Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5853",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2581",
+      "_highlightResult": {
+          "name": {
+              "value": "Mananwala Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11798,
+      "name": "Mandi Faizabad",
+      "name_l1": "منڈی فیزآباد",
+      "externalID": "13321",
+      "slug": "/Nankana_Sahib_Mandi_Faizabad-13321",
+      "slug_l1": "/Nankana_Sahib_Mandi_Faizabad-13321",
+      "_geoloc": {
+          "lat": 31.415239,
+          "lng": 73.985796
+      },
+      "geography": {
+          "lat": 31.415239,
+          "lng": 73.985796
+      },
+      "geo_point": [
+          73.985796,
+          31.415239
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 11798,
+              "level": 3,
+              "externalID": "13321",
+              "name": "Mandi Faizabad",
+              "name_l1": "منڈی فیزآباد",
+              "slug": "/Nankana_Sahib_Mandi_Faizabad-13321",
+              "slug_l1": "/Nankana_Sahib_Mandi_Faizabad-13321"
+          }
+      ],
+      "hierarchyPath": "Mandi Faizabad Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13321",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11798",
+      "_highlightResult": {
+          "name": {
+              "value": "Mandi Faizabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2582,
+      "name": "Mangtanwala Road",
+      "name_l1": "منگتاں والا روڈ",
+      "externalID": "5854",
+      "slug": "/Nankana_Sahib_Mangtanwala_Road-5854",
+      "slug_l1": "/Nankana_Sahib_Mangtanwala_Road-5854",
+      "_geoloc": {
+          "lat": 31.447465,
+          "lng": 73.717296
+      },
+      "geography": {
+          "lat": 31.447465,
+          "lng": 73.717296
+      },
+      "geo_point": [
+          73.717296,
+          31.447465
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2582,
+              "level": 3,
+              "externalID": "5854",
+              "name": "Mangtanwala Road",
+              "name_l1": "منگتاں والا روڈ",
+              "slug": "/Nankana_Sahib_Mangtanwala_Road-5854",
+              "slug_l1": "/Nankana_Sahib_Mangtanwala_Road-5854"
+          }
+      ],
+      "hierarchyPath": "Mangtanwala Road Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5854",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "2582",
+      "_highlightResult": {
+          "name": {
+              "value": "Mangtanwala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2583,
+      "name": "Mohalla Kiara Sahib",
+      "name_l1": "محلہ کیارا صاحب",
+      "externalID": "5855",
+      "slug": "/Nankana_Sahib_Mohalla_Kiara_Sahib-5855",
+      "slug_l1": "/Nankana_Sahib_Mohalla_Kiara_Sahib-5855",
+      "_geoloc": {
+          "lat": 31.455648,
+          "lng": 73.713663
+      },
+      "geography": {
+          "lat": 31.455648,
+          "lng": 73.713663
+      },
+      "geo_point": [
+          73.713663,
+          31.455648
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2583,
+              "level": 3,
+              "externalID": "5855",
+              "name": "Mohalla Kiara Sahib",
+              "name_l1": "محلہ کیارا صاحب",
+              "slug": "/Nankana_Sahib_Mohalla_Kiara_Sahib-5855",
+              "slug_l1": "/Nankana_Sahib_Mohalla_Kiara_Sahib-5855"
+          }
+      ],
+      "hierarchyPath": "Mohalla Kiara Sahib Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5855",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2583",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Kiara Sahib",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5952,
+      "name": "New Nankana Sahib City",
+      "name_l1": "نیونانکانہ صاحب سٹی",
+      "externalID": "11954",
+      "slug": "/Nankana_Sahib_New_Nankana_Sahib_City-11954",
+      "slug_l1": "/Nankana_Sahib_New_Nankana_Sahib_City-11954",
+      "_geoloc": {
+          "lat": 31.45133621,
+          "lng": 73.72036482
+      },
+      "geography": {
+          "lat": 31.45133621,
+          "lng": 73.72036482
+      },
+      "geo_point": [
+          73.72036482,
+          31.45133621
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 5952,
+              "level": 3,
+              "externalID": "11954",
+              "name": "New Nankana Sahib City",
+              "name_l1": "نیونانکانہ صاحب سٹی",
+              "slug": "/Nankana_Sahib_New_Nankana_Sahib_City-11954",
+              "slug_l1": "/Nankana_Sahib_New_Nankana_Sahib_City-11954"
+          }
+      ],
+      "hierarchyPath": "New Nankana Sahib City Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11954",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5952",
+      "_highlightResult": {
+          "name": {
+              "value": "New Nankana Sahib City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1226,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1688",
+      "slug": "/Nankana_Sahib_Others-1688",
+      "slug_l1": "/Nankana_Sahib_Others-1688",
+      "_geoloc": {
+          "lat": 31.4508,
+          "lng": 73.7037
+      },
+      "geography": {
+          "lat": 31.4508,
+          "lng": 73.7037
+      },
+      "geo_point": [
+          73.7037,
+          31.4508
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 1226,
+              "level": 3,
+              "externalID": "1688",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Nankana_Sahib_Others-1688",
+              "slug_l1": "/Nankana_Sahib_Others-1688"
+          }
+      ],
+      "hierarchyPath": "Others Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1688",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1226",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2585,
+      "name": "Purana Nankana Sahib",
+      "name_l1": "پرانا ننکانہ صاحب",
+      "externalID": "5857",
+      "slug": "/Nankana_Sahib_Purana_Nankana_Sahib-5857",
+      "slug_l1": "/Nankana_Sahib_Purana_Nankana_Sahib-5857",
+      "_geoloc": {
+          "lat": 31.444408,
+          "lng": 73.69277
+      },
+      "geography": {
+          "lat": 31.444408,
+          "lng": 73.69277
+      },
+      "geo_point": [
+          73.69277,
+          31.444408
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2585,
+              "level": 3,
+              "externalID": "5857",
+              "name": "Purana Nankana Sahib",
+              "name_l1": "پرانا ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_Purana_Nankana_Sahib-5857",
+              "slug_l1": "/Nankana_Sahib_Purana_Nankana_Sahib-5857"
+          }
+      ],
+      "hierarchyPath": "Purana Nankana Sahib Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5857",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2585",
+      "_highlightResult": {
+          "name": {
+              "value": "Purana Nankana Sahib",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2586,
+      "name": "Railway Road",
+      "name_l1": "ریلوے روڈ",
+      "externalID": "5858",
+      "slug": "/Nankana_Sahib_Railway_Road-5858",
+      "slug_l1": "/Nankana_Sahib_Railway_Road-5858",
+      "_geoloc": {
+          "lat": 31.450339,
+          "lng": 73.704679
+      },
+      "geography": {
+          "lat": 31.450339,
+          "lng": 73.704679
+      },
+      "geo_point": [
+          73.704679,
+          31.450339
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2586,
+              "level": 3,
+              "externalID": "5858",
+              "name": "Railway Road",
+              "name_l1": "ریلوے روڈ",
+              "slug": "/Nankana_Sahib_Railway_Road-5858",
+              "slug_l1": "/Nankana_Sahib_Railway_Road-5858"
+          }
+      ],
+      "hierarchyPath": "Railway Road Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5858",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2586",
+      "_highlightResult": {
+          "name": {
+              "value": "Railway Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2587,
+      "name": "Shad Bagh Colony",
+      "name_l1": "شاد باغ کالونی",
+      "externalID": "5859",
+      "slug": "/Nankana_Sahib_Shad_Bagh_Colony-5859",
+      "slug_l1": "/Nankana_Sahib_Shad_Bagh_Colony-5859",
+      "_geoloc": {
+          "lat": 31.456636,
+          "lng": 73.704
+      },
+      "geography": {
+          "lat": 31.456636,
+          "lng": 73.704
+      },
+      "geo_point": [
+          73.704,
+          31.456636
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2587,
+              "level": 3,
+              "externalID": "5859",
+              "name": "Shad Bagh Colony",
+              "name_l1": "شاد باغ کالونی",
+              "slug": "/Nankana_Sahib_Shad_Bagh_Colony-5859",
+              "slug_l1": "/Nankana_Sahib_Shad_Bagh_Colony-5859"
+          }
+      ],
+      "hierarchyPath": "Shad Bagh Colony Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5859",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2587",
+      "_highlightResult": {
+          "name": {
+              "value": "Shad Bagh Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8952,
+      "name": "Shalimar Royal Housing Scheme",
+      "name_l1": "شالیمار روئیل هاوسنگ سکیم",
+      "externalID": "11382",
+      "slug": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme-11382",
+      "slug_l1": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme-11382",
+      "_geoloc": {
+          "lat": 31.432017,
+          "lng": 73.737784
+      },
+      "geography": {
+          "lat": 31.432017,
+          "lng": 73.737784
+      },
+      "geo_point": [
+          73.737784,
+          31.432017
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2582,
+              "level": 3,
+              "externalID": "5854",
+              "name": "Mangtanwala Road",
+              "name_l1": "منگتاں والا روڈ",
+              "slug": "/Nankana_Sahib_Mangtanwala_Road-5854",
+              "slug_l1": "/Nankana_Sahib_Mangtanwala_Road-5854"
+          },
+          {
+              "id": 8952,
+              "level": 4,
+              "externalID": "11382",
+              "name": "Shalimar Royal Housing Scheme",
+              "name_l1": "شالیمار روئیل هاوسنگ سکیم",
+              "slug": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme-11382",
+              "slug_l1": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme-11382"
+          }
+      ],
+      "hierarchyPath": "Shalimar Royal Housing Scheme Mangtanwala Road Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11382",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "8952",
+      "_highlightResult": {
+          "name": {
+              "value": "Shalimar Royal Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13325,
+      "name": "Shalimar Royal Sector A",
+      "name_l1": "شالیمار رائل سیکٹر اے",
+      "externalID": "14774",
+      "slug": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme_Shalimar_Royal_Sector_A-14774",
+      "slug_l1": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme_Shalimar_Royal_Sector_A-14774",
+      "_geoloc": {
+          "lat": 31.43270263,
+          "lng": 73.73693106
+      },
+      "geography": {
+          "lat": 31.43270263,
+          "lng": 73.73693106
+      },
+      "geo_point": [
+          73.73693106,
+          31.43270263
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2582,
+              "level": 3,
+              "externalID": "5854",
+              "name": "Mangtanwala Road",
+              "name_l1": "منگتاں والا روڈ",
+              "slug": "/Nankana_Sahib_Mangtanwala_Road-5854",
+              "slug_l1": "/Nankana_Sahib_Mangtanwala_Road-5854"
+          },
+          {
+              "id": 8952,
+              "level": 4,
+              "externalID": "11382",
+              "name": "Shalimar Royal Housing Scheme",
+              "name_l1": "شالیمار روئیل هاوسنگ سکیم",
+              "slug": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme-11382",
+              "slug_l1": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme-11382"
+          },
+          {
+              "id": 13325,
+              "level": 5,
+              "externalID": "14774",
+              "name": "Shalimar Royal Sector A",
+              "name_l1": "شالیمار رائل سیکٹر اے",
+              "slug": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme_Shalimar_Royal_Sector_A-14774",
+              "slug_l1": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme_Shalimar_Royal_Sector_A-14774"
+          }
+      ],
+      "hierarchyPath": "Shalimar Royal Sector A Shalimar Royal Housing Scheme Mangtanwala Road Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14774",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13325",
+      "_highlightResult": {
+          "name": {
+              "value": "Shalimar Royal Sector A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13330,
+      "name": "Shalimar Royal Sector B",
+      "name_l1": "شالیمار رائل سیکٹر بی",
+      "externalID": "14780",
+      "slug": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme_Shalimar_Royal_Sector_B-14780",
+      "slug_l1": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme_Shalimar_Royal_Sector_B-14780",
+      "_geoloc": {
+          "lat": 31.4316619,
+          "lng": 73.73827479
+      },
+      "geography": {
+          "lat": 31.4316619,
+          "lng": 73.73827479
+      },
+      "geo_point": [
+          73.73827479,
+          31.4316619
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2582,
+              "level": 3,
+              "externalID": "5854",
+              "name": "Mangtanwala Road",
+              "name_l1": "منگتاں والا روڈ",
+              "slug": "/Nankana_Sahib_Mangtanwala_Road-5854",
+              "slug_l1": "/Nankana_Sahib_Mangtanwala_Road-5854"
+          },
+          {
+              "id": 8952,
+              "level": 4,
+              "externalID": "11382",
+              "name": "Shalimar Royal Housing Scheme",
+              "name_l1": "شالیمار روئیل هاوسنگ سکیم",
+              "slug": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme-11382",
+              "slug_l1": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme-11382"
+          },
+          {
+              "id": 13330,
+              "level": 5,
+              "externalID": "14780",
+              "name": "Shalimar Royal Sector B",
+              "name_l1": "شالیمار رائل سیکٹر بی",
+              "slug": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme_Shalimar_Royal_Sector_B-14780",
+              "slug_l1": "/Nankana_Sahib_Mangtanwala_Road_Shalimar_Royal_Housing_Scheme_Shalimar_Royal_Sector_B-14780"
+          }
+      ],
+      "hierarchyPath": "Shalimar Royal Sector B Shalimar Royal Housing Scheme Mangtanwala Road Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14780",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13330",
+      "_highlightResult": {
+          "name": {
+              "value": "Shalimar Royal Sector B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 2589,
+      "name": "Shingi Kot",
+      "name_l1": "شنگی کوٹ",
+      "externalID": "5861",
+      "slug": "/Nankana_Sahib_Shingi_Kot-5861",
+      "slug_l1": "/Nankana_Sahib_Shingi_Kot-5861",
+      "_geoloc": {
+          "lat": 31.437305,
+          "lng": 73.683243
+      },
+      "geography": {
+          "lat": 31.437305,
+          "lng": 73.683243
+      },
+      "geo_point": [
+          73.683243,
+          31.437305
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 84,
+              "level": 2,
+              "externalID": "1687",
+              "name": "Nankana Sahib",
+              "name_l1": "ننکانہ صاحب",
+              "slug": "/Nankana_Sahib_-1687",
+              "slug_l1": "/Nankana_Sahib_-1687"
+          },
+          {
+              "id": 2589,
+              "level": 3,
+              "externalID": "5861",
+              "name": "Shingi Kot",
+              "name_l1": "شنگی کوٹ",
+              "slug": "/Nankana_Sahib_Shingi_Kot-5861",
+              "slug_l1": "/Nankana_Sahib_Shingi_Kot-5861"
+          }
+      ],
+      "hierarchyPath": "Shingi Kot Nankana Sahib Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "5861",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "2589",
+      "_highlightResult": {
+          "name": {
+              "value": "Shingi Kot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

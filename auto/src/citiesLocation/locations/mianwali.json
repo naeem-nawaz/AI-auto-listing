@@ -1,0 +1,1872 @@
+[
+    {
+        "id": 16756,
+        "name": "Aghaaz Housing",
+        "name_l1": "آغاز ہاؤسنگ",
+        "externalID": "17964",
+        "slug": "/Mianwali_Piplan_Aghaaz_Housing-17964",
+        "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing-17964",
+        "_geoloc": {
+            "lat": 32.286579136921,
+            "lng": 71.400127519863
+        },
+        "geography": {
+            "lat": 32.286579136921,
+            "lng": 71.400127519863
+        },
+        "geo_point": [
+            71.400127519863,
+            32.286579136921
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 16763,
+                "level": 3,
+                "externalID": "17971",
+                "name": "Piplan",
+                "name_l1": "پِپلاں",
+                "slug": "/Mianwali_Piplan-17971",
+                "slug_l1": "/Mianwali_Piplan-17971"
+            },
+            {
+                "id": 16756,
+                "level": 4,
+                "externalID": "17964",
+                "name": "Aghaaz Housing",
+                "name_l1": "آغاز ہاؤسنگ",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing-17964",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing-17964"
+            }
+        ],
+        "hierarchyPath": "Aghaaz Housing Piplan Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "17964",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "16756",
+        "_highlightResult": {
+            "name": {
+                "value": "Aghaaz Housing",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16982,
+        "name": "Aghaaz Housing Scheme - Block A",
+        "name_l1": "آغاز ہاؤسنگ سکیم - بلاک اے",
+        "externalID": "18139",
+        "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_A-18139",
+        "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_A-18139",
+        "_geoloc": {
+            "lat": 32.28760057,
+            "lng": 71.39219093
+        },
+        "geography": {
+            "lat": 32.28760057,
+            "lng": 71.39219093
+        },
+        "geo_point": [
+            71.39219093,
+            32.28760057
+        ],
+        "level": 5,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 16763,
+                "level": 3,
+                "externalID": "17971",
+                "name": "Piplan",
+                "name_l1": "پِپلاں",
+                "slug": "/Mianwali_Piplan-17971",
+                "slug_l1": "/Mianwali_Piplan-17971"
+            },
+            {
+                "id": 16756,
+                "level": 4,
+                "externalID": "17964",
+                "name": "Aghaaz Housing",
+                "name_l1": "آغاز ہاؤسنگ",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing-17964",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing-17964"
+            },
+            {
+                "id": 16982,
+                "level": 5,
+                "externalID": "18139",
+                "name": "Aghaaz Housing Scheme - Block A",
+                "name_l1": "آغاز ہاؤسنگ سکیم - بلاک اے",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_A-18139",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_A-18139"
+            }
+        ],
+        "hierarchyPath": "Aghaaz Housing Scheme - Block A Aghaaz Housing Piplan Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "18139",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "16982",
+        "_highlightResult": {
+            "name": {
+                "value": "Aghaaz Housing Scheme - Block A",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16981,
+        "name": "Aghaaz Housing Scheme - Block B",
+        "name_l1": "آغاز ہاؤسنگ سکیم - بلاک بی",
+        "externalID": "18138",
+        "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_B-18138",
+        "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_B-18138",
+        "_geoloc": {
+            "lat": 32.28742211,
+            "lng": 71.3985049
+        },
+        "geography": {
+            "lat": 32.28742211,
+            "lng": 71.3985049
+        },
+        "geo_point": [
+            71.3985049,
+            32.28742211
+        ],
+        "level": 5,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 16763,
+                "level": 3,
+                "externalID": "17971",
+                "name": "Piplan",
+                "name_l1": "پِپلاں",
+                "slug": "/Mianwali_Piplan-17971",
+                "slug_l1": "/Mianwali_Piplan-17971"
+            },
+            {
+                "id": 16756,
+                "level": 4,
+                "externalID": "17964",
+                "name": "Aghaaz Housing",
+                "name_l1": "آغاز ہاؤسنگ",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing-17964",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing-17964"
+            },
+            {
+                "id": 16981,
+                "level": 5,
+                "externalID": "18138",
+                "name": "Aghaaz Housing Scheme - Block B",
+                "name_l1": "آغاز ہاؤسنگ سکیم - بلاک بی",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_B-18138",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_B-18138"
+            }
+        ],
+        "hierarchyPath": "Aghaaz Housing Scheme - Block B Aghaaz Housing Piplan Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "18138",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "16981",
+        "_highlightResult": {
+            "name": {
+                "value": "Aghaaz Housing Scheme - Block B",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16980,
+        "name": "Aghaaz Housing Scheme - Block C",
+        "name_l1": "آغاز ہاؤسنگ سکیم - بلاک سی",
+        "externalID": "18137",
+        "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_C-18137",
+        "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_C-18137",
+        "_geoloc": {
+            "lat": 32.28757553,
+            "lng": 71.40558271
+        },
+        "geography": {
+            "lat": 32.28757553,
+            "lng": 71.40558271
+        },
+        "geo_point": [
+            71.40558271,
+            32.28757553
+        ],
+        "level": 5,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 16763,
+                "level": 3,
+                "externalID": "17971",
+                "name": "Piplan",
+                "name_l1": "پِپلاں",
+                "slug": "/Mianwali_Piplan-17971",
+                "slug_l1": "/Mianwali_Piplan-17971"
+            },
+            {
+                "id": 16756,
+                "level": 4,
+                "externalID": "17964",
+                "name": "Aghaaz Housing",
+                "name_l1": "آغاز ہاؤسنگ",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing-17964",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing-17964"
+            },
+            {
+                "id": 16980,
+                "level": 5,
+                "externalID": "18137",
+                "name": "Aghaaz Housing Scheme - Block C",
+                "name_l1": "آغاز ہاؤسنگ سکیم - بلاک سی",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_C-18137",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_C-18137"
+            }
+        ],
+        "hierarchyPath": "Aghaaz Housing Scheme - Block C Aghaaz Housing Piplan Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "18137",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "16980",
+        "_highlightResult": {
+            "name": {
+                "value": "Aghaaz Housing Scheme - Block C",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16983,
+        "name": "Aghaaz Housing Scheme - Block D",
+        "name_l1": "آغاز ہاؤسنگ سکیم - بلاک ڈی",
+        "externalID": "18140",
+        "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_D-18140",
+        "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_D-18140",
+        "_geoloc": {
+            "lat": 32.28751636,
+            "lng": 71.41274846
+        },
+        "geography": {
+            "lat": 32.28751636,
+            "lng": 71.41274846
+        },
+        "geo_point": [
+            71.41274846,
+            32.28751636
+        ],
+        "level": 5,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 16763,
+                "level": 3,
+                "externalID": "17971",
+                "name": "Piplan",
+                "name_l1": "پِپلاں",
+                "slug": "/Mianwali_Piplan-17971",
+                "slug_l1": "/Mianwali_Piplan-17971"
+            },
+            {
+                "id": 16756,
+                "level": 4,
+                "externalID": "17964",
+                "name": "Aghaaz Housing",
+                "name_l1": "آغاز ہاؤسنگ",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing-17964",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing-17964"
+            },
+            {
+                "id": 16983,
+                "level": 5,
+                "externalID": "18140",
+                "name": "Aghaaz Housing Scheme - Block D",
+                "name_l1": "آغاز ہاؤسنگ سکیم - بلاک ڈی",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_D-18140",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_D-18140"
+            }
+        ],
+        "hierarchyPath": "Aghaaz Housing Scheme - Block D Aghaaz Housing Piplan Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "18140",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "16983",
+        "_highlightResult": {
+            "name": {
+                "value": "Aghaaz Housing Scheme - Block D",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16979,
+        "name": "Aghaaz Housing Scheme - Block E",
+        "name_l1": "آغاز ہاؤسنگ سکیم - بلاک ای",
+        "externalID": "18136",
+        "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_E-18136",
+        "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_E-18136",
+        "_geoloc": {
+            "lat": 32.2874383,
+            "lng": 71.41790285
+        },
+        "geography": {
+            "lat": 32.2874383,
+            "lng": 71.41790285
+        },
+        "geo_point": [
+            71.41790285,
+            32.2874383
+        ],
+        "level": 5,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 16763,
+                "level": 3,
+                "externalID": "17971",
+                "name": "Piplan",
+                "name_l1": "پِپلاں",
+                "slug": "/Mianwali_Piplan-17971",
+                "slug_l1": "/Mianwali_Piplan-17971"
+            },
+            {
+                "id": 16756,
+                "level": 4,
+                "externalID": "17964",
+                "name": "Aghaaz Housing",
+                "name_l1": "آغاز ہاؤسنگ",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing-17964",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing-17964"
+            },
+            {
+                "id": 16979,
+                "level": 5,
+                "externalID": "18136",
+                "name": "Aghaaz Housing Scheme - Block E",
+                "name_l1": "آغاز ہاؤسنگ سکیم - بلاک ای",
+                "slug": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_E-18136",
+                "slug_l1": "/Mianwali_Piplan_Aghaaz_Housing_Aghaaz_Housing_Scheme___Block_E-18136"
+            }
+        ],
+        "hierarchyPath": "Aghaaz Housing Scheme - Block E Aghaaz Housing Piplan Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "18136",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "16979",
+        "_highlightResult": {
+            "name": {
+                "value": "Aghaaz Housing Scheme - Block E",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18480,
+        "name": "Ballo Khaill Road",
+        "name_l1": "بلو خیل روڈ",
+        "externalID": "19394",
+        "slug": "/Mianwali_Ballo_Khaill_Road-19394",
+        "slug_l1": "/Mianwali_Ballo_Khaill_Road-19394",
+        "_geoloc": {
+            "lat": 32.5824402,
+            "lng": 71.5297737
+        },
+        "geography": {
+            "lat": 32.5824402,
+            "lng": 71.5297737
+        },
+        "geo_point": [
+            71.5297737,
+            32.5824402
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18480,
+                "level": 3,
+                "externalID": "19394",
+                "name": "Ballo Khaill Road",
+                "name_l1": "بلو خیل روڈ",
+                "slug": "/Mianwali_Ballo_Khaill_Road-19394",
+                "slug_l1": "/Mianwali_Ballo_Khaill_Road-19394"
+            }
+        ],
+        "hierarchyPath": "Ballo Khaill Road Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19394",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18480",
+        "_highlightResult": {
+            "name": {
+                "value": "Ballo Khaill Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18479,
+        "name": "Green Town",
+        "name_l1": "گرین ٹاؤن",
+        "externalID": "19393",
+        "slug": "/Mianwali_Green_Town-19393",
+        "slug_l1": "/Mianwali_Green_Town-19393",
+        "_geoloc": {
+            "lat": 32.588582,
+            "lng": 71.571738
+        },
+        "geography": {
+            "lat": 32.588582,
+            "lng": 71.571738
+        },
+        "geo_point": [
+            71.571738,
+            32.588582
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18479,
+                "level": 3,
+                "externalID": "19393",
+                "name": "Green Town",
+                "name_l1": "گرین ٹاؤن",
+                "slug": "/Mianwali_Green_Town-19393",
+                "slug_l1": "/Mianwali_Green_Town-19393"
+            }
+        ],
+        "hierarchyPath": "Green Town Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19393",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18479",
+        "_highlightResult": {
+            "name": {
+                "value": "Green Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16755,
+        "name": "Hafiz Wala - Piplan Road",
+        "name_l1": "حافظ والا ۔ پپلان روڈ",
+        "externalID": "17963",
+        "slug": "/Mianwali_Piplan_Hafiz_Wala___Piplan_Road-17963",
+        "slug_l1": "/Mianwali_Piplan_Hafiz_Wala___Piplan_Road-17963",
+        "_geoloc": {
+            "lat": 32.286052,
+            "lng": 71.400477
+        },
+        "geography": {
+            "lat": 32.286052,
+            "lng": 71.400477
+        },
+        "geo_point": [
+            71.400477,
+            32.286052
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 16763,
+                "level": 3,
+                "externalID": "17971",
+                "name": "Piplan",
+                "name_l1": "پِپلاں",
+                "slug": "/Mianwali_Piplan-17971",
+                "slug_l1": "/Mianwali_Piplan-17971"
+            },
+            {
+                "id": 16755,
+                "level": 4,
+                "externalID": "17963",
+                "name": "Hafiz Wala - Piplan Road",
+                "name_l1": "حافظ والا ۔ پپلان روڈ",
+                "slug": "/Mianwali_Piplan_Hafiz_Wala___Piplan_Road-17963",
+                "slug_l1": "/Mianwali_Piplan_Hafiz_Wala___Piplan_Road-17963"
+            }
+        ],
+        "hierarchyPath": "Hafiz Wala - Piplan Road Piplan Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "17963",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "16755",
+        "_highlightResult": {
+            "name": {
+                "value": "Hafiz Wala - Piplan Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18473,
+        "name": "Isa Khel",
+        "name_l1": "عسی خیل",
+        "externalID": "19388",
+        "slug": "/Mianwali_Isa_Khel-19388",
+        "slug_l1": "/Mianwali_Isa_Khel-19388",
+        "_geoloc": {
+            "lat": 32.673808,
+            "lng": 71.278868
+        },
+        "geography": {
+            "lat": 32.673808,
+            "lng": 71.278868
+        },
+        "geo_point": [
+            71.278868,
+            32.673808
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18473,
+                "level": 3,
+                "externalID": "19388",
+                "name": "Isa Khel",
+                "name_l1": "عسی خیل",
+                "slug": "/Mianwali_Isa_Khel-19388",
+                "slug_l1": "/Mianwali_Isa_Khel-19388"
+            }
+        ],
+        "hierarchyPath": "Isa Khel Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19388",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18473",
+        "_highlightResult": {
+            "name": {
+                "value": "Isa Khel",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18481,
+        "name": "Iskandarabad",
+        "name_l1": "اسکندرآباد",
+        "externalID": "19395",
+        "slug": "/Mianwali_Iskandarabad-19395",
+        "slug_l1": "/Mianwali_Iskandarabad-19395",
+        "_geoloc": {
+            "lat": 32.898477,
+            "lng": 71.598641
+        },
+        "geography": {
+            "lat": 32.898477,
+            "lng": 71.598641
+        },
+        "geo_point": [
+            71.598641,
+            32.898477
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18481,
+                "level": 3,
+                "externalID": "19395",
+                "name": "Iskandarabad",
+                "name_l1": "اسکندرآباد",
+                "slug": "/Mianwali_Iskandarabad-19395",
+                "slug_l1": "/Mianwali_Iskandarabad-19395"
+            }
+        ],
+        "hierarchyPath": "Iskandarabad Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19395",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18481",
+        "_highlightResult": {
+            "name": {
+                "value": "Iskandarabad",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 6037,
+        "name": "Kalabagh",
+        "name_l1": "کالا باغ",
+        "externalID": "12112",
+        "slug": "/Mianwali_Kalabagh-12112",
+        "slug_l1": "/Mianwali_Kalabagh-12112",
+        "_geoloc": {
+            "lat": 32.962594,
+            "lng": 71.545735
+        },
+        "geography": {
+            "lat": 32.962594,
+            "lng": 71.545735
+        },
+        "geo_point": [
+            71.545735,
+            32.962594
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 6037,
+                "level": 3,
+                "externalID": "12112",
+                "name": "Kalabagh",
+                "name_l1": "کالا باغ",
+                "slug": "/Mianwali_Kalabagh-12112",
+                "slug_l1": "/Mianwali_Kalabagh-12112"
+            }
+        ],
+        "hierarchyPath": "Kalabagh Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "12112",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "6037",
+        "_highlightResult": {
+            "name": {
+                "value": "Kalabagh",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18478,
+        "name": "Kundian City",
+        "name_l1": "کندیان سٹی",
+        "externalID": "19392",
+        "slug": "/Mianwali_Kundian_City-19392",
+        "slug_l1": "/Mianwali_Kundian_City-19392",
+        "_geoloc": {
+            "lat": 32.457666,
+            "lng": 71.481994
+        },
+        "geography": {
+            "lat": 32.457666,
+            "lng": 71.481994
+        },
+        "geo_point": [
+            71.481994,
+            32.457666
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18478,
+                "level": 3,
+                "externalID": "19392",
+                "name": "Kundian City",
+                "name_l1": "کندیان سٹی",
+                "slug": "/Mianwali_Kundian_City-19392",
+                "slug_l1": "/Mianwali_Kundian_City-19392"
+            }
+        ],
+        "hierarchyPath": "Kundian City Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19392",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18478",
+        "_highlightResult": {
+            "name": {
+                "value": "Kundian City",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18477,
+        "name": "Madina Town",
+        "name_l1": "مدینہ ٹاؤن",
+        "externalID": "19391",
+        "slug": "/Mianwali_Madina_Town-19391",
+        "slug_l1": "/Mianwali_Madina_Town-19391",
+        "_geoloc": {
+            "lat": 32.938368,
+            "lng": 71.567538
+        },
+        "geography": {
+            "lat": 32.938368,
+            "lng": 71.567538
+        },
+        "geo_point": [
+            71.567538,
+            32.938368
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18477,
+                "level": 3,
+                "externalID": "19391",
+                "name": "Madina Town",
+                "name_l1": "مدینہ ٹاؤن",
+                "slug": "/Mianwali_Madina_Town-19391",
+                "slug_l1": "/Mianwali_Madina_Town-19391"
+            }
+        ],
+        "hierarchyPath": "Madina Town Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19391",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18477",
+        "_highlightResult": {
+            "name": {
+                "value": "Madina Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 115,
+        "name": "Mianwali",
+        "name_l1": "میانوالی",
+        "externalID": "8310",
+        "slug": "/Mianwali-8310",
+        "slug_l1": "/Mianwali-8310",
+        "_geoloc": {
+            "lat": 32.583596,
+            "lng": 71.549699
+        },
+        "geography": {
+            "lat": 32.583596,
+            "lng": 71.549699
+        },
+        "geo_point": [
+            71.549699,
+            32.583596
+        ],
+        "level": 2,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            }
+        ],
+        "hierarchyPath": "Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "8310",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "115",
+        "_highlightResult": {
+            "name": {
+                "value": "Mianwali",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 4725,
+        "name": "Mohalla Khanki Khel",
+        "name_l1": "محلہ خانکی خیل",
+        "externalID": "9637",
+        "slug": "/Mianwali_Mohalla_Khanki_Khel-9637",
+        "slug_l1": "/Mianwali_Mohalla_Khanki_Khel-9637",
+        "_geoloc": {
+            "lat": 32.58417,
+            "lng": 71.531326
+        },
+        "geography": {
+            "lat": 32.58417,
+            "lng": 71.531326
+        },
+        "geo_point": [
+            71.531326,
+            32.58417
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 4725,
+                "level": 3,
+                "externalID": "9637",
+                "name": "Mohalla Khanki Khel",
+                "name_l1": "محلہ خانکی خیل",
+                "slug": "/Mianwali_Mohalla_Khanki_Khel-9637",
+                "slug_l1": "/Mianwali_Mohalla_Khanki_Khel-9637"
+            }
+        ],
+        "hierarchyPath": "Mohalla Khanki Khel Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "9637",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "4725",
+        "_highlightResult": {
+            "name": {
+                "value": "Mohalla Khanki Khel",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18472,
+        "name": "Muslim Colony",
+        "name_l1": "مسلم کالونی",
+        "externalID": "19387",
+        "slug": "/Mianwali_Muslim_Colony-19387",
+        "slug_l1": "/Mianwali_Muslim_Colony-19387",
+        "_geoloc": {
+            "lat": 32.599465,
+            "lng": 71.544573
+        },
+        "geography": {
+            "lat": 32.599465,
+            "lng": 71.544573
+        },
+        "geo_point": [
+            71.544573,
+            32.599465
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18472,
+                "level": 3,
+                "externalID": "19387",
+                "name": "Muslim Colony",
+                "name_l1": "مسلم کالونی",
+                "slug": "/Mianwali_Muslim_Colony-19387",
+                "slug_l1": "/Mianwali_Muslim_Colony-19387"
+            }
+        ],
+        "hierarchyPath": "Muslim Colony Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19387",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18472",
+        "_highlightResult": {
+            "name": {
+                "value": "Muslim Colony",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18474,
+        "name": "Muzaffargarh Road",
+        "name_l1": "مظفر گڑھ روڈ",
+        "externalID": "19389",
+        "slug": "/Mianwali_Muzaffargarh_Road-19389",
+        "slug_l1": "/Mianwali_Muzaffargarh_Road-19389",
+        "_geoloc": {
+            "lat": 32.4366619,
+            "lng": 71.5412217
+        },
+        "geography": {
+            "lat": 32.4366619,
+            "lng": 71.5412217
+        },
+        "geo_point": [
+            71.5412217,
+            32.4366619
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18474,
+                "level": 3,
+                "externalID": "19389",
+                "name": "Muzaffargarh Road",
+                "name_l1": "مظفر گڑھ روڈ",
+                "slug": "/Mianwali_Muzaffargarh_Road-19389",
+                "slug_l1": "/Mianwali_Muzaffargarh_Road-19389"
+            }
+        ],
+        "hierarchyPath": "Muzaffargarh Road Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19389",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18474",
+        "_highlightResult": {
+            "name": {
+                "value": "Muzaffargarh Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 11170,
+        "name": "Others",
+        "name_l1": "ادرز",
+        "externalID": "12763",
+        "slug": "/Mianwali_Others-12763",
+        "slug_l1": "/Mianwali_Others-12763",
+        "_geoloc": {
+            "lat": 32.5846,
+            "lng": 71.541943
+        },
+        "geography": {
+            "lat": 32.5846,
+            "lng": 71.541943
+        },
+        "geo_point": [
+            71.541943,
+            32.5846
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 11170,
+                "level": 3,
+                "externalID": "12763",
+                "name": "Others",
+                "name_l1": "ادرز",
+                "slug": "/Mianwali_Others-12763",
+                "slug_l1": "/Mianwali_Others-12763"
+            }
+        ],
+        "hierarchyPath": "Others Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "12763",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "11170",
+        "_highlightResult": {
+            "name": {
+                "value": "Others",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16368,
+        "name": "PAF Road",
+        "name_l1": "پی اے ایف روڈ",
+        "externalID": "17610",
+        "slug": "/Mianwali_PAF_Road-17610",
+        "slug_l1": "/Mianwali_PAF_Road-17610",
+        "_geoloc": {
+            "lat": 32.5820186,
+            "lng": 71.563796
+        },
+        "geography": {
+            "lat": 32.5820186,
+            "lng": 71.563796
+        },
+        "geo_point": [
+            71.563796,
+            32.5820186
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 16368,
+                "level": 3,
+                "externalID": "17610",
+                "name": "PAF Road",
+                "name_l1": "پی اے ایف روڈ",
+                "slug": "/Mianwali_PAF_Road-17610",
+                "slug_l1": "/Mianwali_PAF_Road-17610"
+            }
+        ],
+        "hierarchyPath": "PAF Road Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "17610",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "16368",
+        "_highlightResult": {
+            "name": {
+                "value": "PAF Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16763,
+        "name": "Piplan",
+        "name_l1": "پِپلاں",
+        "externalID": "17971",
+        "slug": "/Mianwali_Piplan-17971",
+        "slug_l1": "/Mianwali_Piplan-17971",
+        "_geoloc": {
+            "lat": 32.284137,
+            "lng": 71.365238
+        },
+        "geography": {
+            "lat": 32.284137,
+            "lng": 71.365238
+        },
+        "geo_point": [
+            71.365238,
+            32.284137
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 16763,
+                "level": 3,
+                "externalID": "17971",
+                "name": "Piplan",
+                "name_l1": "پِپلاں",
+                "slug": "/Mianwali_Piplan-17971",
+                "slug_l1": "/Mianwali_Piplan-17971"
+            }
+        ],
+        "hierarchyPath": "Piplan Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "17971",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "16763",
+        "_highlightResult": {
+            "name": {
+                "value": "Piplan",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18476,
+        "name": "Sargodha Road",
+        "name_l1": "سرگودھا روڈ",
+        "externalID": "19390",
+        "slug": "/Mianwali_Sargodha_Road-19390",
+        "slug_l1": "/Mianwali_Sargodha_Road-19390",
+        "_geoloc": {
+            "lat": 32.5585152,
+            "lng": 71.5484968
+        },
+        "geography": {
+            "lat": 32.5585152,
+            "lng": 71.5484968
+        },
+        "geo_point": [
+            71.5484968,
+            32.5585152
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18476,
+                "level": 3,
+                "externalID": "19390",
+                "name": "Sargodha Road",
+                "name_l1": "سرگودھا روڈ",
+                "slug": "/Mianwali_Sargodha_Road-19390",
+                "slug_l1": "/Mianwali_Sargodha_Road-19390"
+            }
+        ],
+        "hierarchyPath": "Sargodha Road Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19390",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18476",
+        "_highlightResult": {
+            "name": {
+                "value": "Sargodha Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18471,
+        "name": "Zia Garden",
+        "name_l1": "ضیاء گارڈن",
+        "externalID": "19386",
+        "slug": "/Mianwali_Zia_Garden-19386",
+        "slug_l1": "/Mianwali_Zia_Garden-19386",
+        "_geoloc": {
+            "lat": 32.5948048,
+            "lng": 71.563095
+        },
+        "geography": {
+            "lat": 32.5948048,
+            "lng": 71.563095
+        },
+        "geo_point": [
+            71.563095,
+            32.5948048
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 115,
+                "level": 2,
+                "externalID": "8310",
+                "name": "Mianwali",
+                "name_l1": "میانوالی",
+                "slug": "/Mianwali-8310",
+                "slug_l1": "/Mianwali-8310"
+            },
+            {
+                "id": 18471,
+                "level": 3,
+                "externalID": "19386",
+                "name": "Zia Garden",
+                "name_l1": "ضیاء گارڈن",
+                "slug": "/Mianwali_Zia_Garden-19386",
+                "slug_l1": "/Mianwali_Zia_Garden-19386"
+            }
+        ],
+        "hierarchyPath": "Zia Garden Mianwali Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19386",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18471",
+        "_highlightResult": {
+            "name": {
+                "value": "Zia Garden",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }
+]

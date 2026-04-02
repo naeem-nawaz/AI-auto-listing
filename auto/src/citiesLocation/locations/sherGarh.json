@@ -1,0 +1,147 @@
+[
+  {
+      "id": 12055,
+      "name": "Others",
+      "name_l1": "ادرذ",
+      "externalID": "13572",
+      "slug": "/Sher_Garh_Others-13572",
+      "slug_l1": "/Sher_Garh_Others-13572",
+      "_geoloc": {
+          "lat": 30.833002,
+          "lng": 73.735021
+      },
+      "geography": {
+          "lat": 30.833002,
+          "lng": 73.735021
+      },
+      "geo_point": [
+          73.735021,
+          30.833002
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 12051,
+              "level": 2,
+              "externalID": "13570",
+              "name": "Sher Garh",
+              "name_l1": "شیر گڑھ",
+              "slug": "/Sher_Garh-13570",
+              "slug_l1": "/Sher_Garh-13570"
+          },
+          {
+              "id": 12055,
+              "level": 3,
+              "externalID": "13572",
+              "name": "Others",
+              "name_l1": "ادرذ",
+              "slug": "/Sher_Garh_Others-13572",
+              "slug_l1": "/Sher_Garh_Others-13572"
+          }
+      ],
+      "hierarchyPath": "Others Sher Garh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13572",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12055",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12051,
+      "name": "Sher Garh",
+      "name_l1": "شیر گڑھ",
+      "externalID": "13570",
+      "slug": "/Sher_Garh-13570",
+      "slug_l1": "/Sher_Garh-13570",
+      "_geoloc": {
+          "lat": 30.831277,
+          "lng": 73.734907
+      },
+      "geography": {
+          "lat": 30.831277,
+          "lng": 73.734907
+      },
+      "geo_point": [
+          73.734907,
+          30.831277
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 12051,
+              "level": 2,
+              "externalID": "13570",
+              "name": "Sher Garh",
+              "name_l1": "شیر گڑھ",
+              "slug": "/Sher_Garh-13570",
+              "slug_l1": "/Sher_Garh-13570"
+          }
+      ],
+      "hierarchyPath": "Sher Garh Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13570",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12051",
+      "_highlightResult": {
+          "name": {
+              "value": "Sher Garh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

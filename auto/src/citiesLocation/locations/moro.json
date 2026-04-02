@@ -1,0 +1,378 @@
+[
+  {
+      "id": 12126,
+      "name": "Dastagir Colony",
+      "name_l1": "دستگیر کالونی",
+      "externalID": "13605",
+      "slug": "/Moro_Dastagir_Colony-13605",
+      "slug_l1": "/Moro_Dastagir_Colony-13605",
+      "_geoloc": {
+          "lat": 26.662752,
+          "lng": 68.003746
+      },
+      "geography": {
+          "lat": 26.662752,
+          "lng": 68.003746
+      },
+      "geo_point": [
+          68.003746,
+          26.662752
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12119,
+              "level": 2,
+              "externalID": "13603",
+              "name": "Moro",
+              "name_l1": "مورو",
+              "slug": "/Moro-13603",
+              "slug_l1": "/Moro-13603"
+          },
+          {
+              "id": 12126,
+              "level": 3,
+              "externalID": "13605",
+              "name": "Dastagir Colony",
+              "name_l1": "دستگیر کالونی",
+              "slug": "/Moro_Dastagir_Colony-13605",
+              "slug_l1": "/Moro_Dastagir_Colony-13605"
+          }
+      ],
+      "hierarchyPath": "Dastagir Colony Moro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13605",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12126",
+      "_highlightResult": {
+          "name": {
+              "value": "Dastagir Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12127,
+      "name": "Latif Colony",
+      "name_l1": "لطیف کالونی",
+      "externalID": "13606",
+      "slug": "/Moro_Latif_Colony-13606",
+      "slug_l1": "/Moro_Latif_Colony-13606",
+      "_geoloc": {
+          "lat": 26.658185,
+          "lng": 68.000316
+      },
+      "geography": {
+          "lat": 26.658185,
+          "lng": 68.000316
+      },
+      "geo_point": [
+          68.000316,
+          26.658185
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12119,
+              "level": 2,
+              "externalID": "13603",
+              "name": "Moro",
+              "name_l1": "مورو",
+              "slug": "/Moro-13603",
+              "slug_l1": "/Moro-13603"
+          },
+          {
+              "id": 12127,
+              "level": 3,
+              "externalID": "13606",
+              "name": "Latif Colony",
+              "name_l1": "لطیف کالونی",
+              "slug": "/Moro_Latif_Colony-13606",
+              "slug_l1": "/Moro_Latif_Colony-13606"
+          }
+      ],
+      "hierarchyPath": "Latif Colony Moro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13606",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12127",
+      "_highlightResult": {
+          "name": {
+              "value": "Latif Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12119,
+      "name": "Moro",
+      "name_l1": "مورو",
+      "externalID": "13603",
+      "slug": "/Moro-13603",
+      "slug_l1": "/Moro-13603",
+      "_geoloc": {
+          "lat": 26.667997,
+          "lng": 67.996697
+      },
+      "geography": {
+          "lat": 26.667997,
+          "lng": 67.996697
+      },
+      "geo_point": [
+          67.996697,
+          26.667997
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12119,
+              "level": 2,
+              "externalID": "13603",
+              "name": "Moro",
+              "name_l1": "مورو",
+              "slug": "/Moro-13603",
+              "slug_l1": "/Moro-13603"
+          }
+      ],
+      "hierarchyPath": "Moro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13603",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12119",
+      "_highlightResult": {
+          "name": {
+              "value": "Moro",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12125,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13604",
+      "slug": "/Moro_Others-13604",
+      "slug_l1": "/Moro_Others-13604",
+      "_geoloc": {
+          "lat": 26.665233,
+          "lng": 67.999243
+      },
+      "geography": {
+          "lat": 26.665233,
+          "lng": 67.999243
+      },
+      "geo_point": [
+          67.999243,
+          26.665233
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12119,
+              "level": 2,
+              "externalID": "13603",
+              "name": "Moro",
+              "name_l1": "مورو",
+              "slug": "/Moro-13603",
+              "slug_l1": "/Moro-13603"
+          },
+          {
+              "id": 12125,
+              "level": 3,
+              "externalID": "13604",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Moro_Others-13604",
+              "slug_l1": "/Moro_Others-13604"
+          }
+      ],
+      "hierarchyPath": "Others Moro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13604",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12125",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20882,
+      "name": "Thata",
+      "name_l1": "ٹھٹھہ",
+      "externalID": "21432",
+      "slug": "/Moro_Thata-21432",
+      "slug_l1": "/Moro_Thata-21432",
+      "_geoloc": {
+          "lat": 24.74710832,
+          "lng": 67.92641611
+      },
+      "geography": {
+          "lat": 24.74710832,
+          "lng": 67.92641611
+      },
+      "geo_point": [
+          67.92641611,
+          24.74710832
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12119,
+              "level": 2,
+              "externalID": "13603",
+              "name": "Moro",
+              "name_l1": "مورو",
+              "slug": "/Moro-13603",
+              "slug_l1": "/Moro-13603"
+          },
+          {
+              "id": 20882,
+              "level": 3,
+              "externalID": "21432",
+              "name": "Thata",
+              "name_l1": "ٹھٹھہ",
+              "slug": "/Moro_Thata-21432",
+              "slug_l1": "/Moro_Thata-21432"
+          }
+      ],
+      "hierarchyPath": "Thata Moro Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21432",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20882",
+      "_highlightResult": {
+          "name": {
+              "value": "Thata",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

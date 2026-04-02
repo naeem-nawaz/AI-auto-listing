@@ -1,0 +1,1533 @@
+[
+  {
+      "id": 3686,
+      "name": "Azizabad",
+      "name_l1": "عزیز آباد",
+      "externalID": "7821",
+      "slug": "/Bagh_Azizabad-7821",
+      "slug_l1": "/Bagh_Azizabad-7821",
+      "_geoloc": {
+          "lat": 33.963224,
+          "lng": 73.791375
+      },
+      "geography": {
+          "lat": 33.963224,
+          "lng": 73.791375
+      },
+      "geo_point": [
+          73.791375,
+          33.963224
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3686,
+              "level": 3,
+              "externalID": "7821",
+              "name": "Azizabad",
+              "name_l1": "عزیز آباد",
+              "slug": "/Bagh_Azizabad-7821",
+              "slug_l1": "/Bagh_Azizabad-7821"
+          }
+      ],
+      "hierarchyPath": "Azizabad Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7821",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3686",
+      "_highlightResult": {
+          "name": {
+              "value": "Azizabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 47,
+      "name": "Bagh",
+      "name_l1": "باغ",
+      "externalID": "966",
+      "slug": "/Bagh-966",
+      "slug_l1": "/Bagh-966",
+      "_geoloc": {
+          "lat": 33.972121613489,
+          "lng": 73.79096031189
+      },
+      "geography": {
+          "lat": 33.972121613489,
+          "lng": 73.79096031189
+      },
+      "geo_point": [
+          73.79096031189,
+          33.972121613489
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          }
+      ],
+      "hierarchyPath": "Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "966",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "47",
+      "_highlightResult": {
+          "name": {
+              "value": "Bagh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3687,
+      "name": "Bagh Bypass",
+      "name_l1": "باغ بائی پاس",
+      "externalID": "7822",
+      "slug": "/Bagh_Bypass-7822",
+      "slug_l1": "/Bagh_Bypass-7822",
+      "_geoloc": {
+          "lat": 33.974079,
+          "lng": 73.783983
+      },
+      "geography": {
+          "lat": 33.974079,
+          "lng": 73.783983
+      },
+      "geo_point": [
+          73.783983,
+          33.974079
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3687,
+              "level": 3,
+              "externalID": "7822",
+              "name": "Bagh Bypass",
+              "name_l1": "باغ بائی پاس",
+              "slug": "/Bagh_Bypass-7822",
+              "slug_l1": "/Bagh_Bypass-7822"
+          }
+      ],
+      "hierarchyPath": "Bagh Bypass Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7822",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3687",
+      "_highlightResult": {
+          "name": {
+              "value": "Bagh Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3688,
+      "name": "Bagh Highway",
+      "name_l1": "باغ ہائی وے",
+      "externalID": "7823",
+      "slug": "/Bagh_Highway-7823",
+      "slug_l1": "/Bagh_Highway-7823",
+      "_geoloc": {
+          "lat": 33.979275,
+          "lng": 73.765447
+      },
+      "geography": {
+          "lat": 33.979275,
+          "lng": 73.765447
+      },
+      "geo_point": [
+          73.765447,
+          33.979275
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3688,
+              "level": 3,
+              "externalID": "7823",
+              "name": "Bagh Highway",
+              "name_l1": "باغ ہائی وے",
+              "slug": "/Bagh_Highway-7823",
+              "slug_l1": "/Bagh_Highway-7823"
+          }
+      ],
+      "hierarchyPath": "Bagh Highway Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7823",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3688",
+      "_highlightResult": {
+          "name": {
+              "value": "Bagh Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3689,
+      "name": "Chowki Road",
+      "name_l1": "چوکی روڈ",
+      "externalID": "7824",
+      "slug": "/Bagh_Chowki_Road-7824",
+      "slug_l1": "/Bagh_Chowki_Road-7824",
+      "_geoloc": {
+          "lat": 33.976375,
+          "lng": 73.788275
+      },
+      "geography": {
+          "lat": 33.976375,
+          "lng": 73.788275
+      },
+      "geo_point": [
+          73.788275,
+          33.976375
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3689,
+              "level": 3,
+              "externalID": "7824",
+              "name": "Chowki Road",
+              "name_l1": "چوکی روڈ",
+              "slug": "/Bagh_Chowki_Road-7824",
+              "slug_l1": "/Bagh_Chowki_Road-7824"
+          }
+      ],
+      "hierarchyPath": "Chowki Road Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7824",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3689",
+      "_highlightResult": {
+          "name": {
+              "value": "Chowki Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3690,
+      "name": "Dhulli Road",
+      "name_l1": "دُھلی روڈ",
+      "externalID": "7825",
+      "slug": "/Bagh_Dhulli_Road-7825",
+      "slug_l1": "/Bagh_Dhulli_Road-7825",
+      "_geoloc": {
+          "lat": 33.976375,
+          "lng": 73.783683
+      },
+      "geography": {
+          "lat": 33.976375,
+          "lng": 73.783683
+      },
+      "geo_point": [
+          73.783683,
+          33.976375
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3690,
+              "level": 3,
+              "externalID": "7825",
+              "name": "Dhulli Road",
+              "name_l1": "دُھلی روڈ",
+              "slug": "/Bagh_Dhulli_Road-7825",
+              "slug_l1": "/Bagh_Dhulli_Road-7825"
+          }
+      ],
+      "hierarchyPath": "Dhulli Road Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7825",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3690",
+      "_highlightResult": {
+          "name": {
+              "value": "Dhulli Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3691,
+      "name": "Hashim Abad",
+      "name_l1": "ہاشم آباد",
+      "externalID": "7826",
+      "slug": "/Bagh_Hashim_Abad-7826",
+      "slug_l1": "/Bagh_Hashim_Abad-7826",
+      "_geoloc": {
+          "lat": 33.973688,
+          "lng": 73.772235
+      },
+      "geography": {
+          "lat": 33.973688,
+          "lng": 73.772235
+      },
+      "geo_point": [
+          73.772235,
+          33.973688
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3691,
+              "level": 3,
+              "externalID": "7826",
+              "name": "Hashim Abad",
+              "name_l1": "ہاشم آباد",
+              "slug": "/Bagh_Hashim_Abad-7826",
+              "slug_l1": "/Bagh_Hashim_Abad-7826"
+          }
+      ],
+      "hierarchyPath": "Hashim Abad Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7826",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3691",
+      "_highlightResult": {
+          "name": {
+              "value": "Hashim Abad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3692,
+      "name": "Hassanabad Colony",
+      "name_l1": "حسن آباد کالونی",
+      "externalID": "7827",
+      "slug": "/Bagh_Hassanabad_Colony-7827",
+      "slug_l1": "/Bagh_Hassanabad_Colony-7827",
+      "_geoloc": {
+          "lat": 33.972549,
+          "lng": 73.78983
+      },
+      "geography": {
+          "lat": 33.972549,
+          "lng": 73.78983
+      },
+      "geo_point": [
+          73.78983,
+          33.972549
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3692,
+              "level": 3,
+              "externalID": "7827",
+              "name": "Hassanabad Colony",
+              "name_l1": "حسن آباد کالونی",
+              "slug": "/Bagh_Hassanabad_Colony-7827",
+              "slug_l1": "/Bagh_Hassanabad_Colony-7827"
+          }
+      ],
+      "hierarchyPath": "Hassanabad Colony Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7827",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3692",
+      "_highlightResult": {
+          "name": {
+              "value": "Hassanabad Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3693,
+      "name": "Hollarh",
+      "name_l1": "ہلڑ",
+      "externalID": "7828",
+      "slug": "/Bagh_Hollarh-7828",
+      "slug_l1": "/Bagh_Hollarh-7828",
+      "_geoloc": {
+          "lat": 33.96301,
+          "lng": 73.788886
+      },
+      "geography": {
+          "lat": 33.96301,
+          "lng": 73.788886
+      },
+      "geo_point": [
+          73.788886,
+          33.96301
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3693,
+              "level": 3,
+              "externalID": "7828",
+              "name": "Hollarh",
+              "name_l1": "ہلڑ",
+              "slug": "/Bagh_Hollarh-7828",
+              "slug_l1": "/Bagh_Hollarh-7828"
+          }
+      ],
+      "hierarchyPath": "Hollarh Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7828",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3693",
+      "_highlightResult": {
+          "name": {
+              "value": "Hollarh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3694,
+      "name": "Huda Barhi",
+      "name_l1": "ہُدا بڑھی",
+      "externalID": "7829",
+      "slug": "/Bagh_Huda_Barhi-7829",
+      "slug_l1": "/Bagh_Huda_Barhi-7829",
+      "_geoloc": {
+          "lat": 33.975325,
+          "lng": 73.783736
+      },
+      "geography": {
+          "lat": 33.975325,
+          "lng": 73.783736
+      },
+      "geo_point": [
+          73.783736,
+          33.975325
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3694,
+              "level": 3,
+              "externalID": "7829",
+              "name": "Huda Barhi",
+              "name_l1": "ہُدا بڑھی",
+              "slug": "/Bagh_Huda_Barhi-7829",
+              "slug_l1": "/Bagh_Huda_Barhi-7829"
+          }
+      ],
+      "hierarchyPath": "Huda Barhi Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7829",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3694",
+      "_highlightResult": {
+          "name": {
+              "value": "Huda Barhi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3695,
+      "name": "Kanah Mohri Road",
+      "name_l1": "کناہ موہری روڈ",
+      "externalID": "7830",
+      "slug": "/Bagh_Kanah_Mohri_Road-7830",
+      "slug_l1": "/Bagh_Kanah_Mohri_Road-7830",
+      "_geoloc": {
+          "lat": 33.978652,
+          "lng": 73.783575
+      },
+      "geography": {
+          "lat": 33.978652,
+          "lng": 73.783575
+      },
+      "geo_point": [
+          73.783575,
+          33.978652
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3695,
+              "level": 3,
+              "externalID": "7830",
+              "name": "Kanah Mohri Road",
+              "name_l1": "کناہ موہری روڈ",
+              "slug": "/Bagh_Kanah_Mohri_Road-7830",
+              "slug_l1": "/Bagh_Kanah_Mohri_Road-7830"
+          }
+      ],
+      "hierarchyPath": "Kanah Mohri Road Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7830",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3695",
+      "_highlightResult": {
+          "name": {
+              "value": "Kanah Mohri Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3696,
+      "name": "Khawas Village",
+      "name_l1": "خواس ویلیج",
+      "externalID": "7831",
+      "slug": "/Bagh_Khawas_Village-7831",
+      "slug_l1": "/Bagh_Khawas_Village-7831",
+      "_geoloc": {
+          "lat": 33.979239,
+          "lng": 73.80837
+      },
+      "geography": {
+          "lat": 33.979239,
+          "lng": 73.80837
+      },
+      "geo_point": [
+          73.80837,
+          33.979239
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3696,
+              "level": 3,
+              "externalID": "7831",
+              "name": "Khawas Village",
+              "name_l1": "خواس ویلیج",
+              "slug": "/Bagh_Khawas_Village-7831",
+              "slug_l1": "/Bagh_Khawas_Village-7831"
+          }
+      ],
+      "hierarchyPath": "Khawas Village Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7831",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3696",
+      "_highlightResult": {
+          "name": {
+              "value": "Khawas Village",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3697,
+      "name": "Main Bazar Road",
+      "name_l1": "مین بازار روڈ",
+      "externalID": "7832",
+      "slug": "/Bagh_Main_Bazar_Road-7832",
+      "slug_l1": "/Bagh_Main_Bazar_Road-7832",
+      "_geoloc": {
+          "lat": 33.982709,
+          "lng": 73.775808
+      },
+      "geography": {
+          "lat": 33.982709,
+          "lng": 73.775808
+      },
+      "geo_point": [
+          73.775808,
+          33.982709
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3697,
+              "level": 3,
+              "externalID": "7832",
+              "name": "Main Bazar Road",
+              "name_l1": "مین بازار روڈ",
+              "slug": "/Bagh_Main_Bazar_Road-7832",
+              "slug_l1": "/Bagh_Main_Bazar_Road-7832"
+          }
+      ],
+      "hierarchyPath": "Main Bazar Road Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7832",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3697",
+      "_highlightResult": {
+          "name": {
+              "value": "Main Bazar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3698,
+      "name": "Mohalla Khawajgaan",
+      "name_l1": "محلہ خواجگان",
+      "externalID": "7833",
+      "slug": "/Bagh_Mohalla_Khawajgaan-7833",
+      "slug_l1": "/Bagh_Mohalla_Khawajgaan-7833",
+      "_geoloc": {
+          "lat": 33.980378,
+          "lng": 73.775926
+      },
+      "geography": {
+          "lat": 33.980378,
+          "lng": 73.775926
+      },
+      "geo_point": [
+          73.775926,
+          33.980378
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3698,
+              "level": 3,
+              "externalID": "7833",
+              "name": "Mohalla Khawajgaan",
+              "name_l1": "محلہ خواجگان",
+              "slug": "/Bagh_Mohalla_Khawajgaan-7833",
+              "slug_l1": "/Bagh_Mohalla_Khawajgaan-7833"
+          }
+      ],
+      "hierarchyPath": "Mohalla Khawajgaan Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7833",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3698",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Khawajgaan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3699,
+      "name": "Mohalla Officers Colony",
+      "name_l1": "محلہ آفیسرز کالونی",
+      "externalID": "7834",
+      "slug": "/Bagh_Mohalla_Officers_Colony-7834",
+      "slug_l1": "/Bagh_Mohalla_Officers_Colony-7834",
+      "_geoloc": {
+          "lat": 33.980876,
+          "lng": 73.778172
+      },
+      "geography": {
+          "lat": 33.980876,
+          "lng": 73.778172
+      },
+      "geo_point": [
+          73.778172,
+          33.980876
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3699,
+              "level": 3,
+              "externalID": "7834",
+              "name": "Mohalla Officers Colony",
+              "name_l1": "محلہ آفیسرز کالونی",
+              "slug": "/Bagh_Mohalla_Officers_Colony-7834",
+              "slug_l1": "/Bagh_Mohalla_Officers_Colony-7834"
+          }
+      ],
+      "hierarchyPath": "Mohalla Officers Colony Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7834",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3699",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Officers Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3700,
+      "name": "Naryolaa",
+      "name_l1": "نریوالا",
+      "externalID": "7835",
+      "slug": "/Bagh_Naryolaa-7835",
+      "slug_l1": "/Bagh_Naryolaa-7835",
+      "_geoloc": {
+          "lat": 33.954325,
+          "lng": 73.79807
+      },
+      "geography": {
+          "lat": 33.954325,
+          "lng": 73.79807
+      },
+      "geo_point": [
+          73.79807,
+          33.954325
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3700,
+              "level": 3,
+              "externalID": "7835",
+              "name": "Naryolaa",
+              "name_l1": "نریوالا",
+              "slug": "/Bagh_Naryolaa-7835",
+              "slug_l1": "/Bagh_Naryolaa-7835"
+          }
+      ],
+      "hierarchyPath": "Naryolaa Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7835",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3700",
+      "_highlightResult": {
+          "name": {
+              "value": "Naryolaa",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3701,
+      "name": "Occhar Road",
+      "name_l1": "اوچھڑ روڈ",
+      "externalID": "7836",
+      "slug": "/Bagh_Occhar_Road-7836",
+      "slug_l1": "/Bagh_Occhar_Road-7836",
+      "_geoloc": {
+          "lat": 33.988616,
+          "lng": 73.778211
+      },
+      "geography": {
+          "lat": 33.988616,
+          "lng": 73.778211
+      },
+      "geo_point": [
+          73.778211,
+          33.988616
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3701,
+              "level": 3,
+              "externalID": "7836",
+              "name": "Occhar Road",
+              "name_l1": "اوچھڑ روڈ",
+              "slug": "/Bagh_Occhar_Road-7836",
+              "slug_l1": "/Bagh_Occhar_Road-7836"
+          }
+      ],
+      "hierarchyPath": "Occhar Road Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7836",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3701",
+      "_highlightResult": {
+          "name": {
+              "value": "Occhar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3702,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "7837",
+      "slug": "/Bagh_Others-7837",
+      "slug_l1": "/Bagh_Others-7837",
+      "_geoloc": {
+          "lat": 33.5825,
+          "lng": 73.473
+      },
+      "geography": {
+          "lat": 33.5825,
+          "lng": 73.473
+      },
+      "geo_point": [
+          73.473,
+          33.5825
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3702,
+              "level": 3,
+              "externalID": "7837",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Bagh_Others-7837",
+              "slug_l1": "/Bagh_Others-7837"
+          }
+      ],
+      "hierarchyPath": "Others Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7837",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3702",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3703,
+      "name": "Sir Sayyadaan",
+      "name_l1": "سر سیداں",
+      "externalID": "7838",
+      "slug": "/Bagh_Sir_Sayyadaan-7838",
+      "slug_l1": "/Bagh_Sir_Sayyadaan-7838",
+      "_geoloc": {
+          "lat": 33.966641,
+          "lng": 73.782277
+      },
+      "geography": {
+          "lat": 33.966641,
+          "lng": 73.782277
+      },
+      "geo_point": [
+          73.782277,
+          33.966641
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3703,
+              "level": 3,
+              "externalID": "7838",
+              "name": "Sir Sayyadaan",
+              "name_l1": "سر سیداں",
+              "slug": "/Bagh_Sir_Sayyadaan-7838",
+              "slug_l1": "/Bagh_Sir_Sayyadaan-7838"
+          }
+      ],
+      "hierarchyPath": "Sir Sayyadaan Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7838",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3703",
+      "_highlightResult": {
+          "name": {
+              "value": "Sir Sayyadaan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3704,
+      "name": "Sudhan Gali Road",
+      "name_l1": "سودھاں گلی روڈ",
+      "externalID": "7839",
+      "slug": "/Bagh_Sudhan_Gali_Road-7839",
+      "slug_l1": "/Bagh_Sudhan_Gali_Road-7839",
+      "_geoloc": {
+          "lat": 33.98278,
+          "lng": 73.773748
+      },
+      "geography": {
+          "lat": 33.98278,
+          "lng": 73.773748
+      },
+      "geo_point": [
+          73.773748,
+          33.98278
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 47,
+              "level": 2,
+              "externalID": "966",
+              "name": "Bagh",
+              "name_l1": "باغ",
+              "slug": "/Bagh-966",
+              "slug_l1": "/Bagh-966"
+          },
+          {
+              "id": 3704,
+              "level": 3,
+              "externalID": "7839",
+              "name": "Sudhan Gali Road",
+              "name_l1": "سودھاں گلی روڈ",
+              "slug": "/Bagh_Sudhan_Gali_Road-7839",
+              "slug_l1": "/Bagh_Sudhan_Gali_Road-7839"
+          }
+      ],
+      "hierarchyPath": "Sudhan Gali Road Bagh Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7839",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3704",
+      "_highlightResult": {
+          "name": {
+              "value": "Sudhan Gali Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

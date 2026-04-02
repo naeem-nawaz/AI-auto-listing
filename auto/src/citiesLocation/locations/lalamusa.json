@@ -1,0 +1,1379 @@
+[
+  {
+      "id": 144,
+      "name": "Lalamusa",
+      "name_l1": "لالہ موسی",
+      "externalID": "9837",
+      "slug": "/Lalamusa-9837",
+      "slug_l1": "/Lalamusa-9837",
+      "_geoloc": {
+          "lat": 32.702924,
+          "lng": 73.954786
+      },
+      "geography": {
+          "lat": 32.702924,
+          "lng": 73.954786
+      },
+      "geo_point": [
+          73.954786,
+          32.702924
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          }
+      ],
+      "hierarchyPath": "Lalamusa Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9837",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "144",
+      "_highlightResult": {
+          "name": {
+              "value": "Lalamusa",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5306,
+      "name": "Bhanowali",
+      "name_l1": "بھانووالی",
+      "externalID": "10693",
+      "slug": "/Lalamusa_Bhanowali-10693",
+      "slug_l1": "/Lalamusa_Bhanowali-10693",
+      "_geoloc": {
+          "lat": 32.679542,
+          "lng": 73.976714
+      },
+      "geography": {
+          "lat": 32.679542,
+          "lng": 73.976714
+      },
+      "geo_point": [
+          73.976714,
+          32.679542
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5306,
+              "level": 3,
+              "externalID": "10693",
+              "name": "Bhanowali",
+              "name_l1": "بھانووالی",
+              "slug": "/Lalamusa_Bhanowali-10693",
+              "slug_l1": "/Lalamusa_Bhanowali-10693"
+          }
+      ],
+      "hierarchyPath": "Bhanowali Lalamusa Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10693",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5306",
+      "_highlightResult": {
+          "name": {
+              "value": "Bhanowali",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5301,
+      "name": "Main Bazar Road",
+      "name_l1": "مین بازار روڈ",
+      "externalID": "10688",
+      "slug": "/Lalamusa_Main_Bazar_Road-10688",
+      "slug_l1": "/Lalamusa_Main_Bazar_Road-10688",
+      "_geoloc": {
+          "lat": 32.701943,
+          "lng": 73.960296
+      },
+      "geography": {
+          "lat": 32.701943,
+          "lng": 73.960296
+      },
+      "geo_point": [
+          73.960296,
+          32.701943
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5301,
+              "level": 3,
+              "externalID": "10688",
+              "name": "Main Bazar Road",
+              "name_l1": "مین بازار روڈ",
+              "slug": "/Lalamusa_Main_Bazar_Road-10688",
+              "slug_l1": "/Lalamusa_Main_Bazar_Road-10688"
+          }
+      ],
+      "hierarchyPath": "Main Bazar Road Lalamusa Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10688",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5301",
+      "_highlightResult": {
+          "name": {
+              "value": "Main Bazar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5296,
+      "name": "Ali Chak",
+      "name_l1": "علی چک",
+      "externalID": "10683",
+      "slug": "/Lalamusa_Ali_Chak-10683",
+      "slug_l1": "/Lalamusa_Ali_Chak-10683",
+      "_geoloc": {
+          "lat": 32.740176,
+          "lng": 73.920115
+      },
+      "geography": {
+          "lat": 32.740176,
+          "lng": 73.920115
+      },
+      "geo_point": [
+          73.920115,
+          32.740176
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5296,
+              "level": 3,
+              "externalID": "10683",
+              "name": "Ali Chak",
+              "name_l1": "علی چک",
+              "slug": "/Lalamusa_Ali_Chak-10683",
+              "slug_l1": "/Lalamusa_Ali_Chak-10683"
+          }
+      ],
+      "hierarchyPath": "Ali Chak Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10683",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5296",
+      "_highlightResult": {
+          "name": {
+              "value": "Ali Chak",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5364,
+      "name": "Asghar Town",
+      "name_l1": "اصغر ٹاؤن",
+      "externalID": "10803",
+      "slug": "/Lalamusa_Asghar_Town-10803",
+      "slug_l1": "/Lalamusa_Asghar_Town-10803",
+      "_geoloc": {
+          "lat": 32.716312,
+          "lng": 73.940765
+      },
+      "geography": {
+          "lat": 32.716312,
+          "lng": 73.940765
+      },
+      "geo_point": [
+          73.940765,
+          32.716312
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5364,
+              "level": 3,
+              "externalID": "10803",
+              "name": "Asghar Town",
+              "name_l1": "اصغر ٹاؤن",
+              "slug": "/Lalamusa_Asghar_Town-10803",
+              "slug_l1": "/Lalamusa_Asghar_Town-10803"
+          }
+      ],
+      "hierarchyPath": "Asghar Town Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10803",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5364",
+      "_highlightResult": {
+          "name": {
+              "value": "Asghar Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5299,
+      "name": "Camping Ground",
+      "name_l1": "کیمپنگ گراؤنڈ",
+      "externalID": "10686",
+      "slug": "/Lalamusa_Camping_Ground-10686",
+      "slug_l1": "/Lalamusa_Camping_Ground-10686",
+      "_geoloc": {
+          "lat": 32.699163,
+          "lng": 73.953524
+      },
+      "geography": {
+          "lat": 32.699163,
+          "lng": 73.953524
+      },
+      "geo_point": [
+          73.953524,
+          32.699163
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5299,
+              "level": 3,
+              "externalID": "10686",
+              "name": "Camping Ground",
+              "name_l1": "کیمپنگ گراؤنڈ",
+              "slug": "/Lalamusa_Camping_Ground-10686",
+              "slug_l1": "/Lalamusa_Camping_Ground-10686"
+          }
+      ],
+      "hierarchyPath": "Camping Ground Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10686",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5299",
+      "_highlightResult": {
+          "name": {
+              "value": "Camping Ground",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5293,
+      "name": "Chak Pirana",
+      "name_l1": "چک پیرانہ",
+      "externalID": "10680",
+      "slug": "/Lalamusa_Chak_Pirana-10680",
+      "slug_l1": "/Lalamusa_Chak_Pirana-10680",
+      "_geoloc": {
+          "lat": 32.74727,
+          "lng": 73.906838
+      },
+      "geography": {
+          "lat": 32.74727,
+          "lng": 73.906838
+      },
+      "geo_point": [
+          73.906838,
+          32.74727
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5293,
+              "level": 3,
+              "externalID": "10680",
+              "name": "Chak Pirana",
+              "name_l1": "چک پیرانہ",
+              "slug": "/Lalamusa_Chak_Pirana-10680",
+              "slug_l1": "/Lalamusa_Chak_Pirana-10680"
+          }
+      ],
+      "hierarchyPath": "Chak Pirana Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10680",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5293",
+      "_highlightResult": {
+          "name": {
+              "value": "Chak Pirana",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6145,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "12318",
+      "slug": "/Lalamusa_GT_Road-12318",
+      "slug_l1": "/Lalamusa_GT_Road-12318",
+      "_geoloc": {
+          "lat": 32.708244,
+          "lng": 73.948732
+      },
+      "geography": {
+          "lat": 32.708244,
+          "lng": 73.948732
+      },
+      "geo_point": [
+          73.948732,
+          32.708244
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 6145,
+              "level": 3,
+              "externalID": "12318",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Lalamusa_GT_Road-12318",
+              "slug_l1": "/Lalamusa_GT_Road-12318"
+          }
+      ],
+      "hierarchyPath": "GT Road Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12318",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6145",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18574,
+      "name": "Mohallah Qasba",
+      "name_l1": "محلہ قصبہ",
+      "externalID": "19490",
+      "slug": "/Lalamusa_Mohallah_Qasba-19490",
+      "slug_l1": "/Lalamusa_Mohallah_Qasba-19490",
+      "_geoloc": {
+          "lat": 32.701026,
+          "lng": 73.963754
+      },
+      "geography": {
+          "lat": 32.701026,
+          "lng": 73.963754
+      },
+      "geo_point": [
+          73.963754,
+          32.701026
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 18574,
+              "level": 3,
+              "externalID": "19490",
+              "name": "Mohallah Qasba",
+              "name_l1": "محلہ قصبہ",
+              "slug": "/Lalamusa_Mohallah_Qasba-19490",
+              "slug_l1": "/Lalamusa_Mohallah_Qasba-19490"
+          }
+      ],
+      "hierarchyPath": "Mohallah Qasba Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19490",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18574",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohallah Qasba",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5294,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "10681",
+      "slug": "/Lalamusa_Others-10681",
+      "slug_l1": "/Lalamusa_Others-10681",
+      "_geoloc": {
+          "lat": 32.703471,
+          "lng": 73.954489
+      },
+      "geography": {
+          "lat": 32.703471,
+          "lng": 73.954489
+      },
+      "geo_point": [
+          73.954489,
+          32.703471
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5294,
+              "level": 3,
+              "externalID": "10681",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Lalamusa_Others-10681",
+              "slug_l1": "/Lalamusa_Others-10681"
+          }
+      ],
+      "hierarchyPath": "Others Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10681",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5294",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5302,
+      "name": "Qasba Muhalla",
+      "name_l1": "قصبہ محلہ",
+      "externalID": "10689",
+      "slug": "/Lalamusa_Qasba_Muhalla-10689",
+      "slug_l1": "/Lalamusa_Qasba_Muhalla-10689",
+      "_geoloc": {
+          "lat": 32.697312,
+          "lng": 73.964649
+      },
+      "geography": {
+          "lat": 32.697312,
+          "lng": 73.964649
+      },
+      "geo_point": [
+          73.964649,
+          32.697312
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5302,
+              "level": 3,
+              "externalID": "10689",
+              "name": "Qasba Muhalla",
+              "name_l1": "قصبہ محلہ",
+              "slug": "/Lalamusa_Qasba_Muhalla-10689",
+              "slug_l1": "/Lalamusa_Qasba_Muhalla-10689"
+          }
+      ],
+      "hierarchyPath": "Qasba Muhalla Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10689",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5302",
+      "_highlightResult": {
+          "name": {
+              "value": "Qasba Muhalla",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5307,
+      "name": "Qazian Road",
+      "name_l1": "قاضياں روڈ",
+      "externalID": "10694",
+      "slug": "/Lalamusa_Qazian_Road-10694",
+      "slug_l1": "/Lalamusa_Qazian_Road-10694",
+      "_geoloc": {
+          "lat": 32.711071,
+          "lng": 73.950061
+      },
+      "geography": {
+          "lat": 32.711071,
+          "lng": 73.950061
+      },
+      "geo_point": [
+          73.950061,
+          32.711071
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5307,
+              "level": 3,
+              "externalID": "10694",
+              "name": "Qazian Road",
+              "name_l1": "قاضياں روڈ",
+              "slug": "/Lalamusa_Qazian_Road-10694",
+              "slug_l1": "/Lalamusa_Qazian_Road-10694"
+          }
+      ],
+      "hierarchyPath": "Qazian Road Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10694",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5307",
+      "_highlightResult": {
+          "name": {
+              "value": "Qazian Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5304,
+      "name": "Qureshi Mohalla",
+      "name_l1": "قریشی محلہ",
+      "externalID": "10691",
+      "slug": "/Lalamusa_Qureshi_Mohalla-10691",
+      "slug_l1": "/Lalamusa_Qureshi_Mohalla-10691",
+      "_geoloc": {
+          "lat": 32.705788,
+          "lng": 73.953993
+      },
+      "geography": {
+          "lat": 32.705788,
+          "lng": 73.953993
+      },
+      "geo_point": [
+          73.953993,
+          32.705788
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5304,
+              "level": 3,
+              "externalID": "10691",
+              "name": "Qureshi Mohalla",
+              "name_l1": "قریشی محلہ",
+              "slug": "/Lalamusa_Qureshi_Mohalla-10691",
+              "slug_l1": "/Lalamusa_Qureshi_Mohalla-10691"
+          }
+      ],
+      "hierarchyPath": "Qureshi Mohalla Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10691",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5304",
+      "_highlightResult": {
+          "name": {
+              "value": "Qureshi Mohalla",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5300,
+      "name": "Railway Road",
+      "name_l1": "ریلوے روڈ",
+      "externalID": "10687",
+      "slug": "/Lalamusa_Railway_Road-10687",
+      "slug_l1": "/Lalamusa_Railway_Road-10687",
+      "_geoloc": {
+          "lat": 32.701761,
+          "lng": 73.951345
+      },
+      "geography": {
+          "lat": 32.701761,
+          "lng": 73.951345
+      },
+      "geo_point": [
+          73.951345,
+          32.701761
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5300,
+              "level": 3,
+              "externalID": "10687",
+              "name": "Railway Road",
+              "name_l1": "ریلوے روڈ",
+              "slug": "/Lalamusa_Railway_Road-10687",
+              "slug_l1": "/Lalamusa_Railway_Road-10687"
+          }
+      ],
+      "hierarchyPath": "Railway Road Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10687",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5300",
+      "_highlightResult": {
+          "name": {
+              "value": "Railway Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5305,
+      "name": "Sadiq Abad",
+      "name_l1": "صادِق آباد",
+      "externalID": "10692",
+      "slug": "/Lalamusa_Sadiq_Abad-10692",
+      "slug_l1": "/Lalamusa_Sadiq_Abad-10692",
+      "_geoloc": {
+          "lat": 32.68105,
+          "lng": 73.968651
+      },
+      "geography": {
+          "lat": 32.68105,
+          "lng": 73.968651
+      },
+      "geo_point": [
+          73.968651,
+          32.68105
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5305,
+              "level": 3,
+              "externalID": "10692",
+              "name": "Sadiq Abad",
+              "name_l1": "صادِق آباد",
+              "slug": "/Lalamusa_Sadiq_Abad-10692",
+              "slug_l1": "/Lalamusa_Sadiq_Abad-10692"
+          }
+      ],
+      "hierarchyPath": "Sadiq Abad Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10692",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5305",
+      "_highlightResult": {
+          "name": {
+              "value": "Sadiq Abad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5303,
+      "name": "Sardar Pura",
+      "name_l1": "سردار پورہ",
+      "externalID": "10690",
+      "slug": "/Lalamusa_Sardar_Pura-10690",
+      "slug_l1": "/Lalamusa_Sardar_Pura-10690",
+      "_geoloc": {
+          "lat": 32.710773,
+          "lng": 73.960658
+      },
+      "geography": {
+          "lat": 32.710773,
+          "lng": 73.960658
+      },
+      "geo_point": [
+          73.960658,
+          32.710773
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5303,
+              "level": 3,
+              "externalID": "10690",
+              "name": "Sardar Pura",
+              "name_l1": "سردار پورہ",
+              "slug": "/Lalamusa_Sardar_Pura-10690",
+              "slug_l1": "/Lalamusa_Sardar_Pura-10690"
+          }
+      ],
+      "hierarchyPath": "Sardar Pura Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10690",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5303",
+      "_highlightResult": {
+          "name": {
+              "value": "Sardar Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5295,
+      "name": "Shah Jahanian",
+      "name_l1": "شاہ جهانيا",
+      "externalID": "10682",
+      "slug": "/Lalamusa_Shah_Jahanian-10682",
+      "slug_l1": "/Lalamusa_Shah_Jahanian-10682",
+      "_geoloc": {
+          "lat": 32.734855,
+          "lng": 73.930532
+      },
+      "geography": {
+          "lat": 32.734855,
+          "lng": 73.930532
+      },
+      "geo_point": [
+          73.930532,
+          32.734855
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5295,
+              "level": 3,
+              "externalID": "10682",
+              "name": "Shah Jahanian",
+              "name_l1": "شاہ جهانيا",
+              "slug": "/Lalamusa_Shah_Jahanian-10682",
+              "slug_l1": "/Lalamusa_Shah_Jahanian-10682"
+          }
+      ],
+      "hierarchyPath": "Shah Jahanian Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10682",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5295",
+      "_highlightResult": {
+          "name": {
+              "value": "Shah Jahanian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5297,
+      "name": "Thikrian",
+      "name_l1": "ٹھیکریاں",
+      "externalID": "10684",
+      "slug": "/Lalamusa_Thikrian-10684",
+      "slug_l1": "/Lalamusa_Thikrian-10684",
+      "_geoloc": {
+          "lat": 32.726317,
+          "lng": 73.934169
+      },
+      "geography": {
+          "lat": 32.726317,
+          "lng": 73.934169
+      },
+      "geo_point": [
+          73.934169,
+          32.726317
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 144,
+              "level": 2,
+              "externalID": "9837",
+              "name": "Lalamusa",
+              "name_l1": "لالہ موسی",
+              "slug": "/Lalamusa-9837",
+              "slug_l1": "/Lalamusa-9837"
+          },
+          {
+              "id": 5297,
+              "level": 3,
+              "externalID": "10684",
+              "name": "Thikrian",
+              "name_l1": "ٹھیکریاں",
+              "slug": "/Lalamusa_Thikrian-10684",
+              "slug_l1": "/Lalamusa_Thikrian-10684"
+          }
+      ],
+      "hierarchyPath": "Thikrian Lalamusa Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10684",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5297",
+      "_highlightResult": {
+          "name": {
+              "value": "Thikrian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

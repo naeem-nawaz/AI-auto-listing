@@ -1,0 +1,301 @@
+[
+  {
+      "id": 18726,
+      "name": "Ajwa Residencia",
+      "name_l1": "اجوا ریذیڈنسیا",
+      "externalID": "19641",
+      "slug": "/Renala_Khurd_Ajwa_Residencia-19641",
+      "slug_l1": "/Renala_Khurd_Ajwa_Residencia-19641",
+      "_geoloc": {
+          "lat": 30.859992056974,
+          "lng": 73.598334429501
+      },
+      "geography": {
+          "lat": 30.859992056974,
+          "lng": 73.598334429501
+      },
+      "geo_point": [
+          73.598334429501,
+          30.859992056974
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4002,
+              "level": 2,
+              "externalID": "8151",
+              "name": "Renala Khurd",
+              "name_l1": "رِينالہ خورد",
+              "slug": "/Renala_Khurd-8151",
+              "slug_l1": "/Renala_Khurd-8151"
+          },
+          {
+              "id": 18726,
+              "level": 3,
+              "externalID": "19641",
+              "name": "Ajwa Residencia",
+              "name_l1": "اجوا ریذیڈنسیا",
+              "slug": "/Renala_Khurd_Ajwa_Residencia-19641",
+              "slug_l1": "/Renala_Khurd_Ajwa_Residencia-19641"
+          }
+      ],
+      "hierarchyPath": "Ajwa Residencia Renala Khurd Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19641",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18726",
+      "_highlightResult": {
+          "name": {
+              "value": "Ajwa Residencia",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18775,
+      "name": "Lahore - Multan Road",
+      "name_l1": "لاہور ۔ ملتان روڈ",
+      "externalID": "19690",
+      "slug": "/Renala_Khurd_Lahore___Multan_Road-19690",
+      "slug_l1": "/Renala_Khurd_Lahore___Multan_Road-19690",
+      "_geoloc": {
+          "lat": 30.896653,
+          "lng": 73.631388
+      },
+      "geography": {
+          "lat": 30.896653,
+          "lng": 73.631388
+      },
+      "geo_point": [
+          73.631388,
+          30.896653
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4002,
+              "level": 2,
+              "externalID": "8151",
+              "name": "Renala Khurd",
+              "name_l1": "رِينالہ خورد",
+              "slug": "/Renala_Khurd-8151",
+              "slug_l1": "/Renala_Khurd-8151"
+          },
+          {
+              "id": 18775,
+              "level": 3,
+              "externalID": "19690",
+              "name": "Lahore - Multan Road",
+              "name_l1": "لاہور ۔ ملتان روڈ",
+              "slug": "/Renala_Khurd_Lahore___Multan_Road-19690",
+              "slug_l1": "/Renala_Khurd_Lahore___Multan_Road-19690"
+          }
+      ],
+      "hierarchyPath": "Lahore - Multan Road Renala Khurd Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19690",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18775",
+      "_highlightResult": {
+          "name": {
+              "value": "Lahore - Multan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18707,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "19622",
+      "slug": "/Renala_Khurd_Others-19622",
+      "slug_l1": "/Renala_Khurd_Others-19622",
+      "_geoloc": {
+          "lat": 30.878669,
+          "lng": 73.600037
+      },
+      "geography": {
+          "lat": 30.878669,
+          "lng": 73.600037
+      },
+      "geo_point": [
+          73.600037,
+          30.878669
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4002,
+              "level": 2,
+              "externalID": "8151",
+              "name": "Renala Khurd",
+              "name_l1": "رِينالہ خورد",
+              "slug": "/Renala_Khurd-8151",
+              "slug_l1": "/Renala_Khurd-8151"
+          },
+          {
+              "id": 18707,
+              "level": 3,
+              "externalID": "19622",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Renala_Khurd_Others-19622",
+              "slug_l1": "/Renala_Khurd_Others-19622"
+          }
+      ],
+      "hierarchyPath": "Others Renala Khurd Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19622",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18707",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4002,
+      "name": "Renala Khurd",
+      "name_l1": "رِينالہ خورد",
+      "externalID": "8151",
+      "slug": "/Renala_Khurd-8151",
+      "slug_l1": "/Renala_Khurd-8151",
+      "_geoloc": {
+          "lat": 30.877624,
+          "lng": 73.597054
+      },
+      "geography": {
+          "lat": 30.877624,
+          "lng": 73.597054
+      },
+      "geo_point": [
+          73.597054,
+          30.877624
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 4002,
+              "level": 2,
+              "externalID": "8151",
+              "name": "Renala Khurd",
+              "name_l1": "رِينالہ خورد",
+              "slug": "/Renala_Khurd-8151",
+              "slug_l1": "/Renala_Khurd-8151"
+          }
+      ],
+      "hierarchyPath": "Renala Khurd Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8151",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "4002",
+      "_highlightResult": {
+          "name": {
+              "value": "Renala Khurd",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

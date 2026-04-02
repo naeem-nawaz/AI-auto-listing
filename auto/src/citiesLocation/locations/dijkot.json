@@ -1,0 +1,455 @@
+[
+  {
+      "id": 161,
+      "name": "Dijkot",
+      "name_l1": "ڈجکوٹ",
+      "externalID": "10645",
+      "slug": "/Dijkot-10645",
+      "slug_l1": "/Dijkot-10645",
+      "_geoloc": {
+          "lat": 31.217918,
+          "lng": 72.996208
+      },
+      "geography": {
+          "lat": 31.217918,
+          "lng": 72.996208
+      },
+      "geo_point": [
+          72.996208,
+          31.217918
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 161,
+              "level": 2,
+              "externalID": "10645",
+              "name": "Dijkot",
+              "name_l1": "ڈجکوٹ",
+              "slug": "/Dijkot-10645",
+              "slug_l1": "/Dijkot-10645"
+          }
+      ],
+      "hierarchyPath": "Dijkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10645",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "161",
+      "_highlightResult": {
+          "name": {
+              "value": "Dijkot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5316,
+      "name": "Faisalabad Bypass Road",
+      "name_l1": "فیصل آباد بائی پاس روڈ",
+      "externalID": "10704",
+      "slug": "/Dijkot_Faisalabad_Bypass_Road-10704",
+      "slug_l1": "/Dijkot_Faisalabad_Bypass_Road-10704",
+      "_geoloc": {
+          "lat": 31.219933,
+          "lng": 73.002349
+      },
+      "geography": {
+          "lat": 31.219933,
+          "lng": 73.002349
+      },
+      "geo_point": [
+          73.002349,
+          31.219933
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 161,
+              "level": 2,
+              "externalID": "10645",
+              "name": "Dijkot",
+              "name_l1": "ڈجکوٹ",
+              "slug": "/Dijkot-10645",
+              "slug_l1": "/Dijkot-10645"
+          },
+          {
+              "id": 5316,
+              "level": 3,
+              "externalID": "10704",
+              "name": "Faisalabad Bypass Road",
+              "name_l1": "فیصل آباد بائی پاس روڈ",
+              "slug": "/Dijkot_Faisalabad_Bypass_Road-10704",
+              "slug_l1": "/Dijkot_Faisalabad_Bypass_Road-10704"
+          }
+      ],
+      "hierarchyPath": "Faisalabad Bypass Road Dijkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10704",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5316",
+      "_highlightResult": {
+          "name": {
+              "value": "Faisalabad Bypass Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5317,
+      "name": "Jalandhar Road",
+      "name_l1": "جالندھر روڈ",
+      "externalID": "10705",
+      "slug": "/Dijkot_Jalandhar_Road-10705",
+      "slug_l1": "/Dijkot_Jalandhar_Road-10705",
+      "_geoloc": {
+          "lat": 31.215062,
+          "lng": 72.958628
+      },
+      "geography": {
+          "lat": 31.215062,
+          "lng": 72.958628
+      },
+      "geo_point": [
+          72.958628,
+          31.215062
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 161,
+              "level": 2,
+              "externalID": "10645",
+              "name": "Dijkot",
+              "name_l1": "ڈجکوٹ",
+              "slug": "/Dijkot-10645",
+              "slug_l1": "/Dijkot-10645"
+          },
+          {
+              "id": 5317,
+              "level": 3,
+              "externalID": "10705",
+              "name": "Jalandhar Road",
+              "name_l1": "جالندھر روڈ",
+              "slug": "/Dijkot_Jalandhar_Road-10705",
+              "slug_l1": "/Dijkot_Jalandhar_Road-10705"
+          }
+      ],
+      "hierarchyPath": "Jalandhar Road Dijkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10705",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5317",
+      "_highlightResult": {
+          "name": {
+              "value": "Jalandhar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5315,
+      "name": "Main Bazar",
+      "name_l1": "مین بازار",
+      "externalID": "10703",
+      "slug": "/Dijkot_Main_Bazar-10703",
+      "slug_l1": "/Dijkot_Main_Bazar-10703",
+      "_geoloc": {
+          "lat": 31.220637,
+          "lng": 72.993243
+      },
+      "geography": {
+          "lat": 31.220637,
+          "lng": 72.993243
+      },
+      "geo_point": [
+          72.993243,
+          31.220637
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 161,
+              "level": 2,
+              "externalID": "10645",
+              "name": "Dijkot",
+              "name_l1": "ڈجکوٹ",
+              "slug": "/Dijkot-10645",
+              "slug_l1": "/Dijkot-10645"
+          },
+          {
+              "id": 5315,
+              "level": 3,
+              "externalID": "10703",
+              "name": "Main Bazar",
+              "name_l1": "مین بازار",
+              "slug": "/Dijkot_Main_Bazar-10703",
+              "slug_l1": "/Dijkot_Main_Bazar-10703"
+          }
+      ],
+      "hierarchyPath": "Main Bazar Dijkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10703",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5315",
+      "_highlightResult": {
+          "name": {
+              "value": "Main Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6213,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "12471",
+      "slug": "/Dijkot_Others-12471",
+      "slug_l1": "/Dijkot_Others-12471",
+      "_geoloc": {
+          "lat": 31.216752,
+          "lng": 72.995208
+      },
+      "geography": {
+          "lat": 31.216752,
+          "lng": 72.995208
+      },
+      "geo_point": [
+          72.995208,
+          31.216752
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 161,
+              "level": 2,
+              "externalID": "10645",
+              "name": "Dijkot",
+              "name_l1": "ڈجکوٹ",
+              "slug": "/Dijkot-10645",
+              "slug_l1": "/Dijkot-10645"
+          },
+          {
+              "id": 6213,
+              "level": 3,
+              "externalID": "12471",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Dijkot_Others-12471",
+              "slug_l1": "/Dijkot_Others-12471"
+          }
+      ],
+      "hierarchyPath": "Others Dijkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12471",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6213",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5314,
+      "name": "Samundari Road",
+      "name_l1": "سمندری روڈ",
+      "externalID": "10702",
+      "slug": "/Dijkot_Samundari_Road-10702",
+      "slug_l1": "/Dijkot_Samundari_Road-10702",
+      "_geoloc": {
+          "lat": 31.214734,
+          "lng": 72.99693
+      },
+      "geography": {
+          "lat": 31.214734,
+          "lng": 72.99693
+      },
+      "geo_point": [
+          72.99693,
+          31.214734
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 161,
+              "level": 2,
+              "externalID": "10645",
+              "name": "Dijkot",
+              "name_l1": "ڈجکوٹ",
+              "slug": "/Dijkot-10645",
+              "slug_l1": "/Dijkot-10645"
+          },
+          {
+              "id": 5314,
+              "level": 3,
+              "externalID": "10702",
+              "name": "Samundari Road",
+              "name_l1": "سمندری روڈ",
+              "slug": "/Dijkot_Samundari_Road-10702",
+              "slug_l1": "/Dijkot_Samundari_Road-10702"
+          }
+      ],
+      "hierarchyPath": "Samundari Road Dijkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10702",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5314",
+      "_highlightResult": {
+          "name": {
+              "value": "Samundari Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

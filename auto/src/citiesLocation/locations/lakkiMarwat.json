@@ -1,0 +1,378 @@
+[
+  {
+      "id": 148,
+      "name": "Lakki Marwat",
+      "name_l1": "لکی مروت",
+      "externalID": "10205",
+      "slug": "/Lakki_Marwat-10205",
+      "slug_l1": "/Lakki_Marwat-10205",
+      "_geoloc": {
+          "lat": 32.605354,
+          "lng": 70.909444
+      },
+      "geography": {
+          "lat": 32.605354,
+          "lng": 70.909444
+      },
+      "geo_point": [
+          70.909444,
+          32.605354
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 148,
+              "level": 2,
+              "externalID": "10205",
+              "name": "Lakki Marwat",
+              "name_l1": "لکی مروت",
+              "slug": "/Lakki_Marwat-10205",
+              "slug_l1": "/Lakki_Marwat-10205"
+          }
+      ],
+      "hierarchyPath": "Lakki Marwat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10205",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "148",
+      "_highlightResult": {
+          "name": {
+              "value": "Lakki Marwat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16322,
+      "name": "Lakki Marwat Road",
+      "name_l1": "لکی مروت روڈ",
+      "externalID": "17571",
+      "slug": "/Lakki_Marwat_Lakki_Marwat_Road-17571",
+      "slug_l1": "/Lakki_Marwat_Lakki_Marwat_Road-17571",
+      "_geoloc": {
+          "lat": 32.595041,
+          "lng": 70.91179
+      },
+      "geography": {
+          "lat": 32.595041,
+          "lng": 70.91179
+      },
+      "geo_point": [
+          70.91179,
+          32.595041
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 148,
+              "level": 2,
+              "externalID": "10205",
+              "name": "Lakki Marwat",
+              "name_l1": "لکی مروت",
+              "slug": "/Lakki_Marwat-10205",
+              "slug_l1": "/Lakki_Marwat-10205"
+          },
+          {
+              "id": 16322,
+              "level": 3,
+              "externalID": "17571",
+              "name": "Lakki Marwat Road",
+              "name_l1": "لکی مروت روڈ",
+              "slug": "/Lakki_Marwat_Lakki_Marwat_Road-17571",
+              "slug_l1": "/Lakki_Marwat_Lakki_Marwat_Road-17571"
+          }
+      ],
+      "hierarchyPath": "Lakki Marwat Road Lakki Marwat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17571",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16322",
+      "_highlightResult": {
+          "name": {
+              "value": "Lakki Marwat Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16321,
+      "name": "Machan Khel",
+      "name_l1": "مکھن خیل",
+      "externalID": "17570",
+      "slug": "/Lakki_Marwat_Machan_Khel-17570",
+      "slug_l1": "/Lakki_Marwat_Machan_Khel-17570",
+      "_geoloc": {
+          "lat": 32.597506,
+          "lng": 70.917309
+      },
+      "geography": {
+          "lat": 32.597506,
+          "lng": 70.917309
+      },
+      "geo_point": [
+          70.917309,
+          32.597506
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 148,
+              "level": 2,
+              "externalID": "10205",
+              "name": "Lakki Marwat",
+              "name_l1": "لکی مروت",
+              "slug": "/Lakki_Marwat-10205",
+              "slug_l1": "/Lakki_Marwat-10205"
+          },
+          {
+              "id": 16321,
+              "level": 3,
+              "externalID": "17570",
+              "name": "Machan Khel",
+              "name_l1": "مکھن خیل",
+              "slug": "/Lakki_Marwat_Machan_Khel-17570",
+              "slug_l1": "/Lakki_Marwat_Machan_Khel-17570"
+          }
+      ],
+      "hierarchyPath": "Machan Khel Lakki Marwat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17570",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16321",
+      "_highlightResult": {
+          "name": {
+              "value": "Machan Khel",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16323,
+      "name": "Mohallah Baghban",
+      "name_l1": "محلہ باغبان",
+      "externalID": "17572",
+      "slug": "/Lakki_Marwat_Mohallah_Baghban-17572",
+      "slug_l1": "/Lakki_Marwat_Mohallah_Baghban-17572",
+      "_geoloc": {
+          "lat": 32.607583,
+          "lng": 70.911772
+      },
+      "geography": {
+          "lat": 32.607583,
+          "lng": 70.911772
+      },
+      "geo_point": [
+          70.911772,
+          32.607583
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 148,
+              "level": 2,
+              "externalID": "10205",
+              "name": "Lakki Marwat",
+              "name_l1": "لکی مروت",
+              "slug": "/Lakki_Marwat-10205",
+              "slug_l1": "/Lakki_Marwat-10205"
+          },
+          {
+              "id": 16323,
+              "level": 3,
+              "externalID": "17572",
+              "name": "Mohallah Baghban",
+              "name_l1": "محلہ باغبان",
+              "slug": "/Lakki_Marwat_Mohallah_Baghban-17572",
+              "slug_l1": "/Lakki_Marwat_Mohallah_Baghban-17572"
+          }
+      ],
+      "hierarchyPath": "Mohallah Baghban Lakki Marwat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17572",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16323",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohallah Baghban",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16320,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "17569",
+      "slug": "/Lakki_Marwat_Others-17569",
+      "slug_l1": "/Lakki_Marwat_Others-17569",
+      "_geoloc": {
+          "lat": 32.600817,
+          "lng": 70.909795
+      },
+      "geography": {
+          "lat": 32.600817,
+          "lng": 70.909795
+      },
+      "geo_point": [
+          70.909795,
+          32.600817
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 148,
+              "level": 2,
+              "externalID": "10205",
+              "name": "Lakki Marwat",
+              "name_l1": "لکی مروت",
+              "slug": "/Lakki_Marwat-10205",
+              "slug_l1": "/Lakki_Marwat-10205"
+          },
+          {
+              "id": 16320,
+              "level": 3,
+              "externalID": "17569",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Lakki_Marwat_Others-17569",
+              "slug_l1": "/Lakki_Marwat_Others-17569"
+          }
+      ],
+      "hierarchyPath": "Others Lakki Marwat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17569",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16320",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

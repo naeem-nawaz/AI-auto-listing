@@ -1,0 +1,2099 @@
+[
+  {
+      "id": 44,
+      "name": "Mansehra",
+      "name_l1": "مانسہرہ",
+      "externalID": "771",
+      "slug": "/Mansehra-771",
+      "slug_l1": "/Mansehra-771",
+      "_geoloc": {
+          "lat": 34.3339,
+          "lng": 73.2011
+      },
+      "geography": {
+          "lat": 34.3339,
+          "lng": 73.2011
+      },
+      "geo_point": [
+          73.2011,
+          34.3339
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          }
+      ],
+      "hierarchyPath": "Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 12,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "771",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "44",
+      "_highlightResult": {
+          "name": {
+              "value": "Mansehra",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12228,
+      "name": "Chikriyali Road",
+      "name_l1": "چکیریالی روڈ",
+      "externalID": "13709",
+      "slug": "/Mansehra_Chikriyali_Road-13709",
+      "slug_l1": "/Mansehra_Chikriyali_Road-13709",
+      "_geoloc": {
+          "lat": 34.326823,
+          "lng": 73.183816
+      },
+      "geography": {
+          "lat": 34.326823,
+          "lng": 73.183816
+      },
+      "geo_point": [
+          73.183816,
+          34.326823
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 12228,
+              "level": 3,
+              "externalID": "13709",
+              "name": "Chikriyali Road",
+              "name_l1": "چکیریالی روڈ",
+              "slug": "/Mansehra_Chikriyali_Road-13709",
+              "slug_l1": "/Mansehra_Chikriyali_Road-13709"
+          }
+      ],
+      "hierarchyPath": "Chikriyali Road Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13709",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12228",
+      "_highlightResult": {
+          "name": {
+              "value": "Chikriyali Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11632,
+      "name": "Ghazi Kot",
+      "name_l1": "غازی کوٹ",
+      "externalID": "13159",
+      "slug": "/Mansehra_Ghazi_Kot-13159",
+      "slug_l1": "/Mansehra_Ghazi_Kot-13159",
+      "_geoloc": {
+          "lat": 34.309944,
+          "lng": 73.208422
+      },
+      "geography": {
+          "lat": 34.309944,
+          "lng": 73.208422
+      },
+      "geo_point": [
+          73.208422,
+          34.309944
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 11632,
+              "level": 3,
+              "externalID": "13159",
+              "name": "Ghazi Kot",
+              "name_l1": "غازی کوٹ",
+              "slug": "/Mansehra_Ghazi_Kot-13159",
+              "slug_l1": "/Mansehra_Ghazi_Kot-13159"
+          }
+      ],
+      "hierarchyPath": "Ghazi Kot Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13159",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11632",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghazi Kot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20285,
+      "name": "Ghazikot Terraces",
+      "name_l1": "غازیکوٹ ٹیرسس",
+      "externalID": "20999",
+      "slug": "/Mansehra_Mansehra_Bypass_Road_Ghazikot_Terraces-20999",
+      "slug_l1": "/Mansehra_Mansehra_Bypass_Road_Ghazikot_Terraces-20999",
+      "_geoloc": {
+          "lat": 34.316886618477,
+          "lng": 73.216094012868
+      },
+      "geography": {
+          "lat": 34.316886618477,
+          "lng": 73.216094012868
+      },
+      "geo_point": [
+          73.216094012868,
+          34.316886618477
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 11634,
+              "level": 3,
+              "externalID": "13161",
+              "name": "Mansehra Bypass Road",
+              "name_l1": "مانسہرہ بائی پاس روڈ",
+              "slug": "/Mansehra_Mansehra_Bypass_Road-13161",
+              "slug_l1": "/Mansehra_Mansehra_Bypass_Road-13161"
+          },
+          {
+              "id": 20285,
+              "level": 4,
+              "externalID": "20999",
+              "name": "Ghazikot Terraces",
+              "name_l1": "غازیکوٹ ٹیرسس",
+              "slug": "/Mansehra_Mansehra_Bypass_Road_Ghazikot_Terraces-20999",
+              "slug_l1": "/Mansehra_Mansehra_Bypass_Road_Ghazikot_Terraces-20999"
+          }
+      ],
+      "hierarchyPath": "Ghazikot Terraces Mansehra Bypass Road Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20999",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20285",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghazikot Terraces",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15331,
+      "name": "Lassan Nawab Sahib Road",
+      "name_l1": "لسان نواب صاحب روڈ",
+      "externalID": "16813",
+      "slug": "/Mansehra_Lassan_Nawab_Sahib_Road-16813",
+      "slug_l1": "/Mansehra_Lassan_Nawab_Sahib_Road-16813",
+      "_geoloc": {
+          "lat": 34.332508,
+          "lng": 73.116635
+      },
+      "geography": {
+          "lat": 34.332508,
+          "lng": 73.116635
+      },
+      "geo_point": [
+          73.116635,
+          34.332508
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 15331,
+              "level": 3,
+              "externalID": "16813",
+              "name": "Lassan Nawab Sahib Road",
+              "name_l1": "لسان نواب صاحب روڈ",
+              "slug": "/Mansehra_Lassan_Nawab_Sahib_Road-16813",
+              "slug_l1": "/Mansehra_Lassan_Nawab_Sahib_Road-16813"
+          }
+      ],
+      "hierarchyPath": "Lassan Nawab Sahib Road Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16813",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15331",
+      "_highlightResult": {
+          "name": {
+              "value": "Lassan Nawab Sahib Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11634,
+      "name": "Mansehra Bypass Road",
+      "name_l1": "مانسہرہ بائی پاس روڈ",
+      "externalID": "13161",
+      "slug": "/Mansehra_Mansehra_Bypass_Road-13161",
+      "slug_l1": "/Mansehra_Mansehra_Bypass_Road-13161",
+      "_geoloc": {
+          "lat": 34.318855,
+          "lng": 73.213338
+      },
+      "geography": {
+          "lat": 34.318855,
+          "lng": 73.213338
+      },
+      "geo_point": [
+          73.213338,
+          34.318855
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 11634,
+              "level": 3,
+              "externalID": "13161",
+              "name": "Mansehra Bypass Road",
+              "name_l1": "مانسہرہ بائی پاس روڈ",
+              "slug": "/Mansehra_Mansehra_Bypass_Road-13161",
+              "slug_l1": "/Mansehra_Mansehra_Bypass_Road-13161"
+          }
+      ],
+      "hierarchyPath": "Mansehra Bypass Road Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13161",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11634",
+      "_highlightResult": {
+          "name": {
+              "value": "Mansehra Bypass Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15402,
+      "name": "Aqil Avenue",
+      "name_l1": "عاقل ایوینیو",
+      "externalID": "16880",
+      "slug": "/Mansehra_Aqil_Avenue-16880",
+      "slug_l1": "/Mansehra_Aqil_Avenue-16880",
+      "_geoloc": {
+          "lat": 34.335444,
+          "lng": 73.11575
+      },
+      "geography": {
+          "lat": 34.335444,
+          "lng": 73.11575
+      },
+      "geo_point": [
+          73.11575,
+          34.335444
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 15402,
+              "level": 3,
+              "externalID": "16880",
+              "name": "Aqil Avenue",
+              "name_l1": "عاقل ایوینیو",
+              "slug": "/Mansehra_Aqil_Avenue-16880",
+              "slug_l1": "/Mansehra_Aqil_Avenue-16880"
+          }
+      ],
+      "hierarchyPath": "Aqil Avenue Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16880",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15402",
+      "_highlightResult": {
+          "name": {
+              "value": "Aqil Avenue",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14319,
+      "name": "Baidra Road",
+      "name_l1": "بیدرا روڈ",
+      "externalID": "15805",
+      "slug": "/Mansehra_Baidra_Road-15805",
+      "slug_l1": "/Mansehra_Baidra_Road-15805",
+      "_geoloc": {
+          "lat": 34.333377,
+          "lng": 73.193653
+      },
+      "geography": {
+          "lat": 34.333377,
+          "lng": 73.193653
+      },
+      "geo_point": [
+          73.193653,
+          34.333377
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 14319,
+              "level": 3,
+              "externalID": "15805",
+              "name": "Baidra Road",
+              "name_l1": "بیدرا روڈ",
+              "slug": "/Mansehra_Baidra_Road-15805",
+              "slug_l1": "/Mansehra_Baidra_Road-15805"
+          }
+      ],
+      "hierarchyPath": "Baidra Road Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15805",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14319",
+      "_highlightResult": {
+          "name": {
+              "value": "Baidra Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18785,
+      "name": "Chattar Plain",
+      "name_l1": "چتر پلین",
+      "externalID": "19700",
+      "slug": "/Mansehra_Chattar_Plain-19700",
+      "slug_l1": "/Mansehra_Chattar_Plain-19700",
+      "_geoloc": {
+          "lat": 34.615496,
+          "lng": 73.114074
+      },
+      "geography": {
+          "lat": 34.615496,
+          "lng": 73.114074
+      },
+      "geo_point": [
+          73.114074,
+          34.615496
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 18785,
+              "level": 3,
+              "externalID": "19700",
+              "name": "Chattar Plain",
+              "name_l1": "چتر پلین",
+              "slug": "/Mansehra_Chattar_Plain-19700",
+              "slug_l1": "/Mansehra_Chattar_Plain-19700"
+          }
+      ],
+      "hierarchyPath": "Chattar Plain Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19700",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18785",
+      "_highlightResult": {
+          "name": {
+              "value": "Chattar Plain",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21131,
+      "name": "Data Road",
+      "name_l1": "داتا روڈ",
+      "externalID": "21727",
+      "slug": "/Mansehra_Data_Road-21727",
+      "slug_l1": "/Mansehra_Data_Road-21727",
+      "_geoloc": {
+          "lat": 34.285668427284,
+          "lng": 73.249872806746
+      },
+      "geography": {
+          "lat": 34.285668427284,
+          "lng": 73.249872806746
+      },
+      "geo_point": [
+          73.249872806746,
+          34.285668427284
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 21131,
+              "level": 3,
+              "externalID": "21727",
+              "name": "Data Road",
+              "name_l1": "داتا روڈ",
+              "slug": "/Mansehra_Data_Road-21727",
+              "slug_l1": "/Mansehra_Data_Road-21727"
+          }
+      ],
+      "hierarchyPath": "Data Road Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21727",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21131",
+      "_highlightResult": {
+          "name": {
+              "value": "Data Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14398,
+      "name": "Dhangri Chowk",
+      "name_l1": "دہانگڑی چوک",
+      "externalID": "15892",
+      "slug": "/Mansehra_Dhangri_Chowk-15892",
+      "slug_l1": "/Mansehra_Dhangri_Chowk-15892",
+      "_geoloc": {
+          "lat": 34.325469,
+          "lng": 73.192462
+      },
+      "geography": {
+          "lat": 34.325469,
+          "lng": 73.192462
+      },
+      "geo_point": [
+          73.192462,
+          34.325469
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 14398,
+              "level": 3,
+              "externalID": "15892",
+              "name": "Dhangri Chowk",
+              "name_l1": "دہانگڑی چوک",
+              "slug": "/Mansehra_Dhangri_Chowk-15892",
+              "slug_l1": "/Mansehra_Dhangri_Chowk-15892"
+          }
+      ],
+      "hierarchyPath": "Dhangri Chowk Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15892",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14398",
+      "_highlightResult": {
+          "name": {
+              "value": "Dhangri Chowk",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9062,
+      "name": "Falcon Resorts",
+      "name_l1": "فالکن رسارٹس",
+      "externalID": "11610",
+      "slug": "/Mansehra_Karakoram_Highway_Falcon_Resorts-11610",
+      "slug_l1": "/Mansehra_Karakoram_Highway_Falcon_Resorts-11610",
+      "_geoloc": {
+          "lat": 34.615413,
+          "lng": 73.118445
+      },
+      "geography": {
+          "lat": 34.615413,
+          "lng": 73.118445
+      },
+      "geo_point": [
+          73.118445,
+          34.615413
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 5789,
+              "level": 3,
+              "externalID": "11609",
+              "name": "Karakoram Highway",
+              "name_l1": "قراقرم ہائی وے",
+              "slug": "/Mansehra_Karakoram_Highway-11609",
+              "slug_l1": "/Mansehra_Karakoram_Highway-11609"
+          },
+          {
+              "id": 9062,
+              "level": 4,
+              "externalID": "11610",
+              "name": "Falcon Resorts",
+              "name_l1": "فالکن رسارٹس",
+              "slug": "/Mansehra_Karakoram_Highway_Falcon_Resorts-11610",
+              "slug_l1": "/Mansehra_Karakoram_Highway_Falcon_Resorts-11610"
+          }
+      ],
+      "hierarchyPath": "Falcon Resorts Karakoram Highway Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11610",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9062",
+      "_highlightResult": {
+          "name": {
+              "value": "Falcon Resorts",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6019,
+      "name": "Garhi Habibullah",
+      "name_l1": "گڑھی حبیب اللہ",
+      "externalID": "12093",
+      "slug": "/Mansehra_Garhi_Habibullah-12093",
+      "slug_l1": "/Mansehra_Garhi_Habibullah-12093",
+      "_geoloc": {
+          "lat": 34.404015,
+          "lng": 73.379798
+      },
+      "geography": {
+          "lat": 34.404015,
+          "lng": 73.379798
+      },
+      "geo_point": [
+          73.379798,
+          34.404015
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 6019,
+              "level": 3,
+              "externalID": "12093",
+              "name": "Garhi Habibullah",
+              "name_l1": "گڑھی حبیب اللہ",
+              "slug": "/Mansehra_Garhi_Habibullah-12093",
+              "slug_l1": "/Mansehra_Garhi_Habibullah-12093"
+          }
+      ],
+      "hierarchyPath": "Garhi Habibullah Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12093",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6019",
+      "_highlightResult": {
+          "name": {
+              "value": "Garhi Habibullah",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15237,
+      "name": "Ghazikot Township",
+      "name_l1": "غازیکوٹ ٹاؤنشپ",
+      "externalID": "16720",
+      "slug": "/Mansehra_Ghazikot_Township-16720",
+      "slug_l1": "/Mansehra_Ghazikot_Township-16720",
+      "_geoloc": {
+          "lat": 34.309279,
+          "lng": 73.206205
+      },
+      "geography": {
+          "lat": 34.309279,
+          "lng": 73.206205
+      },
+      "geo_point": [
+          73.206205,
+          34.309279
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 15237,
+              "level": 3,
+              "externalID": "16720",
+              "name": "Ghazikot Township",
+              "name_l1": "غازیکوٹ ٹاؤنشپ",
+              "slug": "/Mansehra_Ghazikot_Township-16720",
+              "slug_l1": "/Mansehra_Ghazikot_Township-16720"
+          }
+      ],
+      "hierarchyPath": "Ghazikot Township Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16720",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15237",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghazikot Township",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4888,
+      "name": "Green City Housing Scheme",
+      "name_l1": "گرین سٹی ہاؤسنگ سکیم",
+      "externalID": "9918",
+      "slug": "/Mansehra_Green_City_Housing_Scheme-9918",
+      "slug_l1": "/Mansehra_Green_City_Housing_Scheme-9918",
+      "_geoloc": {
+          "lat": 34.406883,
+          "lng": 73.191154
+      },
+      "geography": {
+          "lat": 34.406883,
+          "lng": 73.191154
+      },
+      "geo_point": [
+          73.191154,
+          34.406883
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 4888,
+              "level": 3,
+              "externalID": "9918",
+              "name": "Green City Housing Scheme",
+              "name_l1": "گرین سٹی ہاؤسنگ سکیم",
+              "slug": "/Mansehra_Green_City_Housing_Scheme-9918",
+              "slug_l1": "/Mansehra_Green_City_Housing_Scheme-9918"
+          }
+      ],
+      "hierarchyPath": "Green City Housing Scheme Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9918",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4888",
+      "_highlightResult": {
+          "name": {
+              "value": "Green City Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21128,
+      "name": "Jabori",
+      "name_l1": "جبوری",
+      "externalID": "21724",
+      "slug": "/Mansehra_Jabori-21724",
+      "slug_l1": "/Mansehra_Jabori-21724",
+      "_geoloc": {
+          "lat": 34.60481070594,
+          "lng": 73.259082944851
+      },
+      "geography": {
+          "lat": 34.60481070594,
+          "lng": 73.259082944851
+      },
+      "geo_point": [
+          73.259082944851,
+          34.60481070594
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 21128,
+              "level": 3,
+              "externalID": "21724",
+              "name": "Jabori",
+              "name_l1": "جبوری",
+              "slug": "/Mansehra_Jabori-21724",
+              "slug_l1": "/Mansehra_Jabori-21724"
+          }
+      ],
+      "hierarchyPath": "Jabori Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21724",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21128",
+      "_highlightResult": {
+          "name": {
+              "value": "Jabori",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5789,
+      "name": "Karakoram Highway",
+      "name_l1": "قراقرم ہائی وے",
+      "externalID": "11609",
+      "slug": "/Mansehra_Karakoram_Highway-11609",
+      "slug_l1": "/Mansehra_Karakoram_Highway-11609",
+      "_geoloc": {
+          "lat": 34.358013,
+          "lng": 73.2089
+      },
+      "geography": {
+          "lat": 34.358013,
+          "lng": 73.2089
+      },
+      "geo_point": [
+          73.2089,
+          34.358013
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 5789,
+              "level": 3,
+              "externalID": "11609",
+              "name": "Karakoram Highway",
+              "name_l1": "قراقرم ہائی وے",
+              "slug": "/Mansehra_Karakoram_Highway-11609",
+              "slug_l1": "/Mansehra_Karakoram_Highway-11609"
+          }
+      ],
+      "hierarchyPath": "Karakoram Highway Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11609",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5789",
+      "_highlightResult": {
+          "name": {
+              "value": "Karakoram Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14704,
+      "name": "Lalazar",
+      "name_l1": "لالازار",
+      "externalID": "16254",
+      "slug": "/Mansehra_Lalazar-16254",
+      "slug_l1": "/Mansehra_Lalazar-16254",
+      "_geoloc": {
+          "lat": 34.919168,
+          "lng": 73.756505
+      },
+      "geography": {
+          "lat": 34.919168,
+          "lng": 73.756505
+      },
+      "geo_point": [
+          73.756505,
+          34.919168
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 14704,
+              "level": 3,
+              "externalID": "16254",
+              "name": "Lalazar",
+              "name_l1": "لالازار",
+              "slug": "/Mansehra_Lalazar-16254",
+              "slug_l1": "/Mansehra_Lalazar-16254"
+          }
+      ],
+      "hierarchyPath": "Lalazar Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16254",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14704",
+      "_highlightResult": {
+          "name": {
+              "value": "Lalazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11831,
+      "name": "Mansehra International College Road",
+      "name_l1": "مانسہرہ انٹرنیشنل کالج روڈ",
+      "externalID": "13354",
+      "slug": "/Mansehra_Mansehra_International_College_Road-13354",
+      "slug_l1": "/Mansehra_Mansehra_International_College_Road-13354",
+      "_geoloc": {
+          "lat": 34.322198,
+          "lng": 73.209775
+      },
+      "geography": {
+          "lat": 34.322198,
+          "lng": 73.209775
+      },
+      "geo_point": [
+          73.209775,
+          34.322198
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 11831,
+              "level": 3,
+              "externalID": "13354",
+              "name": "Mansehra International College Road",
+              "name_l1": "مانسہرہ انٹرنیشنل کالج روڈ",
+              "slug": "/Mansehra_Mansehra_International_College_Road-13354",
+              "slug_l1": "/Mansehra_Mansehra_International_College_Road-13354"
+          }
+      ],
+      "hierarchyPath": "Mansehra International College Road Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13354",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11831",
+      "_highlightResult": {
+          "name": {
+              "value": "Mansehra International College Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14401,
+      "name": "Oghi Road",
+      "name_l1": "اوگھی روڈ",
+      "externalID": "15903",
+      "slug": "/Mansehra_Oghi_Road-15903",
+      "slug_l1": "/Mansehra_Oghi_Road-15903",
+      "_geoloc": {
+          "lat": 34.503492,
+          "lng": 73.016399
+      },
+      "geography": {
+          "lat": 34.503492,
+          "lng": 73.016399
+      },
+      "geo_point": [
+          73.016399,
+          34.503492
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 14401,
+              "level": 3,
+              "externalID": "15903",
+              "name": "Oghi Road",
+              "name_l1": "اوگھی روڈ",
+              "slug": "/Mansehra_Oghi_Road-15903",
+              "slug_l1": "/Mansehra_Oghi_Road-15903"
+          }
+      ],
+      "hierarchyPath": "Oghi Road Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15903",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14401",
+      "_highlightResult": {
+          "name": {
+              "value": "Oghi Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11830,
+      "name": "Old College Road",
+      "name_l1": "اولڈ کالج روڈ",
+      "externalID": "13353",
+      "slug": "/Mansehra_Old_College_Road-13353",
+      "slug_l1": "/Mansehra_Old_College_Road-13353",
+      "_geoloc": {
+          "lat": 34.33561,
+          "lng": 73.198961
+      },
+      "geography": {
+          "lat": 34.33561,
+          "lng": 73.198961
+      },
+      "geo_point": [
+          73.198961,
+          34.33561
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 11830,
+              "level": 3,
+              "externalID": "13353",
+              "name": "Old College Road",
+              "name_l1": "اولڈ کالج روڈ",
+              "slug": "/Mansehra_Old_College_Road-13353",
+              "slug_l1": "/Mansehra_Old_College_Road-13353"
+          }
+      ],
+      "hierarchyPath": "Old College Road Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13353",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11830",
+      "_highlightResult": {
+          "name": {
+              "value": "Old College Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3440,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "7493",
+      "slug": "/Mansehra_Others-7493",
+      "slug_l1": "/Mansehra_Others-7493",
+      "_geoloc": {
+          "lat": 34.333514,
+          "lng": 73.199644
+      },
+      "geography": {
+          "lat": 34.333514,
+          "lng": 73.199644
+      },
+      "geo_point": [
+          73.199644,
+          34.333514
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 3440,
+              "level": 3,
+              "externalID": "7493",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Mansehra_Others-7493",
+              "slug_l1": "/Mansehra_Others-7493"
+          }
+      ],
+      "hierarchyPath": "Others Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7493",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3440",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11633,
+      "name": "Pakhwal Chowk",
+      "name_l1": "پکھوال چوک",
+      "externalID": "13160",
+      "slug": "/Mansehra_Pakhwal_Chowk-13160",
+      "slug_l1": "/Mansehra_Pakhwal_Chowk-13160",
+      "_geoloc": {
+          "lat": 34.324016,
+          "lng": 73.194564
+      },
+      "geography": {
+          "lat": 34.324016,
+          "lng": 73.194564
+      },
+      "geo_point": [
+          73.194564,
+          34.324016
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 11633,
+              "level": 3,
+              "externalID": "13160",
+              "name": "Pakhwal Chowk",
+              "name_l1": "پکھوال چوک",
+              "slug": "/Mansehra_Pakhwal_Chowk-13160",
+              "slug_l1": "/Mansehra_Pakhwal_Chowk-13160"
+          }
+      ],
+      "hierarchyPath": "Pakhwal Chowk Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13160",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11633",
+      "_highlightResult": {
+          "name": {
+              "value": "Pakhwal Chowk",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6036,
+      "name": "Paksair",
+      "name_l1": "پاکسیر",
+      "externalID": "12111",
+      "slug": "/Mansehra_Paksair-12111",
+      "slug_l1": "/Mansehra_Paksair-12111",
+      "_geoloc": {
+          "lat": 34.408395,
+          "lng": 73.366111
+      },
+      "geography": {
+          "lat": 34.408395,
+          "lng": 73.366111
+      },
+      "geo_point": [
+          73.366111,
+          34.408395
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 6036,
+              "level": 3,
+              "externalID": "12111",
+              "name": "Paksair",
+              "name_l1": "پاکسیر",
+              "slug": "/Mansehra_Paksair-12111",
+              "slug_l1": "/Mansehra_Paksair-12111"
+          }
+      ],
+      "hierarchyPath": "Paksair Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12111",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6036",
+      "_highlightResult": {
+          "name": {
+              "value": "Paksair",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6035,
+      "name": "Roh",
+      "name_l1": "روح",
+      "externalID": "12110",
+      "slug": "/Mansehra_Roh-12110",
+      "slug_l1": "/Mansehra_Roh-12110",
+      "_geoloc": {
+          "lat": 34.411763,
+          "lng": 73.359153
+      },
+      "geography": {
+          "lat": 34.411763,
+          "lng": 73.359153
+      },
+      "geo_point": [
+          73.359153,
+          34.411763
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 6035,
+              "level": 3,
+              "externalID": "12110",
+              "name": "Roh",
+              "name_l1": "روح",
+              "slug": "/Mansehra_Roh-12110",
+              "slug_l1": "/Mansehra_Roh-12110"
+          }
+      ],
+      "hierarchyPath": "Roh Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12110",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6035",
+      "_highlightResult": {
+          "name": {
+              "value": "Roh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9224,
+      "name": "Seri",
+      "name_l1": "سیری",
+      "externalID": "12094",
+      "slug": "/Mansehra_Garhi_Habibullah_Seri-12094",
+      "slug_l1": "/Mansehra_Garhi_Habibullah_Seri-12094",
+      "_geoloc": {
+          "lat": 34.436546,
+          "lng": 73.375699
+      },
+      "geography": {
+          "lat": 34.436546,
+          "lng": 73.375699
+      },
+      "geo_point": [
+          73.375699,
+          34.436546
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 6019,
+              "level": 3,
+              "externalID": "12093",
+              "name": "Garhi Habibullah",
+              "name_l1": "گڑھی حبیب اللہ",
+              "slug": "/Mansehra_Garhi_Habibullah-12093",
+              "slug_l1": "/Mansehra_Garhi_Habibullah-12093"
+          },
+          {
+              "id": 9224,
+              "level": 4,
+              "externalID": "12094",
+              "name": "Seri",
+              "name_l1": "سیری",
+              "slug": "/Mansehra_Garhi_Habibullah_Seri-12094",
+              "slug_l1": "/Mansehra_Garhi_Habibullah_Seri-12094"
+          }
+      ],
+      "hierarchyPath": "Seri Garhi Habibullah Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12094",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9224",
+      "_highlightResult": {
+          "name": {
+              "value": "Seri",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21129,
+      "name": "Shinkiari",
+      "name_l1": "شنکیاری",
+      "externalID": "21726",
+      "slug": "/Mansehra_Shinkiari-21726",
+      "slug_l1": "/Mansehra_Shinkiari-21726",
+      "_geoloc": {
+          "lat": 34.471299374468,
+          "lng": 73.269983906746
+      },
+      "geography": {
+          "lat": 34.471299374468,
+          "lng": 73.269983906746
+      },
+      "geo_point": [
+          73.269983906746,
+          34.471299374468
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 44,
+              "level": 2,
+              "externalID": "771",
+              "name": "Mansehra",
+              "name_l1": "مانسہرہ",
+              "slug": "/Mansehra-771",
+              "slug_l1": "/Mansehra-771"
+          },
+          {
+              "id": 21129,
+              "level": 3,
+              "externalID": "21726",
+              "name": "Shinkiari",
+              "name_l1": "شنکیاری",
+              "slug": "/Mansehra_Shinkiari-21726",
+              "slug_l1": "/Mansehra_Shinkiari-21726"
+          }
+      ],
+      "hierarchyPath": "Shinkiari Mansehra Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21726",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21129",
+      "_highlightResult": {
+          "name": {
+              "value": "Shinkiari",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

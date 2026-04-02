@@ -1,0 +1,455 @@
+[
+  {
+      "id": 20721,
+      "name": "39/SP Haveli Lakha Road",
+      "name_l1": "39/ایس پی حویلی لکھا روڈ",
+      "externalID": "21359",
+      "slug": "/Haveli_Lakha_39SP_Haveli_Lakha_Road-21359",
+      "slug_l1": "/Haveli_Lakha_39SP_Haveli_Lakha_Road-21359",
+      "_geoloc": {
+          "lat": 30.443124451698,
+          "lng": 73.689517695894
+      },
+      "geography": {
+          "lat": 30.443124451698,
+          "lng": 73.689517695894
+      },
+      "geo_point": [
+          73.689517695894,
+          30.443124451698
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 154,
+              "level": 2,
+              "externalID": "10402",
+              "name": "Haveli Lakha",
+              "name_l1": "حویلی لکھا",
+              "slug": "/Haveli_Lakha-10402",
+              "slug_l1": "/Haveli_Lakha-10402"
+          },
+          {
+              "id": 20721,
+              "level": 3,
+              "externalID": "21359",
+              "name": "39/SP Haveli Lakha Road",
+              "name_l1": "39/ایس پی حویلی لکھا روڈ",
+              "slug": "/Haveli_Lakha_39SP_Haveli_Lakha_Road-21359",
+              "slug_l1": "/Haveli_Lakha_39SP_Haveli_Lakha_Road-21359"
+          }
+      ],
+      "hierarchyPath": "39/SP Haveli Lakha Road Haveli Lakha Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21359",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20721",
+      "_highlightResult": {
+          "name": {
+              "value": "39/SP Haveli Lakha Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20719,
+      "name": "Chak Bawa",
+      "name_l1": "چک باوا",
+      "externalID": "21357",
+      "slug": "/Haveli_Lakha_Chak_Bawa-21357",
+      "slug_l1": "/Haveli_Lakha_Chak_Bawa-21357",
+      "_geoloc": {
+          "lat": 30.437433108527,
+          "lng": 73.702807491246
+      },
+      "geography": {
+          "lat": 30.437433108527,
+          "lng": 73.702807491246
+      },
+      "geo_point": [
+          73.702807491246,
+          30.437433108527
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 154,
+              "level": 2,
+              "externalID": "10402",
+              "name": "Haveli Lakha",
+              "name_l1": "حویلی لکھا",
+              "slug": "/Haveli_Lakha-10402",
+              "slug_l1": "/Haveli_Lakha-10402"
+          },
+          {
+              "id": 20719,
+              "level": 3,
+              "externalID": "21357",
+              "name": "Chak Bawa",
+              "name_l1": "چک باوا",
+              "slug": "/Haveli_Lakha_Chak_Bawa-21357",
+              "slug_l1": "/Haveli_Lakha_Chak_Bawa-21357"
+          }
+      ],
+      "hierarchyPath": "Chak Bawa Haveli Lakha Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21357",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20719",
+      "_highlightResult": {
+          "name": {
+              "value": "Chak Bawa",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 154,
+      "name": "Haveli Lakha",
+      "name_l1": "حویلی لکھا",
+      "externalID": "10402",
+      "slug": "/Haveli_Lakha-10402",
+      "slug_l1": "/Haveli_Lakha-10402",
+      "_geoloc": {
+          "lat": 30.448575,
+          "lng": 73.694449
+      },
+      "geography": {
+          "lat": 30.448575,
+          "lng": 73.694449
+      },
+      "geo_point": [
+          73.694449,
+          30.448575
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 154,
+              "level": 2,
+              "externalID": "10402",
+              "name": "Haveli Lakha",
+              "name_l1": "حویلی لکھا",
+              "slug": "/Haveli_Lakha-10402",
+              "slug_l1": "/Haveli_Lakha-10402"
+          }
+      ],
+      "hierarchyPath": "Haveli Lakha Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10402",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "154",
+      "_highlightResult": {
+          "name": {
+              "value": "Haveli Lakha",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20723,
+      "name": "Mandi Town",
+      "name_l1": "منڈی ٹاؤن",
+      "externalID": "21361",
+      "slug": "/Haveli_Lakha_Mandi_Town-21361",
+      "slug_l1": "/Haveli_Lakha_Mandi_Town-21361",
+      "_geoloc": {
+          "lat": 30.453656509985,
+          "lng": 73.684300593857
+      },
+      "geography": {
+          "lat": 30.453656509985,
+          "lng": 73.684300593857
+      },
+      "geo_point": [
+          73.684300593857,
+          30.453656509985
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 154,
+              "level": 2,
+              "externalID": "10402",
+              "name": "Haveli Lakha",
+              "name_l1": "حویلی لکھا",
+              "slug": "/Haveli_Lakha-10402",
+              "slug_l1": "/Haveli_Lakha-10402"
+          },
+          {
+              "id": 20723,
+              "level": 3,
+              "externalID": "21361",
+              "name": "Mandi Town",
+              "name_l1": "منڈی ٹاؤن",
+              "slug": "/Haveli_Lakha_Mandi_Town-21361",
+              "slug_l1": "/Haveli_Lakha_Mandi_Town-21361"
+          }
+      ],
+      "hierarchyPath": "Mandi Town Haveli Lakha Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21361",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20723",
+      "_highlightResult": {
+          "name": {
+              "value": "Mandi Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20722,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "21360",
+      "slug": "/Haveli_Lakha_Others-21360",
+      "slug_l1": "/Haveli_Lakha_Others-21360",
+      "_geoloc": {
+          "lat": 30.44509193941,
+          "lng": 73.690940720114
+      },
+      "geography": {
+          "lat": 30.44509193941,
+          "lng": 73.690940720114
+      },
+      "geo_point": [
+          73.690940720114,
+          30.44509193941
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 154,
+              "level": 2,
+              "externalID": "10402",
+              "name": "Haveli Lakha",
+              "name_l1": "حویلی لکھا",
+              "slug": "/Haveli_Lakha-10402",
+              "slug_l1": "/Haveli_Lakha-10402"
+          },
+          {
+              "id": 20722,
+              "level": 3,
+              "externalID": "21360",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Haveli_Lakha_Others-21360",
+              "slug_l1": "/Haveli_Lakha_Others-21360"
+          }
+      ],
+      "hierarchyPath": "Others Haveli Lakha Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21360",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20722",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20720,
+      "name": "Pir Ghani Road",
+      "name_l1": "پیر غنی روڈ",
+      "externalID": "21358",
+      "slug": "/Haveli_Lakha_Pir_Ghani_Road-21358",
+      "slug_l1": "/Haveli_Lakha_Pir_Ghani_Road-21358",
+      "_geoloc": {
+          "lat": 30.43276,
+          "lng": 73.693634
+      },
+      "geography": {
+          "lat": 30.43276,
+          "lng": 73.693634
+      },
+      "geo_point": [
+          73.693634,
+          30.43276
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 154,
+              "level": 2,
+              "externalID": "10402",
+              "name": "Haveli Lakha",
+              "name_l1": "حویلی لکھا",
+              "slug": "/Haveli_Lakha-10402",
+              "slug_l1": "/Haveli_Lakha-10402"
+          },
+          {
+              "id": 20720,
+              "level": 3,
+              "externalID": "21358",
+              "name": "Pir Ghani Road",
+              "name_l1": "پیر غنی روڈ",
+              "slug": "/Haveli_Lakha_Pir_Ghani_Road-21358",
+              "slug_l1": "/Haveli_Lakha_Pir_Ghani_Road-21358"
+          }
+      ],
+      "hierarchyPath": "Pir Ghani Road Haveli Lakha Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21358",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20720",
+      "_highlightResult": {
+          "name": {
+              "value": "Pir Ghani Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

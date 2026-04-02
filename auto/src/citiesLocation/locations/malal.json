@@ -1,0 +1,70 @@
+[
+  {
+      "id": 21085,
+      "name": "Malal",
+      "name_l1": "ملال",
+      "externalID": "21681",
+      "slug": "/Fateh_Jang_Malal-21681",
+      "slug_l1": "/Fateh_Jang_Malal-21681",
+      "_geoloc": {
+          "lat": 33.405457025226,
+          "lng": 72.634011921372
+      },
+      "geography": {
+          "lat": 33.405457025226,
+          "lng": 72.634011921372
+      },
+      "geo_point": [
+          72.634011921372,
+          33.405457025226
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 21085,
+              "level": 2,
+              "externalID": "21681",
+              "name": "Malal",
+              "name_l1": "ملال",
+              "slug": "/Fateh_Jang_Malal-21681",
+              "slug_l1": "/Fateh_Jang_Malal-21681"
+          }
+      ],
+      "hierarchyPath": "Malal Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21681",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21085",
+      "_highlightResult": {
+          "name": {
+              "value": "Malal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

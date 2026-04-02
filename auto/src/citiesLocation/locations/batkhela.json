@@ -1,0 +1,224 @@
+[
+  {
+      "id": 12328,
+      "name": "Batkhela",
+      "name_l1": "بٹ خیلہ",
+      "externalID": "13808",
+      "slug": "/Batkhela-13808",
+      "slug_l1": "/Batkhela-13808",
+      "_geoloc": {
+          "lat": 34.614691,
+          "lng": 71.929859
+      },
+      "geography": {
+          "lat": 34.614691,
+          "lng": 71.929859
+      },
+      "geo_point": [
+          71.929859,
+          34.614691
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 12328,
+              "level": 2,
+              "externalID": "13808",
+              "name": "Batkhela",
+              "name_l1": "بٹ خیلہ",
+              "slug": "/Batkhela-13808",
+              "slug_l1": "/Batkhela-13808"
+          }
+      ],
+      "hierarchyPath": "Batkhela Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13808",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12328",
+      "_highlightResult": {
+          "name": {
+              "value": "Batkhela",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12329,
+      "name": "Batkhela Road",
+      "name_l1": "بٹ خیلہ روڈ",
+      "externalID": "13809",
+      "slug": "/Batkhela_Batkhela_Road-13809",
+      "slug_l1": "/Batkhela_Batkhela_Road-13809",
+      "_geoloc": {
+          "lat": 34.614772,
+          "lng": 71.920553
+      },
+      "geography": {
+          "lat": 34.614772,
+          "lng": 71.920553
+      },
+      "geo_point": [
+          71.920553,
+          34.614772
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 12328,
+              "level": 2,
+              "externalID": "13808",
+              "name": "Batkhela",
+              "name_l1": "بٹ خیلہ",
+              "slug": "/Batkhela-13808",
+              "slug_l1": "/Batkhela-13808"
+          },
+          {
+              "id": 12329,
+              "level": 3,
+              "externalID": "13809",
+              "name": "Batkhela Road",
+              "name_l1": "بٹ خیلہ روڈ",
+              "slug": "/Batkhela_Batkhela_Road-13809",
+              "slug_l1": "/Batkhela_Batkhela_Road-13809"
+          }
+      ],
+      "hierarchyPath": "Batkhela Road Batkhela Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13809",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12329",
+      "_highlightResult": {
+          "name": {
+              "value": "Batkhela Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12330,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13810",
+      "slug": "/Batkhela_Others-13810",
+      "slug_l1": "/Batkhela_Others-13810",
+      "_geoloc": {
+          "lat": 34.612796,
+          "lng": 71.932683
+      },
+      "geography": {
+          "lat": 34.612796,
+          "lng": 71.932683
+      },
+      "geo_point": [
+          71.932683,
+          34.612796
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 12328,
+              "level": 2,
+              "externalID": "13808",
+              "name": "Batkhela",
+              "name_l1": "بٹ خیلہ",
+              "slug": "/Batkhela-13808",
+              "slug_l1": "/Batkhela-13808"
+          },
+          {
+              "id": 12330,
+              "level": 3,
+              "externalID": "13810",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Batkhela_Others-13810",
+              "slug_l1": "/Batkhela_Others-13810"
+          }
+      ],
+      "hierarchyPath": "Others Batkhela Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13810",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12330",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

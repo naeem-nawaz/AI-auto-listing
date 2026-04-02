@@ -1,0 +1,301 @@
+[
+  {
+      "id": 12742,
+      "name": "Balakot",
+      "name_l1": "بالاکوٹ",
+      "externalID": "14226",
+      "slug": "/Balakot-14226",
+      "slug_l1": "/Balakot-14226",
+      "_geoloc": {
+          "lat": 34.549342,
+          "lng": 73.353231
+      },
+      "geography": {
+          "lat": 34.549342,
+          "lng": 73.353231
+      },
+      "geo_point": [
+          73.353231,
+          34.549342
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 12742,
+              "level": 2,
+              "externalID": "14226",
+              "name": "Balakot",
+              "name_l1": "بالاکوٹ",
+              "slug": "/Balakot-14226",
+              "slug_l1": "/Balakot-14226"
+          }
+      ],
+      "hierarchyPath": "Balakot Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14226",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12742",
+      "_highlightResult": {
+          "name": {
+              "value": "Balakot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18429,
+      "name": "Kaghan Valley",
+      "name_l1": "کاغان ویلی",
+      "externalID": "19343",
+      "slug": "/Balakot_Kaghan_Valley-19343",
+      "slug_l1": "/Balakot_Kaghan_Valley-19343",
+      "_geoloc": {
+          "lat": 34.541667,
+          "lng": 73.35
+      },
+      "geography": {
+          "lat": 34.541667,
+          "lng": 73.35
+      },
+      "geo_point": [
+          73.35,
+          34.541667
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 12742,
+              "level": 2,
+              "externalID": "14226",
+              "name": "Balakot",
+              "name_l1": "بالاکوٹ",
+              "slug": "/Balakot-14226",
+              "slug_l1": "/Balakot-14226"
+          },
+          {
+              "id": 18429,
+              "level": 3,
+              "externalID": "19343",
+              "name": "Kaghan Valley",
+              "name_l1": "کاغان ویلی",
+              "slug": "/Balakot_Kaghan_Valley-19343",
+              "slug_l1": "/Balakot_Kaghan_Valley-19343"
+          }
+      ],
+      "hierarchyPath": "Kaghan Valley Balakot Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19343",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18429",
+      "_highlightResult": {
+          "name": {
+              "value": "Kaghan Valley",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18428,
+      "name": "Naran Road",
+      "name_l1": "ناران روڈ",
+      "externalID": "19342",
+      "slug": "/Balakot_Naran_Road-19342",
+      "slug_l1": "/Balakot_Naran_Road-19342",
+      "_geoloc": {
+          "lat": 34.5481438,
+          "lng": 73.3512226
+      },
+      "geography": {
+          "lat": 34.5481438,
+          "lng": 73.3512226
+      },
+      "geo_point": [
+          73.3512226,
+          34.5481438
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 12742,
+              "level": 2,
+              "externalID": "14226",
+              "name": "Balakot",
+              "name_l1": "بالاکوٹ",
+              "slug": "/Balakot-14226",
+              "slug_l1": "/Balakot-14226"
+          },
+          {
+              "id": 18428,
+              "level": 3,
+              "externalID": "19342",
+              "name": "Naran Road",
+              "name_l1": "ناران روڈ",
+              "slug": "/Balakot_Naran_Road-19342",
+              "slug_l1": "/Balakot_Naran_Road-19342"
+          }
+      ],
+      "hierarchyPath": "Naran Road Balakot Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19342",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18428",
+      "_highlightResult": {
+          "name": {
+              "value": "Naran Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12743,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "14227",
+      "slug": "/Balakot_Others-14227",
+      "slug_l1": "/Balakot_Others-14227",
+      "_geoloc": {
+          "lat": 34.548362,
+          "lng": 73.353265
+      },
+      "geography": {
+          "lat": 34.548362,
+          "lng": 73.353265
+      },
+      "geo_point": [
+          73.353265,
+          34.548362
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 12742,
+              "level": 2,
+              "externalID": "14226",
+              "name": "Balakot",
+              "name_l1": "بالاکوٹ",
+              "slug": "/Balakot-14226",
+              "slug_l1": "/Balakot-14226"
+          },
+          {
+              "id": 12743,
+              "level": 3,
+              "externalID": "14227",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Balakot_Others-14227",
+              "slug_l1": "/Balakot_Others-14227"
+          }
+      ],
+      "hierarchyPath": "Others Balakot Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14227",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12743",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

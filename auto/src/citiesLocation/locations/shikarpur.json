@@ -1,0 +1,301 @@
+[
+  {
+      "id": 14766,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "16314",
+      "slug": "/Shikarpur_Others-16314",
+      "slug_l1": "/Shikarpur_Others-16314",
+      "_geoloc": {
+          "lat": 27.955777,
+          "lng": 68.641978
+      },
+      "geography": {
+          "lat": 27.955777,
+          "lng": 68.641978
+      },
+      "geo_point": [
+          68.641978,
+          27.955777
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 126,
+              "level": 2,
+              "externalID": "8808",
+              "name": "Shikarpur",
+              "name_l1": "شکار پور",
+              "slug": "/Shikarpur-8808",
+              "slug_l1": "/Shikarpur-8808"
+          },
+          {
+              "id": 14766,
+              "level": 3,
+              "externalID": "16314",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Shikarpur_Others-16314",
+              "slug_l1": "/Shikarpur_Others-16314"
+          }
+      ],
+      "hierarchyPath": "Others Shikarpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16314",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14766",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14413,
+      "name": "Shahi Bagh Road",
+      "name_l1": "شاہی باغ روڈ",
+      "externalID": "15917",
+      "slug": "/Shikarpur_Shahi_Bagh_Road-15917",
+      "slug_l1": "/Shikarpur_Shahi_Bagh_Road-15917",
+      "_geoloc": {
+          "lat": 27.947846,
+          "lng": 68.629946
+      },
+      "geography": {
+          "lat": 27.947846,
+          "lng": 68.629946
+      },
+      "geo_point": [
+          68.629946,
+          27.947846
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 126,
+              "level": 2,
+              "externalID": "8808",
+              "name": "Shikarpur",
+              "name_l1": "شکار پور",
+              "slug": "/Shikarpur-8808",
+              "slug_l1": "/Shikarpur-8808"
+          },
+          {
+              "id": 14413,
+              "level": 3,
+              "externalID": "15917",
+              "name": "Shahi Bagh Road",
+              "name_l1": "شاہی باغ روڈ",
+              "slug": "/Shikarpur_Shahi_Bagh_Road-15917",
+              "slug_l1": "/Shikarpur_Shahi_Bagh_Road-15917"
+          }
+      ],
+      "hierarchyPath": "Shahi Bagh Road Shikarpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15917",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14413",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahi Bagh Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 126,
+      "name": "Shikarpur",
+      "name_l1": "شکار پور",
+      "externalID": "8808",
+      "slug": "/Shikarpur-8808",
+      "slug_l1": "/Shikarpur-8808",
+      "_geoloc": {
+          "lat": 27.956333,
+          "lng": 68.638063
+      },
+      "geography": {
+          "lat": 27.956333,
+          "lng": 68.638063
+      },
+      "geo_point": [
+          68.638063,
+          27.956333
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 126,
+              "level": 2,
+              "externalID": "8808",
+              "name": "Shikarpur",
+              "name_l1": "شکار پور",
+              "slug": "/Shikarpur-8808",
+              "slug_l1": "/Shikarpur-8808"
+          }
+      ],
+      "hierarchyPath": "Shikarpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8808",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "126",
+      "_highlightResult": {
+          "name": {
+              "value": "Shikarpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14414,
+      "name": "Sukkur Road",
+      "name_l1": "سکھر روڈ",
+      "externalID": "15919",
+      "slug": "/Shikarpur_Sukkur_Road-15919",
+      "slug_l1": "/Shikarpur_Sukkur_Road-15919",
+      "_geoloc": {
+          "lat": 27.962466,
+          "lng": 68.659583
+      },
+      "geography": {
+          "lat": 27.962466,
+          "lng": 68.659583
+      },
+      "geo_point": [
+          68.659583,
+          27.962466
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 126,
+              "level": 2,
+              "externalID": "8808",
+              "name": "Shikarpur",
+              "name_l1": "شکار پور",
+              "slug": "/Shikarpur-8808",
+              "slug_l1": "/Shikarpur-8808"
+          },
+          {
+              "id": 14414,
+              "level": 3,
+              "externalID": "15919",
+              "name": "Sukkur Road",
+              "name_l1": "سکھر روڈ",
+              "slug": "/Shikarpur_Sukkur_Road-15919",
+              "slug_l1": "/Shikarpur_Sukkur_Road-15919"
+          }
+      ],
+      "hierarchyPath": "Sukkur Road Shikarpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15919",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14414",
+      "_highlightResult": {
+          "name": {
+              "value": "Sukkur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]
