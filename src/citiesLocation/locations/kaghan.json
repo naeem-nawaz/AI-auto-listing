@@ -1,0 +1,147 @@
+[
+  {
+      "id": 134,
+      "name": "Kaghan",
+      "name_l1": "کاغان",
+      "externalID": "9202",
+      "slug": "/Kaghan-9202",
+      "slug_l1": "/Kaghan-9202",
+      "_geoloc": {
+          "lat": 34.776861,
+          "lng": 73.525919
+      },
+      "geography": {
+          "lat": 34.776861,
+          "lng": 73.525919
+      },
+      "geo_point": [
+          73.525919,
+          34.776861
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 134,
+              "level": 2,
+              "externalID": "9202",
+              "name": "Kaghan",
+              "name_l1": "کاغان",
+              "slug": "/Kaghan-9202",
+              "slug_l1": "/Kaghan-9202"
+          }
+      ],
+      "hierarchyPath": "Kaghan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9202",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "134",
+      "_highlightResult": {
+          "name": {
+              "value": "Kaghan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12262,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13744",
+      "slug": "/Kaghan_Others-13744",
+      "slug_l1": "/Kaghan_Others-13744",
+      "_geoloc": {
+          "lat": 34.779625,
+          "lng": 73.527849
+      },
+      "geography": {
+          "lat": 34.779625,
+          "lng": 73.527849
+      },
+      "geo_point": [
+          73.527849,
+          34.779625
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 134,
+              "level": 2,
+              "externalID": "9202",
+              "name": "Kaghan",
+              "name_l1": "کاغان",
+              "slug": "/Kaghan-9202",
+              "slug_l1": "/Kaghan-9202"
+          },
+          {
+              "id": 12262,
+              "level": 3,
+              "externalID": "13744",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Kaghan_Others-13744",
+              "slug_l1": "/Kaghan_Others-13744"
+          }
+      ],
+      "hierarchyPath": "Others Kaghan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13744",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12262",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+      "id": 18056,
+      "name": "Gaddani",
+      "name_l1": "گڈانی",
+      "externalID": "19047",
+      "slug": "/Gaddani-19047",
+      "slug_l1": "/Gaddani-19047",
+      "_geoloc": {
+          "lat": 25.085545,
+          "lng": 66.733206
+      },
+      "geography": {
+          "lat": 25.085545,
+          "lng": 66.733206
+      },
+      "geo_point": [
+          66.733206,
+          25.085545
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 18056,
+              "level": 2,
+              "externalID": "19047",
+              "name": "Gaddani",
+              "name_l1": "گڈانی",
+              "slug": "/Gaddani-19047",
+              "slug_l1": "/Gaddani-19047"
+          }
+      ],
+      "hierarchyPath": "Gaddani Balochistan Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19047",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18056",
+      "_highlightResult": {
+          "name": {
+              "value": "Gaddani",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18057,
+      "name": "Gaddani Road",
+      "name_l1": "گڈانی روڈ",
+      "externalID": "19048",
+      "slug": "/Gaddani_Gaddani_Road-19048",
+      "slug_l1": "/Gaddani_Gaddani_Road-19048",
+      "_geoloc": {
+          "lat": 25.108101,
+          "lng": 66.745183
+      },
+      "geography": {
+          "lat": 25.108101,
+          "lng": 66.745183
+      },
+      "geo_point": [
+          66.745183,
+          25.108101
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 18056,
+              "level": 2,
+              "externalID": "19047",
+              "name": "Gaddani",
+              "name_l1": "گڈانی",
+              "slug": "/Gaddani-19047",
+              "slug_l1": "/Gaddani-19047"
+          },
+          {
+              "id": 18057,
+              "level": 3,
+              "externalID": "19048",
+              "name": "Gaddani Road",
+              "name_l1": "گڈانی روڈ",
+              "slug": "/Gaddani_Gaddani_Road-19048",
+              "slug_l1": "/Gaddani_Gaddani_Road-19048"
+          }
+      ],
+      "hierarchyPath": "Gaddani Road Gaddani Balochistan Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19048",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18057",
+      "_highlightResult": {
+          "name": {
+              "value": "Gaddani Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20981,
+      "name": "ali vt",
+      "name_l1": "وٹس ایپ چینل جوائن کریں اور ہر وقت",
+      "externalID": "21579",
+      "slug": "/Gaddani_Haji_Ibrahim_Goth_ali-21579",
+      "slug_l1": "/Gaddani_Haji_Ibrahim_Goth_ali-21579",
+      "_geoloc": {
+          "lat": 15.0,
+          "lng": 25.0
+      },
+      "geography": {
+          "lat": 15.0,
+          "lng": 25.0
+      },
+      "geo_point": [
+          25.0,
+          15.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 18056,
+              "level": 2,
+              "externalID": "19047",
+              "name": "Gaddani",
+              "name_l1": "گڈانی",
+              "slug": "/Gaddani-19047",
+              "slug_l1": "/Gaddani-19047"
+          },
+          {
+              "id": 18059,
+              "level": 3,
+              "externalID": "19050",
+              "name": "Haji Ibrahim Goth",
+              "name_l1": "حاجی ابراہیم گوٹھ",
+              "slug": "/Gaddani_Haji_Ibrahim_Goth-19050",
+              "slug_l1": "/Gaddani_Haji_Ibrahim_Goth-19050"
+          },
+          {
+              "id": 20981,
+              "level": 4,
+              "externalID": "21579",
+              "name": "ali vt",
+              "name_l1": "وٹس ایپ چینل جوائن کریں اور ہر وقت",
+              "slug": "/Gaddani_Haji_Ibrahim_Goth_ali-21579",
+              "slug_l1": "/Gaddani_Haji_Ibrahim_Goth_ali-21579"
+          }
+      ],
+      "hierarchyPath": "ali vt Haji Ibrahim Goth Gaddani Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21579",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20981",
+      "_highlightResult": {
+          "name": {
+              "value": "ali vt",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18059,
+      "name": "Haji Ibrahim Goth",
+      "name_l1": "حاجی ابراہیم گوٹھ",
+      "externalID": "19050",
+      "slug": "/Gaddani_Haji_Ibrahim_Goth-19050",
+      "slug_l1": "/Gaddani_Haji_Ibrahim_Goth-19050",
+      "_geoloc": {
+          "lat": 25.099354,
+          "lng": 66.730484
+      },
+      "geography": {
+          "lat": 25.099354,
+          "lng": 66.730484
+      },
+      "geo_point": [
+          66.730484,
+          25.099354
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 18056,
+              "level": 2,
+              "externalID": "19047",
+              "name": "Gaddani",
+              "name_l1": "گڈانی",
+              "slug": "/Gaddani-19047",
+              "slug_l1": "/Gaddani-19047"
+          },
+          {
+              "id": 18059,
+              "level": 3,
+              "externalID": "19050",
+              "name": "Haji Ibrahim Goth",
+              "name_l1": "حاجی ابراہیم گوٹھ",
+              "slug": "/Gaddani_Haji_Ibrahim_Goth-19050",
+              "slug_l1": "/Gaddani_Haji_Ibrahim_Goth-19050"
+          }
+      ],
+      "hierarchyPath": "Haji Ibrahim Goth Gaddani Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19050",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18059",
+      "_highlightResult": {
+          "name": {
+              "value": "Haji Ibrahim Goth",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18058,
+      "name": "RCD Highway",
+      "name_l1": "آر سی ڈی ہائی وے",
+      "externalID": "19049",
+      "slug": "/Gaddani_RCD_Highway-19049",
+      "slug_l1": "/Gaddani_RCD_Highway-19049",
+      "_geoloc": {
+          "lat": 25.126139,
+          "lng": 66.780721
+      },
+      "geography": {
+          "lat": 25.126139,
+          "lng": 66.780721
+      },
+      "geo_point": [
+          66.780721,
+          25.126139
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 18056,
+              "level": 2,
+              "externalID": "19047",
+              "name": "Gaddani",
+              "name_l1": "گڈانی",
+              "slug": "/Gaddani-19047",
+              "slug_l1": "/Gaddani-19047"
+          },
+          {
+              "id": 18058,
+              "level": 3,
+              "externalID": "19049",
+              "name": "RCD Highway",
+              "name_l1": "آر سی ڈی ہائی وے",
+              "slug": "/Gaddani_RCD_Highway-19049",
+              "slug_l1": "/Gaddani_RCD_Highway-19049"
+          }
+      ],
+      "hierarchyPath": "RCD Highway Gaddani Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19049",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18058",
+      "_highlightResult": {
+          "name": {
+              "value": "RCD Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18060,
+      "name": "Ship Breaking Yard Road",
+      "name_l1": "شپ بریکنگ یارڈ روڈ",
+      "externalID": "19051",
+      "slug": "/Gaddani_Ship_Breaking_Yard_Road-19051",
+      "slug_l1": "/Gaddani_Ship_Breaking_Yard_Road-19051",
+      "_geoloc": {
+          "lat": 25.094344,
+          "lng": 66.718673
+      },
+      "geography": {
+          "lat": 25.094344,
+          "lng": 66.718673
+      },
+      "geo_point": [
+          66.718673,
+          25.094344
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 18056,
+              "level": 2,
+              "externalID": "19047",
+              "name": "Gaddani",
+              "name_l1": "گڈانی",
+              "slug": "/Gaddani-19047",
+              "slug_l1": "/Gaddani-19047"
+          },
+          {
+              "id": 18060,
+              "level": 3,
+              "externalID": "19051",
+              "name": "Ship Breaking Yard Road",
+              "name_l1": "شپ بریکنگ یارڈ روڈ",
+              "slug": "/Gaddani_Ship_Breaking_Yard_Road-19051",
+              "slug_l1": "/Gaddani_Ship_Breaking_Yard_Road-19051"
+          }
+      ],
+      "hierarchyPath": "Ship Breaking Yard Road Gaddani Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19051",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18060",
+      "_highlightResult": {
+          "name": {
+              "value": "Ship Breaking Yard Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,5477 @@
+[
+  {
+      "id": 85,
+      "name": "Nawabshah",
+      "name_l1": "نواب شاہ",
+      "externalID": "1704",
+      "slug": "/Nawabshah-1704",
+      "slug_l1": "/Nawabshah-1704",
+      "_geoloc": {
+          "lat": 26.236211362638,
+          "lng": 68.401050567627
+      },
+      "geography": {
+          "lat": 26.236211362638,
+          "lng": 68.401050567627
+      },
+      "geo_point": [
+          68.401050567627,
+          26.236211362638
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          }
+      ],
+      "hierarchyPath": "Nawabshah Sindh Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1704",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "85",
+      "_highlightResult": {
+          "name": {
+              "value": "Nawabshah",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14304,
+      "name": "Bocheri Road",
+      "name_l1": "بوچہری روڈ",
+      "externalID": "15790",
+      "slug": "/Nawabshah_Bocheri_Road-15790",
+      "slug_l1": "/Nawabshah_Bocheri_Road-15790",
+      "_geoloc": {
+          "lat": 26.268233,
+          "lng": 68.393488
+      },
+      "geography": {
+          "lat": 26.268233,
+          "lng": 68.393488
+      },
+      "geo_point": [
+          68.393488,
+          26.268233
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 14304,
+              "level": 3,
+              "externalID": "15790",
+              "name": "Bocheri Road",
+              "name_l1": "بوچہری روڈ",
+              "slug": "/Nawabshah_Bocheri_Road-15790",
+              "slug_l1": "/Nawabshah_Bocheri_Road-15790"
+          }
+      ],
+      "hierarchyPath": "Bocheri Road Nawabshah Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15790",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14304",
+      "_highlightResult": {
+          "name": {
+              "value": "Bocheri Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13590,
+      "name": "Nawabshah Housing Society",
+      "name_l1": "نواب شاہ ہاؤسنگ سوسائٹی",
+      "externalID": "15050",
+      "slug": "/Nawabshah_Nawabshah_Housing_Society-15050",
+      "slug_l1": "/Nawabshah_Nawabshah_Housing_Society-15050",
+      "_geoloc": {
+          "lat": 26.249986,
+          "lng": 68.392817
+      },
+      "geography": {
+          "lat": 26.249986,
+          "lng": 68.392817
+      },
+      "geo_point": [
+          68.392817,
+          26.249986
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 13590,
+              "level": 3,
+              "externalID": "15050",
+              "name": "Nawabshah Housing Society",
+              "name_l1": "نواب شاہ ہاؤسنگ سوسائٹی",
+              "slug": "/Nawabshah_Nawabshah_Housing_Society-15050",
+              "slug_l1": "/Nawabshah_Nawabshah_Housing_Society-15050"
+          }
+      ],
+      "hierarchyPath": "Nawabshah Housing Society Nawabshah Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15050",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13590",
+      "_highlightResult": {
+          "name": {
+              "value": "Nawabshah Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15606,
+      "name": "A-One Abdullah Golden Tower",
+      "name_l1": "اے-ون عبداللہ گولڈن ٹاور",
+      "externalID": "17046",
+      "slug": "/Nawabshah_Nawabshah_Bypass_A_One_Abdullah_Golden_Tower-17046",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass_A_One_Abdullah_Golden_Tower-17046",
+      "_geoloc": {
+          "lat": 26.24127,
+          "lng": 68.375893
+      },
+      "geography": {
+          "lat": 26.24127,
+          "lng": 68.375893
+      },
+      "geo_point": [
+          68.375893,
+          26.24127
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          },
+          {
+              "id": 15606,
+              "level": 4,
+              "externalID": "17046",
+              "name": "A-One Abdullah Golden Tower",
+              "name_l1": "اے-ون عبداللہ گولڈن ٹاور",
+              "slug": "/Nawabshah_Nawabshah_Bypass_A_One_Abdullah_Golden_Tower-17046",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_A_One_Abdullah_Golden_Tower-17046"
+          }
+      ],
+      "hierarchyPath": "A-One Abdullah Golden Tower Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17046",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15606",
+      "_highlightResult": {
+          "name": {
+              "value": "A-One Abdullah Golden Tower",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13603,
+      "name": "Afzal Shah Town",
+      "name_l1": "افضل شاہ ٹاؤن",
+      "externalID": "15064",
+      "slug": "/Nawabshah_Afzal_Shah_Town-15064",
+      "slug_l1": "/Nawabshah_Afzal_Shah_Town-15064",
+      "_geoloc": {
+          "lat": 26.247562,
+          "lng": 68.418041
+      },
+      "geography": {
+          "lat": 26.247562,
+          "lng": 68.418041
+      },
+      "geo_point": [
+          68.418041,
+          26.247562
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 13603,
+              "level": 3,
+              "externalID": "15064",
+              "name": "Afzal Shah Town",
+              "name_l1": "افضل شاہ ٹاؤن",
+              "slug": "/Nawabshah_Afzal_Shah_Town-15064",
+              "slug_l1": "/Nawabshah_Afzal_Shah_Town-15064"
+          }
+      ],
+      "hierarchyPath": "Afzal Shah Town Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15064",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13603",
+      "_highlightResult": {
+          "name": {
+              "value": "Afzal Shah Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3316,
+      "name": "Airport Colony",
+      "name_l1": "ائیرپورٹ کالونی",
+      "externalID": "7368",
+      "slug": "/Nawabshah_Airport_Colony-7368",
+      "slug_l1": "/Nawabshah_Airport_Colony-7368",
+      "_geoloc": {
+          "lat": 26.225833,
+          "lng": 68.410735
+      },
+      "geography": {
+          "lat": 26.225833,
+          "lng": 68.410735
+      },
+      "geo_point": [
+          68.410735,
+          26.225833
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3316,
+              "level": 3,
+              "externalID": "7368",
+              "name": "Airport Colony",
+              "name_l1": "ائیرپورٹ کالونی",
+              "slug": "/Nawabshah_Airport_Colony-7368",
+              "slug_l1": "/Nawabshah_Airport_Colony-7368"
+          }
+      ],
+      "hierarchyPath": "Airport Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7368",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3316",
+      "_highlightResult": {
+          "name": {
+              "value": "Airport Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3317,
+      "name": "Airport Road",
+      "name_l1": "ائیرپورٹ روڈ",
+      "externalID": "7369",
+      "slug": "/Nawabshah_Airport_Road-7369",
+      "slug_l1": "/Nawabshah_Airport_Road-7369",
+      "_geoloc": {
+          "lat": 26.219442,
+          "lng": 68.378048
+      },
+      "geography": {
+          "lat": 26.219442,
+          "lng": 68.378048
+      },
+      "geo_point": [
+          68.378048,
+          26.219442
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3317,
+              "level": 3,
+              "externalID": "7369",
+              "name": "Airport Road",
+              "name_l1": "ائیرپورٹ روڈ",
+              "slug": "/Nawabshah_Airport_Road-7369",
+              "slug_l1": "/Nawabshah_Airport_Road-7369"
+          }
+      ],
+      "hierarchyPath": "Airport Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7369",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3317",
+      "_highlightResult": {
+          "name": {
+              "value": "Airport Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16532,
+      "name": "Al Falah Residency",
+      "name_l1": "الفلاح ریذیڈنسی",
+      "externalID": "17774",
+      "slug": "/Nawabshah_Al_Falah_Residency-17774",
+      "slug_l1": "/Nawabshah_Al_Falah_Residency-17774",
+      "_geoloc": {
+          "lat": 26.244624,
+          "lng": 68.385797
+      },
+      "geography": {
+          "lat": 26.244624,
+          "lng": 68.385797
+      },
+      "geo_point": [
+          68.385797,
+          26.244624
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 16532,
+              "level": 3,
+              "externalID": "17774",
+              "name": "Al Falah Residency",
+              "name_l1": "الفلاح ریذیڈنسی",
+              "slug": "/Nawabshah_Al_Falah_Residency-17774",
+              "slug_l1": "/Nawabshah_Al_Falah_Residency-17774"
+          }
+      ],
+      "hierarchyPath": "Al Falah Residency Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17774",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16532",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Falah Residency",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3318,
+      "name": "Azim Colony",
+      "name_l1": "عظیم کالونی",
+      "externalID": "7370",
+      "slug": "/Nawabshah_Azim_Colony-7370",
+      "slug_l1": "/Nawabshah_Azim_Colony-7370",
+      "_geoloc": {
+          "lat": 26.23792,
+          "lng": 68.396795
+      },
+      "geography": {
+          "lat": 26.23792,
+          "lng": 68.396795
+      },
+      "geo_point": [
+          68.396795,
+          26.23792
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3318,
+              "level": 3,
+              "externalID": "7370",
+              "name": "Azim Colony",
+              "name_l1": "عظیم کالونی",
+              "slug": "/Nawabshah_Azim_Colony-7370",
+              "slug_l1": "/Nawabshah_Azim_Colony-7370"
+          }
+      ],
+      "hierarchyPath": "Azim Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7370",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3318",
+      "_highlightResult": {
+          "name": {
+              "value": "Azim Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4651,
+      "name": "Bahria Town",
+      "name_l1": "بحریہ ٹاؤن",
+      "externalID": "9507",
+      "slug": "/Nawabshah_Bahria_Town-9507",
+      "slug_l1": "/Nawabshah_Bahria_Town-9507",
+      "_geoloc": {
+          "lat": 26.258482,
+          "lng": 68.274752
+      },
+      "geography": {
+          "lat": 26.258482,
+          "lng": 68.274752
+      },
+      "geo_point": [
+          68.274752,
+          26.258482
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 4651,
+              "level": 3,
+              "externalID": "9507",
+              "name": "Bahria Town",
+              "name_l1": "بحریہ ٹاؤن",
+              "slug": "/Nawabshah_Bahria_Town-9507",
+              "slug_l1": "/Nawabshah_Bahria_Town-9507"
+          }
+      ],
+      "hierarchyPath": "Bahria Town Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9507",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4651",
+      "_highlightResult": {
+          "name": {
+              "value": "Bahria Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13966,
+      "name": "Baloo Ja Quba Road",
+      "name_l1": "بلو جا  کیوبا روڈ",
+      "externalID": "15444",
+      "slug": "/Nawabshah_Baloo_Ja_Quba_Road-15444",
+      "slug_l1": "/Nawabshah_Baloo_Ja_Quba_Road-15444",
+      "_geoloc": {
+          "lat": 26.259601,
+          "lng": 68.387578
+      },
+      "geography": {
+          "lat": 26.259601,
+          "lng": 68.387578
+      },
+      "geo_point": [
+          68.387578,
+          26.259601
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 13966,
+              "level": 3,
+              "externalID": "15444",
+              "name": "Baloo Ja Quba Road",
+              "name_l1": "بلو جا  کیوبا روڈ",
+              "slug": "/Nawabshah_Baloo_Ja_Quba_Road-15444",
+              "slug_l1": "/Nawabshah_Baloo_Ja_Quba_Road-15444"
+          }
+      ],
+      "hierarchyPath": "Baloo Ja Quba Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15444",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "13966",
+      "_highlightResult": {
+          "name": {
+              "value": "Baloo Ja Quba Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3319,
+      "name": "Bhangwar Colony",
+      "name_l1": "بھنگوار کالونی",
+      "externalID": "7371",
+      "slug": "/Nawabshah_Bhangwar_Colony-7371",
+      "slug_l1": "/Nawabshah_Bhangwar_Colony-7371",
+      "_geoloc": {
+          "lat": 26.235765,
+          "lng": 68.404434
+      },
+      "geography": {
+          "lat": 26.235765,
+          "lng": 68.404434
+      },
+      "geo_point": [
+          68.404434,
+          26.235765
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3319,
+              "level": 3,
+              "externalID": "7371",
+              "name": "Bhangwar Colony",
+              "name_l1": "بھنگوار کالونی",
+              "slug": "/Nawabshah_Bhangwar_Colony-7371",
+              "slug_l1": "/Nawabshah_Bhangwar_Colony-7371"
+          }
+      ],
+      "hierarchyPath": "Bhangwar Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7371",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3319",
+      "_highlightResult": {
+          "name": {
+              "value": "Bhangwar Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5697,
+      "name": "Bismillah Commercial Center",
+      "name_l1": "بسم اللہ کمرشل سینٹر",
+      "externalID": "11400",
+      "slug": "/Nawabshah_Bismillah_Commercial_Center-11400",
+      "slug_l1": "/Nawabshah_Bismillah_Commercial_Center-11400",
+      "_geoloc": {
+          "lat": 26.27886,
+          "lng": 68.419568
+      },
+      "geography": {
+          "lat": 26.27886,
+          "lng": 68.419568
+      },
+      "geo_point": [
+          68.419568,
+          26.27886
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 5697,
+              "level": 3,
+              "externalID": "11400",
+              "name": "Bismillah Commercial Center",
+              "name_l1": "بسم اللہ کمرشل سینٹر",
+              "slug": "/Nawabshah_Bismillah_Commercial_Center-11400",
+              "slug_l1": "/Nawabshah_Bismillah_Commercial_Center-11400"
+          }
+      ],
+      "hierarchyPath": "Bismillah Commercial Center Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11400",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5697",
+      "_highlightResult": {
+          "name": {
+              "value": "Bismillah Commercial Center",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13967,
+      "name": "Buland Ali Shah Housing Society",
+      "name_l1": "بلند علی شاہ ہاؤسنگ سوسائٹی",
+      "externalID": "15445",
+      "slug": "/Nawabshah_Baloo_Ja_Quba_Road_Buland_Ali_Shah_Housing_Society-15445",
+      "slug_l1": "/Nawabshah_Baloo_Ja_Quba_Road_Buland_Ali_Shah_Housing_Society-15445",
+      "_geoloc": {
+          "lat": 26.260341,
+          "lng": 68.391381
+      },
+      "geography": {
+          "lat": 26.260341,
+          "lng": 68.391381
+      },
+      "geo_point": [
+          68.391381,
+          26.260341
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 13966,
+              "level": 3,
+              "externalID": "15444",
+              "name": "Baloo Ja Quba Road",
+              "name_l1": "بلو جا  کیوبا روڈ",
+              "slug": "/Nawabshah_Baloo_Ja_Quba_Road-15444",
+              "slug_l1": "/Nawabshah_Baloo_Ja_Quba_Road-15444"
+          },
+          {
+              "id": 13967,
+              "level": 4,
+              "externalID": "15445",
+              "name": "Buland Ali Shah Housing Society",
+              "name_l1": "بلند علی شاہ ہاؤسنگ سوسائٹی",
+              "slug": "/Nawabshah_Baloo_Ja_Quba_Road_Buland_Ali_Shah_Housing_Society-15445",
+              "slug_l1": "/Nawabshah_Baloo_Ja_Quba_Road_Buland_Ali_Shah_Housing_Society-15445"
+          }
+      ],
+      "hierarchyPath": "Buland Ali Shah Housing Society Baloo Ja Quba Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15445",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13967",
+      "_highlightResult": {
+          "name": {
+              "value": "Buland Ali Shah Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3320,
+      "name": "Canal Road",
+      "name_l1": "کینال روڈ",
+      "externalID": "7372",
+      "slug": "/Nawabshah_Canal_Road-7372",
+      "slug_l1": "/Nawabshah_Canal_Road-7372",
+      "_geoloc": {
+          "lat": 26.260514,
+          "lng": 68.416286
+      },
+      "geography": {
+          "lat": 26.260514,
+          "lng": 68.416286
+      },
+      "geo_point": [
+          68.416286,
+          26.260514
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3320,
+              "level": 3,
+              "externalID": "7372",
+              "name": "Canal Road",
+              "name_l1": "کینال روڈ",
+              "slug": "/Nawabshah_Canal_Road-7372",
+              "slug_l1": "/Nawabshah_Canal_Road-7372"
+          }
+      ],
+      "hierarchyPath": "Canal Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7372",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3320",
+      "_highlightResult": {
+          "name": {
+              "value": "Canal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3321,
+      "name": "Civil Hospital Road",
+      "name_l1": "سوِل ہاسپٹل روڈ",
+      "externalID": "7373",
+      "slug": "/Nawabshah_Civil_Hospital_Road-7373",
+      "slug_l1": "/Nawabshah_Civil_Hospital_Road-7373",
+      "_geoloc": {
+          "lat": 26.242559,
+          "lng": 68.403171
+      },
+      "geography": {
+          "lat": 26.242559,
+          "lng": 68.403171
+      },
+      "geo_point": [
+          68.403171,
+          26.242559
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3321,
+              "level": 3,
+              "externalID": "7373",
+              "name": "Civil Hospital Road",
+              "name_l1": "سوِل ہاسپٹل روڈ",
+              "slug": "/Nawabshah_Civil_Hospital_Road-7373",
+              "slug_l1": "/Nawabshah_Civil_Hospital_Road-7373"
+          }
+      ],
+      "hierarchyPath": "Civil Hospital Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7373",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3321",
+      "_highlightResult": {
+          "name": {
+              "value": "Civil Hospital Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3322,
+      "name": "Court Road",
+      "name_l1": "کورٹ روڈ",
+      "externalID": "7374",
+      "slug": "/Nawabshah_Court_Road-7374",
+      "slug_l1": "/Nawabshah_Court_Road-7374",
+      "_geoloc": {
+          "lat": 26.244753,
+          "lng": 68.404137
+      },
+      "geography": {
+          "lat": 26.244753,
+          "lng": 68.404137
+      },
+      "geo_point": [
+          68.404137,
+          26.244753
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3322,
+              "level": 3,
+              "externalID": "7374",
+              "name": "Court Road",
+              "name_l1": "کورٹ روڈ",
+              "slug": "/Nawabshah_Court_Road-7374",
+              "slug_l1": "/Nawabshah_Court_Road-7374"
+          }
+      ],
+      "hierarchyPath": "Court Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7374",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3322",
+      "_highlightResult": {
+          "name": {
+              "value": "Court Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3323,
+      "name": "Daulat Colony",
+      "name_l1": "دولت کالونی",
+      "externalID": "7375",
+      "slug": "/Nawabshah_Daulat_Colony-7375",
+      "slug_l1": "/Nawabshah_Daulat_Colony-7375",
+      "_geoloc": {
+          "lat": 26.237805,
+          "lng": 68.400614
+      },
+      "geography": {
+          "lat": 26.237805,
+          "lng": 68.400614
+      },
+      "geo_point": [
+          68.400614,
+          26.237805
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3323,
+              "level": 3,
+              "externalID": "7375",
+              "name": "Daulat Colony",
+              "name_l1": "دولت کالونی",
+              "slug": "/Nawabshah_Daulat_Colony-7375",
+              "slug_l1": "/Nawabshah_Daulat_Colony-7375"
+          }
+      ],
+      "hierarchyPath": "Daulat Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7375",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3323",
+      "_highlightResult": {
+          "name": {
+              "value": "Daulat Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4343,
+      "name": "Daulatpur",
+      "name_l1": "دولت پور",
+      "externalID": "8800",
+      "slug": "/Nawabshah_Daulatpur-8800",
+      "slug_l1": "/Nawabshah_Daulatpur-8800",
+      "_geoloc": {
+          "lat": 26.503135,
+          "lng": 67.973281
+      },
+      "geography": {
+          "lat": 26.503135,
+          "lng": 67.973281
+      },
+      "geo_point": [
+          67.973281,
+          26.503135
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 4343,
+              "level": 3,
+              "externalID": "8800",
+              "name": "Daulatpur",
+              "name_l1": "دولت پور",
+              "slug": "/Nawabshah_Daulatpur-8800",
+              "slug_l1": "/Nawabshah_Daulatpur-8800"
+          }
+      ],
+      "hierarchyPath": "Daulatpur Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8800",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4343",
+      "_highlightResult": {
+          "name": {
+              "value": "Daulatpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3324,
+      "name": "DCO Secretrait Road",
+      "name_l1": "ڈی سی او سیکٹریٹ روڈ",
+      "externalID": "7376",
+      "slug": "/Nawabshah_DCO_Secretrait_Road-7376",
+      "slug_l1": "/Nawabshah_DCO_Secretrait_Road-7376",
+      "_geoloc": {
+          "lat": 26.247255,
+          "lng": 68.403708
+      },
+      "geography": {
+          "lat": 26.247255,
+          "lng": 68.403708
+      },
+      "geo_point": [
+          68.403708,
+          26.247255
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3324,
+              "level": 3,
+              "externalID": "7376",
+              "name": "DCO Secretrait Road",
+              "name_l1": "ڈی سی او سیکٹریٹ روڈ",
+              "slug": "/Nawabshah_DCO_Secretrait_Road-7376",
+              "slug_l1": "/Nawabshah_DCO_Secretrait_Road-7376"
+          }
+      ],
+      "hierarchyPath": "DCO Secretrait Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7376",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3324",
+      "_highlightResult": {
+          "name": {
+              "value": "DCO Secretrait Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13989,
+      "name": "Doctors Housing Society",
+      "name_l1": "ڈاکٹرز ہاؤسنگ سوسائٹی",
+      "externalID": "15470",
+      "slug": "/Nawabshah_Baloo_Ja_Quba_Road_Doctors_Housing_Society-15470",
+      "slug_l1": "/Nawabshah_Baloo_Ja_Quba_Road_Doctors_Housing_Society-15470",
+      "_geoloc": {
+          "lat": 26.272763,
+          "lng": 68.380886
+      },
+      "geography": {
+          "lat": 26.272763,
+          "lng": 68.380886
+      },
+      "geo_point": [
+          68.380886,
+          26.272763
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 13966,
+              "level": 3,
+              "externalID": "15444",
+              "name": "Baloo Ja Quba Road",
+              "name_l1": "بلو جا  کیوبا روڈ",
+              "slug": "/Nawabshah_Baloo_Ja_Quba_Road-15444",
+              "slug_l1": "/Nawabshah_Baloo_Ja_Quba_Road-15444"
+          },
+          {
+              "id": 13989,
+              "level": 4,
+              "externalID": "15470",
+              "name": "Doctors Housing Society",
+              "name_l1": "ڈاکٹرز ہاؤسنگ سوسائٹی",
+              "slug": "/Nawabshah_Baloo_Ja_Quba_Road_Doctors_Housing_Society-15470",
+              "slug_l1": "/Nawabshah_Baloo_Ja_Quba_Road_Doctors_Housing_Society-15470"
+          }
+      ],
+      "hierarchyPath": "Doctors Housing Society Baloo Ja Quba Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15470",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13989",
+      "_highlightResult": {
+          "name": {
+              "value": "Doctors Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4472,
+      "name": "Farsi Bagh",
+      "name_l1": "فارسی باغ",
+      "externalID": "9136",
+      "slug": "/Nawabshah_Farsi_Bagh-9136",
+      "slug_l1": "/Nawabshah_Farsi_Bagh-9136",
+      "_geoloc": {
+          "lat": 26.254293,
+          "lng": 68.415229
+      },
+      "geography": {
+          "lat": 26.254293,
+          "lng": 68.415229
+      },
+      "geo_point": [
+          68.415229,
+          26.254293
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 4472,
+              "level": 3,
+              "externalID": "9136",
+              "name": "Farsi Bagh",
+              "name_l1": "فارسی باغ",
+              "slug": "/Nawabshah_Farsi_Bagh-9136",
+              "slug_l1": "/Nawabshah_Farsi_Bagh-9136"
+          }
+      ],
+      "hierarchyPath": "Farsi Bagh Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9136",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4472",
+      "_highlightResult": {
+          "name": {
+              "value": "Farsi Bagh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5197,
+      "name": "Ghareebabad",
+      "name_l1": "غریب آباد",
+      "externalID": "10434",
+      "slug": "/Nawabshah_Ghareebabad-10434",
+      "slug_l1": "/Nawabshah_Ghareebabad-10434",
+      "_geoloc": {
+          "lat": 26.240949,
+          "lng": 68.405852
+      },
+      "geography": {
+          "lat": 26.240949,
+          "lng": 68.405852
+      },
+      "geo_point": [
+          68.405852,
+          26.240949
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 5197,
+              "level": 3,
+              "externalID": "10434",
+              "name": "Ghareebabad",
+              "name_l1": "غریب آباد",
+              "slug": "/Nawabshah_Ghareebabad-10434",
+              "slug_l1": "/Nawabshah_Ghareebabad-10434"
+          }
+      ],
+      "hierarchyPath": "Ghareebabad Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10434",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5197",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghareebabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3325,
+      "name": "Ghulam Hyder Shah Colony",
+      "name_l1": "غلام حیدر شاہ کالونی",
+      "externalID": "7377",
+      "slug": "/Nawabshah_Ghulam_Hyder_Shah_Colony-7377",
+      "slug_l1": "/Nawabshah_Ghulam_Hyder_Shah_Colony-7377",
+      "_geoloc": {
+          "lat": 26.255703,
+          "lng": 68.395042
+      },
+      "geography": {
+          "lat": 26.255703,
+          "lng": 68.395042
+      },
+      "geo_point": [
+          68.395042,
+          26.255703
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3325,
+              "level": 3,
+              "externalID": "7377",
+              "name": "Ghulam Hyder Shah Colony",
+              "name_l1": "غلام حیدر شاہ کالونی",
+              "slug": "/Nawabshah_Ghulam_Hyder_Shah_Colony-7377",
+              "slug_l1": "/Nawabshah_Ghulam_Hyder_Shah_Colony-7377"
+          }
+      ],
+      "hierarchyPath": "Ghulam Hyder Shah Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7377",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3325",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghulam Hyder Shah Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13627,
+      "name": "Gol Chakkar",
+      "name_l1": "گول چکر",
+      "externalID": "15096",
+      "slug": "/Nawabshah_Gol_Chakkar-15096",
+      "slug_l1": "/Nawabshah_Gol_Chakkar-15096",
+      "_geoloc": {
+          "lat": 26.244145,
+          "lng": 68.410079
+      },
+      "geography": {
+          "lat": 26.244145,
+          "lng": 68.410079
+      },
+      "geo_point": [
+          68.410079,
+          26.244145
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 13627,
+              "level": 3,
+              "externalID": "15096",
+              "name": "Gol Chakkar",
+              "name_l1": "گول چکر",
+              "slug": "/Nawabshah_Gol_Chakkar-15096",
+              "slug_l1": "/Nawabshah_Gol_Chakkar-15096"
+          }
+      ],
+      "hierarchyPath": "Gol Chakkar Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15096",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13627",
+      "_highlightResult": {
+          "name": {
+              "value": "Gol Chakkar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3326,
+      "name": "Golimar",
+      "name_l1": "گولی مار",
+      "externalID": "7378",
+      "slug": "/Nawabshah_Golimar-7378",
+      "slug_l1": "/Nawabshah_Golimar-7378",
+      "_geoloc": {
+          "lat": 26.258012,
+          "lng": 68.403611
+      },
+      "geography": {
+          "lat": 26.258012,
+          "lng": 68.403611
+      },
+      "geo_point": [
+          68.403611,
+          26.258012
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3326,
+              "level": 3,
+              "externalID": "7378",
+              "name": "Golimar",
+              "name_l1": "گولی مار",
+              "slug": "/Nawabshah_Golimar-7378",
+              "slug_l1": "/Nawabshah_Golimar-7378"
+          }
+      ],
+      "hierarchyPath": "Golimar Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7378",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3326",
+      "_highlightResult": {
+          "name": {
+              "value": "Golimar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14305,
+      "name": "Grid Station Society",
+      "name_l1": "گرڈ اسٹیشن سوسائٹی",
+      "externalID": "15791",
+      "slug": "/Nawabshah_Grid_Station_Society-15791",
+      "slug_l1": "/Nawabshah_Grid_Station_Society-15791",
+      "_geoloc": {
+          "lat": 26.244646,
+          "lng": 68.385432
+      },
+      "geography": {
+          "lat": 26.244646,
+          "lng": 68.385432
+      },
+      "geo_point": [
+          68.385432,
+          26.244646
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 14305,
+              "level": 3,
+              "externalID": "15791",
+              "name": "Grid Station Society",
+              "name_l1": "گرڈ اسٹیشن سوسائٹی",
+              "slug": "/Nawabshah_Grid_Station_Society-15791",
+              "slug_l1": "/Nawabshah_Grid_Station_Society-15791"
+          }
+      ],
+      "hierarchyPath": "Grid Station Society Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15791",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14305",
+      "_highlightResult": {
+          "name": {
+              "value": "Grid Station Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13602,
+      "name": "Jam Sahib",
+      "name_l1": "جام صاحب",
+      "externalID": "15063",
+      "slug": "/Nawabshah_Jam_Sahib-15063",
+      "slug_l1": "/Nawabshah_Jam_Sahib-15063",
+      "_geoloc": {
+          "lat": 26.296324,
+          "lng": 68.631856
+      },
+      "geography": {
+          "lat": 26.296324,
+          "lng": 68.631856
+      },
+      "geo_point": [
+          68.631856,
+          26.296324
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 13602,
+              "level": 3,
+              "externalID": "15063",
+              "name": "Jam Sahib",
+              "name_l1": "جام صاحب",
+              "slug": "/Nawabshah_Jam_Sahib-15063",
+              "slug_l1": "/Nawabshah_Jam_Sahib-15063"
+          }
+      ],
+      "hierarchyPath": "Jam Sahib Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15063",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13602",
+      "_highlightResult": {
+          "name": {
+              "value": "Jam Sahib",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3327,
+      "name": "Jam Sahib Road",
+      "name_l1": "جام صاحب روڈ",
+      "externalID": "7379",
+      "slug": "/Nawabshah_Jam_Sahib_Road-7379",
+      "slug_l1": "/Nawabshah_Jam_Sahib_Road-7379",
+      "_geoloc": {
+          "lat": 26.243906,
+          "lng": 68.423513
+      },
+      "geography": {
+          "lat": 26.243906,
+          "lng": 68.423513
+      },
+      "geo_point": [
+          68.423513,
+          26.243906
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3327,
+              "level": 3,
+              "externalID": "7379",
+              "name": "Jam Sahib Road",
+              "name_l1": "جام صاحب روڈ",
+              "slug": "/Nawabshah_Jam_Sahib_Road-7379",
+              "slug_l1": "/Nawabshah_Jam_Sahib_Road-7379"
+          }
+      ],
+      "hierarchyPath": "Jam Sahib Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7379",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3327",
+      "_highlightResult": {
+          "name": {
+              "value": "Jam Sahib Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3329,
+      "name": "Katchehry Road",
+      "name_l1": "کچہری روڈ",
+      "externalID": "7381",
+      "slug": "/Nawabshah_Katchehry_Road-7381",
+      "slug_l1": "/Nawabshah_Katchehry_Road-7381",
+      "_geoloc": {
+          "lat": 26.24764,
+          "lng": 68.40712
+      },
+      "geography": {
+          "lat": 26.24764,
+          "lng": 68.40712
+      },
+      "geo_point": [
+          68.40712,
+          26.24764
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3329,
+              "level": 3,
+              "externalID": "7381",
+              "name": "Katchehry Road",
+              "name_l1": "کچہری روڈ",
+              "slug": "/Nawabshah_Katchehry_Road-7381",
+              "slug_l1": "/Nawabshah_Katchehry_Road-7381"
+          }
+      ],
+      "hierarchyPath": "Katchehry Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7381",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3329",
+      "_highlightResult": {
+          "name": {
+              "value": "Katchehry Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3328,
+      "name": "Katiyar Goth",
+      "name_l1": "کٹیار گوٹھ",
+      "externalID": "7380",
+      "slug": "/Nawabshah_Katiyar_Goth-7380",
+      "slug_l1": "/Nawabshah_Katiyar_Goth-7380",
+      "_geoloc": {
+          "lat": 26.243232,
+          "lng": 68.386667
+      },
+      "geography": {
+          "lat": 26.243232,
+          "lng": 68.386667
+      },
+      "geo_point": [
+          68.386667,
+          26.243232
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3328,
+              "level": 3,
+              "externalID": "7380",
+              "name": "Katiyar Goth",
+              "name_l1": "کٹیار گوٹھ",
+              "slug": "/Nawabshah_Katiyar_Goth-7380",
+              "slug_l1": "/Nawabshah_Katiyar_Goth-7380"
+          }
+      ],
+      "hierarchyPath": "Katiyar Goth Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7380",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3328",
+      "_highlightResult": {
+          "name": {
+              "value": "Katiyar Goth",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3330,
+      "name": "Lakha",
+      "name_l1": "لکھا",
+      "externalID": "7382",
+      "slug": "/Nawabshah_Lakha-7382",
+      "slug_l1": "/Nawabshah_Lakha-7382",
+      "_geoloc": {
+          "lat": 26.248352,
+          "lng": 68.388648
+      },
+      "geography": {
+          "lat": 26.248352,
+          "lng": 68.388648
+      },
+      "geo_point": [
+          68.388648,
+          26.248352
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3330,
+              "level": 3,
+              "externalID": "7382",
+              "name": "Lakha",
+              "name_l1": "لکھا",
+              "slug": "/Nawabshah_Lakha-7382",
+              "slug_l1": "/Nawabshah_Lakha-7382"
+          }
+      ],
+      "hierarchyPath": "Lakha Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7382",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3330",
+      "_highlightResult": {
+          "name": {
+              "value": "Lakha",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9131,
+      "name": "Madina Tower & Shopping Mall",
+      "name_l1": "مدینہ ٹاوراینڈ شاپنگ مال",
+      "externalID": "11782",
+      "slug": "/Nawabshah_Station_Road_Madina_Tower___Shopping_Mall-11782",
+      "slug_l1": "/Nawabshah_Station_Road_Madina_Tower___Shopping_Mall-11782",
+      "_geoloc": {
+          "lat": 26.246161,
+          "lng": 68.410888
+      },
+      "geography": {
+          "lat": 26.246161,
+          "lng": 68.410888
+      },
+      "geo_point": [
+          68.410888,
+          26.246161
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 4473,
+              "level": 3,
+              "externalID": "9137",
+              "name": "Station Road",
+              "name_l1": "اسٹیشن روڈ",
+              "slug": "/Nawabshah_Station_Road-9137",
+              "slug_l1": "/Nawabshah_Station_Road-9137"
+          },
+          {
+              "id": 9131,
+              "level": 4,
+              "externalID": "11782",
+              "name": "Madina Tower & Shopping Mall",
+              "name_l1": "مدینہ ٹاوراینڈ شاپنگ مال",
+              "slug": "/Nawabshah_Station_Road_Madina_Tower___Shopping_Mall-11782",
+              "slug_l1": "/Nawabshah_Station_Road_Madina_Tower___Shopping_Mall-11782"
+          }
+      ],
+      "hierarchyPath": "Madina Tower & Shopping Mall Station Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11782",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9131",
+      "_highlightResult": {
+          "name": {
+              "value": "Madina Tower & Shopping Mall",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3331,
+      "name": "Mangai Goth",
+      "name_l1": "منگئی گوٹھ",
+      "externalID": "7383",
+      "slug": "/Nawabshah_Mangai_Goth-7383",
+      "slug_l1": "/Nawabshah_Mangai_Goth-7383",
+      "_geoloc": {
+          "lat": 26.252047,
+          "lng": 68.389971
+      },
+      "geography": {
+          "lat": 26.252047,
+          "lng": 68.389971
+      },
+      "geo_point": [
+          68.389971,
+          26.252047
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3331,
+              "level": 3,
+              "externalID": "7383",
+              "name": "Mangai Goth",
+              "name_l1": "منگئی گوٹھ",
+              "slug": "/Nawabshah_Mangai_Goth-7383",
+              "slug_l1": "/Nawabshah_Mangai_Goth-7383"
+          }
+      ],
+      "hierarchyPath": "Mangai Goth Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7383",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3331",
+      "_highlightResult": {
+          "name": {
+              "value": "Mangai Goth",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3332,
+      "name": "Manoabad",
+      "name_l1": "منوں آباد",
+      "externalID": "7384",
+      "slug": "/Nawabshah_Manoabad-7384",
+      "slug_l1": "/Nawabshah_Manoabad-7384",
+      "_geoloc": {
+          "lat": 26.236727,
+          "lng": 68.410485
+      },
+      "geography": {
+          "lat": 26.236727,
+          "lng": 68.410485
+      },
+      "geo_point": [
+          68.410485,
+          26.236727
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3332,
+              "level": 3,
+              "externalID": "7384",
+              "name": "Manoabad",
+              "name_l1": "منوں آباد",
+              "slug": "/Nawabshah_Manoabad-7384",
+              "slug_l1": "/Nawabshah_Manoabad-7384"
+          }
+      ],
+      "hierarchyPath": "Manoabad Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7384",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3332",
+      "_highlightResult": {
+          "name": {
+              "value": "Manoabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11931,
+      "name": "Mariam Road",
+      "name_l1": "مریم روڈ",
+      "externalID": "13452",
+      "slug": "/Nawabshah_Mariam_Road-13452",
+      "slug_l1": "/Nawabshah_Mariam_Road-13452",
+      "_geoloc": {
+          "lat": 26.248349,
+          "lng": 68.415582
+      },
+      "geography": {
+          "lat": 26.248349,
+          "lng": 68.415582
+      },
+      "geo_point": [
+          68.415582,
+          26.248349
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 11931,
+              "level": 3,
+              "externalID": "13452",
+              "name": "Mariam Road",
+              "name_l1": "مریم روڈ",
+              "slug": "/Nawabshah_Mariam_Road-13452",
+              "slug_l1": "/Nawabshah_Mariam_Road-13452"
+          }
+      ],
+      "hierarchyPath": "Mariam Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13452",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11931",
+      "_highlightResult": {
+          "name": {
+              "value": "Mariam Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3333,
+      "name": "Mastoey",
+      "name_l1": "مستوئے",
+      "externalID": "7385",
+      "slug": "/Nawabshah_Mastoey-7385",
+      "slug_l1": "/Nawabshah_Mastoey-7385",
+      "_geoloc": {
+          "lat": 26.250661,
+          "lng": 68.38834
+      },
+      "geography": {
+          "lat": 26.250661,
+          "lng": 68.38834
+      },
+      "geo_point": [
+          68.38834,
+          26.250661
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3333,
+              "level": 3,
+              "externalID": "7385",
+              "name": "Mastoey",
+              "name_l1": "مستوئے",
+              "slug": "/Nawabshah_Mastoey-7385",
+              "slug_l1": "/Nawabshah_Mastoey-7385"
+          }
+      ],
+      "hierarchyPath": "Mastoey Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7385",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3333",
+      "_highlightResult": {
+          "name": {
+              "value": "Mastoey",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3334,
+      "name": "Mehran Colony",
+      "name_l1": "مہران کالونی",
+      "externalID": "7386",
+      "slug": "/Nawabshah_Mehran_Colony-7386",
+      "slug_l1": "/Nawabshah_Mehran_Colony-7386",
+      "_geoloc": {
+          "lat": 26.240346,
+          "lng": 68.394349
+      },
+      "geography": {
+          "lat": 26.240346,
+          "lng": 68.394349
+      },
+      "geo_point": [
+          68.394349,
+          26.240346
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3334,
+              "level": 3,
+              "externalID": "7386",
+              "name": "Mehran Colony",
+              "name_l1": "مہران کالونی",
+              "slug": "/Nawabshah_Mehran_Colony-7386",
+              "slug_l1": "/Nawabshah_Mehran_Colony-7386"
+          }
+      ],
+      "hierarchyPath": "Mehran Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7386",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3334",
+      "_highlightResult": {
+          "name": {
+              "value": "Mehran Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3335,
+      "name": "Mehran Highway",
+      "name_l1": "مہران ہائی وے",
+      "externalID": "7387",
+      "slug": "/Nawabshah_Mehran_Highway-7387",
+      "slug_l1": "/Nawabshah_Mehran_Highway-7387",
+      "_geoloc": {
+          "lat": 26.264901,
+          "lng": 68.396072
+      },
+      "geography": {
+          "lat": 26.264901,
+          "lng": 68.396072
+      },
+      "geo_point": [
+          68.396072,
+          26.264901
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3335,
+              "level": 3,
+              "externalID": "7387",
+              "name": "Mehran Highway",
+              "name_l1": "مہران ہائی وے",
+              "slug": "/Nawabshah_Mehran_Highway-7387",
+              "slug_l1": "/Nawabshah_Mehran_Highway-7387"
+          }
+      ],
+      "hierarchyPath": "Mehran Highway Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7387",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3335",
+      "_highlightResult": {
+          "name": {
+              "value": "Mehran Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13591,
+      "name": "Mian Qazi Ahmed Mor",
+      "name_l1": "میاں قاضی احمد موڑ",
+      "externalID": "15051",
+      "slug": "/Nawabshah_Mian_Qazi_Ahmed_Mor-15051",
+      "slug_l1": "/Nawabshah_Mian_Qazi_Ahmed_Mor-15051",
+      "_geoloc": {
+          "lat": 26.254301,
+          "lng": 68.391982
+      },
+      "geography": {
+          "lat": 26.254301,
+          "lng": 68.391982
+      },
+      "geo_point": [
+          68.391982,
+          26.254301
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 13591,
+              "level": 3,
+              "externalID": "15051",
+              "name": "Mian Qazi Ahmed Mor",
+              "name_l1": "میاں قاضی احمد موڑ",
+              "slug": "/Nawabshah_Mian_Qazi_Ahmed_Mor-15051",
+              "slug_l1": "/Nawabshah_Mian_Qazi_Ahmed_Mor-15051"
+          }
+      ],
+      "hierarchyPath": "Mian Qazi Ahmed Mor Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15051",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13591",
+      "_highlightResult": {
+          "name": {
+              "value": "Mian Qazi Ahmed Mor",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3336,
+      "name": "Mohammad Khan Chandio",
+      "name_l1": "محمد خان چانڈیو",
+      "externalID": "7388",
+      "slug": "/Nawabshah_Mohammad_Khan_Chandio-7388",
+      "slug_l1": "/Nawabshah_Mohammad_Khan_Chandio-7388",
+      "_geoloc": {
+          "lat": 26.229914,
+          "lng": 68.410735
+      },
+      "geography": {
+          "lat": 26.229914,
+          "lng": 68.410735
+      },
+      "geo_point": [
+          68.410735,
+          26.229914
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3336,
+              "level": 3,
+              "externalID": "7388",
+              "name": "Mohammad Khan Chandio",
+              "name_l1": "محمد خان چانڈیو",
+              "slug": "/Nawabshah_Mohammad_Khan_Chandio-7388",
+              "slug_l1": "/Nawabshah_Mohammad_Khan_Chandio-7388"
+          }
+      ],
+      "hierarchyPath": "Mohammad Khan Chandio Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7388",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3336",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohammad Khan Chandio",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3337,
+      "name": "Mohammadi Town",
+      "name_l1": "محمدی ٹاؤن",
+      "externalID": "7389",
+      "slug": "/Nawabshah_Mohammadi_Town-7389",
+      "slug_l1": "/Nawabshah_Mohammadi_Town-7389",
+      "_geoloc": {
+          "lat": 26.226141,
+          "lng": 68.362513
+      },
+      "geography": {
+          "lat": 26.226141,
+          "lng": 68.362513
+      },
+      "geo_point": [
+          68.362513,
+          26.226141
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3337,
+              "level": 3,
+              "externalID": "7389",
+              "name": "Mohammadi Town",
+              "name_l1": "محمدی ٹاؤن",
+              "slug": "/Nawabshah_Mohammadi_Town-7389",
+              "slug_l1": "/Nawabshah_Mohammadi_Town-7389"
+          }
+      ],
+      "hierarchyPath": "Mohammadi Town Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7389",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3337",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohammadi Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9105,
+      "name": "Mohni Bazar",
+      "name_l1": "موہنی بازار",
+      "externalID": "11721",
+      "slug": "/Nawabshah_Nawabshah_Bridge_Road_Mohni_Bazar-11721",
+      "slug_l1": "/Nawabshah_Nawabshah_Bridge_Road_Mohni_Bazar-11721",
+      "_geoloc": {
+          "lat": 26.249497,
+          "lng": 68.408069
+      },
+      "geography": {
+          "lat": 26.249497,
+          "lng": 68.408069
+      },
+      "geo_point": [
+          68.408069,
+          26.249497
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 5840,
+              "level": 3,
+              "externalID": "11720",
+              "name": "Nawabshah Bridge Road",
+              "name_l1": "نوابشاہ بریج روڈ",
+              "slug": "/Nawabshah_Nawabshah_Bridge_Road-11720",
+              "slug_l1": "/Nawabshah_Nawabshah_Bridge_Road-11720"
+          },
+          {
+              "id": 9105,
+              "level": 4,
+              "externalID": "11721",
+              "name": "Mohni Bazar",
+              "name_l1": "موہنی بازار",
+              "slug": "/Nawabshah_Nawabshah_Bridge_Road_Mohni_Bazar-11721",
+              "slug_l1": "/Nawabshah_Nawabshah_Bridge_Road_Mohni_Bazar-11721"
+          }
+      ],
+      "hierarchyPath": "Mohni Bazar Nawabshah Bridge Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11721",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9105",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohni Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5840,
+      "name": "Nawabshah Bridge Road",
+      "name_l1": "نوابشاہ بریج روڈ",
+      "externalID": "11720",
+      "slug": "/Nawabshah_Nawabshah_Bridge_Road-11720",
+      "slug_l1": "/Nawabshah_Nawabshah_Bridge_Road-11720",
+      "_geoloc": {
+          "lat": 26.250059,
+          "lng": 68.410424
+      },
+      "geography": {
+          "lat": 26.250059,
+          "lng": 68.410424
+      },
+      "geo_point": [
+          68.410424,
+          26.250059
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 5840,
+              "level": 3,
+              "externalID": "11720",
+              "name": "Nawabshah Bridge Road",
+              "name_l1": "نوابشاہ بریج روڈ",
+              "slug": "/Nawabshah_Nawabshah_Bridge_Road-11720",
+              "slug_l1": "/Nawabshah_Nawabshah_Bridge_Road-11720"
+          }
+      ],
+      "hierarchyPath": "Nawabshah Bridge Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11720",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5840",
+      "_highlightResult": {
+          "name": {
+              "value": "Nawabshah Bridge Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15068,
+      "name": "Nawabshah Bypass",
+      "name_l1": "نواب شاہ بائی پاس",
+      "externalID": "16581",
+      "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581",
+      "_geoloc": {
+          "lat": 26.244754,
+          "lng": 68.358622
+      },
+      "geography": {
+          "lat": 26.244754,
+          "lng": 68.358622
+      },
+      "geo_point": [
+          68.358622,
+          26.244754
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          }
+      ],
+      "hierarchyPath": "Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16581",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "15068",
+      "_highlightResult": {
+          "name": {
+              "value": "Nawabshah Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3338,
+      "name": "Nawabshah to Shahpur Chakar Road",
+      "name_l1": "نواب شاہ - شاہ پور چکر روڈ",
+      "externalID": "7390",
+      "slug": "/Nawabshah_to_Shahpur_Chakar_Road-7390",
+      "slug_l1": "/Nawabshah_to_Shahpur_Chakar_Road-7390",
+      "_geoloc": {
+          "lat": 26.252085,
+          "lng": 68.417294
+      },
+      "geography": {
+          "lat": 26.252085,
+          "lng": 68.417294
+      },
+      "geo_point": [
+          68.417294,
+          26.252085
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3338,
+              "level": 3,
+              "externalID": "7390",
+              "name": "Nawabshah to Shahpur Chakar Road",
+              "name_l1": "نواب شاہ - شاہ پور چکر روڈ",
+              "slug": "/Nawabshah_to_Shahpur_Chakar_Road-7390",
+              "slug_l1": "/Nawabshah_to_Shahpur_Chakar_Road-7390"
+          }
+      ],
+      "hierarchyPath": "Nawabshah to Shahpur Chakar Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7390",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3338",
+      "_highlightResult": {
+          "name": {
+              "value": "Nawabshah to Shahpur Chakar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3339,
+      "name": "New Officers Colony",
+      "name_l1": "نیو آفیسرز کالونی",
+      "externalID": "7391",
+      "slug": "/Nawabshah_New_Officers_Colony-7391",
+      "slug_l1": "/Nawabshah_New_Officers_Colony-7391",
+      "_geoloc": {
+          "lat": 26.242155,
+          "lng": 68.398862
+      },
+      "geography": {
+          "lat": 26.242155,
+          "lng": 68.398862
+      },
+      "geo_point": [
+          68.398862,
+          26.242155
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3339,
+              "level": 3,
+              "externalID": "7391",
+              "name": "New Officers Colony",
+              "name_l1": "نیو آفیسرز کالونی",
+              "slug": "/Nawabshah_New_Officers_Colony-7391",
+              "slug_l1": "/Nawabshah_New_Officers_Colony-7391"
+          }
+      ],
+      "hierarchyPath": "New Officers Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7391",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3339",
+      "_highlightResult": {
+          "name": {
+              "value": "New Officers Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3340,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "7392",
+      "slug": "/Nawabshah_Others-7392",
+      "slug_l1": "/Nawabshah_Others-7392",
+      "_geoloc": {
+          "lat": 26.2442,
+          "lng": 68.41
+      },
+      "geography": {
+          "lat": 26.2442,
+          "lng": 68.41
+      },
+      "geo_point": [
+          68.41,
+          26.2442
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3340,
+              "level": 3,
+              "externalID": "7392",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Nawabshah_Others-7392",
+              "slug_l1": "/Nawabshah_Others-7392"
+          }
+      ],
+      "hierarchyPath": "Others Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7392",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3340",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3341,
+      "name": "Pathan Colony",
+      "name_l1": "پٹھان کالونی",
+      "externalID": "7393",
+      "slug": "/Nawabshah_Pathan_Colony-7393",
+      "slug_l1": "/Nawabshah_Pathan_Colony-7393",
+      "_geoloc": {
+          "lat": 26.24966,
+          "lng": 68.387182
+      },
+      "geography": {
+          "lat": 26.24966,
+          "lng": 68.387182
+      },
+      "geo_point": [
+          68.387182,
+          26.24966
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3341,
+              "level": 3,
+              "externalID": "7393",
+              "name": "Pathan Colony",
+              "name_l1": "پٹھان کالونی",
+              "slug": "/Nawabshah_Pathan_Colony-7393",
+              "slug_l1": "/Nawabshah_Pathan_Colony-7393"
+          }
+      ],
+      "hierarchyPath": "Pathan Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7393",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3341",
+      "_highlightResult": {
+          "name": {
+              "value": "Pathan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4342,
+      "name": "Qazi Ahmed",
+      "name_l1": "قاضی احمد",
+      "externalID": "8799",
+      "slug": "/Nawabshah_Qazi_Ahmed-8799",
+      "slug_l1": "/Nawabshah_Qazi_Ahmed-8799",
+      "_geoloc": {
+          "lat": 26.301165,
+          "lng": 68.102853
+      },
+      "geography": {
+          "lat": 26.301165,
+          "lng": 68.102853
+      },
+      "geo_point": [
+          68.102853,
+          26.301165
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 4342,
+              "level": 3,
+              "externalID": "8799",
+              "name": "Qazi Ahmed",
+              "name_l1": "قاضی احمد",
+              "slug": "/Nawabshah_Qazi_Ahmed-8799",
+              "slug_l1": "/Nawabshah_Qazi_Ahmed-8799"
+          }
+      ],
+      "hierarchyPath": "Qazi Ahmed Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8799",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4342",
+      "_highlightResult": {
+          "name": {
+              "value": "Qazi Ahmed",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4341,
+      "name": "Sakrand",
+      "name_l1": "سکرنڈ",
+      "externalID": "8798",
+      "slug": "/Nawabshah_Sakrand-8798",
+      "slug_l1": "/Nawabshah_Sakrand-8798",
+      "_geoloc": {
+          "lat": 26.138484,
+          "lng": 68.273249
+      },
+      "geography": {
+          "lat": 26.138484,
+          "lng": 68.273249
+      },
+      "geo_point": [
+          68.273249,
+          26.138484
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 4341,
+              "level": 3,
+              "externalID": "8798",
+              "name": "Sakrand",
+              "name_l1": "سکرنڈ",
+              "slug": "/Nawabshah_Sakrand-8798",
+              "slug_l1": "/Nawabshah_Sakrand-8798"
+          }
+      ],
+      "hierarchyPath": "Sakrand Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8798",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4341",
+      "_highlightResult": {
+          "name": {
+              "value": "Sakrand",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3342,
+      "name": "Sakrand Road",
+      "name_l1": "سکرنڈ روڈ",
+      "externalID": "7394",
+      "slug": "/Nawabshah_Sakrand_Road-7394",
+      "slug_l1": "/Nawabshah_Sakrand_Road-7394",
+      "_geoloc": {
+          "lat": 26.229298,
+          "lng": 68.367362
+      },
+      "geography": {
+          "lat": 26.229298,
+          "lng": 68.367362
+      },
+      "geo_point": [
+          68.367362,
+          26.229298
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3342,
+              "level": 3,
+              "externalID": "7394",
+              "name": "Sakrand Road",
+              "name_l1": "سکرنڈ روڈ",
+              "slug": "/Nawabshah_Sakrand_Road-7394",
+              "slug_l1": "/Nawabshah_Sakrand_Road-7394"
+          }
+      ],
+      "hierarchyPath": "Sakrand Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7394",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3342",
+      "_highlightResult": {
+          "name": {
+              "value": "Sakrand Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4422,
+      "name": "Sanghar Road",
+      "name_l1": "سانگھڑ روڈ",
+      "externalID": "8965",
+      "slug": "/Nawabshah_Sanghar_Road-8965",
+      "slug_l1": "/Nawabshah_Sanghar_Road-8965",
+      "_geoloc": {
+          "lat": 26.440715,
+          "lng": 68.866584
+      },
+      "geography": {
+          "lat": 26.440715,
+          "lng": 68.866584
+      },
+      "geo_point": [
+          68.866584,
+          26.440715
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 4422,
+              "level": 3,
+              "externalID": "8965",
+              "name": "Sanghar Road",
+              "name_l1": "سانگھڑ روڈ",
+              "slug": "/Nawabshah_Sanghar_Road-8965",
+              "slug_l1": "/Nawabshah_Sanghar_Road-8965"
+          }
+      ],
+      "hierarchyPath": "Sanghar Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8965",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4422",
+      "_highlightResult": {
+          "name": {
+              "value": "Sanghar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3343,
+      "name": "Santa Singh",
+      "name_l1": "سنتا سنگھ",
+      "externalID": "7395",
+      "slug": "/Nawabshah_Santa_Singh-7395",
+      "slug_l1": "/Nawabshah_Santa_Singh-7395",
+      "_geoloc": {
+          "lat": 26.241847,
+          "lng": 68.417101
+      },
+      "geography": {
+          "lat": 26.241847,
+          "lng": 68.417101
+      },
+      "geo_point": [
+          68.417101,
+          26.241847
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3343,
+              "level": 3,
+              "externalID": "7395",
+              "name": "Santa Singh",
+              "name_l1": "سنتا سنگھ",
+              "slug": "/Nawabshah_Santa_Singh-7395",
+              "slug_l1": "/Nawabshah_Santa_Singh-7395"
+          }
+      ],
+      "hierarchyPath": "Santa Singh Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7395",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3343",
+      "_highlightResult": {
+          "name": {
+              "value": "Santa Singh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3344,
+      "name": "Shaheed Bhutto Road",
+      "name_l1": "شہید بھٹو روڈ",
+      "externalID": "7396",
+      "slug": "/Nawabshah_Shaheed_Bhutto_Road-7396",
+      "slug_l1": "/Nawabshah_Shaheed_Bhutto_Road-7396",
+      "_geoloc": {
+          "lat": 26.244714,
+          "lng": 68.401544
+      },
+      "geography": {
+          "lat": 26.244714,
+          "lng": 68.401544
+      },
+      "geo_point": [
+          68.401544,
+          26.244714
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3344,
+              "level": 3,
+              "externalID": "7396",
+              "name": "Shaheed Bhutto Road",
+              "name_l1": "شہید بھٹو روڈ",
+              "slug": "/Nawabshah_Shaheed_Bhutto_Road-7396",
+              "slug_l1": "/Nawabshah_Shaheed_Bhutto_Road-7396"
+          }
+      ],
+      "hierarchyPath": "Shaheed Bhutto Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7396",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3344",
+      "_highlightResult": {
+          "name": {
+              "value": "Shaheed Bhutto Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3345,
+      "name": "Shehmir Bhangwar",
+      "name_l1": "شِہمیر بھنگوڑ",
+      "externalID": "7397",
+      "slug": "/Nawabshah_Shehmir_Bhangwar-7397",
+      "slug_l1": "/Nawabshah_Shehmir_Bhangwar-7397",
+      "_geoloc": {
+          "lat": 26.23307,
+          "lng": 68.403096
+      },
+      "geography": {
+          "lat": 26.23307,
+          "lng": 68.403096
+      },
+      "geo_point": [
+          68.403096,
+          26.23307
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3345,
+              "level": 3,
+              "externalID": "7397",
+              "name": "Shehmir Bhangwar",
+              "name_l1": "شِہمیر بھنگوڑ",
+              "slug": "/Nawabshah_Shehmir_Bhangwar-7397",
+              "slug_l1": "/Nawabshah_Shehmir_Bhangwar-7397"
+          }
+      ],
+      "hierarchyPath": "Shehmir Bhangwar Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7397",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3345",
+      "_highlightResult": {
+          "name": {
+              "value": "Shehmir Bhangwar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20526,
+      "name": "Smart City",
+      "name_l1": "اسمارٹ سٹی",
+      "externalID": "21186",
+      "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186",
+      "_geoloc": {
+          "lat": 26.23820097,
+          "lng": 68.35601378
+      },
+      "geography": {
+          "lat": 26.23820097,
+          "lng": 68.35601378
+      },
+      "geo_point": [
+          68.35601378,
+          26.23820097
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          },
+          {
+              "id": 20526,
+              "level": 4,
+              "externalID": "21186",
+              "name": "Smart City",
+              "name_l1": "اسمارٹ سٹی",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186"
+          }
+      ],
+      "hierarchyPath": "Smart City Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21186",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "20526",
+      "_highlightResult": {
+          "name": {
+              "value": "Smart City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20531,
+      "name": "Smart City - Block A",
+      "name_l1": "اسمارٹ سٹی - بلاک اے",
+      "externalID": "21188",
+      "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_A-21188",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_A-21188",
+      "_geoloc": {
+          "lat": 26.23876341,
+          "lng": 68.35705455
+      },
+      "geography": {
+          "lat": 26.23876341,
+          "lng": 68.35705455
+      },
+      "geo_point": [
+          68.35705455,
+          26.23876341
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          },
+          {
+              "id": 20526,
+              "level": 4,
+              "externalID": "21186",
+              "name": "Smart City",
+              "name_l1": "اسمارٹ سٹی",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186"
+          },
+          {
+              "id": 20531,
+              "level": 5,
+              "externalID": "21188",
+              "name": "Smart City - Block A",
+              "name_l1": "اسمارٹ سٹی - بلاک اے",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_A-21188",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_A-21188"
+          }
+      ],
+      "hierarchyPath": "Smart City - Block A Smart City Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21188",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20531",
+      "_highlightResult": {
+          "name": {
+              "value": "Smart City - Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20532,
+      "name": "Smart City - Block B",
+      "name_l1": "اسمارٹ سٹی - بلاک بی",
+      "externalID": "21189",
+      "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_B-21189",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_B-21189",
+      "_geoloc": {
+          "lat": 26.23760045,
+          "lng": 68.35703099
+      },
+      "geography": {
+          "lat": 26.23760045,
+          "lng": 68.35703099
+      },
+      "geo_point": [
+          68.35703099,
+          26.23760045
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          },
+          {
+              "id": 20526,
+              "level": 4,
+              "externalID": "21186",
+              "name": "Smart City",
+              "name_l1": "اسمارٹ سٹی",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186"
+          },
+          {
+              "id": 20532,
+              "level": 5,
+              "externalID": "21189",
+              "name": "Smart City - Block B",
+              "name_l1": "اسمارٹ سٹی - بلاک بی",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_B-21189",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_B-21189"
+          }
+      ],
+      "hierarchyPath": "Smart City - Block B Smart City Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21189",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20532",
+      "_highlightResult": {
+          "name": {
+              "value": "Smart City - Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20530,
+      "name": "Smart City - Block C",
+      "name_l1": "اسمارٹ سٹی - بلاک سی",
+      "externalID": "21187",
+      "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_C-21187",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_C-21187",
+      "_geoloc": {
+          "lat": 26.23822549,
+          "lng": 68.35437837
+      },
+      "geography": {
+          "lat": 26.23822549,
+          "lng": 68.35437837
+      },
+      "geo_point": [
+          68.35437837,
+          26.23822549
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          },
+          {
+              "id": 20526,
+              "level": 4,
+              "externalID": "21186",
+              "name": "Smart City",
+              "name_l1": "اسمارٹ سٹی",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City-21186"
+          },
+          {
+              "id": 20530,
+              "level": 5,
+              "externalID": "21187",
+              "name": "Smart City - Block C",
+              "name_l1": "اسمارٹ سٹی - بلاک سی",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_C-21187",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Smart_City_Smart_City___Block_C-21187"
+          }
+      ],
+      "hierarchyPath": "Smart City - Block C Smart City Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21187",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20530",
+      "_highlightResult": {
+          "name": {
+              "value": "Smart City - Block C",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4473,
+      "name": "Station Road",
+      "name_l1": "اسٹیشن روڈ",
+      "externalID": "9137",
+      "slug": "/Nawabshah_Station_Road-9137",
+      "slug_l1": "/Nawabshah_Station_Road-9137",
+      "_geoloc": {
+          "lat": 26.246695,
+          "lng": 68.409526
+      },
+      "geography": {
+          "lat": 26.246695,
+          "lng": 68.409526
+      },
+      "geo_point": [
+          68.409526,
+          26.246695
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 4473,
+              "level": 3,
+              "externalID": "9137",
+              "name": "Station Road",
+              "name_l1": "اسٹیشن روڈ",
+              "slug": "/Nawabshah_Station_Road-9137",
+              "slug_l1": "/Nawabshah_Station_Road-9137"
+          }
+      ],
+      "hierarchyPath": "Station Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9137",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "4473",
+      "_highlightResult": {
+          "name": {
+              "value": "Station Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3346,
+      "name": "Sugar Mill Colony",
+      "name_l1": "شوگر مِل کالونی",
+      "externalID": "7398",
+      "slug": "/Nawabshah_Sugar_Mill_Colony-7398",
+      "slug_l1": "/Nawabshah_Sugar_Mill_Colony-7398",
+      "_geoloc": {
+          "lat": 26.258705,
+          "lng": 68.408175
+      },
+      "geography": {
+          "lat": 26.258705,
+          "lng": 68.408175
+      },
+      "geo_point": [
+          68.408175,
+          26.258705
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3346,
+              "level": 3,
+              "externalID": "7398",
+              "name": "Sugar Mill Colony",
+              "name_l1": "شوگر مِل کالونی",
+              "slug": "/Nawabshah_Sugar_Mill_Colony-7398",
+              "slug_l1": "/Nawabshah_Sugar_Mill_Colony-7398"
+          }
+      ],
+      "hierarchyPath": "Sugar Mill Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7398",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3346",
+      "_highlightResult": {
+          "name": {
+              "value": "Sugar Mill Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3347,
+      "name": "Sugar Mill Road",
+      "name_l1": "شوگر مِل روڈ",
+      "externalID": "7399",
+      "slug": "/Nawabshah_Sugar_Mill_Road-7399",
+      "slug_l1": "/Nawabshah_Sugar_Mill_Road-7399",
+      "_geoloc": {
+          "lat": 26.26213,
+          "lng": 68.405106
+      },
+      "geography": {
+          "lat": 26.26213,
+          "lng": 68.405106
+      },
+      "geo_point": [
+          68.405106,
+          26.26213
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3347,
+              "level": 3,
+              "externalID": "7399",
+              "name": "Sugar Mill Road",
+              "name_l1": "شوگر مِل روڈ",
+              "slug": "/Nawabshah_Sugar_Mill_Road-7399",
+              "slug_l1": "/Nawabshah_Sugar_Mill_Road-7399"
+          }
+      ],
+      "hierarchyPath": "Sugar Mill Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7399",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3347",
+      "_highlightResult": {
+          "name": {
+              "value": "Sugar Mill Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15450,
+      "name": "Syed Defence Garden",
+      "name_l1": "سید ڈیفنس گارڈن",
+      "externalID": "16892",
+      "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892",
+      "_geoloc": {
+          "lat": 26.24222993,
+          "lng": 68.35625047
+      },
+      "geography": {
+          "lat": 26.24222993,
+          "lng": 68.35625047
+      },
+      "geo_point": [
+          68.35625047,
+          26.24222993
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          },
+          {
+              "id": 15450,
+              "level": 4,
+              "externalID": "16892",
+              "name": "Syed Defence Garden",
+              "name_l1": "سید ڈیفنس گارڈن",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892"
+          }
+      ],
+      "hierarchyPath": "Syed Defence Garden Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16892",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "15450",
+      "_highlightResult": {
+          "name": {
+              "value": "Syed Defence Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19459,
+      "name": "Syed Defence Garden - Block A",
+      "name_l1": "سید ڈیفنس گارڈن - بلاک اے",
+      "externalID": "20308",
+      "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_A-20308",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_A-20308",
+      "_geoloc": {
+          "lat": 26.242211535531,
+          "lng": 68.357655809696
+      },
+      "geography": {
+          "lat": 26.242211535531,
+          "lng": 68.357655809696
+      },
+      "geo_point": [
+          68.357655809696,
+          26.242211535531
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          },
+          {
+              "id": 15450,
+              "level": 4,
+              "externalID": "16892",
+              "name": "Syed Defence Garden",
+              "name_l1": "سید ڈیفنس گارڈن",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892"
+          },
+          {
+              "id": 19459,
+              "level": 5,
+              "externalID": "20308",
+              "name": "Syed Defence Garden - Block A",
+              "name_l1": "سید ڈیفنس گارڈن - بلاک اے",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_A-20308",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_A-20308"
+          }
+      ],
+      "hierarchyPath": "Syed Defence Garden - Block A Syed Defence Garden Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20308",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19459",
+      "_highlightResult": {
+          "name": {
+              "value": "Syed Defence Garden - Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19460,
+      "name": "Syed Defence Garden - Block B",
+      "name_l1": "سید ڈیفنس گارڈن - بلاک بی",
+      "externalID": "20309",
+      "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_B-20309",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_B-20309",
+      "_geoloc": {
+          "lat": 26.242236655389,
+          "lng": 68.355787926396
+      },
+      "geography": {
+          "lat": 26.242236655389,
+          "lng": 68.355787926396
+      },
+      "geo_point": [
+          68.355787926396,
+          26.242236655389
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          },
+          {
+              "id": 15450,
+              "level": 4,
+              "externalID": "16892",
+              "name": "Syed Defence Garden",
+              "name_l1": "سید ڈیفنس گارڈن",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892"
+          },
+          {
+              "id": 19460,
+              "level": 5,
+              "externalID": "20309",
+              "name": "Syed Defence Garden - Block B",
+              "name_l1": "سید ڈیفنس گارڈن - بلاک بی",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_B-20309",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_B-20309"
+          }
+      ],
+      "hierarchyPath": "Syed Defence Garden - Block B Syed Defence Garden Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20309",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19460",
+      "_highlightResult": {
+          "name": {
+              "value": "Syed Defence Garden - Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19461,
+      "name": "Syed Defence Garden - Block C",
+      "name_l1": "سید ڈیفنس گارڈن - بلاک سی",
+      "externalID": "20310",
+      "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_C-20310",
+      "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_C-20310",
+      "_geoloc": {
+          "lat": 26.242249978621,
+          "lng": 68.354392716061
+      },
+      "geography": {
+          "lat": 26.242249978621,
+          "lng": 68.354392716061
+      },
+      "geo_point": [
+          68.354392716061,
+          26.242249978621
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 15068,
+              "level": 3,
+              "externalID": "16581",
+              "name": "Nawabshah Bypass",
+              "name_l1": "نواب شاہ بائی پاس",
+              "slug": "/Nawabshah_Nawabshah_Bypass-16581",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass-16581"
+          },
+          {
+              "id": 15450,
+              "level": 4,
+              "externalID": "16892",
+              "name": "Syed Defence Garden",
+              "name_l1": "سید ڈیفنس گارڈن",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden-16892"
+          },
+          {
+              "id": 19461,
+              "level": 5,
+              "externalID": "20310",
+              "name": "Syed Defence Garden - Block C",
+              "name_l1": "سید ڈیفنس گارڈن - بلاک سی",
+              "slug": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_C-20310",
+              "slug_l1": "/Nawabshah_Nawabshah_Bypass_Syed_Defence_Garden_Syed_Defence_Garden___Block_C-20310"
+          }
+      ],
+      "hierarchyPath": "Syed Defence Garden - Block C Syed Defence Garden Nawabshah Bypass Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20310",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19461",
+      "_highlightResult": {
+          "name": {
+              "value": "Syed Defence Garden - Block C",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3348,
+      "name": "Taj Colony",
+      "name_l1": "تاج کالونی",
+      "externalID": "7400",
+      "slug": "/Nawabshah_Taj_Colony-7400",
+      "slug_l1": "/Nawabshah_Taj_Colony-7400",
+      "_geoloc": {
+          "lat": 26.2634,
+          "lng": 68.399663
+      },
+      "geography": {
+          "lat": 26.2634,
+          "lng": 68.399663
+      },
+      "geo_point": [
+          68.399663,
+          26.2634
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3348,
+              "level": 3,
+              "externalID": "7400",
+              "name": "Taj Colony",
+              "name_l1": "تاج کالونی",
+              "slug": "/Nawabshah_Taj_Colony-7400",
+              "slug_l1": "/Nawabshah_Taj_Colony-7400"
+          }
+      ],
+      "hierarchyPath": "Taj Colony Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7400",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3348",
+      "_highlightResult": {
+          "name": {
+              "value": "Taj Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3349,
+      "name": "University Road",
+      "name_l1": "یونیورسٹی روڈ",
+      "externalID": "7401",
+      "slug": "/Nawabshah_University_Road-7401",
+      "slug_l1": "/Nawabshah_University_Road-7401",
+      "_geoloc": {
+          "lat": 26.241616,
+          "lng": 68.390493
+      },
+      "geography": {
+          "lat": 26.241616,
+          "lng": 68.390493
+      },
+      "geo_point": [
+          68.390493,
+          26.241616
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 85,
+              "level": 2,
+              "externalID": "1704",
+              "name": "Nawabshah",
+              "name_l1": "نواب شاہ",
+              "slug": "/Nawabshah-1704",
+              "slug_l1": "/Nawabshah-1704"
+          },
+          {
+              "id": 3349,
+              "level": 3,
+              "externalID": "7401",
+              "name": "University Road",
+              "name_l1": "یونیورسٹی روڈ",
+              "slug": "/Nawabshah_University_Road-7401",
+              "slug_l1": "/Nawabshah_University_Road-7401"
+          }
+      ],
+      "hierarchyPath": "University Road Nawabshah Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7401",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3349",
+      "_highlightResult": {
+          "name": {
+              "value": "University Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

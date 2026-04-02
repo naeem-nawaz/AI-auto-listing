@@ -1,0 +1,224 @@
+[
+  {
+      "id": 22312,
+      "name": "Chatorkhand",
+      "name_l1": "چتورکھنڈ",
+      "externalID": "22365",
+      "slug": "/Ghizar_Chatorkhand-22365",
+      "slug_l1": "/Ghizar_Chatorkhand-22365",
+      "_geoloc": {
+          "lat": 36.350940910978,
+          "lng": 73.844475516376
+      },
+      "geography": {
+          "lat": 36.350940910978,
+          "lng": 73.844475516376
+      },
+      "geo_point": [
+          73.844475516376,
+          36.350940910978
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 16524,
+              "level": 2,
+              "externalID": "17768",
+              "name": "Ghizar",
+              "name_l1": "غیزر",
+              "slug": "/Ghizar-17768",
+              "slug_l1": "/Ghizar-17768"
+          },
+          {
+              "id": 22312,
+              "level": 3,
+              "externalID": "22365",
+              "name": "Chatorkhand",
+              "name_l1": "چتورکھنڈ",
+              "slug": "/Ghizar_Chatorkhand-22365",
+              "slug_l1": "/Ghizar_Chatorkhand-22365"
+          }
+      ],
+      "hierarchyPath": "Chatorkhand Ghizar Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22365",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22312",
+      "_highlightResult": {
+          "name": {
+              "value": "Chatorkhand",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16524,
+      "name": "Ghizar",
+      "name_l1": "غیزر",
+      "externalID": "17768",
+      "slug": "/Ghizar-17768",
+      "slug_l1": "/Ghizar-17768",
+      "_geoloc": {
+          "lat": 36.691596,
+          "lng": 73.52642
+      },
+      "geography": {
+          "lat": 36.691596,
+          "lng": 73.52642
+      },
+      "geo_point": [
+          73.52642,
+          36.691596
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 16524,
+              "level": 2,
+              "externalID": "17768",
+              "name": "Ghizar",
+              "name_l1": "غیزر",
+              "slug": "/Ghizar-17768",
+              "slug_l1": "/Ghizar-17768"
+          }
+      ],
+      "hierarchyPath": "Ghizar Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17768",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16524",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghizar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22313,
+      "name": "Ishkoman Valley Road",
+      "name_l1": "اشکومان ویلی روڈ",
+      "externalID": "22366",
+      "slug": "/Ghizar_Ishkoman_Valley_Road-22366",
+      "slug_l1": "/Ghizar_Ishkoman_Valley_Road-22366",
+      "_geoloc": {
+          "lat": 36.351746,
+          "lng": 73.845486
+      },
+      "geography": {
+          "lat": 36.351746,
+          "lng": 73.845486
+      },
+      "geo_point": [
+          73.845486,
+          36.351746
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 16524,
+              "level": 2,
+              "externalID": "17768",
+              "name": "Ghizar",
+              "name_l1": "غیزر",
+              "slug": "/Ghizar-17768",
+              "slug_l1": "/Ghizar-17768"
+          },
+          {
+              "id": 22313,
+              "level": 3,
+              "externalID": "22366",
+              "name": "Ishkoman Valley Road",
+              "name_l1": "اشکومان ویلی روڈ",
+              "slug": "/Ghizar_Ishkoman_Valley_Road-22366",
+              "slug_l1": "/Ghizar_Ishkoman_Valley_Road-22366"
+          }
+      ],
+      "hierarchyPath": "Ishkoman Valley Road Ghizar Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22366",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22313",
+      "_highlightResult": {
+          "name": {
+              "value": "Ishkoman Valley Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,2549 @@
+[
+  {
+      "id": 831,
+      "name": "Sarai Alamgir",
+      "name_l1": "سرائے عالمگیر",
+      "externalID": "1034",
+      "slug": "/Sarai_Alamgir-1034",
+      "slug_l1": "/Sarai_Alamgir-1034",
+      "_geoloc": {
+          "lat": 32.906902,
+          "lng": 73.753781
+      },
+      "geography": {
+          "lat": 32.906902,
+          "lng": 73.753781
+      },
+      "geo_point": [
+          73.753781,
+          32.906902
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          }
+      ],
+      "hierarchyPath": "Sarai Alamgir Punjab Pakistan",
+      "adCount": 384,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1034",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "831",
+      "_highlightResult": {
+          "name": {
+              "value": "Sarai Alamgir",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11823,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "13347",
+      "slug": "/Sarai_Alamgir_GT_Road-13347",
+      "slug_l1": "/Sarai_Alamgir_GT_Road-13347",
+      "_geoloc": {
+          "lat": 32.902487,
+          "lng": 73.752294
+      },
+      "geography": {
+          "lat": 32.902487,
+          "lng": 73.752294
+      },
+      "geo_point": [
+          73.752294,
+          32.902487
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          }
+      ],
+      "hierarchyPath": "GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 381,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13347",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11823",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12744,
+      "name": "New Metro City",
+      "name_l1": "نیو میٹرو سٹی",
+      "externalID": "14228",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+      "_geoloc": {
+          "lat": 32.883144,
+          "lng": 73.781693
+      },
+      "geography": {
+          "lat": 32.883144,
+          "lng": 73.781693
+      },
+      "geo_point": [
+          73.781693,
+          32.883144
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          }
+      ],
+      "hierarchyPath": "New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 381,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14228",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12744",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18871,
+      "name": "New Metro City - General Enclave Sector 1",
+      "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+      "externalID": "19783",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+      "_geoloc": {
+          "lat": 32.879504,
+          "lng": 73.778235
+      },
+      "geography": {
+          "lat": 32.879504,
+          "lng": 73.778235
+      },
+      "geo_point": [
+          73.778235,
+          32.879504
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          }
+      ],
+      "hierarchyPath": "New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 198,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19783",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18871",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City - General Enclave Sector 1",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18878,
+      "name": "New Metro City - Sector 1 Block B",
+      "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک بی",
+      "externalID": "19785",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_B-19785",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_B-19785",
+      "_geoloc": {
+          "lat": 32.8804555,
+          "lng": 73.77392575
+      },
+      "geography": {
+          "lat": 32.8804555,
+          "lng": 73.77392575
+      },
+      "geo_point": [
+          73.77392575,
+          32.8804555
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 18878,
+              "level": 6,
+              "externalID": "19785",
+              "name": "New Metro City - Sector 1 Block B",
+              "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک بی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_B-19785",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_B-19785"
+          }
+      ],
+      "hierarchyPath": "New Metro City - Sector 1 Block B New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 57,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19785",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18878",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City - Sector 1 Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18880,
+      "name": "New Metro City - Sector 1 Block C",
+      "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک سی",
+      "externalID": "19787",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_C-19787",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_C-19787",
+      "_geoloc": {
+          "lat": 32.87729339,
+          "lng": 73.77205994
+      },
+      "geography": {
+          "lat": 32.87729339,
+          "lng": 73.77205994
+      },
+      "geo_point": [
+          73.77205994,
+          32.87729339
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 18880,
+              "level": 6,
+              "externalID": "19787",
+              "name": "New Metro City - Sector 1 Block C",
+              "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک سی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_C-19787",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_C-19787"
+          }
+      ],
+      "hierarchyPath": "New Metro City - Sector 1 Block C New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 30,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19787",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18880",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City - Sector 1 Block C",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20544,
+      "name": "New Metro City Sector 1 - Overseas Supreme Villas Block",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز سپریم ولاز بلاک",
+      "externalID": "21204",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Supreme_Villas_Block-21204",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Supreme_Villas_Block-21204",
+      "_geoloc": {
+          "lat": 32.86011613,
+          "lng": 73.77153136
+      },
+      "geography": {
+          "lat": 32.86011613,
+          "lng": 73.77153136
+      },
+      "geo_point": [
+          73.77153136,
+          32.86011613
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20544,
+              "level": 6,
+              "externalID": "21204",
+              "name": "New Metro City Sector 1 - Overseas Supreme Villas Block",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز سپریم ولاز بلاک",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Supreme_Villas_Block-21204",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Supreme_Villas_Block-21204"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Overseas Supreme Villas Block New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 24,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21204",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20544",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Overseas Supreme Villas Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20552,
+      "name": "New Metro City Sector 1 - Overseas Supreme Block",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز سپریم بلاک",
+      "externalID": "21212",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Supreme_Block-21212",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Supreme_Block-21212",
+      "_geoloc": {
+          "lat": 32.86380215,
+          "lng": 73.77349873
+      },
+      "geography": {
+          "lat": 32.86380215,
+          "lng": 73.77349873
+      },
+      "geo_point": [
+          73.77349873,
+          32.86380215
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20552,
+              "level": 6,
+              "externalID": "21212",
+              "name": "New Metro City Sector 1 - Overseas Supreme Block",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز سپریم بلاک",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Supreme_Block-21212",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Supreme_Block-21212"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Overseas Supreme Block New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 21,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21212",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20552",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Overseas Supreme Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19966,
+      "name": "New Metro City - Eiffel Enclave",
+      "name_l1": "نیو میٹرو سٹی - ایفل انکلیو",
+      "externalID": "20746",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___Eiffel_Enclave-20746",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___Eiffel_Enclave-20746",
+      "_geoloc": {
+          "lat": 32.87794824755,
+          "lng": 73.774166698802
+      },
+      "geography": {
+          "lat": 32.87794824755,
+          "lng": 73.774166698802
+      },
+      "geo_point": [
+          73.774166698802,
+          32.87794824755
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 19966,
+              "level": 5,
+              "externalID": "20746",
+              "name": "New Metro City - Eiffel Enclave",
+              "name_l1": "نیو میٹرو سٹی - ایفل انکلیو",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___Eiffel_Enclave-20746",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___Eiffel_Enclave-20746"
+          }
+      ],
+      "hierarchyPath": "New Metro City - Eiffel Enclave New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 15,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20746",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19966",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City - Eiffel Enclave",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18877,
+      "name": "New Metro City - Sector 1 Block A",
+      "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک اے",
+      "externalID": "19784",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_A-19784",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_A-19784",
+      "_geoloc": {
+          "lat": 32.87935976,
+          "lng": 73.77910423
+      },
+      "geography": {
+          "lat": 32.87935976,
+          "lng": 73.77910423
+      },
+      "geo_point": [
+          73.77910423,
+          32.87935976
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 18877,
+              "level": 6,
+              "externalID": "19784",
+              "name": "New Metro City - Sector 1 Block A",
+              "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک اے",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_A-19784",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_A-19784"
+          }
+      ],
+      "hierarchyPath": "New Metro City - Sector 1 Block A New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 15,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19784",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18877",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City - Sector 1 Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18881,
+      "name": "New Metro City - Sector 1 Block D",
+      "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک ڈی",
+      "externalID": "19788",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_D-19788",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_D-19788",
+      "_geoloc": {
+          "lat": 32.87555287,
+          "lng": 73.77682486
+      },
+      "geography": {
+          "lat": 32.87555287,
+          "lng": 73.77682486
+      },
+      "geo_point": [
+          73.77682486,
+          32.87555287
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 18881,
+              "level": 6,
+              "externalID": "19788",
+              "name": "New Metro City - Sector 1 Block D",
+              "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک ڈی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_D-19788",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_D-19788"
+          }
+      ],
+      "hierarchyPath": "New Metro City - Sector 1 Block D New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 12,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19788",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18881",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City - Sector 1 Block D",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20546,
+      "name": "New Metro City Sector 1 - Overseas Prime Block",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز پرائم بلاک",
+      "externalID": "21206",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Prime_Block-21206",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Prime_Block-21206",
+      "_geoloc": {
+          "lat": 32.87048834,
+          "lng": 73.77349195
+      },
+      "geography": {
+          "lat": 32.87048834,
+          "lng": 73.77349195
+      },
+      "geo_point": [
+          73.77349195,
+          32.87048834
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20546,
+              "level": 6,
+              "externalID": "21206",
+              "name": "New Metro City Sector 1 - Overseas Prime Block",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز پرائم بلاک",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Prime_Block-21206",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Prime_Block-21206"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Overseas Prime Block New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 12,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21206",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20546",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Overseas Prime Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20551,
+      "name": "New Metro City Sector 1 - Overseas Paradise Hills Block",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز پیراڈائز ہلز بلاک",
+      "externalID": "21211",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Paradise_Hills_Block-21211",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Paradise_Hills_Block-21211",
+      "_geoloc": {
+          "lat": 32.87071645,
+          "lng": 73.7773934
+      },
+      "geography": {
+          "lat": 32.87071645,
+          "lng": 73.7773934
+      },
+      "geo_point": [
+          73.7773934,
+          32.87071645
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20551,
+              "level": 6,
+              "externalID": "21211",
+              "name": "New Metro City Sector 1 - Overseas Paradise Hills Block",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز پیراڈائز ہلز بلاک",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Paradise_Hills_Block-21211",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Paradise_Hills_Block-21211"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Overseas Paradise Hills Block New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21211",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20551",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Overseas Paradise Hills Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8797,
+      "name": "Canal City",
+      "name_l1": "کینال سِٹی",
+      "externalID": "10896",
+      "slug": "/Sarai_Alamgir_Canal_City-10896",
+      "slug_l1": "/Sarai_Alamgir_Canal_City-10896",
+      "_geoloc": {
+          "lat": 32.90627,
+          "lng": 73.779524
+      },
+      "geography": {
+          "lat": 32.90627,
+          "lng": 73.779524
+      },
+      "geo_point": [
+          73.779524,
+          32.90627
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 8797,
+              "level": 3,
+              "externalID": "10896",
+              "name": "Canal City",
+              "name_l1": "کینال سِٹی",
+              "slug": "/Sarai_Alamgir_Canal_City-10896",
+              "slug_l1": "/Sarai_Alamgir_Canal_City-10896"
+          }
+      ],
+      "hierarchyPath": "Canal City Sarai Alamgir Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10896",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8797",
+      "_highlightResult": {
+          "name": {
+              "value": "Canal City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20547,
+      "name": "New Metro City Sector 1 - Metro Marina Block",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - میٹرو مرینا بلاک",
+      "externalID": "21207",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Metro_Marina_Block-21207",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Metro_Marina_Block-21207",
+      "_geoloc": {
+          "lat": 32.87610566,
+          "lng": 73.76973106
+      },
+      "geography": {
+          "lat": 32.87610566,
+          "lng": 73.76973106
+      },
+      "geo_point": [
+          73.76973106,
+          32.87610566
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20547,
+              "level": 6,
+              "externalID": "21207",
+              "name": "New Metro City Sector 1 - Metro Marina Block",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - میٹرو مرینا بلاک",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Metro_Marina_Block-21207",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Metro_Marina_Block-21207"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Metro Marina Block New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21207",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20547",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Metro Marina Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20553,
+      "name": "New Metro City Sector 1 - Overseas Executive Block",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز ایگزیکٹو بلاک",
+      "externalID": "21213",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Executive_Block-21213",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Executive_Block-21213",
+      "_geoloc": {
+          "lat": 32.86704141,
+          "lng": 73.77281642
+      },
+      "geography": {
+          "lat": 32.86704141,
+          "lng": 73.77281642
+      },
+      "geo_point": [
+          73.77281642,
+          32.86704141
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20553,
+              "level": 6,
+              "externalID": "21213",
+              "name": "New Metro City Sector 1 - Overseas Executive Block",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز ایگزیکٹو بلاک",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Executive_Block-21213",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Executive_Block-21213"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Overseas Executive Block New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21213",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20553",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Overseas Executive Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18444,
+      "name": "Gulberg Colony",
+      "name_l1": "گلبرگ کالونی",
+      "externalID": "19360",
+      "slug": "/Sarai_Alamgir_Gulberg_Colony-19360",
+      "slug_l1": "/Sarai_Alamgir_Gulberg_Colony-19360",
+      "_geoloc": {
+          "lat": 32.909787,
+          "lng": 73.760149
+      },
+      "geography": {
+          "lat": 32.909787,
+          "lng": 73.760149
+      },
+      "geo_point": [
+          73.760149,
+          32.909787
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 18444,
+              "level": 3,
+              "externalID": "19360",
+              "name": "Gulberg Colony",
+              "name_l1": "گلبرگ کالونی",
+              "slug": "/Sarai_Alamgir_Gulberg_Colony-19360",
+              "slug_l1": "/Sarai_Alamgir_Gulberg_Colony-19360"
+          }
+      ],
+      "hierarchyPath": "Gulberg Colony Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19360",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18444",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulberg Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11811,
+      "name": "Khanda Chowk",
+      "name_l1": "کھانڈا چوک",
+      "externalID": "13334",
+      "slug": "/Sarai_Alamgir_Khanda_Chowk-13334",
+      "slug_l1": "/Sarai_Alamgir_Khanda_Chowk-13334",
+      "_geoloc": {
+          "lat": 32.905724,
+          "lng": 73.753368
+      },
+      "geography": {
+          "lat": 32.905724,
+          "lng": 73.753368
+      },
+      "geo_point": [
+          73.753368,
+          32.905724
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11811,
+              "level": 3,
+              "externalID": "13334",
+              "name": "Khanda Chowk",
+              "name_l1": "کھانڈا چوک",
+              "slug": "/Sarai_Alamgir_Khanda_Chowk-13334",
+              "slug_l1": "/Sarai_Alamgir_Khanda_Chowk-13334"
+          }
+      ],
+      "hierarchyPath": "Khanda Chowk Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13334",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11811",
+      "_highlightResult": {
+          "name": {
+              "value": "Khanda Chowk",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11812,
+      "name": "Khanda Road",
+      "name_l1": "کھانڈا روڈ",
+      "externalID": "13335",
+      "slug": "/Sarai_Alamgir_Khanda_Road-13335",
+      "slug_l1": "/Sarai_Alamgir_Khanda_Road-13335",
+      "_geoloc": {
+          "lat": 32.907084,
+          "lng": 73.754667
+      },
+      "geography": {
+          "lat": 32.907084,
+          "lng": 73.754667
+      },
+      "geo_point": [
+          73.754667,
+          32.907084
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11812,
+              "level": 3,
+              "externalID": "13335",
+              "name": "Khanda Road",
+              "name_l1": "کھانڈا روڈ",
+              "slug": "/Sarai_Alamgir_Khanda_Road-13335",
+              "slug_l1": "/Sarai_Alamgir_Khanda_Road-13335"
+          }
+      ],
+      "hierarchyPath": "Khanda Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13335",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11812",
+      "_highlightResult": {
+          "name": {
+              "value": "Khanda Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11813,
+      "name": "Mirpur Bazar Road",
+      "name_l1": "میرپور بازار روڈ",
+      "externalID": "13336",
+      "slug": "/Sarai_Alamgir_Mirpur_Bazar_Road-13336",
+      "slug_l1": "/Sarai_Alamgir_Mirpur_Bazar_Road-13336",
+      "_geoloc": {
+          "lat": 32.903487,
+          "lng": 73.753346
+      },
+      "geography": {
+          "lat": 32.903487,
+          "lng": 73.753346
+      },
+      "geo_point": [
+          73.753346,
+          32.903487
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11813,
+              "level": 3,
+              "externalID": "13336",
+              "name": "Mirpur Bazar Road",
+              "name_l1": "میرپور بازار روڈ",
+              "slug": "/Sarai_Alamgir_Mirpur_Bazar_Road-13336",
+              "slug_l1": "/Sarai_Alamgir_Mirpur_Bazar_Road-13336"
+          }
+      ],
+      "hierarchyPath": "Mirpur Bazar Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13336",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11813",
+      "_highlightResult": {
+          "name": {
+              "value": "Mirpur Bazar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18879,
+      "name": "New Metro City - Sector 1 Block B Extension",
+      "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک بی ایکسٹینشن",
+      "externalID": "19786",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_B_Extension-19786",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_B_Extension-19786",
+      "_geoloc": {
+          "lat": 32.8815234,
+          "lng": 73.76514016
+      },
+      "geography": {
+          "lat": 32.8815234,
+          "lng": 73.76514016
+      },
+      "geo_point": [
+          73.76514016,
+          32.8815234
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 18879,
+              "level": 6,
+              "externalID": "19786",
+              "name": "New Metro City - Sector 1 Block B Extension",
+              "name_l1": "نیو میٹرو سٹی - سیکٹر 1 بلاک بی ایکسٹینشن",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_B_Extension-19786",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City___Sector_1_Block_B_Extension-19786"
+          }
+      ],
+      "hierarchyPath": "New Metro City - Sector 1 Block B Extension New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19786",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18879",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City - Sector 1 Block B Extension",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20545,
+      "name": "New Metro City Sector 1 - Overseas Prime Block Extension",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز پرائم بلاک ایکسٹینشن",
+      "externalID": "21205",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Prime_Block_Extension-21205",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Prime_Block_Extension-21205",
+      "_geoloc": {
+          "lat": 32.86802776,
+          "lng": 73.76933763
+      },
+      "geography": {
+          "lat": 32.86802776,
+          "lng": 73.76933763
+      },
+      "geo_point": [
+          73.76933763,
+          32.86802776
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20545,
+              "level": 6,
+              "externalID": "21205",
+              "name": "New Metro City Sector 1 - Overseas Prime Block Extension",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - اوورسیز پرائم بلاک ایکسٹینشن",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Prime_Block_Extension-21205",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Overseas_Prime_Block_Extension-21205"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Overseas Prime Block Extension New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21205",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20545",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Overseas Prime Block Extension",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20548,
+      "name": "New Metro City Sector 1 - Paradise Block 1",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - پیراڈائز بلاک 1",
+      "externalID": "21208",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Paradise_Block_1-21208",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Paradise_Block_1-21208",
+      "_geoloc": {
+          "lat": 32.88362519,
+          "lng": 73.76357416
+      },
+      "geography": {
+          "lat": 32.88362519,
+          "lng": 73.76357416
+      },
+      "geo_point": [
+          73.76357416,
+          32.88362519
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20548,
+              "level": 6,
+              "externalID": "21208",
+              "name": "New Metro City Sector 1 - Paradise Block 1",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - پیراڈائز بلاک 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Paradise_Block_1-21208",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Paradise_Block_1-21208"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Paradise Block 1 New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21208",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20548",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Paradise Block 1",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20549,
+      "name": "New Metro City Sector 1 - Supreme Vista Block A",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - سپریم وسٹا بلاک اے",
+      "externalID": "21209",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Block_A-21209",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Block_A-21209",
+      "_geoloc": {
+          "lat": 32.84991139,
+          "lng": 73.77027979
+      },
+      "geography": {
+          "lat": 32.84991139,
+          "lng": 73.77027979
+      },
+      "geo_point": [
+          73.77027979,
+          32.84991139
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20549,
+              "level": 6,
+              "externalID": "21209",
+              "name": "New Metro City Sector 1 - Supreme Vista Block A",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - سپریم وسٹا بلاک اے",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Block_A-21209",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Block_A-21209"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Supreme Vista Block A New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21209",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20549",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Supreme Vista Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20550,
+      "name": "New Metro City Sector 1 - Supreme Vista Block B",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - سپریم وسٹا بلاک بی",
+      "externalID": "21210",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Block_B-21210",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Block_B-21210",
+      "_geoloc": {
+          "lat": 32.84864784,
+          "lng": 73.78074842
+      },
+      "geography": {
+          "lat": 32.84864784,
+          "lng": 73.78074842
+      },
+      "geo_point": [
+          73.78074842,
+          32.84864784
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20550,
+              "level": 6,
+              "externalID": "21210",
+              "name": "New Metro City Sector 1 - Supreme Vista Block B",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - سپریم وسٹا بلاک بی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Block_B-21210",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Block_B-21210"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Supreme Vista Block B New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21210",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20550",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Supreme Vista Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20554,
+      "name": "New Metro City Sector 1 - Supreme Vista Premium Block",
+      "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - سپریم وسٹا پریمیم بلاک",
+      "externalID": "21214",
+      "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Premium_Block-21214",
+      "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Premium_Block-21214",
+      "_geoloc": {
+          "lat": 32.8580445,
+          "lng": 73.76716593
+      },
+      "geography": {
+          "lat": 32.8580445,
+          "lng": 73.76716593
+      },
+      "geo_point": [
+          73.76716593,
+          32.8580445
+      ],
+      "level": 6,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11823,
+              "level": 3,
+              "externalID": "13347",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Sarai_Alamgir_GT_Road-13347",
+              "slug_l1": "/Sarai_Alamgir_GT_Road-13347"
+          },
+          {
+              "id": 12744,
+              "level": 4,
+              "externalID": "14228",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City-14228"
+          },
+          {
+              "id": 18871,
+              "level": 5,
+              "externalID": "19783",
+              "name": "New Metro City - General Enclave Sector 1",
+              "name_l1": "نیو میٹرو سٹی - جنرل انکلیو سیکٹر 1",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1-19783"
+          },
+          {
+              "id": 20554,
+              "level": 6,
+              "externalID": "21214",
+              "name": "New Metro City Sector 1 - Supreme Vista Premium Block",
+              "name_l1": "نیو میٹرو سٹی  سیکٹر 1 - سپریم وسٹا پریمیم بلاک",
+              "slug": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Premium_Block-21214",
+              "slug_l1": "/Sarai_Alamgir_GT_Road_New_Metro_City_New_Metro_City___General_Enclave_Sector_1_New_Metro_City_Sector_1___Supreme_Vista_Premium_Block-21214"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Supreme Vista Premium Block New Metro City - General Enclave Sector 1 New Metro City GT Road Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21214",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20554",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Supreme Vista Premium Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11809,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13332",
+      "slug": "/Sarai_Alamgir_Others-13332",
+      "slug_l1": "/Sarai_Alamgir_Others-13332",
+      "_geoloc": {
+          "lat": 32.905704,
+          "lng": 73.766903
+      },
+      "geography": {
+          "lat": 32.905704,
+          "lng": 73.766903
+      },
+      "geo_point": [
+          73.766903,
+          32.905704
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 831,
+              "level": 2,
+              "externalID": "1034",
+              "name": "Sarai Alamgir",
+              "name_l1": "سرائے عالمگیر",
+              "slug": "/Sarai_Alamgir-1034",
+              "slug_l1": "/Sarai_Alamgir-1034"
+          },
+          {
+              "id": 11809,
+              "level": 3,
+              "externalID": "13332",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Sarai_Alamgir_Others-13332",
+              "slug_l1": "/Sarai_Alamgir_Others-13332"
+          }
+      ],
+      "hierarchyPath": "Others Sarai Alamgir Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13332",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11809",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

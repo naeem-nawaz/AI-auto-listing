@@ -1,0 +1,387 @@
+[
+  {
+    "id": 128,
+    "name": "Badin",
+    "name_l1": "بدین",
+    "externalID": "8857",
+    "slug": "/Badin-8857",
+    "slug_l1": "/Badin-8857",
+    "_geoloc": {
+        "lat": 24.658522,
+        "lng": 68.838058
+    },
+    "geography": {
+        "lat": 24.658522,
+        "lng": 68.838058
+    },
+    "geo_point": [
+        68.838058,
+        24.658522
+    ],
+    "level": 2,
+    "hierarchy": [
+        {
+            "id": 2,
+            "level": 0,
+            "externalID": "1521",
+            "name": "Pakistan",
+            "name_l1": "پاکستان",
+            "slug": "/Pakistan-1521",
+            "slug_l1": "/Pakistan-1521"
+        },
+        {
+            "id": 5,
+            "level": 1,
+            "externalID": "1523",
+            "name": "Sindh",
+            "name_l1": "سندھ",
+            "slug": "/Sindh-1523",
+            "slug_l1": "/Sindh-1523"
+        },
+        {
+            "id": 128,
+            "level": 2,
+            "externalID": "8857",
+            "name": "Badin",
+            "name_l1": "بدین",
+            "slug": "/Badin-8857",
+            "slug_l1": "/Badin-8857"
+        }
+    ],
+    "hierarchyPath": "Badin Sindh Pakistan",
+    "adCount": 3,
+    "aliases": [],
+    "type": null,
+    "hasBuilding": false,
+    "trackID": "8857",
+    "roles": null,
+    "completionStatus": null,
+    "hasChildren": true,
+    "polygon": null,
+    "objectID": "128",
+    "_highlightResult": {
+        "name": {
+            "value": "Badin",
+            "matchLevel": "none",
+            "matchedWords": []
+        }
+    }
+},
+{
+    "id": 4887,
+    "name": "Badin - Seerani Road",
+    "name_l1": "بدین - سیرانی روڈ",
+    "externalID": "9915",
+    "slug": "/Badin_Badin___Seerani_Road-9915",
+    "slug_l1": "/Badin_Badin___Seerani_Road-9915",
+    "_geoloc": {
+        "lat": 24.643289,
+        "lng": 68.83399
+    },
+    "geography": {
+        "lat": 24.643289,
+        "lng": 68.83399
+    },
+    "geo_point": [
+        68.83399,
+        24.643289
+    ],
+    "level": 3,
+    "hierarchy": [
+        {
+            "id": 2,
+            "level": 0,
+            "externalID": "1521",
+            "name": "Pakistan",
+            "name_l1": "پاکستان",
+            "slug": "/Pakistan-1521",
+            "slug_l1": "/Pakistan-1521"
+        },
+        {
+            "id": 5,
+            "level": 1,
+            "externalID": "1523",
+            "name": "Sindh",
+            "name_l1": "سندھ",
+            "slug": "/Sindh-1523",
+            "slug_l1": "/Sindh-1523"
+        },
+        {
+            "id": 128,
+            "level": 2,
+            "externalID": "8857",
+            "name": "Badin",
+            "name_l1": "بدین",
+            "slug": "/Badin-8857",
+            "slug_l1": "/Badin-8857"
+        },
+        {
+            "id": 4887,
+            "level": 3,
+            "externalID": "9915",
+            "name": "Badin - Seerani Road",
+            "name_l1": "بدین - سیرانی روڈ",
+            "slug": "/Badin_Badin___Seerani_Road-9915",
+            "slug_l1": "/Badin_Badin___Seerani_Road-9915"
+        }
+    ],
+    "hierarchyPath": "Badin - Seerani Road Badin Sindh Pakistan",
+    "adCount": 3,
+    "aliases": [],
+    "type": null,
+    "hasBuilding": false,
+    "trackID": "9915",
+    "roles": null,
+    "completionStatus": null,
+    "hasChildren": false,
+    "polygon": null,
+    "objectID": "4887",
+    "_highlightResult": {
+        "name": {
+            "value": "Badin - Seerani Road",
+            "matchLevel": "none",
+            "matchedWords": []
+        }
+    }
+},
+{
+    "id": 4379,
+    "name": "Agrovil Colony",
+    "name_l1": "ایگرویل کالونی",
+    "externalID": "8858",
+    "slug": "/Badin_Agrovil_Colony-8858",
+    "slug_l1": "/Badin_Agrovil_Colony-8858",
+    "_geoloc": {
+        "lat": 24.65239,
+        "lng": 68.827491
+    },
+    "geography": {
+        "lat": 24.65239,
+        "lng": 68.827491
+    },
+    "geo_point": [
+        68.827491,
+        24.65239
+    ],
+    "level": 3,
+    "hierarchy": [
+        {
+            "id": 2,
+            "level": 0,
+            "externalID": "1521",
+            "name": "Pakistan",
+            "name_l1": "پاکستان",
+            "slug": "/Pakistan-1521",
+            "slug_l1": "/Pakistan-1521"
+        },
+        {
+            "id": 5,
+            "level": 1,
+            "externalID": "1523",
+            "name": "Sindh",
+            "name_l1": "سندھ",
+            "slug": "/Sindh-1523",
+            "slug_l1": "/Sindh-1523"
+        },
+        {
+            "id": 128,
+            "level": 2,
+            "externalID": "8857",
+            "name": "Badin",
+            "name_l1": "بدین",
+            "slug": "/Badin-8857",
+            "slug_l1": "/Badin-8857"
+        },
+        {
+            "id": 4379,
+            "level": 3,
+            "externalID": "8858",
+            "name": "Agrovil Colony",
+            "name_l1": "ایگرویل کالونی",
+            "slug": "/Badin_Agrovil_Colony-8858",
+            "slug_l1": "/Badin_Agrovil_Colony-8858"
+        }
+    ],
+    "hierarchyPath": "Agrovil Colony Badin Sindh Pakistan",
+    "adCount": 0,
+    "aliases": [],
+    "type": null,
+    "hasBuilding": false,
+    "trackID": "8858",
+    "roles": null,
+    "completionStatus": null,
+    "hasChildren": false,
+    "polygon": null,
+    "objectID": "4379",
+    "_highlightResult": {
+        "name": {
+            "value": "Agrovil Colony",
+            "matchLevel": "none",
+            "matchedWords": []
+        }
+    }
+},
+{
+    "id": 12791,
+    "name": "Hyderabad - Badin Road",
+    "name_l1": "حیدرآباد - بدین روڈ",
+    "externalID": "14274",
+    "slug": "/Badin_Hyderabad___Badin_Road-14274",
+    "slug_l1": "/Badin_Hyderabad___Badin_Road-14274",
+    "_geoloc": {
+        "lat": 24.686496,
+        "lng": 68.823907
+    },
+    "geography": {
+        "lat": 24.686496,
+        "lng": 68.823907
+    },
+    "geo_point": [
+        68.823907,
+        24.686496
+    ],
+    "level": 3,
+    "hierarchy": [
+        {
+            "id": 2,
+            "level": 0,
+            "externalID": "1521",
+            "name": "Pakistan",
+            "name_l1": "پاکستان",
+            "slug": "/Pakistan-1521",
+            "slug_l1": "/Pakistan-1521"
+        },
+        {
+            "id": 5,
+            "level": 1,
+            "externalID": "1523",
+            "name": "Sindh",
+            "name_l1": "سندھ",
+            "slug": "/Sindh-1523",
+            "slug_l1": "/Sindh-1523"
+        },
+        {
+            "id": 128,
+            "level": 2,
+            "externalID": "8857",
+            "name": "Badin",
+            "name_l1": "بدین",
+            "slug": "/Badin-8857",
+            "slug_l1": "/Badin-8857"
+        },
+        {
+            "id": 12791,
+            "level": 3,
+            "externalID": "14274",
+            "name": "Hyderabad - Badin Road",
+            "name_l1": "حیدرآباد - بدین روڈ",
+            "slug": "/Badin_Hyderabad___Badin_Road-14274",
+            "slug_l1": "/Badin_Hyderabad___Badin_Road-14274"
+        }
+    ],
+    "hierarchyPath": "Hyderabad - Badin Road Badin Sindh Pakistan",
+    "adCount": 0,
+    "aliases": [],
+    "type": null,
+    "hasBuilding": false,
+    "trackID": "14274",
+    "roles": null,
+    "completionStatus": null,
+    "hasChildren": true,
+    "polygon": null,
+    "objectID": "12791",
+    "_highlightResult": {
+        "name": {
+            "value": "Hyderabad - Badin Road",
+            "matchLevel": "none",
+            "matchedWords": []
+        }
+    }
+},
+{
+    "id": 16026,
+    "name": "Shams City",
+    "name_l1": "شمس سٹی",
+    "externalID": "17310",
+    "slug": "/Badin_Hyderabad___Badin_Road_Shams_City-17310",
+    "slug_l1": "/Badin_Hyderabad___Badin_Road_Shams_City-17310",
+    "_geoloc": {
+        "lat": 24.682711,
+        "lng": 68.825359
+    },
+    "geography": {
+        "lat": 24.682711,
+        "lng": 68.825359
+    },
+    "geo_point": [
+        68.825359,
+        24.682711
+    ],
+    "level": 4,
+    "hierarchy": [
+        {
+            "id": 2,
+            "level": 0,
+            "externalID": "1521",
+            "name": "Pakistan",
+            "name_l1": "پاکستان",
+            "slug": "/Pakistan-1521",
+            "slug_l1": "/Pakistan-1521"
+        },
+        {
+            "id": 5,
+            "level": 1,
+            "externalID": "1523",
+            "name": "Sindh",
+            "name_l1": "سندھ",
+            "slug": "/Sindh-1523",
+            "slug_l1": "/Sindh-1523"
+        },
+        {
+            "id": 128,
+            "level": 2,
+            "externalID": "8857",
+            "name": "Badin",
+            "name_l1": "بدین",
+            "slug": "/Badin-8857",
+            "slug_l1": "/Badin-8857"
+        },
+        {
+            "id": 12791,
+            "level": 3,
+            "externalID": "14274",
+            "name": "Hyderabad - Badin Road",
+            "name_l1": "حیدرآباد - بدین روڈ",
+            "slug": "/Badin_Hyderabad___Badin_Road-14274",
+            "slug_l1": "/Badin_Hyderabad___Badin_Road-14274"
+        },
+        {
+            "id": 16026,
+            "level": 4,
+            "externalID": "17310",
+            "name": "Shams City",
+            "name_l1": "شمس سٹی",
+            "slug": "/Badin_Hyderabad___Badin_Road_Shams_City-17310",
+            "slug_l1": "/Badin_Hyderabad___Badin_Road_Shams_City-17310"
+        }
+    ],
+    "hierarchyPath": "Shams City Hyderabad - Badin Road Badin Sindh Pakistan",
+    "adCount": 0,
+    "aliases": [],
+    "type": null,
+    "hasBuilding": false,
+    "trackID": "17310",
+    "roles": null,
+    "completionStatus": null,
+    "hasChildren": false,
+    "polygon": null,
+    "objectID": "16026",
+    "_highlightResult": {
+        "name": {
+            "value": "Shams City",
+            "matchLevel": "none",
+            "matchedWords": []
+        }
+    }
+}
+]

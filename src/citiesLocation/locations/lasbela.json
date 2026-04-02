@@ -1,0 +1,3775 @@
+[
+  {
+      "id": 3766,
+      "name": "Ashapura",
+      "name_l1": "آشا پورہ",
+      "externalID": "7902",
+      "slug": "/Lasbela_Ashapura-7902",
+      "slug_l1": "/Lasbela_Ashapura-7902",
+      "_geoloc": {
+          "lat": 25.51208,
+          "lng": 65.521774
+      },
+      "geography": {
+          "lat": 25.51208,
+          "lng": 65.521774
+      },
+      "geo_point": [
+          65.521774,
+          25.51208
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3766,
+              "level": 3,
+              "externalID": "7902",
+              "name": "Ashapura",
+              "name_l1": "آشا پورہ",
+              "slug": "/Lasbela_Ashapura-7902",
+              "slug_l1": "/Lasbela_Ashapura-7902"
+          }
+      ],
+      "hierarchyPath": "Ashapura Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7902",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3766",
+      "_highlightResult": {
+          "name": {
+              "value": "Ashapura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3767,
+      "name": "Bela",
+      "name_l1": "بیلہ",
+      "externalID": "7903",
+      "slug": "/Lasbela_Bela-7903",
+      "slug_l1": "/Lasbela_Bela-7903",
+      "_geoloc": {
+          "lat": 26.226295,
+          "lng": 66.311417
+      },
+      "geography": {
+          "lat": 26.226295,
+          "lng": 66.311417
+      },
+      "geo_point": [
+          66.311417,
+          26.226295
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3767,
+              "level": 3,
+              "externalID": "7903",
+              "name": "Bela",
+              "name_l1": "بیلہ",
+              "slug": "/Lasbela_Bela-7903",
+              "slug_l1": "/Lasbela_Bela-7903"
+          }
+      ],
+      "hierarchyPath": "Bela Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7903",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3767",
+      "_highlightResult": {
+          "name": {
+              "value": "Bela",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3768,
+      "name": "Damb Road",
+      "name_l1": "ڈیمب روڈ",
+      "externalID": "7904",
+      "slug": "/Lasbela_Damb_Road-7904",
+      "slug_l1": "/Lasbela_Damb_Road-7904",
+      "_geoloc": {
+          "lat": 25.411958,
+          "lng": 66.64547
+      },
+      "geography": {
+          "lat": 25.411958,
+          "lng": 66.64547
+      },
+      "geo_point": [
+          66.64547,
+          25.411958
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3768,
+              "level": 3,
+              "externalID": "7904",
+              "name": "Damb Road",
+              "name_l1": "ڈیمب روڈ",
+              "slug": "/Lasbela_Damb_Road-7904",
+              "slug_l1": "/Lasbela_Damb_Road-7904"
+          }
+      ],
+      "hierarchyPath": "Damb Road Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7904",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3768",
+      "_highlightResult": {
+          "name": {
+              "value": "Damb Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3769,
+      "name": "Dureji",
+      "name_l1": "دوریجی",
+      "externalID": "7905",
+      "slug": "/Lasbela_Dureji-7905",
+      "slug_l1": "/Lasbela_Dureji-7905",
+      "_geoloc": {
+          "lat": 25.885481,
+          "lng": 67.2995
+      },
+      "geography": {
+          "lat": 25.885481,
+          "lng": 67.2995
+      },
+      "geo_point": [
+          67.2995,
+          25.885481
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3769,
+              "level": 3,
+              "externalID": "7905",
+              "name": "Dureji",
+              "name_l1": "دوریجی",
+              "slug": "/Lasbela_Dureji-7905",
+              "slug_l1": "/Lasbela_Dureji-7905"
+          }
+      ],
+      "hierarchyPath": "Dureji Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7905",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3769",
+      "_highlightResult": {
+          "name": {
+              "value": "Dureji",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3770,
+      "name": "Dureji Road",
+      "name_l1": "دوریجی روڈ",
+      "externalID": "7906",
+      "slug": "/Lasbela_Dureji_Road-7906",
+      "slug_l1": "/Lasbela_Dureji_Road-7906",
+      "_geoloc": {
+          "lat": 25.040427,
+          "lng": 66.90588
+      },
+      "geography": {
+          "lat": 25.040427,
+          "lng": 66.90588
+      },
+      "geo_point": [
+          66.90588,
+          25.040427
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3770,
+              "level": 3,
+              "externalID": "7906",
+              "name": "Dureji Road",
+              "name_l1": "دوریجی روڈ",
+              "slug": "/Lasbela_Dureji_Road-7906",
+              "slug_l1": "/Lasbela_Dureji_Road-7906"
+          }
+      ],
+      "hierarchyPath": "Dureji Road Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7906",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3770",
+      "_highlightResult": {
+          "name": {
+              "value": "Dureji Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 928,
+      "name": "Gadani",
+      "name_l1": "گڈانی",
+      "externalID": "1150",
+      "slug": "/Lasbela_Gadani-1150",
+      "slug_l1": "/Lasbela_Gadani-1150",
+      "_geoloc": {
+          "lat": 25.119409,
+          "lng": 66.732316
+      },
+      "geography": {
+          "lat": 25.119409,
+          "lng": 66.732316
+      },
+      "geo_point": [
+          66.732316,
+          25.119409
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 928,
+              "level": 3,
+              "externalID": "1150",
+              "name": "Gadani",
+              "name_l1": "گڈانی",
+              "slug": "/Lasbela_Gadani-1150",
+              "slug_l1": "/Lasbela_Gadani-1150"
+          }
+      ],
+      "hierarchyPath": "Gadani Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1150",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "928",
+      "_highlightResult": {
+          "name": {
+              "value": "Gadani",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3771,
+      "name": "Gadani Beach Road",
+      "name_l1": "گڈانی بیچ روڈ",
+      "externalID": "7907",
+      "slug": "/Lasbela_Gadani_Beach_Road-7907",
+      "slug_l1": "/Lasbela_Gadani_Beach_Road-7907",
+      "_geoloc": {
+          "lat": 25.006906,
+          "lng": 66.712761
+      },
+      "geography": {
+          "lat": 25.006906,
+          "lng": 66.712761
+      },
+      "geo_point": [
+          66.712761,
+          25.006906
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3771,
+              "level": 3,
+              "externalID": "7907",
+              "name": "Gadani Beach Road",
+              "name_l1": "گڈانی بیچ روڈ",
+              "slug": "/Lasbela_Gadani_Beach_Road-7907",
+              "slug_l1": "/Lasbela_Gadani_Beach_Road-7907"
+          }
+      ],
+      "hierarchyPath": "Gadani Beach Road Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7907",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3771",
+      "_highlightResult": {
+          "name": {
+              "value": "Gadani Beach Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3772,
+      "name": "Goth Abbas Gadoor Lasi",
+      "name_l1": "گوٹھ عباس گدور لَسی",
+      "externalID": "7908",
+      "slug": "/Lasbela_Goth_Abbas_Gadoor_Lasi-7908",
+      "slug_l1": "/Lasbela_Goth_Abbas_Gadoor_Lasi-7908",
+      "_geoloc": {
+          "lat": 24.9476,
+          "lng": 66.74548
+      },
+      "geography": {
+          "lat": 24.9476,
+          "lng": 66.74548
+      },
+      "geo_point": [
+          66.74548,
+          24.9476
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3772,
+              "level": 3,
+              "externalID": "7908",
+              "name": "Goth Abbas Gadoor Lasi",
+              "name_l1": "گوٹھ عباس گدور لَسی",
+              "slug": "/Lasbela_Goth_Abbas_Gadoor_Lasi-7908",
+              "slug_l1": "/Lasbela_Goth_Abbas_Gadoor_Lasi-7908"
+          }
+      ],
+      "hierarchyPath": "Goth Abbas Gadoor Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7908",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "3772",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Abbas Gadoor Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3773,
+      "name": "Goth Ahmad",
+      "name_l1": "گوٹھ احمد",
+      "externalID": "7911",
+      "slug": "/Lasbela_Goth_Ahmad-7911",
+      "slug_l1": "/Lasbela_Goth_Ahmad-7911",
+      "_geoloc": {
+          "lat": 25.1407,
+          "lng": 66.993942
+      },
+      "geography": {
+          "lat": 25.1407,
+          "lng": 66.993942
+      },
+      "geo_point": [
+          66.993942,
+          25.1407
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3773,
+              "level": 3,
+              "externalID": "7911",
+              "name": "Goth Ahmad",
+              "name_l1": "گوٹھ احمد",
+              "slug": "/Lasbela_Goth_Ahmad-7911",
+              "slug_l1": "/Lasbela_Goth_Ahmad-7911"
+          }
+      ],
+      "hierarchyPath": "Goth Ahmad Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7911",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3773",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Ahmad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3774,
+      "name": "Goth Alaana Gadoor Lasi",
+      "name_l1": "گوٹھ الانہ گدور لَسی",
+      "externalID": "7912",
+      "slug": "/Lasbela_Goth_Alaana_Gadoor_Lasi-7912",
+      "slug_l1": "/Lasbela_Goth_Alaana_Gadoor_Lasi-7912",
+      "_geoloc": {
+          "lat": 24.943884,
+          "lng": 66.701853
+      },
+      "geography": {
+          "lat": 24.943884,
+          "lng": 66.701853
+      },
+      "geo_point": [
+          66.701853,
+          24.943884
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3774,
+              "level": 3,
+              "externalID": "7912",
+              "name": "Goth Alaana Gadoor Lasi",
+              "name_l1": "گوٹھ الانہ گدور لَسی",
+              "slug": "/Lasbela_Goth_Alaana_Gadoor_Lasi-7912",
+              "slug_l1": "/Lasbela_Goth_Alaana_Gadoor_Lasi-7912"
+          }
+      ],
+      "hierarchyPath": "Goth Alaana Gadoor Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7912",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3774",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Alaana Gadoor Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3775,
+      "name": "Goth Dooda Lasi",
+      "name_l1": "گوٹھ ڈُوڈا لَسی",
+      "externalID": "7913",
+      "slug": "/Lasbela_Goth_Dooda_Lasi-7913",
+      "slug_l1": "/Lasbela_Goth_Dooda_Lasi-7913",
+      "_geoloc": {
+          "lat": 25.027673,
+          "lng": 66.899289
+      },
+      "geography": {
+          "lat": 25.027673,
+          "lng": 66.899289
+      },
+      "geo_point": [
+          66.899289,
+          25.027673
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3775,
+              "level": 3,
+              "externalID": "7913",
+              "name": "Goth Dooda Lasi",
+              "name_l1": "گوٹھ ڈُوڈا لَسی",
+              "slug": "/Lasbela_Goth_Dooda_Lasi-7913",
+              "slug_l1": "/Lasbela_Goth_Dooda_Lasi-7913"
+          }
+      ],
+      "hierarchyPath": "Goth Dooda Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7913",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3775",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Dooda Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3776,
+      "name": "Goth Gujjar Lasi",
+      "name_l1": "گوٹھ گجر لَسی",
+      "externalID": "7914",
+      "slug": "/Lasbela_Goth_Gujjar_Lasi-7914",
+      "slug_l1": "/Lasbela_Goth_Gujjar_Lasi-7914",
+      "_geoloc": {
+          "lat": 25.081906,
+          "lng": 66.83453
+      },
+      "geography": {
+          "lat": 25.081906,
+          "lng": 66.83453
+      },
+      "geo_point": [
+          66.83453,
+          25.081906
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3776,
+              "level": 3,
+              "externalID": "7914",
+              "name": "Goth Gujjar Lasi",
+              "name_l1": "گوٹھ گجر لَسی",
+              "slug": "/Lasbela_Goth_Gujjar_Lasi-7914",
+              "slug_l1": "/Lasbela_Goth_Gujjar_Lasi-7914"
+          }
+      ],
+      "hierarchyPath": "Goth Gujjar Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7914",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3776",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Gujjar Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3777,
+      "name": "Goth Haji Chatta Rind",
+      "name_l1": "گوٹھ حاجی چٹھہ رِند",
+      "externalID": "7915",
+      "slug": "/Lasbela_Goth_Haji_Chatta_Rind-7915",
+      "slug_l1": "/Lasbela_Goth_Haji_Chatta_Rind-7915",
+      "_geoloc": {
+          "lat": 25.024951,
+          "lng": 66.934118
+      },
+      "geography": {
+          "lat": 25.024951,
+          "lng": 66.934118
+      },
+      "geo_point": [
+          66.934118,
+          25.024951
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3777,
+              "level": 3,
+              "externalID": "7915",
+              "name": "Goth Haji Chatta Rind",
+              "name_l1": "گوٹھ حاجی چٹھہ رِند",
+              "slug": "/Lasbela_Goth_Haji_Chatta_Rind-7915",
+              "slug_l1": "/Lasbela_Goth_Haji_Chatta_Rind-7915"
+          }
+      ],
+      "hierarchyPath": "Goth Haji Chatta Rind Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7915",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3777",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Haji Chatta Rind",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3778,
+      "name": "Goth Haji Hasan Sheikh Lasi",
+      "name_l1": "گوٹھ حاجی حسن شیخ لَسی",
+      "externalID": "7916",
+      "slug": "/Lasbela_Goth_Haji_Hasan_Sheikh_Lasi-7916",
+      "slug_l1": "/Lasbela_Goth_Haji_Hasan_Sheikh_Lasi-7916",
+      "_geoloc": {
+          "lat": 25.033253,
+          "lng": 66.916661
+      },
+      "geography": {
+          "lat": 25.033253,
+          "lng": 66.916661
+      },
+      "geo_point": [
+          66.916661,
+          25.033253
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3778,
+              "level": 3,
+              "externalID": "7916",
+              "name": "Goth Haji Hasan Sheikh Lasi",
+              "name_l1": "گوٹھ حاجی حسن شیخ لَسی",
+              "slug": "/Lasbela_Goth_Haji_Hasan_Sheikh_Lasi-7916",
+              "slug_l1": "/Lasbela_Goth_Haji_Hasan_Sheikh_Lasi-7916"
+          }
+      ],
+      "hierarchyPath": "Goth Haji Hasan Sheikh Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7916",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3778",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Haji Hasan Sheikh Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8062,
+      "name": "Goth Haji Shah Baig",
+      "name_l1": "گوٹھ حاجی شاہ بیگ",
+      "externalID": "7909",
+      "slug": "/Lasbela_Goth_Abbas_Gadoor_Lasi_Goth_Haji_Shah_Baig-7909",
+      "slug_l1": "/Lasbela_Goth_Abbas_Gadoor_Lasi_Goth_Haji_Shah_Baig-7909",
+      "_geoloc": {
+          "lat": 24.950655,
+          "lng": 66.74366
+      },
+      "geography": {
+          "lat": 24.950655,
+          "lng": 66.74366
+      },
+      "geo_point": [
+          66.74366,
+          24.950655
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3772,
+              "level": 3,
+              "externalID": "7908",
+              "name": "Goth Abbas Gadoor Lasi",
+              "name_l1": "گوٹھ عباس گدور لَسی",
+              "slug": "/Lasbela_Goth_Abbas_Gadoor_Lasi-7908",
+              "slug_l1": "/Lasbela_Goth_Abbas_Gadoor_Lasi-7908"
+          },
+          {
+              "id": 8062,
+              "level": 4,
+              "externalID": "7909",
+              "name": "Goth Haji Shah Baig",
+              "name_l1": "گوٹھ حاجی شاہ بیگ",
+              "slug": "/Lasbela_Goth_Abbas_Gadoor_Lasi_Goth_Haji_Shah_Baig-7909",
+              "slug_l1": "/Lasbela_Goth_Abbas_Gadoor_Lasi_Goth_Haji_Shah_Baig-7909"
+          }
+      ],
+      "hierarchyPath": "Goth Haji Shah Baig Goth Abbas Gadoor Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7909",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8062",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Haji Shah Baig",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3779,
+      "name": "Goth Ibrahim Sheikh Lasi",
+      "name_l1": "گوٹھ ابراہیم شیخ لَسی",
+      "externalID": "7917",
+      "slug": "/Lasbela_Goth_Ibrahim_Sheikh_Lasi-7917",
+      "slug_l1": "/Lasbela_Goth_Ibrahim_Sheikh_Lasi-7917",
+      "_geoloc": {
+          "lat": 25.04101,
+          "lng": 66.915661
+      },
+      "geography": {
+          "lat": 25.04101,
+          "lng": 66.915661
+      },
+      "geo_point": [
+          66.915661,
+          25.04101
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3779,
+              "level": 3,
+              "externalID": "7917",
+              "name": "Goth Ibrahim Sheikh Lasi",
+              "name_l1": "گوٹھ ابراہیم شیخ لَسی",
+              "slug": "/Lasbela_Goth_Ibrahim_Sheikh_Lasi-7917",
+              "slug_l1": "/Lasbela_Goth_Ibrahim_Sheikh_Lasi-7917"
+          }
+      ],
+      "hierarchyPath": "Goth Ibrahim Sheikh Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7917",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3779",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Ibrahim Sheikh Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3780,
+      "name": "Goth Juman Sheikh Lasi",
+      "name_l1": "گوٹھ جُمن شیخ لَسی",
+      "externalID": "7918",
+      "slug": "/Lasbela_Goth_Juman_Sheikh_Lasi-7918",
+      "slug_l1": "/Lasbela_Goth_Juman_Sheikh_Lasi-7918",
+      "_geoloc": {
+          "lat": 25.017669,
+          "lng": 66.858017
+      },
+      "geography": {
+          "lat": 25.017669,
+          "lng": 66.858017
+      },
+      "geo_point": [
+          66.858017,
+          25.017669
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3780,
+              "level": 3,
+              "externalID": "7918",
+              "name": "Goth Juman Sheikh Lasi",
+              "name_l1": "گوٹھ جُمن شیخ لَسی",
+              "slug": "/Lasbela_Goth_Juman_Sheikh_Lasi-7918",
+              "slug_l1": "/Lasbela_Goth_Juman_Sheikh_Lasi-7918"
+          }
+      ],
+      "hierarchyPath": "Goth Juman Sheikh Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7918",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3780",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Juman Sheikh Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3781,
+      "name": "Goth Maula Bux Bizanjo",
+      "name_l1": "گوٹھ مولا بخش بزنجو",
+      "externalID": "7919",
+      "slug": "/Lasbela_Goth_Maula_Bux_Bizanjo-7919",
+      "slug_l1": "/Lasbela_Goth_Maula_Bux_Bizanjo-7919",
+      "_geoloc": {
+          "lat": 25.054822,
+          "lng": 66.848157
+      },
+      "geography": {
+          "lat": 25.054822,
+          "lng": 66.848157
+      },
+      "geo_point": [
+          66.848157,
+          25.054822
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3781,
+              "level": 3,
+              "externalID": "7919",
+              "name": "Goth Maula Bux Bizanjo",
+              "name_l1": "گوٹھ مولا بخش بزنجو",
+              "slug": "/Lasbela_Goth_Maula_Bux_Bizanjo-7919",
+              "slug_l1": "/Lasbela_Goth_Maula_Bux_Bizanjo-7919"
+          }
+      ],
+      "hierarchyPath": "Goth Maula Bux Bizanjo Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7919",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3781",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Maula Bux Bizanjo",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3782,
+      "name": "Goth Motak Lasi",
+      "name_l1": "گوٹھ موٹک لَسی",
+      "externalID": "7920",
+      "slug": "/Lasbela_Goth_Motak_Lasi-7920",
+      "slug_l1": "/Lasbela_Goth_Motak_Lasi-7920",
+      "_geoloc": {
+          "lat": 25.067602,
+          "lng": 66.80794
+      },
+      "geography": {
+          "lat": 25.067602,
+          "lng": 66.80794
+      },
+      "geo_point": [
+          66.80794,
+          25.067602
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3782,
+              "level": 3,
+              "externalID": "7920",
+              "name": "Goth Motak Lasi",
+              "name_l1": "گوٹھ موٹک لَسی",
+              "slug": "/Lasbela_Goth_Motak_Lasi-7920",
+              "slug_l1": "/Lasbela_Goth_Motak_Lasi-7920"
+          }
+      ],
+      "hierarchyPath": "Goth Motak Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7920",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3782",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Motak Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3783,
+      "name": "Goth Perio Kermati Lasi",
+      "name_l1": "گوٹھ پیریو کرمٹی لَسی",
+      "externalID": "7921",
+      "slug": "/Lasbela_Goth_Perio_Kermati_Lasi-7921",
+      "slug_l1": "/Lasbela_Goth_Perio_Kermati_Lasi-7921",
+      "_geoloc": {
+          "lat": 25.010173,
+          "lng": 66.852168
+      },
+      "geography": {
+          "lat": 25.010173,
+          "lng": 66.852168
+      },
+      "geo_point": [
+          66.852168,
+          25.010173
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3783,
+              "level": 3,
+              "externalID": "7921",
+              "name": "Goth Perio Kermati Lasi",
+              "name_l1": "گوٹھ پیریو کرمٹی لَسی",
+              "slug": "/Lasbela_Goth_Perio_Kermati_Lasi-7921",
+              "slug_l1": "/Lasbela_Goth_Perio_Kermati_Lasi-7921"
+          }
+      ],
+      "hierarchyPath": "Goth Perio Kermati Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7921",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3783",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Perio Kermati Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3784,
+      "name": "Goth Qader Buksh Gadoor Lasi",
+      "name_l1": "گوٹھ قادر بخش گدور لَسی",
+      "externalID": "7922",
+      "slug": "/Lasbela_Goth_Qader_Buksh_Gadoor_Lasi-7922",
+      "slug_l1": "/Lasbela_Goth_Qader_Buksh_Gadoor_Lasi-7922",
+      "_geoloc": {
+          "lat": 24.920613,
+          "lng": 66.714925
+      },
+      "geography": {
+          "lat": 24.920613,
+          "lng": 66.714925
+      },
+      "geo_point": [
+          66.714925,
+          24.920613
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3784,
+              "level": 3,
+              "externalID": "7922",
+              "name": "Goth Qader Buksh Gadoor Lasi",
+              "name_l1": "گوٹھ قادر بخش گدور لَسی",
+              "slug": "/Lasbela_Goth_Qader_Buksh_Gadoor_Lasi-7922",
+              "slug_l1": "/Lasbela_Goth_Qader_Buksh_Gadoor_Lasi-7922"
+          }
+      ],
+      "hierarchyPath": "Goth Qader Buksh Gadoor Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7922",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3784",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Qader Buksh Gadoor Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3785,
+      "name": "Goth Sheikh Abad Lasi",
+      "name_l1": "گوٹھ شیخ آباد لَسی",
+      "externalID": "7923",
+      "slug": "/Lasbela_Goth_Sheikh_Abad_Lasi-7923",
+      "slug_l1": "/Lasbela_Goth_Sheikh_Abad_Lasi-7923",
+      "_geoloc": {
+          "lat": 25.120186,
+          "lng": 66.780843
+      },
+      "geography": {
+          "lat": 25.120186,
+          "lng": 66.780843
+      },
+      "geo_point": [
+          66.780843,
+          25.120186
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3785,
+              "level": 3,
+              "externalID": "7923",
+              "name": "Goth Sheikh Abad Lasi",
+              "name_l1": "گوٹھ شیخ آباد لَسی",
+              "slug": "/Lasbela_Goth_Sheikh_Abad_Lasi-7923",
+              "slug_l1": "/Lasbela_Goth_Sheikh_Abad_Lasi-7923"
+          }
+      ],
+      "hierarchyPath": "Goth Sheikh Abad Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7923",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3785",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Sheikh Abad Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3786,
+      "name": "Goth Sheikh Akram Lasi",
+      "name_l1": "گوٹھ شیخ اکرم لَسی",
+      "externalID": "7924",
+      "slug": "/Lasbela_Goth_Sheikh_Akram_Lasi-7924",
+      "slug_l1": "/Lasbela_Goth_Sheikh_Akram_Lasi-7924",
+      "_geoloc": {
+          "lat": 25.018223,
+          "lng": 66.865107
+      },
+      "geography": {
+          "lat": 25.018223,
+          "lng": 66.865107
+      },
+      "geo_point": [
+          66.865107,
+          25.018223
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3786,
+              "level": 3,
+              "externalID": "7924",
+              "name": "Goth Sheikh Akram Lasi",
+              "name_l1": "گوٹھ شیخ اکرم لَسی",
+              "slug": "/Lasbela_Goth_Sheikh_Akram_Lasi-7924",
+              "slug_l1": "/Lasbela_Goth_Sheikh_Akram_Lasi-7924"
+          }
+      ],
+      "hierarchyPath": "Goth Sheikh Akram Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7924",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3786",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Sheikh Akram Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3787,
+      "name": "Goth Sheikh Punu Lasi",
+      "name_l1": "گوٹھ شیخ پنوں لَسی",
+      "externalID": "7925",
+      "slug": "/Lasbela_Goth_Sheikh_Punu_Lasi-7925",
+      "slug_l1": "/Lasbela_Goth_Sheikh_Punu_Lasi-7925",
+      "_geoloc": {
+          "lat": 25.022394,
+          "lng": 66.88485
+      },
+      "geography": {
+          "lat": 25.022394,
+          "lng": 66.88485
+      },
+      "geo_point": [
+          66.88485,
+          25.022394
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3787,
+              "level": 3,
+              "externalID": "7925",
+              "name": "Goth Sheikh Punu Lasi",
+              "name_l1": "گوٹھ شیخ پنوں لَسی",
+              "slug": "/Lasbela_Goth_Sheikh_Punu_Lasi-7925",
+              "slug_l1": "/Lasbela_Goth_Sheikh_Punu_Lasi-7925"
+          }
+      ],
+      "hierarchyPath": "Goth Sheikh Punu Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7925",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3787",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Sheikh Punu Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3788,
+      "name": "Goth Vahora Lasi",
+      "name_l1": "گوٹھ وہوڑا لَسی",
+      "externalID": "7926",
+      "slug": "/Lasbela_Goth_Vahora_Lasi-7926",
+      "slug_l1": "/Lasbela_Goth_Vahora_Lasi-7926",
+      "_geoloc": {
+          "lat": 25.091099,
+          "lng": 66.830079
+      },
+      "geography": {
+          "lat": 25.091099,
+          "lng": 66.830079
+      },
+      "geo_point": [
+          66.830079,
+          25.091099
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3788,
+              "level": 3,
+              "externalID": "7926",
+              "name": "Goth Vahora Lasi",
+              "name_l1": "گوٹھ وہوڑا لَسی",
+              "slug": "/Lasbela_Goth_Vahora_Lasi-7926",
+              "slug_l1": "/Lasbela_Goth_Vahora_Lasi-7926"
+          }
+      ],
+      "hierarchyPath": "Goth Vahora Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7926",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3788",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Vahora Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3789,
+      "name": "Goth Zoor Lasi",
+      "name_l1": "گوٹھ ظُور لَسی",
+      "externalID": "7927",
+      "slug": "/Lasbela_Goth_Zoor_Lasi-7927",
+      "slug_l1": "/Lasbela_Goth_Zoor_Lasi-7927",
+      "_geoloc": {
+          "lat": 24.976099,
+          "lng": 66.772238
+      },
+      "geography": {
+          "lat": 24.976099,
+          "lng": 66.772238
+      },
+      "geo_point": [
+          66.772238,
+          24.976099
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3789,
+              "level": 3,
+              "externalID": "7927",
+              "name": "Goth Zoor Lasi",
+              "name_l1": "گوٹھ ظُور لَسی",
+              "slug": "/Lasbela_Goth_Zoor_Lasi-7927",
+              "slug_l1": "/Lasbela_Goth_Zoor_Lasi-7927"
+          }
+      ],
+      "hierarchyPath": "Goth Zoor Lasi Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7927",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3789",
+      "_highlightResult": {
+          "name": {
+              "value": "Goth Zoor Lasi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 419,
+      "name": "Gwadar Coastal Highway",
+      "name_l1": "گوادر کوسٹل ہائی وے",
+      "externalID": "553",
+      "slug": "/Lasbela_Gwadar_Coastal_Highway-553",
+      "slug_l1": "/Lasbela_Gwadar_Coastal_Highway-553",
+      "_geoloc": {
+          "lat": 25.698154,
+          "lng": 66.3838
+      },
+      "geography": {
+          "lat": 25.698154,
+          "lng": 66.3838
+      },
+      "geo_point": [
+          66.3838,
+          25.698154
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 419,
+              "level": 3,
+              "externalID": "553",
+              "name": "Gwadar Coastal Highway",
+              "name_l1": "گوادر کوسٹل ہائی وے",
+              "slug": "/Lasbela_Gwadar_Coastal_Highway-553",
+              "slug_l1": "/Lasbela_Gwadar_Coastal_Highway-553"
+          }
+      ],
+      "hierarchyPath": "Gwadar Coastal Highway Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "553",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "419",
+      "_highlightResult": {
+          "name": {
+              "value": "Gwadar Coastal Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3790,
+      "name": "Haji Shahdad Qalandrani Goth",
+      "name_l1": "حاجی شہداد قلندرانی گوٹھ",
+      "externalID": "7928",
+      "slug": "/Lasbela_Haji_Shahdad_Qalandrani_Goth-7928",
+      "slug_l1": "/Lasbela_Haji_Shahdad_Qalandrani_Goth-7928",
+      "_geoloc": {
+          "lat": 25.065231,
+          "lng": 66.946392
+      },
+      "geography": {
+          "lat": 25.065231,
+          "lng": 66.946392
+      },
+      "geo_point": [
+          66.946392,
+          25.065231
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3790,
+              "level": 3,
+              "externalID": "7928",
+              "name": "Haji Shahdad Qalandrani Goth",
+              "name_l1": "حاجی شہداد قلندرانی گوٹھ",
+              "slug": "/Lasbela_Haji_Shahdad_Qalandrani_Goth-7928",
+              "slug_l1": "/Lasbela_Haji_Shahdad_Qalandrani_Goth-7928"
+          }
+      ],
+      "hierarchyPath": "Haji Shahdad Qalandrani Goth Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7928",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3790",
+      "_highlightResult": {
+          "name": {
+              "value": "Haji Shahdad Qalandrani Goth",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3791,
+      "name": "Hub Chawki - Arabian Sea Road",
+      "name_l1": "حب چوکی - عریبین سِی روڈ",
+      "externalID": "7929",
+      "slug": "/Lasbela_Hub_Chawki___Arabian_Sea_Road-7929",
+      "slug_l1": "/Lasbela_Hub_Chawki___Arabian_Sea_Road-7929",
+      "_geoloc": {
+          "lat": 24.971665,
+          "lng": 66.77104
+      },
+      "geography": {
+          "lat": 24.971665,
+          "lng": 66.77104
+      },
+      "geo_point": [
+          66.77104,
+          24.971665
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3791,
+              "level": 3,
+              "externalID": "7929",
+              "name": "Hub Chawki - Arabian Sea Road",
+              "name_l1": "حب چوکی - عریبین سِی روڈ",
+              "slug": "/Lasbela_Hub_Chawki___Arabian_Sea_Road-7929",
+              "slug_l1": "/Lasbela_Hub_Chawki___Arabian_Sea_Road-7929"
+          }
+      ],
+      "hierarchyPath": "Hub Chawki - Arabian Sea Road Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7929",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3791",
+      "_highlightResult": {
+          "name": {
+              "value": "Hub Chawki - Arabian Sea Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3793,
+      "name": "Jam Mohammad Yousaf Colony",
+      "name_l1": "جام محمد یوسف کالونی",
+      "externalID": "7933",
+      "slug": "/Lasbela_Jam_Mohammad_Yousaf_Colony-7933",
+      "slug_l1": "/Lasbela_Jam_Mohammad_Yousaf_Colony-7933",
+      "_geoloc": {
+          "lat": 25.041729,
+          "lng": 66.878239
+      },
+      "geography": {
+          "lat": 25.041729,
+          "lng": 66.878239
+      },
+      "geo_point": [
+          66.878239,
+          25.041729
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3793,
+              "level": 3,
+              "externalID": "7933",
+              "name": "Jam Mohammad Yousaf Colony",
+              "name_l1": "جام محمد یوسف کالونی",
+              "slug": "/Lasbela_Jam_Mohammad_Yousaf_Colony-7933",
+              "slug_l1": "/Lasbela_Jam_Mohammad_Yousaf_Colony-7933"
+          }
+      ],
+      "hierarchyPath": "Jam Mohammad Yousaf Colony Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7933",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3793",
+      "_highlightResult": {
+          "name": {
+              "value": "Jam Mohammad Yousaf Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3794,
+      "name": "Khurkhera Kanraj Road",
+      "name_l1": "کھرخیرا کنراج روڈ",
+      "externalID": "7934",
+      "slug": "/Lasbela_Khurkhera_Kanraj_Road-7934",
+      "slug_l1": "/Lasbela_Khurkhera_Kanraj_Road-7934",
+      "_geoloc": {
+          "lat": 25.664467,
+          "lng": 66.924548
+      },
+      "geography": {
+          "lat": 25.664467,
+          "lng": 66.924548
+      },
+      "geo_point": [
+          66.924548,
+          25.664467
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3794,
+              "level": 3,
+              "externalID": "7934",
+              "name": "Khurkhera Kanraj Road",
+              "name_l1": "کھرخیرا کنراج روڈ",
+              "slug": "/Lasbela_Khurkhera_Kanraj_Road-7934",
+              "slug_l1": "/Lasbela_Khurkhera_Kanraj_Road-7934"
+          }
+      ],
+      "hierarchyPath": "Khurkhera Kanraj Road Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7934",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3794",
+      "_highlightResult": {
+          "name": {
+              "value": "Khurkhera Kanraj Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 39,
+      "name": "Lasbela",
+      "name_l1": "لسبیلہ",
+      "externalID": "548",
+      "slug": "/Lasbela-548",
+      "slug_l1": "/Lasbela-548",
+      "_geoloc": {
+          "lat": 25.839507,
+          "lng": 66.687658
+      },
+      "geography": {
+          "lat": 25.839507,
+          "lng": 66.687658
+      },
+      "geo_point": [
+          66.687658,
+          25.839507
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          }
+      ],
+      "hierarchyPath": "Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "548",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "39",
+      "_highlightResult": {
+          "name": {
+              "value": "Lasbela",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3795,
+      "name": "Liari",
+      "name_l1": "لیاری",
+      "externalID": "7935",
+      "slug": "/Lasbela_Liari-7935",
+      "slug_l1": "/Lasbela_Liari-7935",
+      "_geoloc": {
+          "lat": 25.688872,
+          "lng": 66.491661
+      },
+      "geography": {
+          "lat": 25.688872,
+          "lng": 66.491661
+      },
+      "geo_point": [
+          66.491661,
+          25.688872
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3795,
+              "level": 3,
+              "externalID": "7935",
+              "name": "Liari",
+              "name_l1": "لیاری",
+              "slug": "/Lasbela_Liari-7935",
+              "slug_l1": "/Lasbela_Liari-7935"
+          }
+      ],
+      "hierarchyPath": "Liari Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7935",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3795",
+      "_highlightResult": {
+          "name": {
+              "value": "Liari",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3796,
+      "name": "M 7 Link Road",
+      "name_l1": "ایم 7 لِنک روڈ",
+      "externalID": "7936",
+      "slug": "/Lasbela_M_7_Link_Road-7936",
+      "slug_l1": "/Lasbela_M_7_Link_Road-7936",
+      "_geoloc": {
+          "lat": 25.071217,
+          "lng": 66.949568
+      },
+      "geography": {
+          "lat": 25.071217,
+          "lng": 66.949568
+      },
+      "geo_point": [
+          66.949568,
+          25.071217
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3796,
+              "level": 3,
+              "externalID": "7936",
+              "name": "M 7 Link Road",
+              "name_l1": "ایم 7 لِنک روڈ",
+              "slug": "/Lasbela_M_7_Link_Road-7936",
+              "slug_l1": "/Lasbela_M_7_Link_Road-7936"
+          }
+      ],
+      "hierarchyPath": "M 7 Link Road Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7936",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3796",
+      "_highlightResult": {
+          "name": {
+              "value": "M 7 Link Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3797,
+      "name": "Madinatul Hikmat - Hub Chawki Road",
+      "name_l1": "مدینتہ الحکمت ۔ حب چوکی روڈ",
+      "externalID": "7937",
+      "slug": "/Lasbela_Madinatul_Hikmat___Hub_Chawki_Road-7937",
+      "slug_l1": "/Lasbela_Madinatul_Hikmat___Hub_Chawki_Road-7937",
+      "_geoloc": {
+          "lat": 25.079846,
+          "lng": 66.95785
+      },
+      "geography": {
+          "lat": 25.079846,
+          "lng": 66.95785
+      },
+      "geo_point": [
+          66.95785,
+          25.079846
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3797,
+              "level": 3,
+              "externalID": "7937",
+              "name": "Madinatul Hikmat - Hub Chawki Road",
+              "name_l1": "مدینتہ الحکمت ۔ حب چوکی روڈ",
+              "slug": "/Lasbela_Madinatul_Hikmat___Hub_Chawki_Road-7937",
+              "slug_l1": "/Lasbela_Madinatul_Hikmat___Hub_Chawki_Road-7937"
+          }
+      ],
+      "hierarchyPath": "Madinatul Hikmat - Hub Chawki Road Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7937",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3797",
+      "_highlightResult": {
+          "name": {
+              "value": "Madinatul Hikmat - Hub Chawki Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4836,
+      "name": "Mangiani",
+      "name_l1": "منگانی",
+      "externalID": "9845",
+      "slug": "/Lasbela_Mangiani-9845",
+      "slug_l1": "/Lasbela_Mangiani-9845",
+      "_geoloc": {
+          "lat": 25.097116,
+          "lng": 66.883179
+      },
+      "geography": {
+          "lat": 25.097116,
+          "lng": 66.883179
+      },
+      "geo_point": [
+          66.883179,
+          25.097116
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 4836,
+              "level": 3,
+              "externalID": "9845",
+              "name": "Mangiani",
+              "name_l1": "منگانی",
+              "slug": "/Lasbela_Mangiani-9845",
+              "slug_l1": "/Lasbela_Mangiani-9845"
+          }
+      ],
+      "hierarchyPath": "Mangiani Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9845",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4836",
+      "_highlightResult": {
+          "name": {
+              "value": "Mangiani",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3798,
+      "name": "Mondera Lasi Colony",
+      "name_l1": "مُنڈیرا لَسی کالونی",
+      "externalID": "7938",
+      "slug": "/Lasbela_Mondera_Lasi_Colony-7938",
+      "slug_l1": "/Lasbela_Mondera_Lasi_Colony-7938",
+      "_geoloc": {
+          "lat": 25.035732,
+          "lng": 66.883734
+      },
+      "geography": {
+          "lat": 25.035732,
+          "lng": 66.883734
+      },
+      "geo_point": [
+          66.883734,
+          25.035732
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3798,
+              "level": 3,
+              "externalID": "7938",
+              "name": "Mondera Lasi Colony",
+              "name_l1": "مُنڈیرا لَسی کالونی",
+              "slug": "/Lasbela_Mondera_Lasi_Colony-7938",
+              "slug_l1": "/Lasbela_Mondera_Lasi_Colony-7938"
+          }
+      ],
+      "hierarchyPath": "Mondera Lasi Colony Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7938",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3798",
+      "_highlightResult": {
+          "name": {
+              "value": "Mondera Lasi Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 416,
+      "name": "Mouza Bonadi Sarkar",
+      "name_l1": "موضع بونادی سرکار",
+      "externalID": "550",
+      "slug": "/Lasbela_Mouza_Bonadi_Sarkar-550",
+      "slug_l1": "/Lasbela_Mouza_Bonadi_Sarkar-550",
+      "_geoloc": {
+          "lat": 25.821552,
+          "lng": 66.749884
+      },
+      "geography": {
+          "lat": 25.821552,
+          "lng": 66.749884
+      },
+      "geo_point": [
+          66.749884,
+          25.821552
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 416,
+              "level": 3,
+              "externalID": "550",
+              "name": "Mouza Bonadi Sarkar",
+              "name_l1": "موضع بونادی سرکار",
+              "slug": "/Lasbela_Mouza_Bonadi_Sarkar-550",
+              "slug_l1": "/Lasbela_Mouza_Bonadi_Sarkar-550"
+          }
+      ],
+      "hierarchyPath": "Mouza Bonadi Sarkar Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "550",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "416",
+      "_highlightResult": {
+          "name": {
+              "value": "Mouza Bonadi Sarkar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3799,
+      "name": "Mouza Kund",
+      "name_l1": "موضع کُنڈ",
+      "externalID": "7939",
+      "slug": "/Lasbela_Mouza_Kund-7939",
+      "slug_l1": "/Lasbela_Mouza_Kund-7939",
+      "_geoloc": {
+          "lat": 24.928941,
+          "lng": 66.710529
+      },
+      "geography": {
+          "lat": 24.928941,
+          "lng": 66.710529
+      },
+      "geo_point": [
+          66.710529,
+          24.928941
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3799,
+              "level": 3,
+              "externalID": "7939",
+              "name": "Mouza Kund",
+              "name_l1": "موضع کُنڈ",
+              "slug": "/Lasbela_Mouza_Kund-7939",
+              "slug_l1": "/Lasbela_Mouza_Kund-7939"
+          }
+      ],
+      "hierarchyPath": "Mouza Kund Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7939",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3799",
+      "_highlightResult": {
+          "name": {
+              "value": "Mouza Kund",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 420,
+      "name": "Mouza Pat",
+      "name_l1": "موضع پَت",
+      "externalID": "554",
+      "slug": "/Lasbela_Mouza_Pat-554",
+      "slug_l1": "/Lasbela_Mouza_Pat-554",
+      "_geoloc": {
+          "lat": 25.53563,
+          "lng": 66.856574
+      },
+      "geography": {
+          "lat": 25.53563,
+          "lng": 66.856574
+      },
+      "geo_point": [
+          66.856574,
+          25.53563
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 420,
+              "level": 3,
+              "externalID": "554",
+              "name": "Mouza Pat",
+              "name_l1": "موضع پَت",
+              "slug": "/Lasbela_Mouza_Pat-554",
+              "slug_l1": "/Lasbela_Mouza_Pat-554"
+          }
+      ],
+      "hierarchyPath": "Mouza Pat Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "554",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "420",
+      "_highlightResult": {
+          "name": {
+              "value": "Mouza Pat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 417,
+      "name": "Mouza Qalander",
+      "name_l1": "موضع قلندر",
+      "externalID": "551",
+      "slug": "/Lasbela_Mouza_Qalander-551",
+      "slug_l1": "/Lasbela_Mouza_Qalander-551",
+      "_geoloc": {
+          "lat": 26.164783,
+          "lng": 66.676953
+      },
+      "geography": {
+          "lat": 26.164783,
+          "lng": 66.676953
+      },
+      "geo_point": [
+          66.676953,
+          26.164783
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 417,
+              "level": 3,
+              "externalID": "551",
+              "name": "Mouza Qalander",
+              "name_l1": "موضع قلندر",
+              "slug": "/Lasbela_Mouza_Qalander-551",
+              "slug_l1": "/Lasbela_Mouza_Qalander-551"
+          }
+      ],
+      "hierarchyPath": "Mouza Qalander Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "551",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "417",
+      "_highlightResult": {
+          "name": {
+              "value": "Mouza Qalander",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 421,
+      "name": "Mouza Serdna",
+      "name_l1": "موضع سردنا",
+      "externalID": "555",
+      "slug": "/Lasbela_Mouza_Serdna-555",
+      "slug_l1": "/Lasbela_Mouza_Serdna-555",
+      "_geoloc": {
+          "lat": 25.660604,
+          "lng": 67.069056
+      },
+      "geography": {
+          "lat": 25.660604,
+          "lng": 67.069056
+      },
+      "geo_point": [
+          67.069056,
+          25.660604
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 421,
+              "level": 3,
+              "externalID": "555",
+              "name": "Mouza Serdna",
+              "name_l1": "موضع سردنا",
+              "slug": "/Lasbela_Mouza_Serdna-555",
+              "slug_l1": "/Lasbela_Mouza_Serdna-555"
+          }
+      ],
+      "hierarchyPath": "Mouza Serdna Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "555",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "421",
+      "_highlightResult": {
+          "name": {
+              "value": "Mouza Serdna",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 418,
+      "name": "Mouza Tappa",
+      "name_l1": "موضع ٹَپہ",
+      "externalID": "552",
+      "slug": "/Lasbela_Mouza_Tappa-552",
+      "slug_l1": "/Lasbela_Mouza_Tappa-552",
+      "_geoloc": {
+          "lat": 25.682937,
+          "lng": 66.742846
+      },
+      "geography": {
+          "lat": 25.682937,
+          "lng": 66.742846
+      },
+      "geo_point": [
+          66.742846,
+          25.682937
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 418,
+              "level": 3,
+              "externalID": "552",
+              "name": "Mouza Tappa",
+              "name_l1": "موضع ٹَپہ",
+              "slug": "/Lasbela_Mouza_Tappa-552",
+              "slug_l1": "/Lasbela_Mouza_Tappa-552"
+          }
+      ],
+      "hierarchyPath": "Mouza Tappa Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "552",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "418",
+      "_highlightResult": {
+          "name": {
+              "value": "Mouza Tappa",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3800,
+      "name": "Mubarik Goth",
+      "name_l1": "مبارک گوٹھ",
+      "externalID": "7940",
+      "slug": "/Lasbela_Mubarik_Goth-7940",
+      "slug_l1": "/Lasbela_Mubarik_Goth-7940",
+      "_geoloc": {
+          "lat": 24.853886,
+          "lng": 66.662951
+      },
+      "geography": {
+          "lat": 24.853886,
+          "lng": 66.662951
+      },
+      "geo_point": [
+          66.662951,
+          24.853886
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3800,
+              "level": 3,
+              "externalID": "7940",
+              "name": "Mubarik Goth",
+              "name_l1": "مبارک گوٹھ",
+              "slug": "/Lasbela_Mubarik_Goth-7940",
+              "slug_l1": "/Lasbela_Mubarik_Goth-7940"
+          }
+      ],
+      "hierarchyPath": "Mubarik Goth Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7940",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3800",
+      "_highlightResult": {
+          "name": {
+              "value": "Mubarik Goth",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 415,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "549",
+      "slug": "/Lasbela_Others-549",
+      "slug_l1": "/Lasbela_Others-549",
+      "_geoloc": {
+          "lat": 25.8377,
+          "lng": 66.5224
+      },
+      "geography": {
+          "lat": 25.8377,
+          "lng": 66.5224
+      },
+      "geo_point": [
+          66.5224,
+          25.8377
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 415,
+              "level": 3,
+              "externalID": "549",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Lasbela_Others-549",
+              "slug_l1": "/Lasbela_Others-549"
+          }
+      ],
+      "hierarchyPath": "Others Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "549",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "415",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3802,
+      "name": "Sheikh Mohammad Akram Lasi Colony",
+      "name_l1": "شیخ محمد اکرم لَسی کالونی",
+      "externalID": "7942",
+      "slug": "/Lasbela_Sheikh_Mohammad_Akram_Lasi_Colony-7942",
+      "slug_l1": "/Lasbela_Sheikh_Mohammad_Akram_Lasi_Colony-7942",
+      "_geoloc": {
+          "lat": 25.026185,
+          "lng": 66.878423
+      },
+      "geography": {
+          "lat": 25.026185,
+          "lng": 66.878423
+      },
+      "geo_point": [
+          66.878423,
+          25.026185
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3802,
+              "level": 3,
+              "externalID": "7942",
+              "name": "Sheikh Mohammad Akram Lasi Colony",
+              "name_l1": "شیخ محمد اکرم لَسی کالونی",
+              "slug": "/Lasbela_Sheikh_Mohammad_Akram_Lasi_Colony-7942",
+              "slug_l1": "/Lasbela_Sheikh_Mohammad_Akram_Lasi_Colony-7942"
+          }
+      ],
+      "hierarchyPath": "Sheikh Mohammad Akram Lasi Colony Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7942",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3802",
+      "_highlightResult": {
+          "name": {
+              "value": "Sheikh Mohammad Akram Lasi Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 422,
+      "name": "Sonmiani Port",
+      "name_l1": "سُنمیانی پورٹ",
+      "externalID": "556",
+      "slug": "/Lasbela_Sonmiani_Port-556",
+      "slug_l1": "/Lasbela_Sonmiani_Port-556",
+      "_geoloc": {
+          "lat": 25.425447,
+          "lng": 66.595073
+      },
+      "geography": {
+          "lat": 25.425447,
+          "lng": 66.595073
+      },
+      "geo_point": [
+          66.595073,
+          25.425447
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 422,
+              "level": 3,
+              "externalID": "556",
+              "name": "Sonmiani Port",
+              "name_l1": "سُنمیانی پورٹ",
+              "slug": "/Lasbela_Sonmiani_Port-556",
+              "slug_l1": "/Lasbela_Sonmiani_Port-556"
+          }
+      ],
+      "hierarchyPath": "Sonmiani Port Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "556",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "422",
+      "_highlightResult": {
+          "name": {
+              "value": "Sonmiani Port",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14375,
+      "name": "Taradre",
+      "name_l1": "ترادرے",
+      "externalID": "15868",
+      "slug": "/Lasbela_Winder-15868",
+      "slug_l1": "/Lasbela_Winder-15868",
+      "_geoloc": {
+          "lat": 25.454543101377,
+          "lng": 66.899647699427
+      },
+      "geography": {
+          "lat": 25.454543101377,
+          "lng": 66.899647699427
+      },
+      "geo_point": [
+          66.899647699427,
+          25.454543101377
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 14375,
+              "level": 3,
+              "externalID": "15868",
+              "name": "Taradre",
+              "name_l1": "ترادرے",
+              "slug": "/Lasbela_Winder-15868",
+              "slug_l1": "/Lasbela_Winder-15868"
+          }
+      ],
+      "hierarchyPath": "Taradre Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15868",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14375",
+      "_highlightResult": {
+          "name": {
+              "value": "Taradre",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3803,
+      "name": "Uthal",
+      "name_l1": "اُتھل",
+      "externalID": "7943",
+      "slug": "/Lasbela_Uthal-7943",
+      "slug_l1": "/Lasbela_Uthal-7943",
+      "_geoloc": {
+          "lat": 25.799582,
+          "lng": 66.618004
+      },
+      "geography": {
+          "lat": 25.799582,
+          "lng": 66.618004
+      },
+      "geo_point": [
+          66.618004,
+          25.799582
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 39,
+              "level": 2,
+              "externalID": "548",
+              "name": "Lasbela",
+              "name_l1": "لسبیلہ",
+              "slug": "/Lasbela-548",
+              "slug_l1": "/Lasbela-548"
+          },
+          {
+              "id": 3803,
+              "level": 3,
+              "externalID": "7943",
+              "name": "Uthal",
+              "name_l1": "اُتھل",
+              "slug": "/Lasbela_Uthal-7943",
+              "slug_l1": "/Lasbela_Uthal-7943"
+          }
+      ],
+      "hierarchyPath": "Uthal Lasbela Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7943",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3803",
+      "_highlightResult": {
+          "name": {
+              "value": "Uthal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

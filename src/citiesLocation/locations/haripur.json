@@ -1,0 +1,4780 @@
+[
+  {
+      "id": 53,
+      "name": "Haripur",
+      "name_l1": "ہری پور",
+      "externalID": "1048",
+      "slug": "/Haripur-1048",
+      "slug_l1": "/Haripur-1048",
+      "_geoloc": {
+          "lat": 33.998899,
+          "lng": 72.934729
+      },
+      "geography": {
+          "lat": 33.998899,
+          "lng": 72.934729
+      },
+      "geo_point": [
+          72.934729,
+          33.998899
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          }
+      ],
+      "hierarchyPath": "Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 168,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1048",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "53",
+      "_highlightResult": {
+          "name": {
+              "value": "Haripur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13618,
+      "name": "Pine City",
+      "name_l1": "پائن سٹی",
+      "externalID": "15086",
+      "slug": "/Haripur_Pine_City-15086",
+      "slug_l1": "/Haripur_Pine_City-15086",
+      "_geoloc": {
+          "lat": 33.962007,
+          "lng": 72.83771
+      },
+      "geography": {
+          "lat": 33.962007,
+          "lng": 72.83771
+      },
+      "geo_point": [
+          72.83771,
+          33.962007
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 13618,
+              "level": 3,
+              "externalID": "15086",
+              "name": "Pine City",
+              "name_l1": "پائن سٹی",
+              "slug": "/Haripur_Pine_City-15086",
+              "slug_l1": "/Haripur_Pine_City-15086"
+          }
+      ],
+      "hierarchyPath": "Pine City Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 66,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15086",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "13618",
+      "_highlightResult": {
+          "name": {
+              "value": "Pine City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21362,
+      "name": "Pine City Phase 1",
+      "name_l1": "پائن سٹی فیز 1",
+      "externalID": "21950",
+      "slug": "/Haripur_Pine_City_Pine_City_Phase_1-21950",
+      "slug_l1": "/Haripur_Pine_City_Pine_City_Phase_1-21950",
+      "_geoloc": {
+          "lat": 33.826784677278,
+          "lng": 73.127568778872
+      },
+      "geography": {
+          "lat": 33.826784677278,
+          "lng": 73.127568778872
+      },
+      "geo_point": [
+          73.127568778872,
+          33.826784677278
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 13618,
+              "level": 3,
+              "externalID": "15086",
+              "name": "Pine City",
+              "name_l1": "پائن سٹی",
+              "slug": "/Haripur_Pine_City-15086",
+              "slug_l1": "/Haripur_Pine_City-15086"
+          },
+          {
+              "id": 21362,
+              "level": 4,
+              "externalID": "21950",
+              "name": "Pine City Phase 1",
+              "name_l1": "پائن سٹی فیز 1",
+              "slug": "/Haripur_Pine_City_Pine_City_Phase_1-21950",
+              "slug_l1": "/Haripur_Pine_City_Pine_City_Phase_1-21950"
+          }
+      ],
+      "hierarchyPath": "Pine City Phase 1 Pine City Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 36,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21950",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21362",
+      "_highlightResult": {
+          "name": {
+              "value": "Pine City Phase 1",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1001,
+      "name": "Khanpur",
+      "name_l1": "خانپور",
+      "externalID": "1237",
+      "slug": "/Haripur_Khanpur-1237",
+      "slug_l1": "/Haripur_Khanpur-1237",
+      "_geoloc": {
+          "lat": 33.802034,
+          "lng": 72.907668
+      },
+      "geography": {
+          "lat": 33.802034,
+          "lng": 72.907668
+      },
+      "geo_point": [
+          72.907668,
+          33.802034
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 1001,
+              "level": 3,
+              "externalID": "1237",
+              "name": "Khanpur",
+              "name_l1": "خانپور",
+              "slug": "/Haripur_Khanpur-1237",
+              "slug_l1": "/Haripur_Khanpur-1237"
+          }
+      ],
+      "hierarchyPath": "Khanpur Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 33,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1237",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1001",
+      "_highlightResult": {
+          "name": {
+              "value": "Khanpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21363,
+      "name": "Pine City Phase 2",
+      "name_l1": "پائن سٹی فیز 2",
+      "externalID": "21951",
+      "slug": "/Haripur_Pine_City_Pine_City_Phase_2-21951",
+      "slug_l1": "/Haripur_Pine_City_Pine_City_Phase_2-21951",
+      "_geoloc": {
+          "lat": 33.826784677278,
+          "lng": 73.127568778872
+      },
+      "geography": {
+          "lat": 33.826784677278,
+          "lng": 73.127568778872
+      },
+      "geo_point": [
+          73.127568778872,
+          33.826784677278
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 13618,
+              "level": 3,
+              "externalID": "15086",
+              "name": "Pine City",
+              "name_l1": "پائن سٹی",
+              "slug": "/Haripur_Pine_City-15086",
+              "slug_l1": "/Haripur_Pine_City-15086"
+          },
+          {
+              "id": 21363,
+              "level": 4,
+              "externalID": "21951",
+              "name": "Pine City Phase 2",
+              "name_l1": "پائن سٹی فیز 2",
+              "slug": "/Haripur_Pine_City_Pine_City_Phase_2-21951",
+              "slug_l1": "/Haripur_Pine_City_Pine_City_Phase_2-21951"
+          }
+      ],
+      "hierarchyPath": "Pine City Phase 2 Pine City Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 30,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21951",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21363",
+      "_highlightResult": {
+          "name": {
+              "value": "Pine City Phase 2",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15825,
+      "name": "Khanpur Road",
+      "name_l1": "خان پور روڈ",
+      "externalID": "17179",
+      "slug": "/Haripur_Khanpur_Road-17179",
+      "slug_l1": "/Haripur_Khanpur_Road-17179",
+      "_geoloc": {
+          "lat": 33.887574,
+          "lng": 72.91821
+      },
+      "geography": {
+          "lat": 33.887574,
+          "lng": 72.91821
+      },
+      "geo_point": [
+          72.91821,
+          33.887574
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15825,
+              "level": 3,
+              "externalID": "17179",
+              "name": "Khanpur Road",
+              "name_l1": "خان پور روڈ",
+              "slug": "/Haripur_Khanpur_Road-17179",
+              "slug_l1": "/Haripur_Khanpur_Road-17179"
+          }
+      ],
+      "hierarchyPath": "Khanpur Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 24,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17179",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "15825",
+      "_highlightResult": {
+          "name": {
+              "value": "Khanpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21043,
+      "name": "Lakeshore City",
+      "name_l1": "لیکشور سٹی",
+      "externalID": "21639",
+      "slug": "/Haripur_Khanpur_Lakeshore_City-21639",
+      "slug_l1": "/Haripur_Khanpur_Lakeshore_City-21639",
+      "_geoloc": {
+          "lat": 33.808431217675,
+          "lng": 72.971018341109
+      },
+      "geography": {
+          "lat": 33.808431217675,
+          "lng": 72.971018341109
+      },
+      "geo_point": [
+          72.971018341109,
+          33.808431217675
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 1001,
+              "level": 3,
+              "externalID": "1237",
+              "name": "Khanpur",
+              "name_l1": "خانپور",
+              "slug": "/Haripur_Khanpur-1237",
+              "slug_l1": "/Haripur_Khanpur-1237"
+          },
+          {
+              "id": 21043,
+              "level": 4,
+              "externalID": "21639",
+              "name": "Lakeshore City",
+              "name_l1": "لیکشور سٹی",
+              "slug": "/Haripur_Khanpur_Lakeshore_City-21639",
+              "slug_l1": "/Haripur_Khanpur_Lakeshore_City-21639"
+          }
+      ],
+      "hierarchyPath": "Lakeshore City Khanpur Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 21,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21639",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21043",
+      "_highlightResult": {
+          "name": {
+              "value": "Lakeshore City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 793,
+      "name": "Hattar Industrial Estate",
+      "name_l1": "حطار انڈسٹریل اسٹیٹ",
+      "externalID": "991",
+      "slug": "/Haripur_Hattar_Industrial_Estate-991",
+      "slug_l1": "/Haripur_Hattar_Industrial_Estate-991",
+      "_geoloc": {
+          "lat": 33.905613,
+          "lng": 72.857695
+      },
+      "geography": {
+          "lat": 33.905613,
+          "lng": 72.857695
+      },
+      "geo_point": [
+          72.857695,
+          33.905613
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 793,
+              "level": 3,
+              "externalID": "991",
+              "name": "Hattar Industrial Estate",
+              "name_l1": "حطار انڈسٹریل اسٹیٹ",
+              "slug": "/Haripur_Hattar_Industrial_Estate-991",
+              "slug_l1": "/Haripur_Hattar_Industrial_Estate-991"
+          }
+      ],
+      "hierarchyPath": "Hattar Industrial Estate Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 18,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "991",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "793",
+      "_highlightResult": {
+          "name": {
+              "value": "Hattar Industrial Estate",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17312,
+      "name": "Tomorrow Land Country Club & Resorts",
+      "name_l1": "ٹومورو لینڈ کنٹری کلب اینڈ ریزورٹس",
+      "externalID": "18434",
+      "slug": "/Haripur_Khanpur_Road_Tomorrow_Land_Country_Club___Resorts-18434",
+      "slug_l1": "/Haripur_Khanpur_Road_Tomorrow_Land_Country_Club___Resorts-18434",
+      "_geoloc": {
+          "lat": 33.812955,
+          "lng": 72.918651
+      },
+      "geography": {
+          "lat": 33.812955,
+          "lng": 72.918651
+      },
+      "geo_point": [
+          72.918651,
+          33.812955
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15825,
+              "level": 3,
+              "externalID": "17179",
+              "name": "Khanpur Road",
+              "name_l1": "خان پور روڈ",
+              "slug": "/Haripur_Khanpur_Road-17179",
+              "slug_l1": "/Haripur_Khanpur_Road-17179"
+          },
+          {
+              "id": 17312,
+              "level": 4,
+              "externalID": "18434",
+              "name": "Tomorrow Land Country Club & Resorts",
+              "name_l1": "ٹومورو لینڈ کنٹری کلب اینڈ ریزورٹس",
+              "slug": "/Haripur_Khanpur_Road_Tomorrow_Land_Country_Club___Resorts-18434",
+              "slug_l1": "/Haripur_Khanpur_Road_Tomorrow_Land_Country_Club___Resorts-18434"
+          }
+      ],
+      "hierarchyPath": "Tomorrow Land Country Club & Resorts Khanpur Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 18,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18434",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17312",
+      "_highlightResult": {
+          "name": {
+              "value": "Tomorrow Land Country Club & Resorts",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 934,
+      "name": "Hattar",
+      "name_l1": "حطار",
+      "externalID": "1158",
+      "slug": "/Haripur_Hattar-1158",
+      "slug_l1": "/Haripur_Hattar-1158",
+      "_geoloc": {
+          "lat": 33.849817,
+          "lng": 72.85424
+      },
+      "geography": {
+          "lat": 33.849817,
+          "lng": 72.85424
+      },
+      "geo_point": [
+          72.85424,
+          33.849817
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 934,
+              "level": 3,
+              "externalID": "1158",
+              "name": "Hattar",
+              "name_l1": "حطار",
+              "slug": "/Haripur_Hattar-1158",
+              "slug_l1": "/Haripur_Hattar-1158"
+          }
+      ],
+      "hierarchyPath": "Hattar Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1158",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "934",
+      "_highlightResult": {
+          "name": {
+              "value": "Hattar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3398,
+      "name": "Karakoram Highway",
+      "name_l1": "قراقرم ہائی وے",
+      "externalID": "7451",
+      "slug": "/Haripur_Karakoram_Highway-7451",
+      "slug_l1": "/Haripur_Karakoram_Highway-7451",
+      "_geoloc": {
+          "lat": 33.994718,
+          "lng": 72.938812
+      },
+      "geography": {
+          "lat": 33.994718,
+          "lng": 72.938812
+      },
+      "geo_point": [
+          72.938812,
+          33.994718
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3398,
+              "level": 3,
+              "externalID": "7451",
+              "name": "Karakoram Highway",
+              "name_l1": "قراقرم ہائی وے",
+              "slug": "/Haripur_Karakoram_Highway-7451",
+              "slug_l1": "/Haripur_Karakoram_Highway-7451"
+          }
+      ],
+      "hierarchyPath": "Karakoram Highway Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7451",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3398",
+      "_highlightResult": {
+          "name": {
+              "value": "Karakoram Highway",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15816,
+      "name": "Kot Najibullah",
+      "name_l1": "کوٹ نجیب اللہ",
+      "externalID": "17173",
+      "slug": "/Haripur_Kot_Najibullah-17173",
+      "slug_l1": "/Haripur_Kot_Najibullah-17173",
+      "_geoloc": {
+          "lat": 33.933888,
+          "lng": 72.853986
+      },
+      "geography": {
+          "lat": 33.933888,
+          "lng": 72.853986
+      },
+      "geo_point": [
+          72.853986,
+          33.933888
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15816,
+              "level": 3,
+              "externalID": "17173",
+              "name": "Kot Najibullah",
+              "name_l1": "کوٹ نجیب اللہ",
+              "slug": "/Haripur_Kot_Najibullah-17173",
+              "slug_l1": "/Haripur_Kot_Najibullah-17173"
+          }
+      ],
+      "hierarchyPath": "Kot Najibullah Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17173",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15816",
+      "_highlightResult": {
+          "name": {
+              "value": "Kot Najibullah",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3399,
+      "name": "Main Bazar Road",
+      "name_l1": "مین بازار روڈ",
+      "externalID": "7452",
+      "slug": "/Haripur_Main_Bazar_Road-7452",
+      "slug_l1": "/Haripur_Main_Bazar_Road-7452",
+      "_geoloc": {
+          "lat": 33.998374,
+          "lng": 72.933587
+      },
+      "geography": {
+          "lat": 33.998374,
+          "lng": 72.933587
+      },
+      "geo_point": [
+          72.933587,
+          33.998374
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3399,
+              "level": 3,
+              "externalID": "7452",
+              "name": "Main Bazar Road",
+              "name_l1": "مین بازار روڈ",
+              "slug": "/Haripur_Main_Bazar_Road-7452",
+              "slug_l1": "/Haripur_Main_Bazar_Road-7452"
+          }
+      ],
+      "hierarchyPath": "Main Bazar Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7452",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3399",
+      "_highlightResult": {
+          "name": {
+              "value": "Main Bazar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19971,
+      "name": "Mankarai Road",
+      "name_l1": "منکرائی روڈ",
+      "externalID": "20751",
+      "slug": "/Haripur_Mankarai_Road-20751",
+      "slug_l1": "/Haripur_Mankarai_Road-20751",
+      "_geoloc": {
+          "lat": 34.000588,
+          "lng": 72.948601
+      },
+      "geography": {
+          "lat": 34.000588,
+          "lng": 72.948601
+      },
+      "geo_point": [
+          72.948601,
+          34.000588
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 19971,
+              "level": 3,
+              "externalID": "20751",
+              "name": "Mankarai Road",
+              "name_l1": "منکرائی روڈ",
+              "slug": "/Haripur_Mankarai_Road-20751",
+              "slug_l1": "/Haripur_Mankarai_Road-20751"
+          }
+      ],
+      "hierarchyPath": "Mankarai Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20751",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19971",
+      "_highlightResult": {
+          "name": {
+              "value": "Mankarai Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16111,
+      "name": "Pir Sohawa Road",
+      "name_l1": "پیر سوہاوہ روڈ",
+      "externalID": "17390",
+      "slug": "/Haripur_Pir_Sohawa_Road-17390",
+      "slug_l1": "/Haripur_Pir_Sohawa_Road-17390",
+      "_geoloc": {
+          "lat": 33.840397,
+          "lng": 73.136143
+      },
+      "geography": {
+          "lat": 33.840397,
+          "lng": 73.136143
+      },
+      "geo_point": [
+          73.136143,
+          33.840397
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 16111,
+              "level": 3,
+              "externalID": "17390",
+              "name": "Pir Sohawa Road",
+              "name_l1": "پیر سوہاوہ روڈ",
+              "slug": "/Haripur_Pir_Sohawa_Road-17390",
+              "slug_l1": "/Haripur_Pir_Sohawa_Road-17390"
+          }
+      ],
+      "hierarchyPath": "Pir Sohawa Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17390",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16111",
+      "_highlightResult": {
+          "name": {
+              "value": "Pir Sohawa Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1021,
+      "name": "Sarai Saleh",
+      "name_l1": "سرائے صالح",
+      "externalID": "1257",
+      "slug": "/Haripur_Serai_Saleh-1257",
+      "slug_l1": "/Haripur_Serai_Saleh-1257",
+      "_geoloc": {
+          "lat": 33.986941,
+          "lng": 72.980015
+      },
+      "geography": {
+          "lat": 33.986941,
+          "lng": 72.980015
+      },
+      "geo_point": [
+          72.980015,
+          33.986941
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 1021,
+              "level": 3,
+              "externalID": "1257",
+              "name": "Sarai Saleh",
+              "name_l1": "سرائے صالح",
+              "slug": "/Haripur_Serai_Saleh-1257",
+              "slug_l1": "/Haripur_Serai_Saleh-1257"
+          }
+      ],
+      "hierarchyPath": "Sarai Saleh Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1257",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1021",
+      "_highlightResult": {
+          "name": {
+              "value": "Sarai Saleh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22373,
+      "name": "University Road",
+      "name_l1": "یونیورسٹی روڈ",
+      "externalID": "22422",
+      "slug": "/Haripur_University_Road-22422",
+      "slug_l1": "/Haripur_University_Road-22422",
+      "_geoloc": {
+          "lat": 33.978211,
+          "lng": 72.911095
+      },
+      "geography": {
+          "lat": 33.978211,
+          "lng": 72.911095
+      },
+      "geo_point": [
+          72.911095,
+          33.978211
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 22373,
+              "level": 3,
+              "externalID": "22422",
+              "name": "University Road",
+              "name_l1": "یونیورسٹی روڈ",
+              "slug": "/Haripur_University_Road-22422",
+              "slug_l1": "/Haripur_University_Road-22422"
+          }
+      ],
+      "hierarchyPath": "University Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22422",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22373",
+      "_highlightResult": {
+          "name": {
+              "value": "University Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15822,
+      "name": "Bagra",
+      "name_l1": "باگڑہ",
+      "externalID": "17176",
+      "slug": "/Haripur_Bagra-17176",
+      "slug_l1": "/Haripur_Bagra-17176",
+      "_geoloc": {
+          "lat": 33.975169,
+          "lng": 73.078307
+      },
+      "geography": {
+          "lat": 33.975169,
+          "lng": 73.078307
+      },
+      "geo_point": [
+          73.078307,
+          33.975169
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15822,
+              "level": 3,
+              "externalID": "17176",
+              "name": "Bagra",
+              "name_l1": "باگڑہ",
+              "slug": "/Haripur_Bagra-17176",
+              "slug_l1": "/Haripur_Bagra-17176"
+          }
+      ],
+      "hierarchyPath": "Bagra Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17176",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15822",
+      "_highlightResult": {
+          "name": {
+              "value": "Bagra",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15823,
+      "name": "Chak Shah Muhammad",
+      "name_l1": "چک شاہ محمد",
+      "externalID": "17177",
+      "slug": "/Haripur_Chak_Shah_Muhammad-17177",
+      "slug_l1": "/Haripur_Chak_Shah_Muhammad-17177",
+      "_geoloc": {
+          "lat": 33.990662,
+          "lng": 72.960668
+      },
+      "geography": {
+          "lat": 33.990662,
+          "lng": 72.960668
+      },
+      "geo_point": [
+          72.960668,
+          33.990662
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15823,
+              "level": 3,
+              "externalID": "17177",
+              "name": "Chak Shah Muhammad",
+              "name_l1": "چک شاہ محمد",
+              "slug": "/Haripur_Chak_Shah_Muhammad-17177",
+              "slug_l1": "/Haripur_Chak_Shah_Muhammad-17177"
+          }
+      ],
+      "hierarchyPath": "Chak Shah Muhammad Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17177",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15823",
+      "_highlightResult": {
+          "name": {
+              "value": "Chak Shah Muhammad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17298,
+      "name": "Chechian",
+      "name_l1": "چیچیاں",
+      "externalID": "18420",
+      "slug": "/Haripur_Chechian-18420",
+      "slug_l1": "/Haripur_Chechian-18420",
+      "_geoloc": {
+          "lat": 33.905894,
+          "lng": 72.641244
+      },
+      "geography": {
+          "lat": 33.905894,
+          "lng": 72.641244
+      },
+      "geo_point": [
+          72.641244,
+          33.905894
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 17298,
+              "level": 3,
+              "externalID": "18420",
+              "name": "Chechian",
+              "name_l1": "چیچیاں",
+              "slug": "/Haripur_Chechian-18420",
+              "slug_l1": "/Haripur_Chechian-18420"
+          }
+      ],
+      "hierarchyPath": "Chechian Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18420",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17298",
+      "_highlightResult": {
+          "name": {
+              "value": "Chechian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3394,
+      "name": "Chohar",
+      "name_l1": "چوہار",
+      "externalID": "7447",
+      "slug": "/Haripur_Chohar-7447",
+      "slug_l1": "/Haripur_Chohar-7447",
+      "_geoloc": {
+          "lat": 34.004751,
+          "lng": 72.920208
+      },
+      "geography": {
+          "lat": 34.004751,
+          "lng": 72.920208
+      },
+      "geo_point": [
+          72.920208,
+          34.004751
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3394,
+              "level": 3,
+              "externalID": "7447",
+              "name": "Chohar",
+              "name_l1": "چوہار",
+              "slug": "/Haripur_Chohar-7447",
+              "slug_l1": "/Haripur_Chohar-7447"
+          }
+      ],
+      "hierarchyPath": "Chohar Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7447",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3394",
+      "_highlightResult": {
+          "name": {
+              "value": "Chohar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3395,
+      "name": "Circular Road",
+      "name_l1": "سرکلر روڈ",
+      "externalID": "7448",
+      "slug": "/Haripur_Circular_Road-7448",
+      "slug_l1": "/Haripur_Circular_Road-7448",
+      "_geoloc": {
+          "lat": 34.000527,
+          "lng": 72.935915
+      },
+      "geography": {
+          "lat": 34.000527,
+          "lng": 72.935915
+      },
+      "geo_point": [
+          72.935915,
+          34.000527
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3395,
+              "level": 3,
+              "externalID": "7448",
+              "name": "Circular Road",
+              "name_l1": "سرکلر روڈ",
+              "slug": "/Haripur_Circular_Road-7448",
+              "slug_l1": "/Haripur_Circular_Road-7448"
+          }
+      ],
+      "hierarchyPath": "Circular Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7448",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3395",
+      "_highlightResult": {
+          "name": {
+              "value": "Circular Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3396,
+      "name": "Darvesh",
+      "name_l1": "درویش",
+      "externalID": "7449",
+      "slug": "/Haripur_Darvesh-7449",
+      "slug_l1": "/Haripur_Darvesh-7449",
+      "_geoloc": {
+          "lat": 33.991694,
+          "lng": 72.918277
+      },
+      "geography": {
+          "lat": 33.991694,
+          "lng": 72.918277
+      },
+      "geo_point": [
+          72.918277,
+          33.991694
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3396,
+              "level": 3,
+              "externalID": "7449",
+              "name": "Darvesh",
+              "name_l1": "درویش",
+              "slug": "/Haripur_Darvesh-7449",
+              "slug_l1": "/Haripur_Darvesh-7449"
+          }
+      ],
+      "hierarchyPath": "Darvesh Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7449",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3396",
+      "_highlightResult": {
+          "name": {
+              "value": "Darvesh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11829,
+      "name": "Dheenda Road",
+      "name_l1": "ڈینڈا روڈ",
+      "externalID": "13352",
+      "slug": "/Haripur_Dheenda_Road-13352",
+      "slug_l1": "/Haripur_Dheenda_Road-13352",
+      "_geoloc": {
+          "lat": 34.001333,
+          "lng": 72.898886
+      },
+      "geography": {
+          "lat": 34.001333,
+          "lng": 72.898886
+      },
+      "geo_point": [
+          72.898886,
+          34.001333
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 11829,
+              "level": 3,
+              "externalID": "13352",
+              "name": "Dheenda Road",
+              "name_l1": "ڈینڈا روڈ",
+              "slug": "/Haripur_Dheenda_Road-13352",
+              "slug_l1": "/Haripur_Dheenda_Road-13352"
+          }
+      ],
+      "hierarchyPath": "Dheenda Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13352",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11829",
+      "_highlightResult": {
+          "name": {
+              "value": "Dheenda Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3397,
+      "name": "Gehr Khan",
+      "name_l1": "گیر خان",
+      "externalID": "7450",
+      "slug": "/Haripur_Gehr_Khan-7450",
+      "slug_l1": "/Haripur_Gehr_Khan-7450",
+      "_geoloc": {
+          "lat": 33.988278,
+          "lng": 72.95032
+      },
+      "geography": {
+          "lat": 33.988278,
+          "lng": 72.95032
+      },
+      "geo_point": [
+          72.95032,
+          33.988278
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3397,
+              "level": 3,
+              "externalID": "7450",
+              "name": "Gehr Khan",
+              "name_l1": "گیر خان",
+              "slug": "/Haripur_Gehr_Khan-7450",
+              "slug_l1": "/Haripur_Gehr_Khan-7450"
+          }
+      ],
+      "hierarchyPath": "Gehr Khan Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7450",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3397",
+      "_highlightResult": {
+          "name": {
+              "value": "Gehr Khan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16113,
+      "name": "Grand Hills",
+      "name_l1": "گرینڈ ہلز",
+      "externalID": "17392",
+      "slug": "/Haripur_Pir_Sohawa_Road_Makhniyal_Grand_Hills-17392",
+      "slug_l1": "/Haripur_Pir_Sohawa_Road_Makhniyal_Grand_Hills-17392",
+      "_geoloc": {
+          "lat": 33.813028,
+          "lng": 73.134333
+      },
+      "geography": {
+          "lat": 33.813028,
+          "lng": 73.134333
+      },
+      "geo_point": [
+          73.134333,
+          33.813028
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 16111,
+              "level": 3,
+              "externalID": "17390",
+              "name": "Pir Sohawa Road",
+              "name_l1": "پیر سوہاوہ روڈ",
+              "slug": "/Haripur_Pir_Sohawa_Road-17390",
+              "slug_l1": "/Haripur_Pir_Sohawa_Road-17390"
+          },
+          {
+              "id": 16112,
+              "level": 4,
+              "externalID": "17391",
+              "name": "Makhniyal",
+              "name_l1": "مکھنیال",
+              "slug": "/Haripur_Pir_Sohawa_Road_Makhniyal-17391",
+              "slug_l1": "/Haripur_Pir_Sohawa_Road_Makhniyal-17391"
+          },
+          {
+              "id": 16113,
+              "level": 5,
+              "externalID": "17392",
+              "name": "Grand Hills",
+              "name_l1": "گرینڈ ہلز",
+              "slug": "/Haripur_Pir_Sohawa_Road_Makhniyal_Grand_Hills-17392",
+              "slug_l1": "/Haripur_Pir_Sohawa_Road_Makhniyal_Grand_Hills-17392"
+          }
+      ],
+      "hierarchyPath": "Grand Hills Makhniyal Pir Sohawa Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17392",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16113",
+      "_highlightResult": {
+          "name": {
+              "value": "Grand Hills",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17300,
+      "name": "Gulshan Bashir Housing Society",
+      "name_l1": "گلشن بشیر ہاؤسنگ سوسائٹی",
+      "externalID": "18422",
+      "slug": "/Haripur_Gulshan_Bashir_Housing_Society-18422",
+      "slug_l1": "/Haripur_Gulshan_Bashir_Housing_Society-18422",
+      "_geoloc": {
+          "lat": 32.596944,
+          "lng": 74.075083
+      },
+      "geography": {
+          "lat": 32.596944,
+          "lng": 74.075083
+      },
+      "geo_point": [
+          74.075083,
+          32.596944
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 17300,
+              "level": 3,
+              "externalID": "18422",
+              "name": "Gulshan Bashir Housing Society",
+              "name_l1": "گلشن بشیر ہاؤسنگ سوسائٹی",
+              "slug": "/Haripur_Gulshan_Bashir_Housing_Society-18422",
+              "slug_l1": "/Haripur_Gulshan_Bashir_Housing_Society-18422"
+          }
+      ],
+      "hierarchyPath": "Gulshan Bashir Housing Society Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18422",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17300",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan Bashir Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18414,
+      "name": "Hilltop Country Club",
+      "name_l1": "ہل ٹاپ کنٹری کلب",
+      "externalID": "19328",
+      "slug": "/Haripur_Hilltop_Country_Club-19328",
+      "slug_l1": "/Haripur_Hilltop_Country_Club-19328",
+      "_geoloc": {
+          "lat": 33.8329755,
+          "lng": 72.9316811
+      },
+      "geography": {
+          "lat": 33.8329755,
+          "lng": 72.9316811
+      },
+      "geo_point": [
+          72.9316811,
+          33.8329755
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 18414,
+              "level": 3,
+              "externalID": "19328",
+              "name": "Hilltop Country Club",
+              "name_l1": "ہل ٹاپ کنٹری کلب",
+              "slug": "/Haripur_Hilltop_Country_Club-19328",
+              "slug_l1": "/Haripur_Hilltop_Country_Club-19328"
+          }
+      ],
+      "hierarchyPath": "Hilltop Country Club Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19328",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18414",
+      "_highlightResult": {
+          "name": {
+              "value": "Hilltop Country Club",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11858,
+      "name": "Khalabat Township",
+      "name_l1": "خلابت ٹاؤنشپ",
+      "externalID": "13382",
+      "slug": "/Haripur_Khalabat_Township-13382",
+      "slug_l1": "/Haripur_Khalabat_Township-13382",
+      "_geoloc": {
+          "lat": 34.019766,
+          "lng": 72.911414
+      },
+      "geography": {
+          "lat": 34.019766,
+          "lng": 72.911414
+      },
+      "geo_point": [
+          72.911414,
+          34.019766
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 11858,
+              "level": 3,
+              "externalID": "13382",
+              "name": "Khalabat Township",
+              "name_l1": "خلابت ٹاؤنشپ",
+              "slug": "/Haripur_Khalabat_Township-13382",
+              "slug_l1": "/Haripur_Khalabat_Township-13382"
+          }
+      ],
+      "hierarchyPath": "Khalabat Township Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13382",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11858",
+      "_highlightResult": {
+          "name": {
+              "value": "Khalabat Township",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15392,
+      "name": "Khanpur Arcade",
+      "name_l1": "خانپور آرکیڈ",
+      "externalID": "16871",
+      "slug": "/Haripur_Khanpur_Khanpur_Arcade-16871",
+      "slug_l1": "/Haripur_Khanpur_Khanpur_Arcade-16871",
+      "_geoloc": {
+          "lat": 33.851545,
+          "lng": 72.912924
+      },
+      "geography": {
+          "lat": 33.851545,
+          "lng": 72.912924
+      },
+      "geo_point": [
+          72.912924,
+          33.851545
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 1001,
+              "level": 3,
+              "externalID": "1237",
+              "name": "Khanpur",
+              "name_l1": "خانپور",
+              "slug": "/Haripur_Khanpur-1237",
+              "slug_l1": "/Haripur_Khanpur-1237"
+          },
+          {
+              "id": 15392,
+              "level": 4,
+              "externalID": "16871",
+              "name": "Khanpur Arcade",
+              "name_l1": "خانپور آرکیڈ",
+              "slug": "/Haripur_Khanpur_Khanpur_Arcade-16871",
+              "slug_l1": "/Haripur_Khanpur_Khanpur_Arcade-16871"
+          }
+      ],
+      "hierarchyPath": "Khanpur Arcade Khanpur Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16871",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15392",
+      "_highlightResult": {
+          "name": {
+              "value": "Khanpur Arcade",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15821,
+      "name": "Lora Chowk",
+      "name_l1": "لورا چوک",
+      "externalID": "17175",
+      "slug": "/Haripur_Lora_Chowk-17175",
+      "slug_l1": "/Haripur_Lora_Chowk-17175",
+      "_geoloc": {
+          "lat": 33.989519,
+          "lng": 73.040242
+      },
+      "geography": {
+          "lat": 33.989519,
+          "lng": 73.040242
+      },
+      "geo_point": [
+          73.040242,
+          33.989519
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15821,
+              "level": 3,
+              "externalID": "17175",
+              "name": "Lora Chowk",
+              "name_l1": "لورا چوک",
+              "slug": "/Haripur_Lora_Chowk-17175",
+              "slug_l1": "/Haripur_Lora_Chowk-17175"
+          }
+      ],
+      "hierarchyPath": "Lora Chowk Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17175",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15821",
+      "_highlightResult": {
+          "name": {
+              "value": "Lora Chowk",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16112,
+      "name": "Makhniyal",
+      "name_l1": "مکھنیال",
+      "externalID": "17391",
+      "slug": "/Haripur_Pir_Sohawa_Road_Makhniyal-17391",
+      "slug_l1": "/Haripur_Pir_Sohawa_Road_Makhniyal-17391",
+      "_geoloc": {
+          "lat": 33.819571,
+          "lng": 73.131474
+      },
+      "geography": {
+          "lat": 33.819571,
+          "lng": 73.131474
+      },
+      "geo_point": [
+          73.131474,
+          33.819571
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 16111,
+              "level": 3,
+              "externalID": "17390",
+              "name": "Pir Sohawa Road",
+              "name_l1": "پیر سوہاوہ روڈ",
+              "slug": "/Haripur_Pir_Sohawa_Road-17390",
+              "slug_l1": "/Haripur_Pir_Sohawa_Road-17390"
+          },
+          {
+              "id": 16112,
+              "level": 4,
+              "externalID": "17391",
+              "name": "Makhniyal",
+              "name_l1": "مکھنیال",
+              "slug": "/Haripur_Pir_Sohawa_Road_Makhniyal-17391",
+              "slug_l1": "/Haripur_Pir_Sohawa_Road_Makhniyal-17391"
+          }
+      ],
+      "hierarchyPath": "Makhniyal Pir Sohawa Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17391",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16112",
+      "_highlightResult": {
+          "name": {
+              "value": "Makhniyal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3400,
+      "name": "Malikyar",
+      "name_l1": "ملکیار",
+      "externalID": "7453",
+      "slug": "/Haripur_Malikyar-7453",
+      "slug_l1": "/Haripur_Malikyar-7453",
+      "_geoloc": {
+          "lat": 34.00959,
+          "lng": 72.924621
+      },
+      "geography": {
+          "lat": 34.00959,
+          "lng": 72.924621
+      },
+      "geo_point": [
+          72.924621,
+          34.00959
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3400,
+              "level": 3,
+              "externalID": "7453",
+              "name": "Malikyar",
+              "name_l1": "ملکیار",
+              "slug": "/Haripur_Malikyar-7453",
+              "slug_l1": "/Haripur_Malikyar-7453"
+          }
+      ],
+      "hierarchyPath": "Malikyar Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7453",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3400",
+      "_highlightResult": {
+          "name": {
+              "value": "Malikyar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17299,
+      "name": "Mirpur Road",
+      "name_l1": "میرپور روڈ",
+      "externalID": "18421",
+      "slug": "/Haripur_Mirpur_Road-18421",
+      "slug_l1": "/Haripur_Mirpur_Road-18421",
+      "_geoloc": {
+          "lat": 33.89875,
+          "lng": 72.772278
+      },
+      "geography": {
+          "lat": 33.89875,
+          "lng": 72.772278
+      },
+      "geo_point": [
+          72.772278,
+          33.89875
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 17299,
+              "level": 3,
+              "externalID": "18421",
+              "name": "Mirpur Road",
+              "name_l1": "میرپور روڈ",
+              "slug": "/Haripur_Mirpur_Road-18421",
+              "slug_l1": "/Haripur_Mirpur_Road-18421"
+          }
+      ],
+      "hierarchyPath": "Mirpur Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18421",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17299",
+      "_highlightResult": {
+          "name": {
+              "value": "Mirpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4843,
+      "name": "Model City",
+      "name_l1": "ماڈل سٹی",
+      "externalID": "9855",
+      "slug": "/Haripur_Model_City-9855",
+      "slug_l1": "/Haripur_Model_City-9855",
+      "_geoloc": {
+          "lat": 33.946012,
+          "lng": 72.827521
+      },
+      "geography": {
+          "lat": 33.946012,
+          "lng": 72.827521
+      },
+      "geo_point": [
+          72.827521,
+          33.946012
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 4843,
+              "level": 3,
+              "externalID": "9855",
+              "name": "Model City",
+              "name_l1": "ماڈل سٹی",
+              "slug": "/Haripur_Model_City-9855",
+              "slug_l1": "/Haripur_Model_City-9855"
+          }
+      ],
+      "hierarchyPath": "Model City Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9855",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4843",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1049,
+      "name": "Model Town",
+      "name_l1": "ماڈل ٹاؤن",
+      "externalID": "1288",
+      "slug": "/Haripur_Model_Town-1288",
+      "slug_l1": "/Haripur_Model_Town-1288",
+      "_geoloc": {
+          "lat": 33.965671,
+          "lng": 72.892161
+      },
+      "geography": {
+          "lat": 33.965671,
+          "lng": 72.892161
+      },
+      "geo_point": [
+          72.892161,
+          33.965671
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 1049,
+              "level": 3,
+              "externalID": "1288",
+              "name": "Model Town",
+              "name_l1": "ماڈل ٹاؤن",
+              "slug": "/Haripur_Model_Town-1288",
+              "slug_l1": "/Haripur_Model_Town-1288"
+          }
+      ],
+      "hierarchyPath": "Model Town Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1288",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1049",
+      "_highlightResult": {
+          "name": {
+              "value": "Model Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3401,
+      "name": "Mohalla Darwesh",
+      "name_l1": "محلہ درویش",
+      "externalID": "7454",
+      "slug": "/Haripur_Mohalla_Darwesh-7454",
+      "slug_l1": "/Haripur_Mohalla_Darwesh-7454",
+      "_geoloc": {
+          "lat": 33.997849,
+          "lng": 72.929986
+      },
+      "geography": {
+          "lat": 33.997849,
+          "lng": 72.929986
+      },
+      "geo_point": [
+          72.929986,
+          33.997849
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3401,
+              "level": 3,
+              "externalID": "7454",
+              "name": "Mohalla Darwesh",
+              "name_l1": "محلہ درویش",
+              "slug": "/Haripur_Mohalla_Darwesh-7454",
+              "slug_l1": "/Haripur_Mohalla_Darwesh-7454"
+          }
+      ],
+      "hierarchyPath": "Mohalla Darwesh Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7454",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3401",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Darwesh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3402,
+      "name": "Mohalla Khoo",
+      "name_l1": "محلہ خُو",
+      "externalID": "7455",
+      "slug": "/Haripur_Mohalla_Khoo-7455",
+      "slug_l1": "/Haripur_Mohalla_Khoo-7455",
+      "_geoloc": {
+          "lat": 34.000625,
+          "lng": 72.932518
+      },
+      "geography": {
+          "lat": 34.000625,
+          "lng": 72.932518
+      },
+      "geo_point": [
+          72.932518,
+          34.000625
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3402,
+              "level": 3,
+              "externalID": "7455",
+              "name": "Mohalla Khoo",
+              "name_l1": "محلہ خُو",
+              "slug": "/Haripur_Mohalla_Khoo-7455",
+              "slug_l1": "/Haripur_Mohalla_Khoo-7455"
+          }
+      ],
+      "hierarchyPath": "Mohalla Khoo Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7455",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3402",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Khoo",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3403,
+      "name": "Mohalla Malik Pura",
+      "name_l1": "محلہ ملکپورہ",
+      "externalID": "7456",
+      "slug": "/Haripur_Mohalla_Malik_Pura-7456",
+      "slug_l1": "/Haripur_Mohalla_Malik_Pura-7456",
+      "_geoloc": {
+          "lat": 33.997778,
+          "lng": 72.936001
+      },
+      "geography": {
+          "lat": 33.997778,
+          "lng": 72.936001
+      },
+      "geo_point": [
+          72.936001,
+          33.997778
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3403,
+              "level": 3,
+              "externalID": "7456",
+              "name": "Mohalla Malik Pura",
+              "name_l1": "محلہ ملکپورہ",
+              "slug": "/Haripur_Mohalla_Malik_Pura-7456",
+              "slug_l1": "/Haripur_Mohalla_Malik_Pura-7456"
+          }
+      ],
+      "hierarchyPath": "Mohalla Malik Pura Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7456",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3403",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Malik Pura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3404,
+      "name": "Mohalla Qadeem",
+      "name_l1": "محلہ قدیم",
+      "externalID": "7457",
+      "slug": "/Haripur_Mohalla_Qadeem-7457",
+      "slug_l1": "/Haripur_Mohalla_Qadeem-7457",
+      "_geoloc": {
+          "lat": 33.998098,
+          "lng": 72.932396
+      },
+      "geography": {
+          "lat": 33.998098,
+          "lng": 72.932396
+      },
+      "geo_point": [
+          72.932396,
+          33.998098
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3404,
+              "level": 3,
+              "externalID": "7457",
+              "name": "Mohalla Qadeem",
+              "name_l1": "محلہ قدیم",
+              "slug": "/Haripur_Mohalla_Qadeem-7457",
+              "slug_l1": "/Haripur_Mohalla_Qadeem-7457"
+          }
+      ],
+      "hierarchyPath": "Mohalla Qadeem Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7457",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3404",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Qadeem",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3405,
+      "name": "Murad Abad",
+      "name_l1": "مراد آباد",
+      "externalID": "7458",
+      "slug": "/Haripur_Murad_Abad-7458",
+      "slug_l1": "/Haripur_Murad_Abad-7458",
+      "_geoloc": {
+          "lat": 33.984435,
+          "lng": 72.953582
+      },
+      "geography": {
+          "lat": 33.984435,
+          "lng": 72.953582
+      },
+      "geo_point": [
+          72.953582,
+          33.984435
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3405,
+              "level": 3,
+              "externalID": "7458",
+              "name": "Murad Abad",
+              "name_l1": "مراد آباد",
+              "slug": "/Haripur_Murad_Abad-7458",
+              "slug_l1": "/Haripur_Murad_Abad-7458"
+          }
+      ],
+      "hierarchyPath": "Murad Abad Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7458",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3405",
+      "_highlightResult": {
+          "name": {
+              "value": "Murad Abad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15824,
+      "name": "Nartopa Link Road",
+      "name_l1": "نارٹوپا لنک روڈ",
+      "externalID": "17178",
+      "slug": "/Haripur_Nartopa_Link_Road-17178",
+      "slug_l1": "/Haripur_Nartopa_Link_Road-17178",
+      "_geoloc": {
+          "lat": 34.041512,
+          "lng": 72.993566
+      },
+      "geography": {
+          "lat": 34.041512,
+          "lng": 72.993566
+      },
+      "geo_point": [
+          72.993566,
+          34.041512
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15824,
+              "level": 3,
+              "externalID": "17178",
+              "name": "Nartopa Link Road",
+              "name_l1": "نارٹوپا لنک روڈ",
+              "slug": "/Haripur_Nartopa_Link_Road-17178",
+              "slug_l1": "/Haripur_Nartopa_Link_Road-17178"
+          }
+      ],
+      "hierarchyPath": "Nartopa Link Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17178",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15824",
+      "_highlightResult": {
+          "name": {
+              "value": "Nartopa Link Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19732,
+      "name": "Naseem Town Sector B",
+      "name_l1": "نسیم ٹاؤن سیکٹر بی",
+      "externalID": "20518",
+      "slug": "/Haripur_Naseem_Town_Sector_B-20518",
+      "slug_l1": "/Haripur_Naseem_Town_Sector_B-20518",
+      "_geoloc": {
+          "lat": 33.982136,
+          "lng": 72.904971
+      },
+      "geography": {
+          "lat": 33.982136,
+          "lng": 72.904971
+      },
+      "geo_point": [
+          72.904971,
+          33.982136
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 19732,
+              "level": 3,
+              "externalID": "20518",
+              "name": "Naseem Town Sector B",
+              "name_l1": "نسیم ٹاؤن سیکٹر بی",
+              "slug": "/Haripur_Naseem_Town_Sector_B-20518",
+              "slug_l1": "/Haripur_Naseem_Town_Sector_B-20518"
+          }
+      ],
+      "hierarchyPath": "Naseem Town Sector B Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20518",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19732",
+      "_highlightResult": {
+          "name": {
+              "value": "Naseem Town Sector B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19731,
+      "name": "Noor Colony",
+      "name_l1": "نور کالونی",
+      "externalID": "20517",
+      "slug": "/Haripur_Noor_Colony-20517",
+      "slug_l1": "/Haripur_Noor_Colony-20517",
+      "_geoloc": {
+          "lat": 33.972602,
+          "lng": 72.915949
+      },
+      "geography": {
+          "lat": 33.972602,
+          "lng": 72.915949
+      },
+      "geo_point": [
+          72.915949,
+          33.972602
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 19731,
+              "level": 3,
+              "externalID": "20517",
+              "name": "Noor Colony",
+              "name_l1": "نور کالونی",
+              "slug": "/Haripur_Noor_Colony-20517",
+              "slug_l1": "/Haripur_Noor_Colony-20517"
+          }
+      ],
+      "hierarchyPath": "Noor Colony Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20517",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19731",
+      "_highlightResult": {
+          "name": {
+              "value": "Noor Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 843,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1049",
+      "slug": "/Haripur_Others-1049",
+      "slug_l1": "/Haripur_Others-1049",
+      "_geoloc": {
+          "lat": 33.996,
+          "lng": 72.9368
+      },
+      "geography": {
+          "lat": 33.996,
+          "lng": 72.9368
+      },
+      "geo_point": [
+          72.9368,
+          33.996
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 843,
+              "level": 3,
+              "externalID": "1049",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Haripur_Others-1049",
+              "slug_l1": "/Haripur_Others-1049"
+          }
+      ],
+      "hierarchyPath": "Others Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1049",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "843",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22262,
+      "name": "Pakshahi",
+      "name_l1": "پاکشاہی",
+      "externalID": "22317",
+      "slug": "/Haripur_Khanpur_Pakshahi-22317",
+      "slug_l1": "/Haripur_Khanpur_Pakshahi-22317",
+      "_geoloc": {
+          "lat": 33.821121,
+          "lng": 73.097586
+      },
+      "geography": {
+          "lat": 33.821121,
+          "lng": 73.097586
+      },
+      "geo_point": [
+          73.097586,
+          33.821121
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 1001,
+              "level": 3,
+              "externalID": "1237",
+              "name": "Khanpur",
+              "name_l1": "خانپور",
+              "slug": "/Haripur_Khanpur-1237",
+              "slug_l1": "/Haripur_Khanpur-1237"
+          },
+          {
+              "id": 22262,
+              "level": 4,
+              "externalID": "22317",
+              "name": "Pakshahi",
+              "name_l1": "پاکشاہی",
+              "slug": "/Haripur_Khanpur_Pakshahi-22317",
+              "slug_l1": "/Haripur_Khanpur_Pakshahi-22317"
+          }
+      ],
+      "hierarchyPath": "Pakshahi Khanpur Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22317",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22262",
+      "_highlightResult": {
+          "name": {
+              "value": "Pakshahi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14706,
+      "name": "Panian",
+      "name_l1": "پینیان",
+      "externalID": "16256",
+      "slug": "/Haripur_Panian-16256",
+      "slug_l1": "/Haripur_Panian-16256",
+      "_geoloc": {
+          "lat": 33.972388,
+          "lng": 72.850652
+      },
+      "geography": {
+          "lat": 33.972388,
+          "lng": 72.850652
+      },
+      "geo_point": [
+          72.850652,
+          33.972388
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 14706,
+              "level": 3,
+              "externalID": "16256",
+              "name": "Panian",
+              "name_l1": "پینیان",
+              "slug": "/Haripur_Panian-16256",
+              "slug_l1": "/Haripur_Panian-16256"
+          }
+      ],
+      "hierarchyPath": "Panian Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16256",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14706",
+      "_highlightResult": {
+          "name": {
+              "value": "Panian",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16319,
+      "name": "Rangeela Road",
+      "name_l1": "رنگیلا روڈ",
+      "externalID": "17568",
+      "slug": "/Haripur_Rangeela_Road-17568",
+      "slug_l1": "/Haripur_Rangeela_Road-17568",
+      "_geoloc": {
+          "lat": 33.9986489,
+          "lng": 72.9468232
+      },
+      "geography": {
+          "lat": 33.9986489,
+          "lng": 72.9468232
+      },
+      "geo_point": [
+          72.9468232,
+          33.9986489
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 16319,
+              "level": 3,
+              "externalID": "17568",
+              "name": "Rangeela Road",
+              "name_l1": "رنگیلا روڈ",
+              "slug": "/Haripur_Rangeela_Road-17568",
+              "slug_l1": "/Haripur_Rangeela_Road-17568"
+          }
+      ],
+      "hierarchyPath": "Rangeela Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17568",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16319",
+      "_highlightResult": {
+          "name": {
+              "value": "Rangeela Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15826,
+      "name": "Rehana",
+      "name_l1": "ريحانة",
+      "externalID": "17180",
+      "slug": "/Haripur_Rehana-17180",
+      "slug_l1": "/Haripur_Rehana-17180",
+      "_geoloc": {
+          "lat": 33.943421,
+          "lng": 73.028776
+      },
+      "geography": {
+          "lat": 33.943421,
+          "lng": 73.028776
+      },
+      "geo_point": [
+          73.028776,
+          33.943421
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15826,
+              "level": 3,
+              "externalID": "17180",
+              "name": "Rehana",
+              "name_l1": "ريحانة",
+              "slug": "/Haripur_Rehana-17180",
+              "slug_l1": "/Haripur_Rehana-17180"
+          }
+      ],
+      "hierarchyPath": "Rehana Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17180",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15826",
+      "_highlightResult": {
+          "name": {
+              "value": "Rehana",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18595,
+      "name": "Rockland Villas",
+      "name_l1": "راک لینڈ ولاز",
+      "externalID": "19516",
+      "slug": "/Haripur_Khanpur_Road_Rockland_Villas-19516",
+      "slug_l1": "/Haripur_Khanpur_Road_Rockland_Villas-19516",
+      "_geoloc": {
+          "lat": 33.811692966242,
+          "lng": 72.91886651829
+      },
+      "geography": {
+          "lat": 33.811692966242,
+          "lng": 72.91886651829
+      },
+      "geo_point": [
+          72.91886651829,
+          33.811692966242
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15825,
+              "level": 3,
+              "externalID": "17179",
+              "name": "Khanpur Road",
+              "name_l1": "خان پور روڈ",
+              "slug": "/Haripur_Khanpur_Road-17179",
+              "slug_l1": "/Haripur_Khanpur_Road-17179"
+          },
+          {
+              "id": 18595,
+              "level": 4,
+              "externalID": "19516",
+              "name": "Rockland Villas",
+              "name_l1": "راک لینڈ ولاز",
+              "slug": "/Haripur_Khanpur_Road_Rockland_Villas-19516",
+              "slug_l1": "/Haripur_Khanpur_Road_Rockland_Villas-19516"
+          }
+      ],
+      "hierarchyPath": "Rockland Villas Khanpur Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19516",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18595",
+      "_highlightResult": {
+          "name": {
+              "value": "Rockland Villas",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15069,
+      "name": "Sarai Gadai",
+      "name_l1": "سرائے گڈائی",
+      "externalID": "16582",
+      "slug": "/Haripur_Sarai_Gadai-16582",
+      "slug_l1": "/Haripur_Sarai_Gadai-16582",
+      "_geoloc": {
+          "lat": 33.941837,
+          "lng": 72.817699
+      },
+      "geography": {
+          "lat": 33.941837,
+          "lng": 72.817699
+      },
+      "geo_point": [
+          72.817699,
+          33.941837
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15069,
+              "level": 3,
+              "externalID": "16582",
+              "name": "Sarai Gadai",
+              "name_l1": "سرائے گڈائی",
+              "slug": "/Haripur_Sarai_Gadai-16582",
+              "slug_l1": "/Haripur_Sarai_Gadai-16582"
+          }
+      ],
+      "hierarchyPath": "Sarai Gadai Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16582",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15069",
+      "_highlightResult": {
+          "name": {
+              "value": "Sarai Gadai",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3406,
+      "name": "Shakarshah Road",
+      "name_l1": "شکرشاہ روڈ",
+      "externalID": "7459",
+      "slug": "/Haripur_Shakarshah_Road-7459",
+      "slug_l1": "/Haripur_Shakarshah_Road-7459",
+      "_geoloc": {
+          "lat": 33.99656,
+          "lng": 72.938898
+      },
+      "geography": {
+          "lat": 33.99656,
+          "lng": 72.938898
+      },
+      "geo_point": [
+          72.938898,
+          33.99656
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3406,
+              "level": 3,
+              "externalID": "7459",
+              "name": "Shakarshah Road",
+              "name_l1": "شکرشاہ روڈ",
+              "slug": "/Haripur_Shakarshah_Road-7459",
+              "slug_l1": "/Haripur_Shakarshah_Road-7459"
+          }
+      ],
+      "hierarchyPath": "Shakarshah Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7459",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3406",
+      "_highlightResult": {
+          "name": {
+              "value": "Shakarshah Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3407,
+      "name": "Sikandarpur",
+      "name_l1": "سکندر پور",
+      "externalID": "7460",
+      "slug": "/Haripur_Sikandarpur-7460",
+      "slug_l1": "/Haripur_Sikandarpur-7460",
+      "_geoloc": {
+          "lat": 34.009661,
+          "lng": 72.94492
+      },
+      "geography": {
+          "lat": 34.009661,
+          "lng": 72.94492
+      },
+      "geo_point": [
+          72.94492,
+          34.009661
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3407,
+              "level": 3,
+              "externalID": "7460",
+              "name": "Sikandarpur",
+              "name_l1": "سکندر پور",
+              "slug": "/Haripur_Sikandarpur-7460",
+              "slug_l1": "/Haripur_Sikandarpur-7460"
+          }
+      ],
+      "hierarchyPath": "Sikandarpur Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7460",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3407",
+      "_highlightResult": {
+          "name": {
+              "value": "Sikandarpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3408,
+      "name": "Sikanderpur Road",
+      "name_l1": "سکندر پور روڈ",
+      "externalID": "7461",
+      "slug": "/Haripur_Sikanderpur_Road-7461",
+      "slug_l1": "/Haripur_Sikanderpur_Road-7461",
+      "_geoloc": {
+          "lat": 34.002955,
+          "lng": 72.935872
+      },
+      "geography": {
+          "lat": 34.002955,
+          "lng": 72.935872
+      },
+      "geo_point": [
+          72.935872,
+          34.002955
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3408,
+              "level": 3,
+              "externalID": "7461",
+              "name": "Sikanderpur Road",
+              "name_l1": "سکندر پور روڈ",
+              "slug": "/Haripur_Sikanderpur_Road-7461",
+              "slug_l1": "/Haripur_Sikanderpur_Road-7461"
+          }
+      ],
+      "hierarchyPath": "Sikanderpur Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7461",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3408",
+      "_highlightResult": {
+          "name": {
+              "value": "Sikanderpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11929,
+      "name": "Silkway Plaza",
+      "name_l1": "سلک وے پلازا",
+      "externalID": "13450",
+      "slug": "/Haripur_Silkway_Plaza-13450",
+      "slug_l1": "/Haripur_Silkway_Plaza-13450",
+      "_geoloc": {
+          "lat": 33.994922,
+          "lng": 72.938342
+      },
+      "geography": {
+          "lat": 33.994922,
+          "lng": 72.938342
+      },
+      "geo_point": [
+          72.938342,
+          33.994922
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 11929,
+              "level": 3,
+              "externalID": "13450",
+              "name": "Silkway Plaza",
+              "name_l1": "سلک وے پلازا",
+              "slug": "/Haripur_Silkway_Plaza-13450",
+              "slug_l1": "/Haripur_Silkway_Plaza-13450"
+          }
+      ],
+      "hierarchyPath": "Silkway Plaza Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13450",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11929",
+      "_highlightResult": {
+          "name": {
+              "value": "Silkway Plaza",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3409,
+      "name": "Talokar",
+      "name_l1": "تلوکر",
+      "externalID": "7462",
+      "slug": "/Haripur_Talokar-7462",
+      "slug_l1": "/Haripur_Talokar-7462",
+      "_geoloc": {
+          "lat": 33.98415,
+          "lng": 72.941651
+      },
+      "geography": {
+          "lat": 33.98415,
+          "lng": 72.941651
+      },
+      "geo_point": [
+          72.941651,
+          33.98415
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3409,
+              "level": 3,
+              "externalID": "7462",
+              "name": "Talokar",
+              "name_l1": "تلوکر",
+              "slug": "/Haripur_Talokar-7462",
+              "slug_l1": "/Haripur_Talokar-7462"
+          }
+      ],
+      "hierarchyPath": "Talokar Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7462",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3409",
+      "_highlightResult": {
+          "name": {
+              "value": "Talokar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21087,
+      "name": "Talokar Road",
+      "name_l1": "تلوکر روڈ",
+      "externalID": "21683",
+      "slug": "/Haripur_Talokar_Road-21683",
+      "slug_l1": "/Haripur_Talokar_Road-21683",
+      "_geoloc": {
+          "lat": 33.990758032335,
+          "lng": 72.940814811371
+      },
+      "geography": {
+          "lat": 33.990758032335,
+          "lng": 72.940814811371
+      },
+      "geo_point": [
+          72.940814811371,
+          33.990758032335
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 21087,
+              "level": 3,
+              "externalID": "21683",
+              "name": "Talokar Road",
+              "name_l1": "تلوکر روڈ",
+              "slug": "/Haripur_Talokar_Road-21683",
+              "slug_l1": "/Haripur_Talokar_Road-21683"
+          }
+      ],
+      "hierarchyPath": "Talokar Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21683",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21087",
+      "_highlightResult": {
+          "name": {
+              "value": "Talokar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15820,
+      "name": "Tarbela Road",
+      "name_l1": "تربیلا روڈ",
+      "externalID": "17174",
+      "slug": "/Haripur_Tarbela_Road-17174",
+      "slug_l1": "/Haripur_Tarbela_Road-17174",
+      "_geoloc": {
+          "lat": 33.953614,
+          "lng": 72.559563
+      },
+      "geography": {
+          "lat": 33.953614,
+          "lng": 72.559563
+      },
+      "geo_point": [
+          72.559563,
+          33.953614
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 15820,
+              "level": 3,
+              "externalID": "17174",
+              "name": "Tarbela Road",
+              "name_l1": "تربیلا روڈ",
+              "slug": "/Haripur_Tarbela_Road-17174",
+              "slug_l1": "/Haripur_Tarbela_Road-17174"
+          }
+      ],
+      "hierarchyPath": "Tarbela Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17174",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15820",
+      "_highlightResult": {
+          "name": {
+              "value": "Tarbela Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3410,
+      "name": "Tehsil Road",
+      "name_l1": "تحصیل روڈ",
+      "externalID": "7463",
+      "slug": "/Haripur_Tehsil_Road-7463",
+      "slug_l1": "/Haripur_Tehsil_Road-7463",
+      "_geoloc": {
+          "lat": 33.999957,
+          "lng": 72.938928
+      },
+      "geography": {
+          "lat": 33.999957,
+          "lng": 72.938928
+      },
+      "geo_point": [
+          72.938928,
+          33.999957
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 3410,
+              "level": 3,
+              "externalID": "7463",
+              "name": "Tehsil Road",
+              "name_l1": "تحصیل روڈ",
+              "slug": "/Haripur_Tehsil_Road-7463",
+              "slug_l1": "/Haripur_Tehsil_Road-7463"
+          }
+      ],
+      "hierarchyPath": "Tehsil Road Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7463",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3410",
+      "_highlightResult": {
+          "name": {
+              "value": "Tehsil Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1025,
+      "name": "TIP Housing Society",
+      "name_l1": "ٹی آئی پی ہاؤسنگ سوسائٹی",
+      "externalID": "1262",
+      "slug": "/Haripur_TIP_Housing_Society-1262",
+      "slug_l1": "/Haripur_TIP_Housing_Society-1262",
+      "_geoloc": {
+          "lat": 33.97205,
+          "lng": 72.932467
+      },
+      "geography": {
+          "lat": 33.97205,
+          "lng": 72.932467
+      },
+      "geo_point": [
+          72.932467,
+          33.97205
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 1025,
+              "level": 3,
+              "externalID": "1262",
+              "name": "TIP Housing Society",
+              "name_l1": "ٹی آئی پی ہاؤسنگ سوسائٹی",
+              "slug": "/Haripur_TIP_Housing_Society-1262",
+              "slug_l1": "/Haripur_TIP_Housing_Society-1262"
+          }
+      ],
+      "hierarchyPath": "TIP Housing Society Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1262",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1025",
+      "_highlightResult": {
+          "name": {
+              "value": "TIP Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19733,
+      "name": "University Town",
+      "name_l1": "یونیورسٹی ٹاؤن",
+      "externalID": "20519",
+      "slug": "/Haripur_University_Town-20519",
+      "slug_l1": "/Haripur_University_Town-20519",
+      "_geoloc": {
+          "lat": 33.977608,
+          "lng": 72.908723
+      },
+      "geography": {
+          "lat": 33.977608,
+          "lng": 72.908723
+      },
+      "geo_point": [
+          72.908723,
+          33.977608
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 53,
+              "level": 2,
+              "externalID": "1048",
+              "name": "Haripur",
+              "name_l1": "ہری پور",
+              "slug": "/Haripur-1048",
+              "slug_l1": "/Haripur-1048"
+          },
+          {
+              "id": 19733,
+              "level": 3,
+              "externalID": "20519",
+              "name": "University Town",
+              "name_l1": "یونیورسٹی ٹاؤن",
+              "slug": "/Haripur_University_Town-20519",
+              "slug_l1": "/Haripur_University_Town-20519"
+          }
+      ],
+      "hierarchyPath": "University Town Haripur Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20519",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19733",
+      "_highlightResult": {
+          "name": {
+              "value": "University Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

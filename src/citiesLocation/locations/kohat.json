@@ -1,0 +1,2072 @@
+[
+  {
+      "id": 3415,
+      "name": "Happy Valley",
+      "name_l1": "ہیپی ویلی",
+      "externalID": "7468",
+      "slug": "/Kohat_Happy_Valley-7468",
+      "slug_l1": "/Kohat_Happy_Valley-7468",
+      "_geoloc": {
+          "lat": 33.593388,
+          "lng": 71.444092
+      },
+      "geography": {
+          "lat": 33.593388,
+          "lng": 71.444092
+      },
+      "geo_point": [
+          71.444092,
+          33.593388
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3415,
+              "level": 3,
+              "externalID": "7468",
+              "name": "Happy Valley",
+              "name_l1": "ہیپی ویلی",
+              "slug": "/Kohat_Happy_Valley-7468",
+              "slug_l1": "/Kohat_Happy_Valley-7468"
+          }
+      ],
+      "hierarchyPath": "Happy Valley Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7468",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3415",
+      "_highlightResult": {
+          "name": {
+              "value": "Happy Valley",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 66,
+      "name": "Kohat",
+      "name_l1": "کوہاٹ",
+      "externalID": "1430",
+      "slug": "/Kohat-1430",
+      "slug_l1": "/Kohat-1430",
+      "_geoloc": {
+          "lat": 33.57608,
+          "lng": 71.430358
+      },
+      "geography": {
+          "lat": 33.57608,
+          "lng": 71.430358
+      },
+      "geo_point": [
+          71.430358,
+          33.57608
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          }
+      ],
+      "hierarchyPath": "Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1430",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "66",
+      "_highlightResult": {
+          "name": {
+              "value": "Kohat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3411,
+      "name": "Bannu Road",
+      "name_l1": "بنوں روڈ",
+      "externalID": "7464",
+      "slug": "/Kohat_Bannu_Road-7464",
+      "slug_l1": "/Kohat_Bannu_Road-7464",
+      "_geoloc": {
+          "lat": 33.566894,
+          "lng": 71.44872
+      },
+      "geography": {
+          "lat": 33.566894,
+          "lng": 71.44872
+      },
+      "geo_point": [
+          71.44872,
+          33.566894
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3411,
+              "level": 3,
+              "externalID": "7464",
+              "name": "Bannu Road",
+              "name_l1": "بنوں روڈ",
+              "slug": "/Kohat_Bannu_Road-7464",
+              "slug_l1": "/Kohat_Bannu_Road-7464"
+          }
+      ],
+      "hierarchyPath": "Bannu Road Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7464",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3411",
+      "_highlightResult": {
+          "name": {
+              "value": "Bannu Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15639,
+      "name": "Bora Ghari",
+      "name_l1": "بورا گھڑی",
+      "externalID": "17077",
+      "slug": "/Kohat_Bora_Ghari-17077",
+      "slug_l1": "/Kohat_Bora_Ghari-17077",
+      "_geoloc": {
+          "lat": 33.499086,
+          "lng": 71.538076
+      },
+      "geography": {
+          "lat": 33.499086,
+          "lng": 71.538076
+      },
+      "geo_point": [
+          71.538076,
+          33.499086
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 15639,
+              "level": 3,
+              "externalID": "17077",
+              "name": "Bora Ghari",
+              "name_l1": "بورا گھڑی",
+              "slug": "/Kohat_Bora_Ghari-17077",
+              "slug_l1": "/Kohat_Bora_Ghari-17077"
+          }
+      ],
+      "hierarchyPath": "Bora Ghari Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17077",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15639",
+      "_highlightResult": {
+          "name": {
+              "value": "Bora Ghari",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3412,
+      "name": "Canal Road",
+      "name_l1": "کینال روڈ",
+      "externalID": "7465",
+      "slug": "/Kohat_Canal_Road-7465",
+      "slug_l1": "/Kohat_Canal_Road-7465",
+      "_geoloc": {
+          "lat": 33.567824,
+          "lng": 71.464298
+      },
+      "geography": {
+          "lat": 33.567824,
+          "lng": 71.464298
+      },
+      "geo_point": [
+          71.464298,
+          33.567824
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3412,
+              "level": 3,
+              "externalID": "7465",
+              "name": "Canal Road",
+              "name_l1": "کینال روڈ",
+              "slug": "/Kohat_Canal_Road-7465",
+              "slug_l1": "/Kohat_Canal_Road-7465"
+          }
+      ],
+      "hierarchyPath": "Canal Road Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7465",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3412",
+      "_highlightResult": {
+          "name": {
+              "value": "Canal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14185,
+      "name": "College Town",
+      "name_l1": "کالج ٹاؤن",
+      "externalID": "15660",
+      "slug": "/Kohat_College_Town-15660",
+      "slug_l1": "/Kohat_College_Town-15660",
+      "_geoloc": {
+          "lat": 33.576401,
+          "lng": 71.464204
+      },
+      "geography": {
+          "lat": 33.576401,
+          "lng": 71.464204
+      },
+      "geo_point": [
+          71.464204,
+          33.576401
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 14185,
+              "level": 3,
+              "externalID": "15660",
+              "name": "College Town",
+              "name_l1": "کالج ٹاؤن",
+              "slug": "/Kohat_College_Town-15660",
+              "slug_l1": "/Kohat_College_Town-15660"
+          }
+      ],
+      "hierarchyPath": "College Town Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15660",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14185",
+      "_highlightResult": {
+          "name": {
+              "value": "College Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16526,
+      "name": "Dara Adamkhel",
+      "name_l1": "دارا آدم خیل",
+      "externalID": "17767",
+      "slug": "/Kohat_Dara_Adamkhel-17767",
+      "slug_l1": "/Kohat_Dara_Adamkhel-17767",
+      "_geoloc": {
+          "lat": 33.684707,
+          "lng": 71.513844
+      },
+      "geography": {
+          "lat": 33.684707,
+          "lng": 71.513844
+      },
+      "geo_point": [
+          71.513844,
+          33.684707
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 16526,
+              "level": 3,
+              "externalID": "17767",
+              "name": "Dara Adamkhel",
+              "name_l1": "دارا آدم خیل",
+              "slug": "/Kohat_Dara_Adamkhel-17767",
+              "slug_l1": "/Kohat_Dara_Adamkhel-17767"
+          }
+      ],
+      "hierarchyPath": "Dara Adamkhel Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17767",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16526",
+      "_highlightResult": {
+          "name": {
+              "value": "Dara Adamkhel",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3413,
+      "name": "Gul Maluk Road",
+      "name_l1": "گُل ملوک روڈ",
+      "externalID": "7466",
+      "slug": "/Kohat_Gul_Maluk_Road-7466",
+      "slug_l1": "/Kohat_Gul_Maluk_Road-7466",
+      "_geoloc": {
+          "lat": 33.571221,
+          "lng": 71.45575
+      },
+      "geography": {
+          "lat": 33.571221,
+          "lng": 71.45575
+      },
+      "geo_point": [
+          71.45575,
+          33.571221
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3413,
+              "level": 3,
+              "externalID": "7466",
+              "name": "Gul Maluk Road",
+              "name_l1": "گُل ملوک روڈ",
+              "slug": "/Kohat_Gul_Maluk_Road-7466",
+              "slug_l1": "/Kohat_Gul_Maluk_Road-7466"
+          }
+      ],
+      "hierarchyPath": "Gul Maluk Road Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7466",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3413",
+      "_highlightResult": {
+          "name": {
+              "value": "Gul Maluk Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3414,
+      "name": "Hangu Bypass",
+      "name_l1": "ھنگو بائی پاس",
+      "externalID": "7467",
+      "slug": "/Kohat_Hangu_Bypass-7467",
+      "slug_l1": "/Kohat_Hangu_Bypass-7467",
+      "_geoloc": {
+          "lat": 33.570935,
+          "lng": 71.437654
+      },
+      "geography": {
+          "lat": 33.570935,
+          "lng": 71.437654
+      },
+      "geo_point": [
+          71.437654,
+          33.570935
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3414,
+              "level": 3,
+              "externalID": "7467",
+              "name": "Hangu Bypass",
+              "name_l1": "ھنگو بائی پاس",
+              "slug": "/Kohat_Hangu_Bypass-7467",
+              "slug_l1": "/Kohat_Hangu_Bypass-7467"
+          }
+      ],
+      "hierarchyPath": "Hangu Bypass Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7467",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3414",
+      "_highlightResult": {
+          "name": {
+              "value": "Hangu Bypass",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3416,
+      "name": "Hungu Phatak",
+      "name_l1": "ہنگو پھاٹک",
+      "externalID": "7469",
+      "slug": "/Kohat_Hungu_Phatak-7469",
+      "slug_l1": "/Kohat_Hungu_Phatak-7469",
+      "_geoloc": {
+          "lat": 33.594174,
+          "lng": 71.414208
+      },
+      "geography": {
+          "lat": 33.594174,
+          "lng": 71.414208
+      },
+      "geo_point": [
+          71.414208,
+          33.594174
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3416,
+              "level": 3,
+              "externalID": "7469",
+              "name": "Hungu Phatak",
+              "name_l1": "ہنگو پھاٹک",
+              "slug": "/Kohat_Hungu_Phatak-7469",
+              "slug_l1": "/Kohat_Hungu_Phatak-7469"
+          }
+      ],
+      "hierarchyPath": "Hungu Phatak Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7469",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3416",
+      "_highlightResult": {
+          "name": {
+              "value": "Hungu Phatak",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3417,
+      "name": "Indus Hwy Link",
+      "name_l1": "انڈس ہائی وے لِنک",
+      "externalID": "7470",
+      "slug": "/Kohat_Indus_Hwy_Link-7470",
+      "slug_l1": "/Kohat_Indus_Hwy_Link-7470",
+      "_geoloc": {
+          "lat": 33.566108,
+          "lng": 71.453354
+      },
+      "geography": {
+          "lat": 33.566108,
+          "lng": 71.453354
+      },
+      "geo_point": [
+          71.453354,
+          33.566108
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3417,
+              "level": 3,
+              "externalID": "7470",
+              "name": "Indus Hwy Link",
+              "name_l1": "انڈس ہائی وے لِنک",
+              "slug": "/Kohat_Indus_Hwy_Link-7470",
+              "slug_l1": "/Kohat_Indus_Hwy_Link-7470"
+          }
+      ],
+      "hierarchyPath": "Indus Hwy Link Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7470",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3417",
+      "_highlightResult": {
+          "name": {
+              "value": "Indus Hwy Link",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 802,
+      "name": "KDA Kohat",
+      "name_l1": "کے ڈی اے کوہاٹ",
+      "externalID": "1001",
+      "slug": "/Kohat_KDA_Kohat-1001",
+      "slug_l1": "/Kohat_KDA_Kohat-1001",
+      "_geoloc": {
+          "lat": 33.602896,
+          "lng": 71.460128
+      },
+      "geography": {
+          "lat": 33.602896,
+          "lng": 71.460128
+      },
+      "geo_point": [
+          71.460128,
+          33.602896
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 802,
+              "level": 3,
+              "externalID": "1001",
+              "name": "KDA Kohat",
+              "name_l1": "کے ڈی اے کوہاٹ",
+              "slug": "/Kohat_KDA_Kohat-1001",
+              "slug_l1": "/Kohat_KDA_Kohat-1001"
+          }
+      ],
+      "hierarchyPath": "KDA Kohat Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1001",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "802",
+      "_highlightResult": {
+          "name": {
+              "value": "KDA Kohat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17217,
+      "name": "Khushal Garh",
+      "name_l1": "خوشحال گڑھ",
+      "externalID": "18363",
+      "slug": "/Kohat_Khushal_Garh-18363",
+      "slug_l1": "/Kohat_Khushal_Garh-18363",
+      "_geoloc": {
+          "lat": 33.478227,
+          "lng": 71.882666
+      },
+      "geography": {
+          "lat": 33.478227,
+          "lng": 71.882666
+      },
+      "geo_point": [
+          71.882666,
+          33.478227
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 17217,
+              "level": 3,
+              "externalID": "18363",
+              "name": "Khushal Garh",
+              "name_l1": "خوشحال گڑھ",
+              "slug": "/Kohat_Khushal_Garh-18363",
+              "slug_l1": "/Kohat_Khushal_Garh-18363"
+          }
+      ],
+      "hierarchyPath": "Khushal Garh Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18363",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17217",
+      "_highlightResult": {
+          "name": {
+              "value": "Khushal Garh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3418,
+      "name": "Kohat - Hangu Road",
+      "name_l1": "کوہاٹ ۔ ھنگو روڈ",
+      "externalID": "7471",
+      "slug": "/Kohat_Hangu_Road-7471",
+      "slug_l1": "/Kohat_Hangu_Road-7471",
+      "_geoloc": {
+          "lat": 33.594853,
+          "lng": 71.412721
+      },
+      "geography": {
+          "lat": 33.594853,
+          "lng": 71.412721
+      },
+      "geo_point": [
+          71.412721,
+          33.594853
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3418,
+              "level": 3,
+              "externalID": "7471",
+              "name": "Kohat - Hangu Road",
+              "name_l1": "کوہاٹ ۔ ھنگو روڈ",
+              "slug": "/Kohat_Hangu_Road-7471",
+              "slug_l1": "/Kohat_Hangu_Road-7471"
+          }
+      ],
+      "hierarchyPath": "Kohat - Hangu Road Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7471",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3418",
+      "_highlightResult": {
+          "name": {
+              "value": "Kohat - Hangu Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4821,
+      "name": "Kohat Enclave",
+      "name_l1": "کوہاٹ انکلیو",
+      "externalID": "9822",
+      "slug": "/Kohat_Kohat_Enclave-9822",
+      "slug_l1": "/Kohat_Kohat_Enclave-9822",
+      "_geoloc": {
+          "lat": 33.560299,
+          "lng": 71.497592
+      },
+      "geography": {
+          "lat": 33.560299,
+          "lng": 71.497592
+      },
+      "geo_point": [
+          71.497592,
+          33.560299
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 4821,
+              "level": 3,
+              "externalID": "9822",
+              "name": "Kohat Enclave",
+              "name_l1": "کوہاٹ انکلیو",
+              "slug": "/Kohat_Kohat_Enclave-9822",
+              "slug_l1": "/Kohat_Kohat_Enclave-9822"
+          }
+      ],
+      "hierarchyPath": "Kohat Enclave Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9822",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4821",
+      "_highlightResult": {
+          "name": {
+              "value": "Kohat Enclave",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3419,
+      "name": "Kohat Township",
+      "name_l1": "کوہاٹ ٹاؤن شپ",
+      "externalID": "7472",
+      "slug": "/Kohat_Township-7472",
+      "slug_l1": "/Kohat_Township-7472",
+      "_geoloc": {
+          "lat": 33.604326,
+          "lng": 71.467094
+      },
+      "geography": {
+          "lat": 33.604326,
+          "lng": 71.467094
+      },
+      "geo_point": [
+          71.467094,
+          33.604326
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3419,
+              "level": 3,
+              "externalID": "7472",
+              "name": "Kohat Township",
+              "name_l1": "کوہاٹ ٹاؤن شپ",
+              "slug": "/Kohat_Township-7472",
+              "slug_l1": "/Kohat_Township-7472"
+          }
+      ],
+      "hierarchyPath": "Kohat Township Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7472",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3419",
+      "_highlightResult": {
+          "name": {
+              "value": "Kohat Township",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16004,
+      "name": "Lachi",
+      "name_l1": "لاچی",
+      "externalID": "17291",
+      "slug": "/Kohat_Lachi-17291",
+      "slug_l1": "/Kohat_Lachi-17291",
+      "_geoloc": {
+          "lat": 33.391458,
+          "lng": 71.342112
+      },
+      "geography": {
+          "lat": 33.391458,
+          "lng": 71.342112
+      },
+      "geo_point": [
+          71.342112,
+          33.391458
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 16004,
+              "level": 3,
+              "externalID": "17291",
+              "name": "Lachi",
+              "name_l1": "لاچی",
+              "slug": "/Kohat_Lachi-17291",
+              "slug_l1": "/Kohat_Lachi-17291"
+          }
+      ],
+      "hierarchyPath": "Lachi Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17291",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16004",
+      "_highlightResult": {
+          "name": {
+              "value": "Lachi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4869,
+      "name": "Mian Khel Bazar",
+      "name_l1": "میاں کھیل بازار",
+      "externalID": "9892",
+      "slug": "/Kohat_Mian_Khel_Bazar-9892",
+      "slug_l1": "/Kohat_Mian_Khel_Bazar-9892",
+      "_geoloc": {
+          "lat": 33.584831,
+          "lng": 71.437967
+      },
+      "geography": {
+          "lat": 33.584831,
+          "lng": 71.437967
+      },
+      "geo_point": [
+          71.437967,
+          33.584831
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 4869,
+              "level": 3,
+              "externalID": "9892",
+              "name": "Mian Khel Bazar",
+              "name_l1": "میاں کھیل بازار",
+              "slug": "/Kohat_Mian_Khel_Bazar-9892",
+              "slug_l1": "/Kohat_Mian_Khel_Bazar-9892"
+          }
+      ],
+      "hierarchyPath": "Mian Khel Bazar Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9892",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4869",
+      "_highlightResult": {
+          "name": {
+              "value": "Mian Khel Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4993,
+      "name": "Model Town",
+      "name_l1": "ماڈل ٹاون",
+      "externalID": "10095",
+      "slug": "/Kohat_Model_Town-10095",
+      "slug_l1": "/Kohat_Model_Town-10095",
+      "_geoloc": {
+          "lat": 33.524125,
+          "lng": 71.451066
+      },
+      "geography": {
+          "lat": 33.524125,
+          "lng": 71.451066
+      },
+      "geo_point": [
+          71.451066,
+          33.524125
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 4993,
+              "level": 3,
+              "externalID": "10095",
+              "name": "Model Town",
+              "name_l1": "ماڈل ٹاون",
+              "slug": "/Kohat_Model_Town-10095",
+              "slug_l1": "/Kohat_Model_Town-10095"
+          }
+      ],
+      "hierarchyPath": "Model Town Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10095",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4993",
+      "_highlightResult": {
+          "name": {
+              "value": "Model Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3420,
+      "name": "Mohammad Zai",
+      "name_l1": "محمد زئی",
+      "externalID": "7473",
+      "slug": "/Kohat_Mohammad_Zai-7473",
+      "slug_l1": "/Kohat_Mohammad_Zai-7473",
+      "_geoloc": {
+          "lat": 33.60118,
+          "lng": 71.388302
+      },
+      "geography": {
+          "lat": 33.60118,
+          "lng": 71.388302
+      },
+      "geo_point": [
+          71.388302,
+          33.60118
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3420,
+              "level": 3,
+              "externalID": "7473",
+              "name": "Mohammad Zai",
+              "name_l1": "محمد زئی",
+              "slug": "/Kohat_Mohammad_Zai-7473",
+              "slug_l1": "/Kohat_Mohammad_Zai-7473"
+          }
+      ],
+      "hierarchyPath": "Mohammad Zai Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7473",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3420",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohammad Zai",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3421,
+      "name": "Nasrat Khel",
+      "name_l1": "نصرت خیل",
+      "externalID": "7474",
+      "slug": "/Kohat_Nasrat_Khel-7474",
+      "slug_l1": "/Kohat_Nasrat_Khel-7474",
+      "_geoloc": {
+          "lat": 33.603182,
+          "lng": 71.357746
+      },
+      "geography": {
+          "lat": 33.603182,
+          "lng": 71.357746
+      },
+      "geo_point": [
+          71.357746,
+          33.603182
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3421,
+              "level": 3,
+              "externalID": "7474",
+              "name": "Nasrat Khel",
+              "name_l1": "نصرت خیل",
+              "slug": "/Kohat_Nasrat_Khel-7474",
+              "slug_l1": "/Kohat_Nasrat_Khel-7474"
+          }
+      ],
+      "hierarchyPath": "Nasrat Khel Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7474",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3421",
+      "_highlightResult": {
+          "name": {
+              "value": "Nasrat Khel",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1158,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1431",
+      "slug": "/Kohat_Others-1431",
+      "slug_l1": "/Kohat_Others-1431",
+      "_geoloc": {
+          "lat": 33.5834,
+          "lng": 71.4332
+      },
+      "geography": {
+          "lat": 33.5834,
+          "lng": 71.4332
+      },
+      "geo_point": [
+          71.4332,
+          33.5834
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 1158,
+              "level": 3,
+              "externalID": "1431",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Kohat_Others-1431",
+              "slug_l1": "/Kohat_Others-1431"
+          }
+      ],
+      "hierarchyPath": "Others Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1431",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1158",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11545,
+      "name": "Peshawar Road",
+      "name_l1": "پشاور روڈ",
+      "externalID": "13080",
+      "slug": "/Kohat_Peshawar_Road-13080",
+      "slug_l1": "/Kohat_Peshawar_Road-13080",
+      "_geoloc": {
+          "lat": 33.594565,
+          "lng": 71.443643
+      },
+      "geography": {
+          "lat": 33.594565,
+          "lng": 71.443643
+      },
+      "geo_point": [
+          71.443643,
+          33.594565
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 11545,
+              "level": 3,
+              "externalID": "13080",
+              "name": "Peshawar Road",
+              "name_l1": "پشاور روڈ",
+              "slug": "/Kohat_Peshawar_Road-13080",
+              "slug_l1": "/Kohat_Peshawar_Road-13080"
+          }
+      ],
+      "hierarchyPath": "Peshawar Road Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13080",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11545",
+      "_highlightResult": {
+          "name": {
+              "value": "Peshawar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3422,
+      "name": "Rawalpindi Road",
+      "name_l1": "راولپنڈی روڈ",
+      "externalID": "7475",
+      "slug": "/Kohat_Rawalpindi_Road-7475",
+      "slug_l1": "/Kohat_Rawalpindi_Road-7475",
+      "_geoloc": {
+          "lat": 33.573152,
+          "lng": 71.466322
+      },
+      "geography": {
+          "lat": 33.573152,
+          "lng": 71.466322
+      },
+      "geo_point": [
+          71.466322,
+          33.573152
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3422,
+              "level": 3,
+              "externalID": "7475",
+              "name": "Rawalpindi Road",
+              "name_l1": "راولپنڈی روڈ",
+              "slug": "/Kohat_Rawalpindi_Road-7475",
+              "slug_l1": "/Kohat_Rawalpindi_Road-7475"
+          }
+      ],
+      "hierarchyPath": "Rawalpindi Road Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7475",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3422",
+      "_highlightResult": {
+          "name": {
+              "value": "Rawalpindi Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3423,
+      "name": "Tandu Dam Road",
+      "name_l1": "ٹنڈو ڈیم روڈ",
+      "externalID": "7476",
+      "slug": "/Kohat_Tandu_Dam_Road-7476",
+      "slug_l1": "/Kohat_Tandu_Dam_Road-7476",
+      "_geoloc": {
+          "lat": 33.566215,
+          "lng": 71.402979
+      },
+      "geography": {
+          "lat": 33.566215,
+          "lng": 71.402979
+      },
+      "geo_point": [
+          71.402979,
+          33.566215
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3423,
+              "level": 3,
+              "externalID": "7476",
+              "name": "Tandu Dam Road",
+              "name_l1": "ٹنڈو ڈیم روڈ",
+              "slug": "/Kohat_Tandu_Dam_Road-7476",
+              "slug_l1": "/Kohat_Tandu_Dam_Road-7476"
+          }
+      ],
+      "hierarchyPath": "Tandu Dam Road Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7476",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3423",
+      "_highlightResult": {
+          "name": {
+              "value": "Tandu Dam Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3424,
+      "name": "Zahoor e Islam Road",
+      "name_l1": "ظہورِاسلام روڈ",
+      "externalID": "7477",
+      "slug": "/Kohat_Zahoor_e_Islam_Road-7477",
+      "slug_l1": "/Kohat_Zahoor_e_Islam_Road-7477",
+      "_geoloc": {
+          "lat": 33.583127,
+          "lng": 71.452718
+      },
+      "geography": {
+          "lat": 33.583127,
+          "lng": 71.452718
+      },
+      "geo_point": [
+          71.452718,
+          33.583127
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 3424,
+              "level": 3,
+              "externalID": "7477",
+              "name": "Zahoor e Islam Road",
+              "name_l1": "ظہورِاسلام روڈ",
+              "slug": "/Kohat_Zahoor_e_Islam_Road-7477",
+              "slug_l1": "/Kohat_Zahoor_e_Islam_Road-7477"
+          }
+      ],
+      "hierarchyPath": "Zahoor e Islam Road Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7477",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3424",
+      "_highlightResult": {
+          "name": {
+              "value": "Zahoor e Islam Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20937,
+      "name": "Zargaran Bazaar",
+      "name_l1": "زرگراں بازار",
+      "externalID": "21535",
+      "slug": "/Kohat_Zargaran_Bazaar-21535",
+      "slug_l1": "/Kohat_Zargaran_Bazaar-21535",
+      "_geoloc": {
+          "lat": 33.586332709832,
+          "lng": 71.435970948896
+      },
+      "geography": {
+          "lat": 33.586332709832,
+          "lng": 71.435970948896
+      },
+      "geo_point": [
+          71.435970948896,
+          33.586332709832
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 66,
+              "level": 2,
+              "externalID": "1430",
+              "name": "Kohat",
+              "name_l1": "کوہاٹ",
+              "slug": "/Kohat-1430",
+              "slug_l1": "/Kohat-1430"
+          },
+          {
+              "id": 20937,
+              "level": 3,
+              "externalID": "21535",
+              "name": "Zargaran Bazaar",
+              "name_l1": "زرگراں بازار",
+              "slug": "/Kohat_Zargaran_Bazaar-21535",
+              "slug_l1": "/Kohat_Zargaran_Bazaar-21535"
+          }
+      ],
+      "hierarchyPath": "Zargaran Bazaar Kohat Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21535",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20937",
+      "_highlightResult": {
+          "name": {
+              "value": "Zargaran Bazaar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,5790 @@
+[
+  {
+      "id": 54,
+      "name": "Burewala",
+      "name_l1": "بورے والہ",
+      "externalID": "1059",
+      "slug": "/Burewala-1059",
+      "slug_l1": "/Burewala-1059",
+      "_geoloc": {
+          "lat": 30.158189498908,
+          "lng": 72.673873901367
+      },
+      "geography": {
+          "lat": 30.158189498908,
+          "lng": 72.673873901367
+      },
+      "geo_point": [
+          72.673873901367,
+          30.158189498908
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          }
+      ],
+      "hierarchyPath": "Burewala Punjab Pakistan",
+      "adCount": 18,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1059",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "54",
+      "_highlightResult": {
+          "name": {
+              "value": "Burewala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1649,
+      "name": "Anwar Town",
+      "name_l1": "انور ٹاؤن",
+      "externalID": "4709",
+      "slug": "/Burewala_Anwar_Town-4709",
+      "slug_l1": "/Burewala_Anwar_Town-4709",
+      "_geoloc": {
+          "lat": 30.173847,
+          "lng": 72.693908
+      },
+      "geography": {
+          "lat": 30.173847,
+          "lng": 72.693908
+      },
+      "geo_point": [
+          72.693908,
+          30.173847
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1649,
+              "level": 3,
+              "externalID": "4709",
+              "name": "Anwar Town",
+              "name_l1": "انور ٹاؤن",
+              "slug": "/Burewala_Anwar_Town-4709",
+              "slug_l1": "/Burewala_Anwar_Town-4709"
+          }
+      ],
+      "hierarchyPath": "Anwar Town Burewala Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4709",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1649",
+      "_highlightResult": {
+          "name": {
+              "value": "Anwar Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1667,
+      "name": "Chichawatni Road",
+      "name_l1": "چیچہ وطنی روڈ",
+      "externalID": "4727",
+      "slug": "/Burewala_Chichawatni_Road-4727",
+      "slug_l1": "/Burewala_Chichawatni_Road-4727",
+      "_geoloc": {
+          "lat": 30.168449,
+          "lng": 72.688376
+      },
+      "geography": {
+          "lat": 30.168449,
+          "lng": 72.688376
+      },
+      "geo_point": [
+          72.688376,
+          30.168449
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1667,
+              "level": 3,
+              "externalID": "4727",
+              "name": "Chichawatni Road",
+              "name_l1": "چیچہ وطنی روڈ",
+              "slug": "/Burewala_Chichawatni_Road-4727",
+              "slug_l1": "/Burewala_Chichawatni_Road-4727"
+          }
+      ],
+      "hierarchyPath": "Chichawatni Road Burewala Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4727",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1667",
+      "_highlightResult": {
+          "name": {
+              "value": "Chichawatni Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1669,
+      "name": "College Road",
+      "name_l1": "کالج روڈ",
+      "externalID": "4729",
+      "slug": "/Burewala_College_Road-4729",
+      "slug_l1": "/Burewala_College_Road-4729",
+      "_geoloc": {
+          "lat": 30.160963,
+          "lng": 72.681007
+      },
+      "geography": {
+          "lat": 30.160963,
+          "lng": 72.681007
+      },
+      "geo_point": [
+          72.681007,
+          30.160963
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1669,
+              "level": 3,
+              "externalID": "4729",
+              "name": "College Road",
+              "name_l1": "کالج روڈ",
+              "slug": "/Burewala_College_Road-4729",
+              "slug_l1": "/Burewala_College_Road-4729"
+          }
+      ],
+      "hierarchyPath": "College Road Burewala Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4729",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1669",
+      "_highlightResult": {
+          "name": {
+              "value": "College Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1682,
+      "name": "Lahore Road",
+      "name_l1": "لاہور روڈ",
+      "externalID": "4742",
+      "slug": "/Burewala_Lahore_Road-4742",
+      "slug_l1": "/Burewala_Lahore_Road-4742",
+      "_geoloc": {
+          "lat": 30.160824,
+          "lng": 72.700735
+      },
+      "geography": {
+          "lat": 30.160824,
+          "lng": 72.700735
+      },
+      "geo_point": [
+          72.700735,
+          30.160824
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1682,
+              "level": 3,
+              "externalID": "4742",
+              "name": "Lahore Road",
+              "name_l1": "لاہور روڈ",
+              "slug": "/Burewala_Lahore_Road-4742",
+              "slug_l1": "/Burewala_Lahore_Road-4742"
+          }
+      ],
+      "hierarchyPath": "Lahore Road Burewala Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4742",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1682",
+      "_highlightResult": {
+          "name": {
+              "value": "Lahore Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1683,
+      "name": "Lalazar Housing Scheme",
+      "name_l1": "لالہ زار ہاؤسنگ سکیم",
+      "externalID": "4743",
+      "slug": "/Burewala_Lalazar_Housing_Scheme-4743",
+      "slug_l1": "/Burewala_Lalazar_Housing_Scheme-4743",
+      "_geoloc": {
+          "lat": 30.171881,
+          "lng": 72.676313
+      },
+      "geography": {
+          "lat": 30.171881,
+          "lng": 72.676313
+      },
+      "geo_point": [
+          72.676313,
+          30.171881
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1683,
+              "level": 3,
+              "externalID": "4743",
+              "name": "Lalazar Housing Scheme",
+              "name_l1": "لالہ زار ہاؤسنگ سکیم",
+              "slug": "/Burewala_Lalazar_Housing_Scheme-4743",
+              "slug_l1": "/Burewala_Lalazar_Housing_Scheme-4743"
+          }
+      ],
+      "hierarchyPath": "Lalazar Housing Scheme Burewala Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4743",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1683",
+      "_highlightResult": {
+          "name": {
+              "value": "Lalazar Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1692,
+      "name": "Waraich Town",
+      "name_l1": "وڑائچ ٹاؤن",
+      "externalID": "4752",
+      "slug": "/Burewala_Waraich_Town-4752",
+      "slug_l1": "/Burewala_Waraich_Town-4752",
+      "_geoloc": {
+          "lat": 30.169432,
+          "lng": 72.676914
+      },
+      "geography": {
+          "lat": 30.169432,
+          "lng": 72.676914
+      },
+      "geo_point": [
+          72.676914,
+          30.169432
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1692,
+              "level": 3,
+              "externalID": "4752",
+              "name": "Waraich Town",
+              "name_l1": "وڑائچ ٹاؤن",
+              "slug": "/Burewala_Waraich_Town-4752",
+              "slug_l1": "/Burewala_Waraich_Town-4752"
+          }
+      ],
+      "hierarchyPath": "Waraich Town Burewala Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4752",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1692",
+      "_highlightResult": {
+          "name": {
+              "value": "Waraich Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18324,
+      "name": "505 EB Road",
+      "name_l1": "505 ای بی روڈ",
+      "externalID": "19304",
+      "slug": "/Burewala_505_EB_Road-19304",
+      "slug_l1": "/Burewala_505_EB_Road-19304",
+      "_geoloc": {
+          "lat": 30.2029988,
+          "lng": 72.664586
+      },
+      "geography": {
+          "lat": 30.2029988,
+          "lng": 72.664586
+      },
+      "geo_point": [
+          72.664586,
+          30.2029988
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 18324,
+              "level": 3,
+              "externalID": "19304",
+              "name": "505 EB Road",
+              "name_l1": "505 ای بی روڈ",
+              "slug": "/Burewala_505_EB_Road-19304",
+              "slug_l1": "/Burewala_505_EB_Road-19304"
+          }
+      ],
+      "hierarchyPath": "505 EB Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19304",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18324",
+      "_highlightResult": {
+          "name": {
+              "value": "505 EB Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1645,
+      "name": "Al Fateh Town",
+      "name_l1": "الفتح ٹاؤن",
+      "externalID": "4705",
+      "slug": "/Al_Fateh_Town-4705",
+      "slug_l1": "/Al_Fateh_Town-4705",
+      "_geoloc": {
+          "lat": 30.166724,
+          "lng": 72.666535
+      },
+      "geography": {
+          "lat": 30.166724,
+          "lng": 72.666535
+      },
+      "geo_point": [
+          72.666535,
+          30.166724
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1645,
+              "level": 3,
+              "externalID": "4705",
+              "name": "Al Fateh Town",
+              "name_l1": "الفتح ٹاؤن",
+              "slug": "/Al_Fateh_Town-4705",
+              "slug_l1": "/Al_Fateh_Town-4705"
+          }
+      ],
+      "hierarchyPath": "Al Fateh Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4705",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1645",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Fateh Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1646,
+      "name": "Al Raza Town",
+      "name_l1": "الرضا ٹاؤن",
+      "externalID": "4706",
+      "slug": "/Al_Raza_Town-4706",
+      "slug_l1": "/Al_Raza_Town-4706",
+      "_geoloc": {
+          "lat": 30.163447,
+          "lng": 72.70879
+      },
+      "geography": {
+          "lat": 30.163447,
+          "lng": 72.70879
+      },
+      "geo_point": [
+          72.70879,
+          30.163447
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1646,
+              "level": 3,
+              "externalID": "4706",
+              "name": "Al Raza Town",
+              "name_l1": "الرضا ٹاؤن",
+              "slug": "/Al_Raza_Town-4706",
+              "slug_l1": "/Al_Raza_Town-4706"
+          }
+      ],
+      "hierarchyPath": "Al Raza Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4706",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1646",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Raza Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1647,
+      "name": "Al Rehman City",
+      "name_l1": "الرحمان سٹی",
+      "externalID": "4707",
+      "slug": "/Al_Rehman_City-4707",
+      "slug_l1": "/Al_Rehman_City-4707",
+      "_geoloc": {
+          "lat": 30.168134,
+          "lng": 72.66636
+      },
+      "geography": {
+          "lat": 30.168134,
+          "lng": 72.66636
+      },
+      "geo_point": [
+          72.66636,
+          30.168134
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1647,
+              "level": 3,
+              "externalID": "4707",
+              "name": "Al Rehman City",
+              "name_l1": "الرحمان سٹی",
+              "slug": "/Al_Rehman_City-4707",
+              "slug_l1": "/Al_Rehman_City-4707"
+          }
+      ],
+      "hierarchyPath": "Al Rehman City Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4707",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1647",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Rehman City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4819,
+      "name": "Al Rehman Town",
+      "name_l1": "الرحمان ٹاؤن",
+      "externalID": "9818",
+      "slug": "/Burewala_Al_Rehman_Town-9818",
+      "slug_l1": "/Burewala_Al_Rehman_Town-9818",
+      "_geoloc": {
+          "lat": 30.161829,
+          "lng": 72.663409
+      },
+      "geography": {
+          "lat": 30.161829,
+          "lng": 72.663409
+      },
+      "geo_point": [
+          72.663409,
+          30.161829
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 4819,
+              "level": 3,
+              "externalID": "9818",
+              "name": "Al Rehman Town",
+              "name_l1": "الرحمان ٹاؤن",
+              "slug": "/Burewala_Al_Rehman_Town-9818",
+              "slug_l1": "/Burewala_Al_Rehman_Town-9818"
+          }
+      ],
+      "hierarchyPath": "Al Rehman Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9818",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4819",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Rehman Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8929,
+      "name": "Al-Hamd Green City",
+      "name_l1": "ال حمد گرین سٹی",
+      "externalID": "11337",
+      "slug": "/Burewala_Burewala_Vehari_Road_Al_Hamd_Green_City-11337",
+      "slug_l1": "/Burewala_Burewala_Vehari_Road_Al_Hamd_Green_City-11337",
+      "_geoloc": {
+          "lat": 30.1716698,
+          "lng": 72.6662028
+      },
+      "geography": {
+          "lat": 30.1716698,
+          "lng": 72.6662028
+      },
+      "geo_point": [
+          72.6662028,
+          30.1716698
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1666,
+              "level": 3,
+              "externalID": "4726",
+              "name": "Burewala Vehari Road",
+              "name_l1": "بوریوالہ وہاڑی روڈ",
+              "slug": "/Burewala_Vehari_Road-4726",
+              "slug_l1": "/Burewala_Vehari_Road-4726"
+          },
+          {
+              "id": 8929,
+              "level": 4,
+              "externalID": "11337",
+              "name": "Al-Hamd Green City",
+              "name_l1": "ال حمد گرین سٹی",
+              "slug": "/Burewala_Burewala_Vehari_Road_Al_Hamd_Green_City-11337",
+              "slug_l1": "/Burewala_Burewala_Vehari_Road_Al_Hamd_Green_City-11337"
+          }
+      ],
+      "hierarchyPath": "Al-Hamd Green City Burewala Vehari Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11337",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8929",
+      "_highlightResult": {
+          "name": {
+              "value": "Al-Hamd Green City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9441,
+      "name": "Al-Jannat Town",
+      "name_l1": "الجنت ٹاؤن",
+      "externalID": "12706",
+      "slug": "/Burewala_Nehar_Bunglow_Road_Al_Jannat_Town-12706",
+      "slug_l1": "/Burewala_Nehar_Bunglow_Road_Al_Jannat_Town-12706",
+      "_geoloc": {
+          "lat": 30.173108,
+          "lng": 72.697314
+      },
+      "geography": {
+          "lat": 30.173108,
+          "lng": 72.697314
+      },
+      "geo_point": [
+          72.697314,
+          30.173108
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 6314,
+              "level": 3,
+              "externalID": "12705",
+              "name": "Nehar Bunglow Road",
+              "name_l1": "نہر بنگلو روڈ",
+              "slug": "/Burewala_Nehar_Bunglow_Road-12705",
+              "slug_l1": "/Burewala_Nehar_Bunglow_Road-12705"
+          },
+          {
+              "id": 9441,
+              "level": 4,
+              "externalID": "12706",
+              "name": "Al-Jannat Town",
+              "name_l1": "الجنت ٹاؤن",
+              "slug": "/Burewala_Nehar_Bunglow_Road_Al_Jannat_Town-12706",
+              "slug_l1": "/Burewala_Nehar_Bunglow_Road_Al_Jannat_Town-12706"
+          }
+      ],
+      "hierarchyPath": "Al-Jannat Town Nehar Bunglow Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12706",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9441",
+      "_highlightResult": {
+          "name": {
+              "value": "Al-Jannat Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1648,
+      "name": "Amjad Town",
+      "name_l1": "امجد ٹاؤن",
+      "externalID": "4708",
+      "slug": "/Burewala_Amjad_Town-4708",
+      "slug_l1": "/Burewala_Amjad_Town-4708",
+      "_geoloc": {
+          "lat": 30.166427,
+          "lng": 72.701297
+      },
+      "geography": {
+          "lat": 30.166427,
+          "lng": 72.701297
+      },
+      "geo_point": [
+          72.701297,
+          30.166427
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1648,
+              "level": 3,
+              "externalID": "4708",
+              "name": "Amjad Town",
+              "name_l1": "امجد ٹاؤن",
+              "slug": "/Burewala_Amjad_Town-4708",
+              "slug_l1": "/Burewala_Amjad_Town-4708"
+          }
+      ],
+      "hierarchyPath": "Amjad Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4708",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1648",
+      "_highlightResult": {
+          "name": {
+              "value": "Amjad Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1650,
+      "name": "Arif Bazar Road",
+      "name_l1": "عارف بازار روڈ",
+      "externalID": "4710",
+      "slug": "/Burewala_Arif_Bazar_Road-4710",
+      "slug_l1": "/Burewala_Arif_Bazar_Road-4710",
+      "_geoloc": {
+          "lat": 30.160397,
+          "lng": 72.684043
+      },
+      "geography": {
+          "lat": 30.160397,
+          "lng": 72.684043
+      },
+      "geo_point": [
+          72.684043,
+          30.160397
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1650,
+              "level": 3,
+              "externalID": "4710",
+              "name": "Arif Bazar Road",
+              "name_l1": "عارف بازار روڈ",
+              "slug": "/Burewala_Arif_Bazar_Road-4710",
+              "slug_l1": "/Burewala_Arif_Bazar_Road-4710"
+          }
+      ],
+      "hierarchyPath": "Arif Bazar Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4710",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1650",
+      "_highlightResult": {
+          "name": {
+              "value": "Arif Bazar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1651,
+      "name": "Basti Fazalabad",
+      "name_l1": "بستی فضل آباد",
+      "externalID": "4711",
+      "slug": "/Burewala_Basti_Fazalabad-4711",
+      "slug_l1": "/Burewala_Basti_Fazalabad-4711",
+      "_geoloc": {
+          "lat": 30.168208,
+          "lng": 72.696612
+      },
+      "geography": {
+          "lat": 30.168208,
+          "lng": 72.696612
+      },
+      "geo_point": [
+          72.696612,
+          30.168208
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1651,
+              "level": 3,
+              "externalID": "4711",
+              "name": "Basti Fazalabad",
+              "name_l1": "بستی فضل آباد",
+              "slug": "/Burewala_Basti_Fazalabad-4711",
+              "slug_l1": "/Burewala_Basti_Fazalabad-4711"
+          }
+      ],
+      "hierarchyPath": "Basti Fazalabad Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4711",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1651",
+      "_highlightResult": {
+          "name": {
+              "value": "Basti Fazalabad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1652,
+      "name": "Block A",
+      "name_l1": "بلاک اے",
+      "externalID": "4712",
+      "slug": "/Burewala_Block_A-4712",
+      "slug_l1": "/Burewala_Block_A-4712",
+      "_geoloc": {
+          "lat": 30.161084,
+          "lng": 72.681549
+      },
+      "geography": {
+          "lat": 30.161084,
+          "lng": 72.681549
+      },
+      "geo_point": [
+          72.681549,
+          30.161084
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1652,
+              "level": 3,
+              "externalID": "4712",
+              "name": "Block A",
+              "name_l1": "بلاک اے",
+              "slug": "/Burewala_Block_A-4712",
+              "slug_l1": "/Burewala_Block_A-4712"
+          }
+      ],
+      "hierarchyPath": "Block A Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4712",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1652",
+      "_highlightResult": {
+          "name": {
+              "value": "Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1653,
+      "name": "Block C",
+      "name_l1": "بلاک بی",
+      "externalID": "4713",
+      "slug": "/Burewala_Block_C-4713",
+      "slug_l1": "/Burewala_Block_C-4713",
+      "_geoloc": {
+          "lat": 30.16331,
+          "lng": 72.68275
+      },
+      "geography": {
+          "lat": 30.16331,
+          "lng": 72.68275
+      },
+      "geo_point": [
+          72.68275,
+          30.16331
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1653,
+              "level": 3,
+              "externalID": "4713",
+              "name": "Block C",
+              "name_l1": "بلاک بی",
+              "slug": "/Burewala_Block_C-4713",
+              "slug_l1": "/Burewala_Block_C-4713"
+          }
+      ],
+      "hierarchyPath": "Block C Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4713",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1653",
+      "_highlightResult": {
+          "name": {
+              "value": "Block C",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1654,
+      "name": "Block D",
+      "name_l1": "بلاک ڈی",
+      "externalID": "4714",
+      "slug": "/Burewala_Block_D-4714",
+      "slug_l1": "/Burewala_Block_D-4714",
+      "_geoloc": {
+          "lat": 30.160119,
+          "lng": 72.679267
+      },
+      "geography": {
+          "lat": 30.160119,
+          "lng": 72.679267
+      },
+      "geo_point": [
+          72.679267,
+          30.160119
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1654,
+              "level": 3,
+              "externalID": "4714",
+              "name": "Block D",
+              "name_l1": "بلاک ڈی",
+              "slug": "/Burewala_Block_D-4714",
+              "slug_l1": "/Burewala_Block_D-4714"
+          }
+      ],
+      "hierarchyPath": "Block D Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4714",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1654",
+      "_highlightResult": {
+          "name": {
+              "value": "Block D",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1655,
+      "name": "Block E",
+      "name_l1": "بلاک ای",
+      "externalID": "4715",
+      "slug": "/Burewala_Block_E-4715",
+      "slug_l1": "/Burewala_Block_E-4715",
+      "_geoloc": {
+          "lat": 30.161084,
+          "lng": 72.681549
+      },
+      "geography": {
+          "lat": 30.161084,
+          "lng": 72.681549
+      },
+      "geo_point": [
+          72.681549,
+          30.161084
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1655,
+              "level": 3,
+              "externalID": "4715",
+              "name": "Block E",
+              "name_l1": "بلاک ای",
+              "slug": "/Burewala_Block_E-4715",
+              "slug_l1": "/Burewala_Block_E-4715"
+          }
+      ],
+      "hierarchyPath": "Block E Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4715",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1655",
+      "_highlightResult": {
+          "name": {
+              "value": "Block E",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1656,
+      "name": "Block F",
+      "name_l1": "بلاک ایف",
+      "externalID": "4716",
+      "slug": "/Burewala_Block_F-4716",
+      "slug_l1": "/Burewala_Block_F-4716",
+      "_geoloc": {
+          "lat": 30.157781,
+          "lng": 72.677515
+      },
+      "geography": {
+          "lat": 30.157781,
+          "lng": 72.677515
+      },
+      "geo_point": [
+          72.677515,
+          30.157781
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1656,
+              "level": 3,
+              "externalID": "4716",
+              "name": "Block F",
+              "name_l1": "بلاک ایف",
+              "slug": "/Burewala_Block_F-4716",
+              "slug_l1": "/Burewala_Block_F-4716"
+          }
+      ],
+      "hierarchyPath": "Block F Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4716",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1656",
+      "_highlightResult": {
+          "name": {
+              "value": "Block F",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1657,
+      "name": "Block G",
+      "name_l1": "بلاک جی",
+      "externalID": "4717",
+      "slug": "/Burewala_Block_G-4717",
+      "slug_l1": "/Burewala_Block_G-4717",
+      "_geoloc": {
+          "lat": 30.157299,
+          "lng": 72.67961
+      },
+      "geography": {
+          "lat": 30.157299,
+          "lng": 72.67961
+      },
+      "geo_point": [
+          72.67961,
+          30.157299
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1657,
+              "level": 3,
+              "externalID": "4717",
+              "name": "Block G",
+              "name_l1": "بلاک جی",
+              "slug": "/Burewala_Block_G-4717",
+              "slug_l1": "/Burewala_Block_G-4717"
+          }
+      ],
+      "hierarchyPath": "Block G Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4717",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1657",
+      "_highlightResult": {
+          "name": {
+              "value": "Block G",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1658,
+      "name": "Block H",
+      "name_l1": "بلاک ایچ",
+      "externalID": "4718",
+      "slug": "/Burewala_Block_H-4718",
+      "slug_l1": "/Burewala_Block_H-4718",
+      "_geoloc": {
+          "lat": 30.158523,
+          "lng": 72.683187
+      },
+      "geography": {
+          "lat": 30.158523,
+          "lng": 72.683187
+      },
+      "geo_point": [
+          72.683187,
+          30.158523
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1658,
+              "level": 3,
+              "externalID": "4718",
+              "name": "Block H",
+              "name_l1": "بلاک ایچ",
+              "slug": "/Burewala_Block_H-4718",
+              "slug_l1": "/Burewala_Block_H-4718"
+          }
+      ],
+      "hierarchyPath": "Block H Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4718",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1658",
+      "_highlightResult": {
+          "name": {
+              "value": "Block H",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1659,
+      "name": "Block I",
+      "name_l1": "بلاک I",
+      "externalID": "4719",
+      "slug": "/Burewala_Block_I-4719",
+      "slug_l1": "/Burewala_Block_I-4719",
+      "_geoloc": {
+          "lat": 30.16383,
+          "lng": 72.689323
+      },
+      "geography": {
+          "lat": 30.16383,
+          "lng": 72.689323
+      },
+      "geo_point": [
+          72.689323,
+          30.16383
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1659,
+              "level": 3,
+              "externalID": "4719",
+              "name": "Block I",
+              "name_l1": "بلاک I",
+              "slug": "/Burewala_Block_I-4719",
+              "slug_l1": "/Burewala_Block_I-4719"
+          }
+      ],
+      "hierarchyPath": "Block I Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4719",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1659",
+      "_highlightResult": {
+          "name": {
+              "value": "Block I",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1660,
+      "name": "Block K",
+      "name_l1": "بلاک کے",
+      "externalID": "4720",
+      "slug": "/Burewala_Block_K-4720",
+      "slug_l1": "/Burewala_Block_K-4720",
+      "_geoloc": {
+          "lat": 30.157633,
+          "lng": 72.671978
+      },
+      "geography": {
+          "lat": 30.157633,
+          "lng": 72.671978
+      },
+      "geo_point": [
+          72.671978,
+          30.157633
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1660,
+              "level": 3,
+              "externalID": "4720",
+              "name": "Block K",
+              "name_l1": "بلاک کے",
+              "slug": "/Burewala_Block_K-4720",
+              "slug_l1": "/Burewala_Block_K-4720"
+          }
+      ],
+      "hierarchyPath": "Block K Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4720",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1660",
+      "_highlightResult": {
+          "name": {
+              "value": "Block K",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19321,
+      "name": "Block M",
+      "name_l1": "بلاک ایم",
+      "externalID": "20203",
+      "slug": "/Burewala_Block_M-20203",
+      "slug_l1": "/Burewala_Block_M-20203",
+      "_geoloc": {
+          "lat": 30.159556,
+          "lng": 72.685384
+      },
+      "geography": {
+          "lat": 30.159556,
+          "lng": 72.685384
+      },
+      "geo_point": [
+          72.685384,
+          30.159556
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 19321,
+              "level": 3,
+              "externalID": "20203",
+              "name": "Block M",
+              "name_l1": "بلاک ایم",
+              "slug": "/Burewala_Block_M-20203",
+              "slug_l1": "/Burewala_Block_M-20203"
+          }
+      ],
+      "hierarchyPath": "Block M Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20203",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19321",
+      "_highlightResult": {
+          "name": {
+              "value": "Block M",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1661,
+      "name": "Block P",
+      "name_l1": "بلاک پی",
+      "externalID": "4721",
+      "slug": "/Burewala_Block_P-4721",
+      "slug_l1": "/Burewala_Block_P-4721",
+      "_geoloc": {
+          "lat": 30.159822,
+          "lng": 72.688243
+      },
+      "geography": {
+          "lat": 30.159822,
+          "lng": 72.688243
+      },
+      "geo_point": [
+          72.688243,
+          30.159822
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1661,
+              "level": 3,
+              "externalID": "4721",
+              "name": "Block P",
+              "name_l1": "بلاک پی",
+              "slug": "/Burewala_Block_P-4721",
+              "slug_l1": "/Burewala_Block_P-4721"
+          }
+      ],
+      "hierarchyPath": "Block P Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4721",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1661",
+      "_highlightResult": {
+          "name": {
+              "value": "Block P",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1662,
+      "name": "Block V",
+      "name_l1": "بلاک وی",
+      "externalID": "4722",
+      "slug": "/Burewala_Block_V-4722",
+      "slug_l1": "/Burewala_Block_V-4722",
+      "_geoloc": {
+          "lat": 30.1596,
+          "lng": 72.669153
+      },
+      "geography": {
+          "lat": 30.1596,
+          "lng": 72.669153
+      },
+      "geo_point": [
+          72.669153,
+          30.1596
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1662,
+              "level": 3,
+              "externalID": "4722",
+              "name": "Block V",
+              "name_l1": "بلاک وی",
+              "slug": "/Burewala_Block_V-4722",
+              "slug_l1": "/Burewala_Block_V-4722"
+          }
+      ],
+      "hierarchyPath": "Block V Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4722",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1662",
+      "_highlightResult": {
+          "name": {
+              "value": "Block V",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1663,
+      "name": "Block W",
+      "name_l1": "بلاک ڈبلیو",
+      "externalID": "4723",
+      "slug": "/Burewala_Block_W-4723",
+      "slug_l1": "/Burewala_Block_W-4723",
+      "_geoloc": {
+          "lat": 30.160379,
+          "lng": 72.671335
+      },
+      "geography": {
+          "lat": 30.160379,
+          "lng": 72.671335
+      },
+      "geo_point": [
+          72.671335,
+          30.160379
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1663,
+              "level": 3,
+              "externalID": "4723",
+              "name": "Block W",
+              "name_l1": "بلاک ڈبلیو",
+              "slug": "/Burewala_Block_W-4723",
+              "slug_l1": "/Burewala_Block_W-4723"
+          }
+      ],
+      "hierarchyPath": "Block W Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4723",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1663",
+      "_highlightResult": {
+          "name": {
+              "value": "Block W",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1664,
+      "name": "Block X",
+      "name_l1": "بلاک اکس",
+      "externalID": "4724",
+      "slug": "/Burewala_Block_X-4724",
+      "slug_l1": "/Burewala_Block_X-4724",
+      "_geoloc": {
+          "lat": 30.159117,
+          "lng": 72.671936
+      },
+      "geography": {
+          "lat": 30.159117,
+          "lng": 72.671936
+      },
+      "geo_point": [
+          72.671936,
+          30.159117
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1664,
+              "level": 3,
+              "externalID": "4724",
+              "name": "Block X",
+              "name_l1": "بلاک اکس",
+              "slug": "/Burewala_Block_X-4724",
+              "slug_l1": "/Burewala_Block_X-4724"
+          }
+      ],
+      "hierarchyPath": "Block X Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4724",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1664",
+      "_highlightResult": {
+          "name": {
+              "value": "Block X",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1665,
+      "name": "BTM Road",
+      "name_l1": "بی ٹی ایم روڈ",
+      "externalID": "4725",
+      "slug": "/Burewala_BTM_Road-4725",
+      "slug_l1": "/Burewala_BTM_Road-4725",
+      "_geoloc": {
+          "lat": 30.155332,
+          "lng": 72.687088
+      },
+      "geography": {
+          "lat": 30.155332,
+          "lng": 72.687088
+      },
+      "geo_point": [
+          72.687088,
+          30.155332
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1665,
+              "level": 3,
+              "externalID": "4725",
+              "name": "BTM Road",
+              "name_l1": "بی ٹی ایم روڈ",
+              "slug": "/Burewala_BTM_Road-4725",
+              "slug_l1": "/Burewala_BTM_Road-4725"
+          }
+      ],
+      "hierarchyPath": "BTM Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4725",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1665",
+      "_highlightResult": {
+          "name": {
+              "value": "BTM Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9190,
+      "name": "Burewala Gardens",
+      "name_l1": "بوریوالا گارڈنز",
+      "externalID": "11927",
+      "slug": "/Burewala_Burewala_Vehari_Road_Burewala_Gardens-11927",
+      "slug_l1": "/Burewala_Burewala_Vehari_Road_Burewala_Gardens-11927",
+      "_geoloc": {
+          "lat": 30.161532,
+          "lng": 72.661789
+      },
+      "geography": {
+          "lat": 30.161532,
+          "lng": 72.661789
+      },
+      "geo_point": [
+          72.661789,
+          30.161532
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1666,
+              "level": 3,
+              "externalID": "4726",
+              "name": "Burewala Vehari Road",
+              "name_l1": "بوریوالہ وہاڑی روڈ",
+              "slug": "/Burewala_Vehari_Road-4726",
+              "slug_l1": "/Burewala_Vehari_Road-4726"
+          },
+          {
+              "id": 9190,
+              "level": 4,
+              "externalID": "11927",
+              "name": "Burewala Gardens",
+              "name_l1": "بوریوالا گارڈنز",
+              "slug": "/Burewala_Burewala_Vehari_Road_Burewala_Gardens-11927",
+              "slug_l1": "/Burewala_Burewala_Vehari_Road_Burewala_Gardens-11927"
+          }
+      ],
+      "hierarchyPath": "Burewala Gardens Burewala Vehari Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11927",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9190",
+      "_highlightResult": {
+          "name": {
+              "value": "Burewala Gardens",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1666,
+      "name": "Burewala Vehari Road",
+      "name_l1": "بوریوالہ وہاڑی روڈ",
+      "externalID": "4726",
+      "slug": "/Burewala_Vehari_Road-4726",
+      "slug_l1": "/Burewala_Vehari_Road-4726",
+      "_geoloc": {
+          "lat": 30.151102,
+          "lng": 72.660606
+      },
+      "geography": {
+          "lat": 30.151102,
+          "lng": 72.660606
+      },
+      "geo_point": [
+          72.660606,
+          30.151102
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1666,
+              "level": 3,
+              "externalID": "4726",
+              "name": "Burewala Vehari Road",
+              "name_l1": "بوریوالہ وہاڑی روڈ",
+              "slug": "/Burewala_Vehari_Road-4726",
+              "slug_l1": "/Burewala_Vehari_Road-4726"
+          }
+      ],
+      "hierarchyPath": "Burewala Vehari Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4726",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1666",
+      "_highlightResult": {
+          "name": {
+              "value": "Burewala Vehari Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11351,
+      "name": "Canal Garden",
+      "name_l1": "کینال گارڈن",
+      "externalID": "12906",
+      "slug": "/Burewala_Burewala_Vehari_Road_Canal_Garden-12906",
+      "slug_l1": "/Burewala_Burewala_Vehari_Road_Canal_Garden-12906",
+      "_geoloc": {
+          "lat": 30.139506,
+          "lng": 72.619561
+      },
+      "geography": {
+          "lat": 30.139506,
+          "lng": 72.619561
+      },
+      "geo_point": [
+          72.619561,
+          30.139506
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1666,
+              "level": 3,
+              "externalID": "4726",
+              "name": "Burewala Vehari Road",
+              "name_l1": "بوریوالہ وہاڑی روڈ",
+              "slug": "/Burewala_Vehari_Road-4726",
+              "slug_l1": "/Burewala_Vehari_Road-4726"
+          },
+          {
+              "id": 11351,
+              "level": 4,
+              "externalID": "12906",
+              "name": "Canal Garden",
+              "name_l1": "کینال گارڈن",
+              "slug": "/Burewala_Burewala_Vehari_Road_Canal_Garden-12906",
+              "slug_l1": "/Burewala_Burewala_Vehari_Road_Canal_Garden-12906"
+          }
+      ],
+      "hierarchyPath": "Canal Garden Burewala Vehari Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12906",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11351",
+      "_highlightResult": {
+          "name": {
+              "value": "Canal Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11349,
+      "name": "Canal View Housing Society",
+      "name_l1": "کنال ویو ہاؤسنگ سوسائٹی",
+      "externalID": "12907",
+      "slug": "/Burewala_Canal_View_Housing_Society-12907",
+      "slug_l1": "/Burewala_Canal_View_Housing_Society-12907",
+      "_geoloc": {
+          "lat": 30.158902,
+          "lng": 72.709297
+      },
+      "geography": {
+          "lat": 30.158902,
+          "lng": 72.709297
+      },
+      "geo_point": [
+          72.709297,
+          30.158902
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 11349,
+              "level": 3,
+              "externalID": "12907",
+              "name": "Canal View Housing Society",
+              "name_l1": "کنال ویو ہاؤسنگ سوسائٹی",
+              "slug": "/Burewala_Canal_View_Housing_Society-12907",
+              "slug_l1": "/Burewala_Canal_View_Housing_Society-12907"
+          }
+      ],
+      "hierarchyPath": "Canal View Housing Society Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12907",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11349",
+      "_highlightResult": {
+          "name": {
+              "value": "Canal View Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1668,
+      "name": "Civil Park Colony",
+      "name_l1": "سوِل پارک کالونی",
+      "externalID": "4728",
+      "slug": "/Burewala_Civil_Park_Colony-4728",
+      "slug_l1": "/Burewala_Civil_Park_Colony-4728",
+      "_geoloc": {
+          "lat": 30.151621,
+          "lng": 72.67911
+      },
+      "geography": {
+          "lat": 30.151621,
+          "lng": 72.67911
+      },
+      "geo_point": [
+          72.67911,
+          30.151621
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1668,
+              "level": 3,
+              "externalID": "4728",
+              "name": "Civil Park Colony",
+              "name_l1": "سوِل پارک کالونی",
+              "slug": "/Burewala_Civil_Park_Colony-4728",
+              "slug_l1": "/Burewala_Civil_Park_Colony-4728"
+          }
+      ],
+      "hierarchyPath": "Civil Park Colony Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4728",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1668",
+      "_highlightResult": {
+          "name": {
+              "value": "Civil Park Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1670,
+      "name": "Gao Shalla",
+      "name_l1": "گاؤ شالہ",
+      "externalID": "4730",
+      "slug": "/Burewala_Gao_Shalla-4730",
+      "slug_l1": "/Burewala_Gao_Shalla-4730",
+      "_geoloc": {
+          "lat": 30.16446,
+          "lng": 72.675327
+      },
+      "geography": {
+          "lat": 30.16446,
+          "lng": 72.675327
+      },
+      "geo_point": [
+          72.675327,
+          30.16446
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1670,
+              "level": 3,
+              "externalID": "4730",
+              "name": "Gao Shalla",
+              "name_l1": "گاؤ شالہ",
+              "slug": "/Burewala_Gao_Shalla-4730",
+              "slug_l1": "/Burewala_Gao_Shalla-4730"
+          }
+      ],
+      "hierarchyPath": "Gao Shalla Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4730",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1670",
+      "_highlightResult": {
+          "name": {
+              "value": "Gao Shalla",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1671,
+      "name": "Gharruanhan",
+      "name_l1": "گھروانہن",
+      "externalID": "4731",
+      "slug": "/Burewala_Gharruanhan-4731",
+      "slug_l1": "/Burewala_Gharruanhan-4731",
+      "_geoloc": {
+          "lat": 30.152649,
+          "lng": 72.665191
+      },
+      "geography": {
+          "lat": 30.152649,
+          "lng": 72.665191
+      },
+      "geo_point": [
+          72.665191,
+          30.152649
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1671,
+              "level": 3,
+              "externalID": "4731",
+              "name": "Gharruanhan",
+              "name_l1": "گھروانہن",
+              "slug": "/Burewala_Gharruanhan-4731",
+              "slug_l1": "/Burewala_Gharruanhan-4731"
+          }
+      ],
+      "hierarchyPath": "Gharruanhan Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4731",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1671",
+      "_highlightResult": {
+          "name": {
+              "value": "Gharruanhan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1672,
+      "name": "Ghulam Mohammad Colony",
+      "name_l1": "غلام محمد کالونی",
+      "externalID": "4732",
+      "slug": "/Burewala_Ghulam_Mohammad_Colony-4732",
+      "slug_l1": "/Burewala_Ghulam_Mohammad_Colony-4732",
+      "_geoloc": {
+          "lat": 30.151399,
+          "lng": 72.670784
+      },
+      "geography": {
+          "lat": 30.151399,
+          "lng": 72.670784
+      },
+      "geo_point": [
+          72.670784,
+          30.151399
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1672,
+              "level": 3,
+              "externalID": "4732",
+              "name": "Ghulam Mohammad Colony",
+              "name_l1": "غلام محمد کالونی",
+              "slug": "/Burewala_Ghulam_Mohammad_Colony-4732",
+              "slug_l1": "/Burewala_Ghulam_Mohammad_Colony-4732"
+          }
+      ],
+      "hierarchyPath": "Ghulam Mohammad Colony Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4732",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1672",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghulam Mohammad Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1673,
+      "name": "Green Town",
+      "name_l1": "گرین ٹاؤن",
+      "externalID": "4733",
+      "slug": "/Burewala_Green_Town-4733",
+      "slug_l1": "/Burewala_Green_Town-4733",
+      "_geoloc": {
+          "lat": 30.147205,
+          "lng": 72.688097
+      },
+      "geography": {
+          "lat": 30.147205,
+          "lng": 72.688097
+      },
+      "geo_point": [
+          72.688097,
+          30.147205
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1673,
+              "level": 3,
+              "externalID": "4733",
+              "name": "Green Town",
+              "name_l1": "گرین ٹاؤن",
+              "slug": "/Burewala_Green_Town-4733",
+              "slug_l1": "/Burewala_Green_Town-4733"
+          }
+      ],
+      "hierarchyPath": "Green Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4733",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1673",
+      "_highlightResult": {
+          "name": {
+              "value": "Green Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1674,
+      "name": "Green Valley",
+      "name_l1": "گرین ویلی",
+      "externalID": "4734",
+      "slug": "/Burewala_Green_Valley-4734",
+      "slug_l1": "/Burewala_Green_Valley-4734",
+      "_geoloc": {
+          "lat": 30.164497,
+          "lng": 72.710996
+      },
+      "geography": {
+          "lat": 30.164497,
+          "lng": 72.710996
+      },
+      "geo_point": [
+          72.710996,
+          30.164497
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1674,
+              "level": 3,
+              "externalID": "4734",
+              "name": "Green Valley",
+              "name_l1": "گرین ویلی",
+              "slug": "/Burewala_Green_Valley-4734",
+              "slug_l1": "/Burewala_Green_Valley-4734"
+          }
+      ],
+      "hierarchyPath": "Green Valley Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4734",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1674",
+      "_highlightResult": {
+          "name": {
+              "value": "Green Valley",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9440,
+      "name": "Green View",
+      "name_l1": "گرین ویو",
+      "externalID": "12704",
+      "slug": "/Burewala_Luddan_Road_Green_View-12704",
+      "slug_l1": "/Burewala_Luddan_Road_Green_View-12704",
+      "_geoloc": {
+          "lat": 30.147145,
+          "lng": 72.687709
+      },
+      "geography": {
+          "lat": 30.147145,
+          "lng": 72.687709
+      },
+      "geo_point": [
+          72.687709,
+          30.147145
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1684,
+              "level": 3,
+              "externalID": "4744",
+              "name": "Luddan Road",
+              "name_l1": "لُڈن روڈ",
+              "slug": "/Burewala_Luddan_Road-4744",
+              "slug_l1": "/Burewala_Luddan_Road-4744"
+          },
+          {
+              "id": 9440,
+              "level": 4,
+              "externalID": "12704",
+              "name": "Green View",
+              "name_l1": "گرین ویو",
+              "slug": "/Burewala_Luddan_Road_Green_View-12704",
+              "slug_l1": "/Burewala_Luddan_Road_Green_View-12704"
+          }
+      ],
+      "hierarchyPath": "Green View Luddan Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12704",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9440",
+      "_highlightResult": {
+          "name": {
+              "value": "Green View",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1675,
+      "name": "Gulshan e Khushi",
+      "name_l1": "گلشنِ خوشی",
+      "externalID": "4735",
+      "slug": "/Burewala_Gulshan_e_Khushi-4735",
+      "slug_l1": "/Burewala_Gulshan_e_Khushi-4735",
+      "_geoloc": {
+          "lat": 30.165388,
+          "lng": 72.663102
+      },
+      "geography": {
+          "lat": 30.165388,
+          "lng": 72.663102
+      },
+      "geo_point": [
+          72.663102,
+          30.165388
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1675,
+              "level": 3,
+              "externalID": "4735",
+              "name": "Gulshan e Khushi",
+              "name_l1": "گلشنِ خوشی",
+              "slug": "/Burewala_Gulshan_e_Khushi-4735",
+              "slug_l1": "/Burewala_Gulshan_e_Khushi-4735"
+          }
+      ],
+      "hierarchyPath": "Gulshan e Khushi Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4735",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1675",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan e Khushi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1676,
+      "name": "Gulshan e Raheem",
+      "name_l1": "گلشنِ رحیم",
+      "externalID": "4736",
+      "slug": "/Burewala_Gulshan_e_Raheem-4736",
+      "slug_l1": "/Burewala_Gulshan_e_Raheem-4736",
+      "_geoloc": {
+          "lat": 30.163273,
+          "lng": 72.663095
+      },
+      "geography": {
+          "lat": 30.163273,
+          "lng": 72.663095
+      },
+      "geo_point": [
+          72.663095,
+          30.163273
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1676,
+              "level": 3,
+              "externalID": "4736",
+              "name": "Gulshan e Raheem",
+              "name_l1": "گلشنِ رحیم",
+              "slug": "/Burewala_Gulshan_e_Raheem-4736",
+              "slug_l1": "/Burewala_Gulshan_e_Raheem-4736"
+          }
+      ],
+      "hierarchyPath": "Gulshan e Raheem Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4736",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1676",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan e Raheem",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1677,
+      "name": "Gulshan Raza Town",
+      "name_l1": "گلشن رضا ٹاؤن",
+      "externalID": "4737",
+      "slug": "/Burewala_Gulshan_Raza_Town-4737",
+      "slug_l1": "/Burewala_Gulshan_Raza_Town-4737",
+      "_geoloc": {
+          "lat": 30.153959,
+          "lng": 72.670784
+      },
+      "geography": {
+          "lat": 30.153959,
+          "lng": 72.670784
+      },
+      "geo_point": [
+          72.670784,
+          30.153959
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1677,
+              "level": 3,
+              "externalID": "4737",
+              "name": "Gulshan Raza Town",
+              "name_l1": "گلشن رضا ٹاؤن",
+              "slug": "/Burewala_Gulshan_Raza_Town-4737",
+              "slug_l1": "/Burewala_Gulshan_Raza_Town-4737"
+          }
+      ],
+      "hierarchyPath": "Gulshan Raza Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4737",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1677",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan Raza Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9439,
+      "name": "Gulshan-e-Ghani Colony",
+      "name_l1": "گلشن غنی کالونی",
+      "externalID": "12703",
+      "slug": "/Burewala_Chichawatni_Road_Gulshan_e_Ghani_Colony-12703",
+      "slug_l1": "/Burewala_Chichawatni_Road_Gulshan_e_Ghani_Colony-12703",
+      "_geoloc": {
+          "lat": 30.166829,
+          "lng": 72.686569
+      },
+      "geography": {
+          "lat": 30.166829,
+          "lng": 72.686569
+      },
+      "geo_point": [
+          72.686569,
+          30.166829
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1667,
+              "level": 3,
+              "externalID": "4727",
+              "name": "Chichawatni Road",
+              "name_l1": "چیچہ وطنی روڈ",
+              "slug": "/Burewala_Chichawatni_Road-4727",
+              "slug_l1": "/Burewala_Chichawatni_Road-4727"
+          },
+          {
+              "id": 9439,
+              "level": 4,
+              "externalID": "12703",
+              "name": "Gulshan-e-Ghani Colony",
+              "name_l1": "گلشن غنی کالونی",
+              "slug": "/Burewala_Chichawatni_Road_Gulshan_e_Ghani_Colony-12703",
+              "slug_l1": "/Burewala_Chichawatni_Road_Gulshan_e_Ghani_Colony-12703"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Ghani Colony Chichawatni Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12703",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9439",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Ghani Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1678,
+      "name": "Habib Colony",
+      "name_l1": "حبیب کالونی",
+      "externalID": "4738",
+      "slug": "/Burewala_Habib_Colony-4738",
+      "slug_l1": "/Burewala_Habib_Colony-4738",
+      "_geoloc": {
+          "lat": 30.151621,
+          "lng": 72.673438
+      },
+      "geography": {
+          "lat": 30.151621,
+          "lng": 72.673438
+      },
+      "geo_point": [
+          72.673438,
+          30.151621
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1678,
+              "level": 3,
+              "externalID": "4738",
+              "name": "Habib Colony",
+              "name_l1": "حبیب کالونی",
+              "slug": "/Burewala_Habib_Colony-4738",
+              "slug_l1": "/Burewala_Habib_Colony-4738"
+          }
+      ],
+      "hierarchyPath": "Habib Colony Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4738",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1678",
+      "_highlightResult": {
+          "name": {
+              "value": "Habib Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1679,
+      "name": "Jevan Town",
+      "name_l1": "جیون ٹاؤن",
+      "externalID": "4739",
+      "slug": "/Burewala_Jevan_Town-4739",
+      "slug_l1": "/Burewala_Jevan_Town-4739",
+      "_geoloc": {
+          "lat": 30.144237,
+          "lng": 72.677464
+      },
+      "geography": {
+          "lat": 30.144237,
+          "lng": 72.677464
+      },
+      "geo_point": [
+          72.677464,
+          30.144237
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1679,
+              "level": 3,
+              "externalID": "4739",
+              "name": "Jevan Town",
+              "name_l1": "جیون ٹاؤن",
+              "slug": "/Burewala_Jevan_Town-4739",
+              "slug_l1": "/Burewala_Jevan_Town-4739"
+          }
+      ],
+      "hierarchyPath": "Jevan Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4739",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1679",
+      "_highlightResult": {
+          "name": {
+              "value": "Jevan Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1680,
+      "name": "Joia Road",
+      "name_l1": "جوئیا روڈ",
+      "externalID": "4740",
+      "slug": "/Burewala_Joia_Road-4740",
+      "slug_l1": "/Burewala_Joia_Road-4740",
+      "_geoloc": {
+          "lat": 30.157021,
+          "lng": 72.682647
+      },
+      "geography": {
+          "lat": 30.157021,
+          "lng": 72.682647
+      },
+      "geo_point": [
+          72.682647,
+          30.157021
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1680,
+              "level": 3,
+              "externalID": "4740",
+              "name": "Joia Road",
+              "name_l1": "جوئیا روڈ",
+              "slug": "/Burewala_Joia_Road-4740",
+              "slug_l1": "/Burewala_Joia_Road-4740"
+          }
+      ],
+      "hierarchyPath": "Joia Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4740",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1680",
+      "_highlightResult": {
+          "name": {
+              "value": "Joia Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1681,
+      "name": "Kachi Abadi",
+      "name_l1": "کچی آبادی",
+      "externalID": "4741",
+      "slug": "/Burewala_Kachi_Abadi-4741",
+      "slug_l1": "/Burewala_Kachi_Abadi-4741",
+      "_geoloc": {
+          "lat": 30.157596,
+          "lng": 72.688551
+      },
+      "geography": {
+          "lat": 30.157596,
+          "lng": 72.688551
+      },
+      "geo_point": [
+          72.688551,
+          30.157596
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1681,
+              "level": 3,
+              "externalID": "4741",
+              "name": "Kachi Abadi",
+              "name_l1": "کچی آبادی",
+              "slug": "/Burewala_Kachi_Abadi-4741",
+              "slug_l1": "/Burewala_Kachi_Abadi-4741"
+          }
+      ],
+      "hierarchyPath": "Kachi Abadi Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4741",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1681",
+      "_highlightResult": {
+          "name": {
+              "value": "Kachi Abadi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1684,
+      "name": "Luddan Road",
+      "name_l1": "لُڈن روڈ",
+      "externalID": "4744",
+      "slug": "/Burewala_Luddan_Road-4744",
+      "slug_l1": "/Burewala_Luddan_Road-4744",
+      "_geoloc": {
+          "lat": 30.145907,
+          "lng": 72.686098
+      },
+      "geography": {
+          "lat": 30.145907,
+          "lng": 72.686098
+      },
+      "geo_point": [
+          72.686098,
+          30.145907
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1684,
+              "level": 3,
+              "externalID": "4744",
+              "name": "Luddan Road",
+              "name_l1": "لُڈن روڈ",
+              "slug": "/Burewala_Luddan_Road-4744",
+              "slug_l1": "/Burewala_Luddan_Road-4744"
+          }
+      ],
+      "hierarchyPath": "Luddan Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4744",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1684",
+      "_highlightResult": {
+          "name": {
+              "value": "Luddan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1685,
+      "name": "Marzipura",
+      "name_l1": "مرضی پورہ",
+      "externalID": "4745",
+      "slug": "/Burewala_Marzipura-4745",
+      "slug_l1": "/Burewala_Marzipura-4745",
+      "_geoloc": {
+          "lat": 30.153254,
+          "lng": 72.658031
+      },
+      "geography": {
+          "lat": 30.153254,
+          "lng": 72.658031
+      },
+      "geo_point": [
+          72.658031,
+          30.153254
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1685,
+              "level": 3,
+              "externalID": "4745",
+              "name": "Marzipura",
+              "name_l1": "مرضی پورہ",
+              "slug": "/Burewala_Marzipura-4745",
+              "slug_l1": "/Burewala_Marzipura-4745"
+          }
+      ],
+      "hierarchyPath": "Marzipura Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4745",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1685",
+      "_highlightResult": {
+          "name": {
+              "value": "Marzipura",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1686,
+      "name": "Masoom Shah Colony",
+      "name_l1": "معصوم شاہ کالونی",
+      "externalID": "4746",
+      "slug": "/Burewala_Masoom_Shah_Colony-4746",
+      "slug_l1": "/Burewala_Masoom_Shah_Colony-4746",
+      "_geoloc": {
+          "lat": 30.14817,
+          "lng": 72.673008
+      },
+      "geography": {
+          "lat": 30.14817,
+          "lng": 72.673008
+      },
+      "geo_point": [
+          72.673008,
+          30.14817
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1686,
+              "level": 3,
+              "externalID": "4746",
+              "name": "Masoom Shah Colony",
+              "name_l1": "معصوم شاہ کالونی",
+              "slug": "/Burewala_Masoom_Shah_Colony-4746",
+              "slug_l1": "/Burewala_Masoom_Shah_Colony-4746"
+          }
+      ],
+      "hierarchyPath": "Masoom Shah Colony Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4746",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1686",
+      "_highlightResult": {
+          "name": {
+              "value": "Masoom Shah Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1687,
+      "name": "Mujahid Colony",
+      "name_l1": "مجاہد کالونی",
+      "externalID": "4747",
+      "slug": "/Burewala_Mujahid_Colony-4747",
+      "slug_l1": "/Burewala_Mujahid_Colony-4747",
+      "_geoloc": {
+          "lat": 30.157447,
+          "lng": 72.702355
+      },
+      "geography": {
+          "lat": 30.157447,
+          "lng": 72.702355
+      },
+      "geo_point": [
+          72.702355,
+          30.157447
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1687,
+              "level": 3,
+              "externalID": "4747",
+              "name": "Mujahid Colony",
+              "name_l1": "مجاہد کالونی",
+              "slug": "/Burewala_Mujahid_Colony-4747",
+              "slug_l1": "/Burewala_Mujahid_Colony-4747"
+          }
+      ],
+      "hierarchyPath": "Mujahid Colony Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4747",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1687",
+      "_highlightResult": {
+          "name": {
+              "value": "Mujahid Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11491,
+      "name": "Multan Road",
+      "name_l1": "ملتان روڈ",
+      "externalID": "13019",
+      "slug": "/Burewala_Multan_Road-13019",
+      "slug_l1": "/Burewala_Multan_Road-13019",
+      "_geoloc": {
+          "lat": 30.156162,
+          "lng": 72.665305
+      },
+      "geography": {
+          "lat": 30.156162,
+          "lng": 72.665305
+      },
+      "geo_point": [
+          72.665305,
+          30.156162
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 11491,
+              "level": 3,
+              "externalID": "13019",
+              "name": "Multan Road",
+              "name_l1": "ملتان روڈ",
+              "slug": "/Burewala_Multan_Road-13019",
+              "slug_l1": "/Burewala_Multan_Road-13019"
+          }
+      ],
+      "hierarchyPath": "Multan Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13019",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11491",
+      "_highlightResult": {
+          "name": {
+              "value": "Multan Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6314,
+      "name": "Nehar Bunglow Road",
+      "name_l1": "نہر بنگلو روڈ",
+      "externalID": "12705",
+      "slug": "/Burewala_Nehar_Bunglow_Road-12705",
+      "slug_l1": "/Burewala_Nehar_Bunglow_Road-12705",
+      "_geoloc": {
+          "lat": 30.174655,
+          "lng": 72.695554
+      },
+      "geography": {
+          "lat": 30.174655,
+          "lng": 72.695554
+      },
+      "geo_point": [
+          72.695554,
+          30.174655
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 6314,
+              "level": 3,
+              "externalID": "12705",
+              "name": "Nehar Bunglow Road",
+              "name_l1": "نہر بنگلو روڈ",
+              "slug": "/Burewala_Nehar_Bunglow_Road-12705",
+              "slug_l1": "/Burewala_Nehar_Bunglow_Road-12705"
+          }
+      ],
+      "hierarchyPath": "Nehar Bunglow Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12705",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6314",
+      "_highlightResult": {
+          "name": {
+              "value": "Nehar Bunglow Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9438,
+      "name": "New Model Town",
+      "name_l1": "نیو ماڈل ٹاؤن",
+      "externalID": "12701",
+      "slug": "/Burewala_Chichawatni_Road_New_Model_Town-12701",
+      "slug_l1": "/Burewala_Chichawatni_Road_New_Model_Town-12701",
+      "_geoloc": {
+          "lat": 30.169509,
+          "lng": 72.686252
+      },
+      "geography": {
+          "lat": 30.169509,
+          "lng": 72.686252
+      },
+      "geo_point": [
+          72.686252,
+          30.169509
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1667,
+              "level": 3,
+              "externalID": "4727",
+              "name": "Chichawatni Road",
+              "name_l1": "چیچہ وطنی روڈ",
+              "slug": "/Burewala_Chichawatni_Road-4727",
+              "slug_l1": "/Burewala_Chichawatni_Road-4727"
+          },
+          {
+              "id": 9438,
+              "level": 4,
+              "externalID": "12701",
+              "name": "New Model Town",
+              "name_l1": "نیو ماڈل ٹاؤن",
+              "slug": "/Burewala_Chichawatni_Road_New_Model_Town-12701",
+              "slug_l1": "/Burewala_Chichawatni_Road_New_Model_Town-12701"
+          }
+      ],
+      "hierarchyPath": "New Model Town Chichawatni Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12701",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9438",
+      "_highlightResult": {
+          "name": {
+              "value": "New Model Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1688,
+      "name": "Nomades Huts",
+      "name_l1": "نومیڈز ہٹس",
+      "externalID": "4748",
+      "slug": "/Burewala_Nomades_Huts-4748",
+      "slug_l1": "/Burewala_Nomades_Huts-4748",
+      "_geoloc": {
+          "lat": 30.157225,
+          "lng": 72.686552
+      },
+      "geography": {
+          "lat": 30.157225,
+          "lng": 72.686552
+      },
+      "geo_point": [
+          72.686552,
+          30.157225
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1688,
+              "level": 3,
+              "externalID": "4748",
+              "name": "Nomades Huts",
+              "name_l1": "نومیڈز ہٹس",
+              "slug": "/Burewala_Nomades_Huts-4748",
+              "slug_l1": "/Burewala_Nomades_Huts-4748"
+          }
+      ],
+      "hierarchyPath": "Nomades Huts Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4748",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1688",
+      "_highlightResult": {
+          "name": {
+              "value": "Nomades Huts",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 853,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1060",
+      "slug": "/Burewala_Others-1060",
+      "slug_l1": "/Burewala_Others-1060",
+      "_geoloc": {
+          "lat": 30.1577,
+          "lng": 72.674
+      },
+      "geography": {
+          "lat": 30.1577,
+          "lng": 72.674
+      },
+      "geo_point": [
+          72.674,
+          30.1577
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 853,
+              "level": 3,
+              "externalID": "1060",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Burewala_Others-1060",
+              "slug_l1": "/Burewala_Others-1060"
+          }
+      ],
+      "hierarchyPath": "Others Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1060",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "853",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9420,
+      "name": "Pak Housing Society",
+      "name_l1": "پاک ہاؤسنگ سوسائٹی",
+      "externalID": "12661",
+      "slug": "/Burewala_Chichawatni_Road_Pak_Housing_Society-12661",
+      "slug_l1": "/Burewala_Chichawatni_Road_Pak_Housing_Society-12661",
+      "_geoloc": {
+          "lat": 30.197679,
+          "lng": 72.705987
+      },
+      "geography": {
+          "lat": 30.197679,
+          "lng": 72.705987
+      },
+      "geo_point": [
+          72.705987,
+          30.197679
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1667,
+              "level": 3,
+              "externalID": "4727",
+              "name": "Chichawatni Road",
+              "name_l1": "چیچہ وطنی روڈ",
+              "slug": "/Burewala_Chichawatni_Road-4727",
+              "slug_l1": "/Burewala_Chichawatni_Road-4727"
+          },
+          {
+              "id": 9420,
+              "level": 4,
+              "externalID": "12661",
+              "name": "Pak Housing Society",
+              "name_l1": "پاک ہاؤسنگ سوسائٹی",
+              "slug": "/Burewala_Chichawatni_Road_Pak_Housing_Society-12661",
+              "slug_l1": "/Burewala_Chichawatni_Road_Pak_Housing_Society-12661"
+          }
+      ],
+      "hierarchyPath": "Pak Housing Society Chichawatni Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12661",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9420",
+      "_highlightResult": {
+          "name": {
+              "value": "Pak Housing Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9117,
+      "name": "Royal Gardens",
+      "name_l1": "رائل گارڈن",
+      "externalID": "11743",
+      "slug": "/Burewala_Chichawatni_Road_Royal_Gardens-11743",
+      "slug_l1": "/Burewala_Chichawatni_Road_Royal_Gardens-11743",
+      "_geoloc": {
+          "lat": 30.184044,
+          "lng": 72.695457
+      },
+      "geography": {
+          "lat": 30.184044,
+          "lng": 72.695457
+      },
+      "geo_point": [
+          72.695457,
+          30.184044
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1667,
+              "level": 3,
+              "externalID": "4727",
+              "name": "Chichawatni Road",
+              "name_l1": "چیچہ وطنی روڈ",
+              "slug": "/Burewala_Chichawatni_Road-4727",
+              "slug_l1": "/Burewala_Chichawatni_Road-4727"
+          },
+          {
+              "id": 9117,
+              "level": 4,
+              "externalID": "11743",
+              "name": "Royal Gardens",
+              "name_l1": "رائل گارڈن",
+              "slug": "/Burewala_Chichawatni_Road_Royal_Gardens-11743",
+              "slug_l1": "/Burewala_Chichawatni_Road_Royal_Gardens-11743"
+          }
+      ],
+      "hierarchyPath": "Royal Gardens Chichawatni Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11743",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "9117",
+      "_highlightResult": {
+          "name": {
+              "value": "Royal Gardens",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15469,
+      "name": "Royal Gardens - Overseas Block",
+      "name_l1": "رائل گارڈن ۔ اوورسیز بلاک",
+      "externalID": "16910",
+      "slug": "/Burewala_Chichawatni_Road_Royal_Gardens_Royal_Gardens___Overseas_Block-16910",
+      "slug_l1": "/Burewala_Chichawatni_Road_Royal_Gardens_Royal_Gardens___Overseas_Block-16910",
+      "_geoloc": {
+          "lat": 30.18425872,
+          "lng": 72.69316515
+      },
+      "geography": {
+          "lat": 30.18425872,
+          "lng": 72.69316515
+      },
+      "geo_point": [
+          72.69316515,
+          30.18425872
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1667,
+              "level": 3,
+              "externalID": "4727",
+              "name": "Chichawatni Road",
+              "name_l1": "چیچہ وطنی روڈ",
+              "slug": "/Burewala_Chichawatni_Road-4727",
+              "slug_l1": "/Burewala_Chichawatni_Road-4727"
+          },
+          {
+              "id": 9117,
+              "level": 4,
+              "externalID": "11743",
+              "name": "Royal Gardens",
+              "name_l1": "رائل گارڈن",
+              "slug": "/Burewala_Chichawatni_Road_Royal_Gardens-11743",
+              "slug_l1": "/Burewala_Chichawatni_Road_Royal_Gardens-11743"
+          },
+          {
+              "id": 15469,
+              "level": 5,
+              "externalID": "16910",
+              "name": "Royal Gardens - Overseas Block",
+              "name_l1": "رائل گارڈن ۔ اوورسیز بلاک",
+              "slug": "/Burewala_Chichawatni_Road_Royal_Gardens_Royal_Gardens___Overseas_Block-16910",
+              "slug_l1": "/Burewala_Chichawatni_Road_Royal_Gardens_Royal_Gardens___Overseas_Block-16910"
+          }
+      ],
+      "hierarchyPath": "Royal Gardens - Overseas Block Royal Gardens Chichawatni Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16910",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15469",
+      "_highlightResult": {
+          "name": {
+              "value": "Royal Gardens - Overseas Block",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1689,
+      "name": "Sabzazar Town",
+      "name_l1": "سبزہ زار ٹاؤن",
+      "externalID": "4749",
+      "slug": "/Burewala_Sabzazar_Town-4749",
+      "slug_l1": "/Burewala_Sabzazar_Town-4749",
+      "_geoloc": {
+          "lat": 30.165314,
+          "lng": 72.706218
+      },
+      "geography": {
+          "lat": 30.165314,
+          "lng": 72.706218
+      },
+      "geo_point": [
+          72.706218,
+          30.165314
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1689,
+              "level": 3,
+              "externalID": "4749",
+              "name": "Sabzazar Town",
+              "name_l1": "سبزہ زار ٹاؤن",
+              "slug": "/Burewala_Sabzazar_Town-4749",
+              "slug_l1": "/Burewala_Sabzazar_Town-4749"
+          }
+      ],
+      "hierarchyPath": "Sabzazar Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4749",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1689",
+      "_highlightResult": {
+          "name": {
+              "value": "Sabzazar Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1082,
+      "name": "Satellite Town",
+      "name_l1": "سیٹیلائیٹ ٹاؤن",
+      "externalID": "1330",
+      "slug": "/Burewala_Satellite_Town-1330",
+      "slug_l1": "/Burewala_Satellite_Town-1330",
+      "_geoloc": {
+          "lat": 30.162308,
+          "lng": 72.694294
+      },
+      "geography": {
+          "lat": 30.162308,
+          "lng": 72.694294
+      },
+      "geo_point": [
+          72.694294,
+          30.162308
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1082,
+              "level": 3,
+              "externalID": "1330",
+              "name": "Satellite Town",
+              "name_l1": "سیٹیلائیٹ ٹاؤن",
+              "slug": "/Burewala_Satellite_Town-1330",
+              "slug_l1": "/Burewala_Satellite_Town-1330"
+          }
+      ],
+      "hierarchyPath": "Satellite Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1330",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1082",
+      "_highlightResult": {
+          "name": {
+              "value": "Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1690,
+      "name": "Shadman Colony",
+      "name_l1": "شادمان کالونی",
+      "externalID": "4750",
+      "slug": "/Burewala_Shadman_Colony-4750",
+      "slug_l1": "/Burewala_Shadman_Colony-4750",
+      "_geoloc": {
+          "lat": 30.153922,
+          "lng": 72.667387
+      },
+      "geography": {
+          "lat": 30.153922,
+          "lng": 72.667387
+      },
+      "geo_point": [
+          72.667387,
+          30.153922
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1690,
+              "level": 3,
+              "externalID": "4750",
+              "name": "Shadman Colony",
+              "name_l1": "شادمان کالونی",
+              "slug": "/Burewala_Shadman_Colony-4750",
+              "slug_l1": "/Burewala_Shadman_Colony-4750"
+          }
+      ],
+      "hierarchyPath": "Shadman Colony Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4750",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1690",
+      "_highlightResult": {
+          "name": {
+              "value": "Shadman Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16101,
+      "name": "Shah Faiz Colony",
+      "name_l1": "شاہ فیض کالونی",
+      "externalID": "17379",
+      "slug": "/Burewala_Shah_Faiz_Colony-17379",
+      "slug_l1": "/Burewala_Shah_Faiz_Colony-17379",
+      "_geoloc": {
+          "lat": 30.163911,
+          "lng": 72.703906
+      },
+      "geography": {
+          "lat": 30.163911,
+          "lng": 72.703906
+      },
+      "geo_point": [
+          72.703906,
+          30.163911
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 16101,
+              "level": 3,
+              "externalID": "17379",
+              "name": "Shah Faiz Colony",
+              "name_l1": "شاہ فیض کالونی",
+              "slug": "/Burewala_Shah_Faiz_Colony-17379",
+              "slug_l1": "/Burewala_Shah_Faiz_Colony-17379"
+          }
+      ],
+      "hierarchyPath": "Shah Faiz Colony Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17379",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16101",
+      "_highlightResult": {
+          "name": {
+              "value": "Shah Faiz Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6313,
+      "name": "Stadium Road",
+      "name_l1": "اسٹیڈیم روڈ",
+      "externalID": "12702",
+      "slug": "/Burewala_Stadium_Road-12702",
+      "slug_l1": "/Burewala_Stadium_Road-12702",
+      "_geoloc": {
+          "lat": 30.166482,
+          "lng": 72.683717
+      },
+      "geography": {
+          "lat": 30.166482,
+          "lng": 72.683717
+      },
+      "geo_point": [
+          72.683717,
+          30.166482
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 6313,
+              "level": 3,
+              "externalID": "12702",
+              "name": "Stadium Road",
+              "name_l1": "اسٹیڈیم روڈ",
+              "slug": "/Burewala_Stadium_Road-12702",
+              "slug_l1": "/Burewala_Stadium_Road-12702"
+          }
+      ],
+      "hierarchyPath": "Stadium Road Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12702",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6313",
+      "_highlightResult": {
+          "name": {
+              "value": "Stadium Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1691,
+      "name": "Vehari Bazar",
+      "name_l1": "وہاڑی بازار",
+      "externalID": "4751",
+      "slug": "/Burewala_Vehari_Bazar-4751",
+      "slug_l1": "/Burewala_Vehari_Bazar-4751",
+      "_geoloc": {
+          "lat": 30.159952,
+          "lng": 72.674561
+      },
+      "geography": {
+          "lat": 30.159952,
+          "lng": 72.674561
+      },
+      "geo_point": [
+          72.674561,
+          30.159952
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1691,
+              "level": 3,
+              "externalID": "4751",
+              "name": "Vehari Bazar",
+              "name_l1": "وہاڑی بازار",
+              "slug": "/Burewala_Vehari_Bazar-4751",
+              "slug_l1": "/Burewala_Vehari_Bazar-4751"
+          }
+      ],
+      "hierarchyPath": "Vehari Bazar Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4751",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1691",
+      "_highlightResult": {
+          "name": {
+              "value": "Vehari Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15869,
+      "name": "Woodland Gardens",
+      "name_l1": "ووڈ لینڈ گارڈنز",
+      "externalID": "17228",
+      "slug": "/Burewala_Woodland_Gardens-17228",
+      "slug_l1": "/Burewala_Woodland_Gardens-17228",
+      "_geoloc": {
+          "lat": 30.20746898,
+          "lng": 72.71199299
+      },
+      "geography": {
+          "lat": 30.20746898,
+          "lng": 72.71199299
+      },
+      "geo_point": [
+          72.71199299,
+          30.20746898
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 15869,
+              "level": 3,
+              "externalID": "17228",
+              "name": "Woodland Gardens",
+              "name_l1": "ووڈ لینڈ گارڈنز",
+              "slug": "/Burewala_Woodland_Gardens-17228",
+              "slug_l1": "/Burewala_Woodland_Gardens-17228"
+          }
+      ],
+      "hierarchyPath": "Woodland Gardens Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17228",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15869",
+      "_highlightResult": {
+          "name": {
+              "value": "Woodland Gardens",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1693,
+      "name": "Yaqoob Abad",
+      "name_l1": "یعقوب آباد",
+      "externalID": "4753",
+      "slug": "/Burewala_Yaqoob_Abad-4753",
+      "slug_l1": "/Burewala_Yaqoob_Abad-4753",
+      "_geoloc": {
+          "lat": 30.171992,
+          "lng": 72.68687
+      },
+      "geography": {
+          "lat": 30.171992,
+          "lng": 72.68687
+      },
+      "geo_point": [
+          72.68687,
+          30.171992
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1693,
+              "level": 3,
+              "externalID": "4753",
+              "name": "Yaqoob Abad",
+              "name_l1": "یعقوب آباد",
+              "slug": "/Burewala_Yaqoob_Abad-4753",
+              "slug_l1": "/Burewala_Yaqoob_Abad-4753"
+          }
+      ],
+      "hierarchyPath": "Yaqoob Abad Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4753",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1693",
+      "_highlightResult": {
+          "name": {
+              "value": "Yaqoob Abad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1694,
+      "name": "Yousaf Abad",
+      "name_l1": "یوسف آباد",
+      "externalID": "4754",
+      "slug": "/Burewala_Yousaf_Abad-4754",
+      "slug_l1": "/Burewala_Yousaf_Abad-4754",
+      "_geoloc": {
+          "lat": 30.14817,
+          "lng": 72.676578
+      },
+      "geography": {
+          "lat": 30.14817,
+          "lng": 72.676578
+      },
+      "geo_point": [
+          72.676578,
+          30.14817
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1694,
+              "level": 3,
+              "externalID": "4754",
+              "name": "Yousaf Abad",
+              "name_l1": "یوسف آباد",
+              "slug": "/Burewala_Yousaf_Abad-4754",
+              "slug_l1": "/Burewala_Yousaf_Abad-4754"
+          }
+      ],
+      "hierarchyPath": "Yousaf Abad Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4754",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1694",
+      "_highlightResult": {
+          "name": {
+              "value": "Yousaf Abad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1695,
+      "name": "Zahid Colony",
+      "name_l1": "زاہد کالونی",
+      "externalID": "4755",
+      "slug": "/Burewala_Zahid_Colony-4755",
+      "slug_l1": "/Burewala_Zahid_Colony-4755",
+      "_geoloc": {
+          "lat": 30.149655,
+          "lng": 72.695832
+      },
+      "geography": {
+          "lat": 30.149655,
+          "lng": 72.695832
+      },
+      "geo_point": [
+          72.695832,
+          30.149655
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1695,
+              "level": 3,
+              "externalID": "4755",
+              "name": "Zahid Colony",
+              "name_l1": "زاہد کالونی",
+              "slug": "/Burewala_Zahid_Colony-4755",
+              "slug_l1": "/Burewala_Zahid_Colony-4755"
+          }
+      ],
+      "hierarchyPath": "Zahid Colony Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4755",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1695",
+      "_highlightResult": {
+          "name": {
+              "value": "Zahid Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1696,
+      "name": "Zeeshan Town",
+      "name_l1": "ذیشان ٹاؤن",
+      "externalID": "4756",
+      "slug": "/Burewala_Zeeshan_Town-4756",
+      "slug_l1": "/Burewala_Zeeshan_Town-4756",
+      "_geoloc": {
+          "lat": 30.139486,
+          "lng": 72.684088
+      },
+      "geography": {
+          "lat": 30.139486,
+          "lng": 72.684088
+      },
+      "geo_point": [
+          72.684088,
+          30.139486
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 54,
+              "level": 2,
+              "externalID": "1059",
+              "name": "Burewala",
+              "name_l1": "بورے والہ",
+              "slug": "/Burewala-1059",
+              "slug_l1": "/Burewala-1059"
+          },
+          {
+              "id": 1696,
+              "level": 3,
+              "externalID": "4756",
+              "name": "Zeeshan Town",
+              "name_l1": "ذیشان ٹاؤن",
+              "slug": "/Burewala_Zeeshan_Town-4756",
+              "slug_l1": "/Burewala_Zeeshan_Town-4756"
+          }
+      ],
+      "hierarchyPath": "Zeeshan Town Burewala Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "4756",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "1696",
+      "_highlightResult": {
+          "name": {
+              "value": "Zeeshan Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

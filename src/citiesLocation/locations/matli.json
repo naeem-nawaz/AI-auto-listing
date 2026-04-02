@@ -1,0 +1,532 @@
+[
+  {
+      "id": 12641,
+      "name": "Matli",
+      "name_l1": "ماتلی",
+      "externalID": "14120",
+      "slug": "/Matli-14120",
+      "slug_l1": "/Matli-14120",
+      "_geoloc": {
+          "lat": 25.045429,
+          "lng": 68.657795
+      },
+      "geography": {
+          "lat": 25.045429,
+          "lng": 68.657795
+      },
+      "geo_point": [
+          68.657795,
+          25.045429
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12641,
+              "level": 2,
+              "externalID": "14120",
+              "name": "Matli",
+              "name_l1": "ماتلی",
+              "slug": "/Matli-14120",
+              "slug_l1": "/Matli-14120"
+          }
+      ],
+      "hierarchyPath": "Matli Sindh Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14120",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12641",
+      "_highlightResult": {
+          "name": {
+              "value": "Matli",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18840,
+      "name": "Kings Residency",
+      "name_l1": "کنگز ریذیڈنسی",
+      "externalID": "19767",
+      "slug": "/Matli_Kings_Residency-19767",
+      "slug_l1": "/Matli_Kings_Residency-19767",
+      "_geoloc": {
+          "lat": 25.0398506313,
+          "lng": 68.651936776956
+      },
+      "geography": {
+          "lat": 25.0398506313,
+          "lng": 68.651936776956
+      },
+      "geo_point": [
+          68.651936776956,
+          25.0398506313
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12641,
+              "level": 2,
+              "externalID": "14120",
+              "name": "Matli",
+              "name_l1": "ماتلی",
+              "slug": "/Matli-14120",
+              "slug_l1": "/Matli-14120"
+          },
+          {
+              "id": 18840,
+              "level": 3,
+              "externalID": "19767",
+              "name": "Kings Residency",
+              "name_l1": "کنگز ریذیڈنسی",
+              "slug": "/Matli_Kings_Residency-19767",
+              "slug_l1": "/Matli_Kings_Residency-19767"
+          }
+      ],
+      "hierarchyPath": "Kings Residency Matli Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19767",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18840",
+      "_highlightResult": {
+          "name": {
+              "value": "Kings Residency",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12647,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "14123",
+      "slug": "/Matli_Others-14123",
+      "slug_l1": "/Matli_Others-14123",
+      "_geoloc": {
+          "lat": 25.046276,
+          "lng": 68.655403
+      },
+      "geography": {
+          "lat": 25.046276,
+          "lng": 68.655403
+      },
+      "geo_point": [
+          68.655403,
+          25.046276
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12641,
+              "level": 2,
+              "externalID": "14120",
+              "name": "Matli",
+              "name_l1": "ماتلی",
+              "slug": "/Matli-14120",
+              "slug_l1": "/Matli-14120"
+          },
+          {
+              "id": 12647,
+              "level": 3,
+              "externalID": "14123",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Matli_Others-14123",
+              "slug_l1": "/Matli_Others-14123"
+          }
+      ],
+      "hierarchyPath": "Others Matli Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14123",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12647",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12645,
+      "name": "Wapda Colony",
+      "name_l1": "واپڈا کالوني",
+      "externalID": "14121",
+      "slug": "/Matli_Wapda_Colony-14121",
+      "slug_l1": "/Matli_Wapda_Colony-14121",
+      "_geoloc": {
+          "lat": 25.043457,
+          "lng": 68.662757
+      },
+      "geography": {
+          "lat": 25.043457,
+          "lng": 68.662757
+      },
+      "geo_point": [
+          68.662757,
+          25.043457
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12641,
+              "level": 2,
+              "externalID": "14120",
+              "name": "Matli",
+              "name_l1": "ماتلی",
+              "slug": "/Matli-14120",
+              "slug_l1": "/Matli-14120"
+          },
+          {
+              "id": 12645,
+              "level": 3,
+              "externalID": "14121",
+              "name": "Wapda Colony",
+              "name_l1": "واپڈا کالوني",
+              "slug": "/Matli_Wapda_Colony-14121",
+              "slug_l1": "/Matli_Wapda_Colony-14121"
+          }
+      ],
+      "hierarchyPath": "Wapda Colony Matli Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14121",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12645",
+      "_highlightResult": {
+          "name": {
+              "value": "Wapda Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18432,
+      "name": "Al Abbas Town",
+      "name_l1": "العباس ٹاؤن",
+      "externalID": "19346",
+      "slug": "/Matli_Al_Abbas_Town-19346",
+      "slug_l1": "/Matli_Al_Abbas_Town-19346",
+      "_geoloc": {
+          "lat": 25.054297,
+          "lng": 68.676002
+      },
+      "geography": {
+          "lat": 25.054297,
+          "lng": 68.676002
+      },
+      "geo_point": [
+          68.676002,
+          25.054297
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12641,
+              "level": 2,
+              "externalID": "14120",
+              "name": "Matli",
+              "name_l1": "ماتلی",
+              "slug": "/Matli-14120",
+              "slug_l1": "/Matli-14120"
+          },
+          {
+              "id": 18432,
+              "level": 3,
+              "externalID": "19346",
+              "name": "Al Abbas Town",
+              "name_l1": "العباس ٹاؤن",
+              "slug": "/Matli_Al_Abbas_Town-19346",
+              "slug_l1": "/Matli_Al_Abbas_Town-19346"
+          }
+      ],
+      "hierarchyPath": "Al Abbas Town Matli Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19346",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18432",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Abbas Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18431,
+      "name": "Tariq Town",
+      "name_l1": "طارق ٹاؤن",
+      "externalID": "19345",
+      "slug": "/Matli_Tariq_Town-19345",
+      "slug_l1": "/Matli_Tariq_Town-19345",
+      "_geoloc": {
+          "lat": 25.0560428,
+          "lng": 68.6346763
+      },
+      "geography": {
+          "lat": 25.0560428,
+          "lng": 68.6346763
+      },
+      "geo_point": [
+          68.6346763,
+          25.0560428
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12641,
+              "level": 2,
+              "externalID": "14120",
+              "name": "Matli",
+              "name_l1": "ماتلی",
+              "slug": "/Matli-14120",
+              "slug_l1": "/Matli-14120"
+          },
+          {
+              "id": 18431,
+              "level": 3,
+              "externalID": "19345",
+              "name": "Tariq Town",
+              "name_l1": "طارق ٹاؤن",
+              "slug": "/Matli_Tariq_Town-19345",
+              "slug_l1": "/Matli_Tariq_Town-19345"
+          }
+      ],
+      "hierarchyPath": "Tariq Town Matli Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19345",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18431",
+      "_highlightResult": {
+          "name": {
+              "value": "Tariq Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12646,
+      "name": "Zaheer Colony",
+      "name_l1": "ظھير کالوني",
+      "externalID": "14122",
+      "slug": "/Matli_Zaheer_Colony-14122",
+      "slug_l1": "/Matli_Zaheer_Colony-14122",
+      "_geoloc": {
+          "lat": 25.048059,
+          "lng": 68.65695
+      },
+      "geography": {
+          "lat": 25.048059,
+          "lng": 68.65695
+      },
+      "geo_point": [
+          68.65695,
+          25.048059
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12641,
+              "level": 2,
+              "externalID": "14120",
+              "name": "Matli",
+              "name_l1": "ماتلی",
+              "slug": "/Matli-14120",
+              "slug_l1": "/Matli-14120"
+          },
+          {
+              "id": 12646,
+              "level": 3,
+              "externalID": "14122",
+              "name": "Zaheer Colony",
+              "name_l1": "ظھير کالوني",
+              "slug": "/Matli_Zaheer_Colony-14122",
+              "slug_l1": "/Matli_Zaheer_Colony-14122"
+          }
+      ],
+      "hierarchyPath": "Zaheer Colony Matli Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14122",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12646",
+      "_highlightResult": {
+          "name": {
+              "value": "Zaheer Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

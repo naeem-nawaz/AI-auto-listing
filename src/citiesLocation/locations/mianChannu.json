@@ -1,0 +1,935 @@
+[
+    {
+        "id": 140,
+        "name": "Mian Channu",
+        "name_l1": "مِياں چنُّوں",
+        "externalID": "9636",
+        "slug": "/Mian_Channu-9636",
+        "slug_l1": "/Mian_Channu-9636",
+        "_geoloc": {
+            "lat": 30.434329,
+            "lng": 72.350487
+        },
+        "geography": {
+            "lat": 30.434329,
+            "lng": 72.350487
+        },
+        "geo_point": [
+            72.350487,
+            30.434329
+        ],
+        "level": 2,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            }
+        ],
+        "hierarchyPath": "Mian Channu Punjab Pakistan",
+        "adCount": 6,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "9636",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "140",
+        "_highlightResult": {
+            "name": {
+                "value": "Mian Channu",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 21334,
+        "name": "Mian Channu Bypass",
+        "name_l1": "میاں چنوں بائی پاس",
+        "externalID": "21923",
+        "slug": "/Mian_Channu_Mian_Channu_Bypass-21923",
+        "slug_l1": "/Mian_Channu_Mian_Channu_Bypass-21923",
+        "_geoloc": {
+            "lat": 30.456674195768,
+            "lng": 72.366957925247
+        },
+        "geography": {
+            "lat": 30.456674195768,
+            "lng": 72.366957925247
+        },
+        "geo_point": [
+            72.366957925247,
+            30.456674195768
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 21334,
+                "level": 3,
+                "externalID": "21923",
+                "name": "Mian Channu Bypass",
+                "name_l1": "میاں چنوں بائی پاس",
+                "slug": "/Mian_Channu_Mian_Channu_Bypass-21923",
+                "slug_l1": "/Mian_Channu_Mian_Channu_Bypass-21923"
+            }
+        ],
+        "hierarchyPath": "Mian Channu Bypass Mian Channu Punjab Pakistan",
+        "adCount": 6,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "21923",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "21334",
+        "_highlightResult": {
+            "name": {
+                "value": "Mian Channu Bypass",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18530,
+        "name": "Jatala Town",
+        "name_l1": "جتالہ ٹاوَن",
+        "externalID": "19442",
+        "slug": "/Mian_Channu_Shami_Road_Jatala_Town-19442",
+        "slug_l1": "/Mian_Channu_Shami_Road_Jatala_Town-19442",
+        "_geoloc": {
+            "lat": 30.444114,
+            "lng": 72.342567
+        },
+        "geography": {
+            "lat": 30.444114,
+            "lng": 72.342567
+        },
+        "geo_point": [
+            72.342567,
+            30.444114
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 11631,
+                "level": 3,
+                "externalID": "13157",
+                "name": "Shami Road",
+                "name_l1": "شامی روڈ",
+                "slug": "/Mian_Channu_Shami_Road-13157",
+                "slug_l1": "/Mian_Channu_Shami_Road-13157"
+            },
+            {
+                "id": 18530,
+                "level": 4,
+                "externalID": "19442",
+                "name": "Jatala Town",
+                "name_l1": "جتالہ ٹاوَن",
+                "slug": "/Mian_Channu_Shami_Road_Jatala_Town-19442",
+                "slug_l1": "/Mian_Channu_Shami_Road_Jatala_Town-19442"
+            }
+        ],
+        "hierarchyPath": "Jatala Town Shami Road Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19442",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18530",
+        "_highlightResult": {
+            "name": {
+                "value": "Jatala Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 11638,
+        "name": "Jinnah Town",
+        "name_l1": "جناح ٹاؤن",
+        "externalID": "13158",
+        "slug": "/Mian_Channu_Shami_Road_Jinnah_Town-13158",
+        "slug_l1": "/Mian_Channu_Shami_Road_Jinnah_Town-13158",
+        "_geoloc": {
+            "lat": 30.444824,
+            "lng": 72.348833
+        },
+        "geography": {
+            "lat": 30.444824,
+            "lng": 72.348833
+        },
+        "geo_point": [
+            72.348833,
+            30.444824
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 11631,
+                "level": 3,
+                "externalID": "13157",
+                "name": "Shami Road",
+                "name_l1": "شامی روڈ",
+                "slug": "/Mian_Channu_Shami_Road-13157",
+                "slug_l1": "/Mian_Channu_Shami_Road-13157"
+            },
+            {
+                "id": 11638,
+                "level": 4,
+                "externalID": "13158",
+                "name": "Jinnah Town",
+                "name_l1": "جناح ٹاؤن",
+                "slug": "/Mian_Channu_Shami_Road_Jinnah_Town-13158",
+                "slug_l1": "/Mian_Channu_Shami_Road_Jinnah_Town-13158"
+            }
+        ],
+        "hierarchyPath": "Jinnah Town Shami Road Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "13158",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "11638",
+        "_highlightResult": {
+            "name": {
+                "value": "Jinnah Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18526,
+        "name": "Lateef Bagh Housing Scheme",
+        "name_l1": "لطیف باغ ہاؤسنگ سکیم",
+        "externalID": "19443",
+        "slug": "/Mian_Channu_Lateef_Bagh_Housing_Scheme-19443",
+        "slug_l1": "/Mian_Channu_Lateef_Bagh_Housing_Scheme-19443",
+        "_geoloc": {
+            "lat": 30.4328826,
+            "lng": 72.3672552
+        },
+        "geography": {
+            "lat": 30.4328826,
+            "lng": 72.3672552
+        },
+        "geo_point": [
+            72.3672552,
+            30.4328826
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 18526,
+                "level": 3,
+                "externalID": "19443",
+                "name": "Lateef Bagh Housing Scheme",
+                "name_l1": "لطیف باغ ہاؤسنگ سکیم",
+                "slug": "/Mian_Channu_Lateef_Bagh_Housing_Scheme-19443",
+                "slug_l1": "/Mian_Channu_Lateef_Bagh_Housing_Scheme-19443"
+            }
+        ],
+        "hierarchyPath": "Lateef Bagh Housing Scheme Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19443",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18526",
+        "_highlightResult": {
+            "name": {
+                "value": "Lateef Bagh Housing Scheme",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 12011,
+        "name": "Liaquat Road",
+        "name_l1": "لیاقت روڈ",
+        "externalID": "13528",
+        "slug": "/Mian_Channu_Liaquat_Road-13528",
+        "slug_l1": "/Mian_Channu_Liaquat_Road-13528",
+        "_geoloc": {
+            "lat": 30.44189,
+            "lng": 72.356373
+        },
+        "geography": {
+            "lat": 30.44189,
+            "lng": 72.356373
+        },
+        "geo_point": [
+            72.356373,
+            30.44189
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 12011,
+                "level": 3,
+                "externalID": "13528",
+                "name": "Liaquat Road",
+                "name_l1": "لیاقت روڈ",
+                "slug": "/Mian_Channu_Liaquat_Road-13528",
+                "slug_l1": "/Mian_Channu_Liaquat_Road-13528"
+            }
+        ],
+        "hierarchyPath": "Liaquat Road Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "13528",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "12011",
+        "_highlightResult": {
+            "name": {
+                "value": "Liaquat Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 5847,
+        "name": "Others",
+        "name_l1": "ادرز",
+        "externalID": "11742",
+        "slug": "/Mian_Channu_Others-11742",
+        "slug_l1": "/Mian_Channu_Others-11742",
+        "_geoloc": {
+            "lat": 30.43974,
+            "lng": 72.3534
+        },
+        "geography": {
+            "lat": 30.43974,
+            "lng": 72.3534
+        },
+        "geo_point": [
+            72.3534,
+            30.43974
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 5847,
+                "level": 3,
+                "externalID": "11742",
+                "name": "Others",
+                "name_l1": "ادرز",
+                "slug": "/Mian_Channu_Others-11742",
+                "slug_l1": "/Mian_Channu_Others-11742"
+            }
+        ],
+        "hierarchyPath": "Others Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "11742",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "5847",
+        "_highlightResult": {
+            "name": {
+                "value": "Others",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 18527,
+        "name": "Raheem Garden",
+        "name_l1": "رحیم گارڈن",
+        "externalID": "19444",
+        "slug": "/Mian_Channu_Raheem_Garden-19444",
+        "slug_l1": "/Mian_Channu_Raheem_Garden-19444",
+        "_geoloc": {
+            "lat": 30.408529,
+            "lng": 72.373338
+        },
+        "geography": {
+            "lat": 30.408529,
+            "lng": 72.373338
+        },
+        "geo_point": [
+            72.373338,
+            30.408529
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 18527,
+                "level": 3,
+                "externalID": "19444",
+                "name": "Raheem Garden",
+                "name_l1": "رحیم گارڈن",
+                "slug": "/Mian_Channu_Raheem_Garden-19444",
+                "slug_l1": "/Mian_Channu_Raheem_Garden-19444"
+            }
+        ],
+        "hierarchyPath": "Raheem Garden Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "19444",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "18527",
+        "_highlightResult": {
+            "name": {
+                "value": "Raheem Garden",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 11630,
+        "name": "Shaheed Road",
+        "name_l1": "شہید روڈ",
+        "externalID": "13156",
+        "slug": "/Mian_Channu_Shaheed_Road-13156",
+        "slug_l1": "/Mian_Channu_Shaheed_Road-13156",
+        "_geoloc": {
+            "lat": 30.441058,
+            "lng": 72.352096
+        },
+        "geography": {
+            "lat": 30.441058,
+            "lng": 72.352096
+        },
+        "geo_point": [
+            72.352096,
+            30.441058
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 11630,
+                "level": 3,
+                "externalID": "13156",
+                "name": "Shaheed Road",
+                "name_l1": "شہید روڈ",
+                "slug": "/Mian_Channu_Shaheed_Road-13156",
+                "slug_l1": "/Mian_Channu_Shaheed_Road-13156"
+            }
+        ],
+        "hierarchyPath": "Shaheed Road Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "13156",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "11630",
+        "_highlightResult": {
+            "name": {
+                "value": "Shaheed Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 11631,
+        "name": "Shami Road",
+        "name_l1": "شامی روڈ",
+        "externalID": "13157",
+        "slug": "/Mian_Channu_Shami_Road-13157",
+        "slug_l1": "/Mian_Channu_Shami_Road-13157",
+        "_geoloc": {
+            "lat": 30.442875,
+            "lng": 72.340746
+        },
+        "geography": {
+            "lat": 30.442875,
+            "lng": 72.340746
+        },
+        "geo_point": [
+            72.340746,
+            30.442875
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 11631,
+                "level": 3,
+                "externalID": "13157",
+                "name": "Shami Road",
+                "name_l1": "شامی روڈ",
+                "slug": "/Mian_Channu_Shami_Road-13157",
+                "slug_l1": "/Mian_Channu_Shami_Road-13157"
+            }
+        ],
+        "hierarchyPath": "Shami Road Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "13157",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "11631",
+        "_highlightResult": {
+            "name": {
+                "value": "Shami Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 4860,
+        "name": "Tulamba",
+        "name_l1": "تلمبہ",
+        "externalID": "9877",
+        "slug": "/Mian_Channu_Tulamba-9877",
+        "slug_l1": "/Mian_Channu_Tulamba-9877",
+        "_geoloc": {
+            "lat": 30.523592,
+            "lng": 72.241046
+        },
+        "geography": {
+            "lat": 30.523592,
+            "lng": 72.241046
+        },
+        "geo_point": [
+            72.241046,
+            30.523592
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 4860,
+                "level": 3,
+                "externalID": "9877",
+                "name": "Tulamba",
+                "name_l1": "تلمبہ",
+                "slug": "/Mian_Channu_Tulamba-9877",
+                "slug_l1": "/Mian_Channu_Tulamba-9877"
+            }
+        ],
+        "hierarchyPath": "Tulamba Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "9877",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "4860",
+        "_highlightResult": {
+            "name": {
+                "value": "Tulamba",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 14548,
+        "name": "Tulamba Road",
+        "name_l1": "تلمبہ روڈ",
+        "externalID": "16040",
+        "slug": "/Mian_Channu_Tulamba_Road-16040",
+        "slug_l1": "/Mian_Channu_Tulamba_Road-16040",
+        "_geoloc": {
+            "lat": 30.519516,
+            "lng": 72.279466
+        },
+        "geography": {
+            "lat": 30.519516,
+            "lng": 72.279466
+        },
+        "geo_point": [
+            72.279466,
+            30.519516
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 140,
+                "level": 2,
+                "externalID": "9636",
+                "name": "Mian Channu",
+                "name_l1": "مِياں چنُّوں",
+                "slug": "/Mian_Channu-9636",
+                "slug_l1": "/Mian_Channu-9636"
+            },
+            {
+                "id": 14548,
+                "level": 3,
+                "externalID": "16040",
+                "name": "Tulamba Road",
+                "name_l1": "تلمبہ روڈ",
+                "slug": "/Mian_Channu_Tulamba_Road-16040",
+                "slug_l1": "/Mian_Channu_Tulamba_Road-16040"
+            }
+        ],
+        "hierarchyPath": "Tulamba Road Mian Channu Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "16040",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "14548",
+        "_highlightResult": {
+            "name": {
+                "value": "Tulamba Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }
+]

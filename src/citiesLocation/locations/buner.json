@@ -1,0 +1,1596 @@
+[
+  {
+      "id": 11291,
+      "name": "Alpha Town",
+      "name_l1": "الفا ٹاؤن",
+      "externalID": "12879",
+      "slug": "/Buner_Alpha_Town-12879",
+      "slug_l1": "/Buner_Alpha_Town-12879",
+      "_geoloc": {
+          "lat": 34.459867,
+          "lng": 72.535493
+      },
+      "geography": {
+          "lat": 34.459867,
+          "lng": 72.535493
+      },
+      "geo_point": [
+          72.535493,
+          34.459867
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 11291,
+              "level": 3,
+              "externalID": "12879",
+              "name": "Alpha Town",
+              "name_l1": "الفا ٹاؤن",
+              "slug": "/Buner_Alpha_Town-12879",
+              "slug_l1": "/Buner_Alpha_Town-12879"
+          }
+      ],
+      "hierarchyPath": "Alpha Town Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12879",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11291",
+      "_highlightResult": {
+          "name": {
+              "value": "Alpha Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 168,
+      "name": "Buner",
+      "name_l1": "بونیر",
+      "externalID": "11286",
+      "slug": "/Buner-11286",
+      "slug_l1": "/Buner-11286",
+      "_geoloc": {
+          "lat": 34.516931,
+          "lng": 72.508243
+      },
+      "geography": {
+          "lat": 34.516931,
+          "lng": 72.508243
+      },
+      "geo_point": [
+          72.508243,
+          34.516931
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          }
+      ],
+      "hierarchyPath": "Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11286",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "168",
+      "_highlightResult": {
+          "name": {
+              "value": "Buner",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6260,
+      "name": "Chinglai",
+      "name_l1": "چنگلائی",
+      "externalID": "12575",
+      "slug": "/Buner_Chinglai-12575",
+      "slug_l1": "/Buner_Chinglai-12575",
+      "_geoloc": {
+          "lat": 34.322509,
+          "lng": 72.511268
+      },
+      "geography": {
+          "lat": 34.322509,
+          "lng": 72.511268
+      },
+      "geo_point": [
+          72.511268,
+          34.322509
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6260,
+              "level": 3,
+              "externalID": "12575",
+              "name": "Chinglai",
+              "name_l1": "چنگلائی",
+              "slug": "/Buner_Chinglai-12575",
+              "slug_l1": "/Buner_Chinglai-12575"
+          }
+      ],
+      "hierarchyPath": "Chinglai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12575",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6260",
+      "_highlightResult": {
+          "name": {
+              "value": "Chinglai",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9374,
+      "name": "Chinglai Hills",
+      "name_l1": "چنگلائی ہلز",
+      "externalID": "12576",
+      "slug": "/Buner_Chinglai_Chinglai_Hills-12576",
+      "slug_l1": "/Buner_Chinglai_Chinglai_Hills-12576",
+      "_geoloc": {
+          "lat": 34.34071,
+          "lng": 72.52173
+      },
+      "geography": {
+          "lat": 34.34071,
+          "lng": 72.52173
+      },
+      "geo_point": [
+          72.52173,
+          34.34071
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6260,
+              "level": 3,
+              "externalID": "12575",
+              "name": "Chinglai",
+              "name_l1": "چنگلائی",
+              "slug": "/Buner_Chinglai-12575",
+              "slug_l1": "/Buner_Chinglai-12575"
+          },
+          {
+              "id": 9374,
+              "level": 4,
+              "externalID": "12576",
+              "name": "Chinglai Hills",
+              "name_l1": "چنگلائی ہلز",
+              "slug": "/Buner_Chinglai_Chinglai_Hills-12576",
+              "slug_l1": "/Buner_Chinglai_Chinglai_Hills-12576"
+          }
+      ],
+      "hierarchyPath": "Chinglai Hills Chinglai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12576",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9374",
+      "_highlightResult": {
+          "name": {
+              "value": "Chinglai Hills",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6254,
+      "name": "Dagai",
+      "name_l1": "داگی",
+      "externalID": "12568",
+      "slug": "/Buner_Dagai-12568",
+      "slug_l1": "/Buner_Dagai-12568",
+      "_geoloc": {
+          "lat": 34.502105,
+          "lng": 72.385919
+      },
+      "geography": {
+          "lat": 34.502105,
+          "lng": 72.385919
+      },
+      "geo_point": [
+          72.385919,
+          34.502105
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6254,
+              "level": 3,
+              "externalID": "12568",
+              "name": "Dagai",
+              "name_l1": "داگی",
+              "slug": "/Buner_Dagai-12568",
+              "slug_l1": "/Buner_Dagai-12568"
+          }
+      ],
+      "hierarchyPath": "Dagai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12568",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6254",
+      "_highlightResult": {
+          "name": {
+              "value": "Dagai",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6262,
+      "name": "Daggar",
+      "name_l1": "ڈاگر",
+      "externalID": "12578",
+      "slug": "/Buner_Daggar-12578",
+      "slug_l1": "/Buner_Daggar-12578",
+      "_geoloc": {
+          "lat": 34.522015,
+          "lng": 72.444887
+      },
+      "geography": {
+          "lat": 34.522015,
+          "lng": 72.444887
+      },
+      "geo_point": [
+          72.444887,
+          34.522015
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6262,
+              "level": 3,
+              "externalID": "12578",
+              "name": "Daggar",
+              "name_l1": "ڈاگر",
+              "slug": "/Buner_Daggar-12578",
+              "slug_l1": "/Buner_Daggar-12578"
+          }
+      ],
+      "hierarchyPath": "Daggar Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12578",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6262",
+      "_highlightResult": {
+          "name": {
+              "value": "Daggar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6258,
+      "name": "Dandar",
+      "name_l1": "دندار",
+      "externalID": "12573",
+      "slug": "/Buner_Dandar-12573",
+      "slug_l1": "/Buner_Dandar-12573",
+      "_geoloc": {
+          "lat": 34.25085,
+          "lng": 72.533247
+      },
+      "geography": {
+          "lat": 34.25085,
+          "lng": 72.533247
+      },
+      "geo_point": [
+          72.533247,
+          34.25085
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6258,
+              "level": 3,
+              "externalID": "12573",
+              "name": "Dandar",
+              "name_l1": "دندار",
+              "slug": "/Buner_Dandar-12573",
+              "slug_l1": "/Buner_Dandar-12573"
+          }
+      ],
+      "hierarchyPath": "Dandar Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12573",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6258",
+      "_highlightResult": {
+          "name": {
+              "value": "Dandar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6256,
+      "name": "Ghurghushto",
+      "name_l1": "غورغشتو",
+      "externalID": "12571",
+      "slug": "/Buner_Ghurghushto-12571",
+      "slug_l1": "/Buner_Ghurghushto-12571",
+      "_geoloc": {
+          "lat": 34.217362,
+          "lng": 72.511805
+      },
+      "geography": {
+          "lat": 34.217362,
+          "lng": 72.511805
+      },
+      "geo_point": [
+          72.511805,
+          34.217362
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6256,
+              "level": 3,
+              "externalID": "12571",
+              "name": "Ghurghushto",
+              "name_l1": "غورغشتو",
+              "slug": "/Buner_Ghurghushto-12571",
+              "slug_l1": "/Buner_Ghurghushto-12571"
+          }
+      ],
+      "hierarchyPath": "Ghurghushto Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12571",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6256",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghurghushto",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6259,
+      "name": "Hisarbaba",
+      "name_l1": "ہیساربابا",
+      "externalID": "12574",
+      "slug": "/Buner_Hisarbaba-12574",
+      "slug_l1": "/Buner_Hisarbaba-12574",
+      "_geoloc": {
+          "lat": 34.263513,
+          "lng": 72.552495
+      },
+      "geography": {
+          "lat": 34.263513,
+          "lng": 72.552495
+      },
+      "geo_point": [
+          72.552495,
+          34.263513
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6259,
+              "level": 3,
+              "externalID": "12574",
+              "name": "Hisarbaba",
+              "name_l1": "ہیساربابا",
+              "slug": "/Buner_Hisarbaba-12574",
+              "slug_l1": "/Buner_Hisarbaba-12574"
+          }
+      ],
+      "hierarchyPath": "Hisarbaba Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12574",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6259",
+      "_highlightResult": {
+          "name": {
+              "value": "Hisarbaba",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9373,
+      "name": "Kalasang Mera",
+      "name_l1": "کالاسنگ میرا",
+      "externalID": "12569",
+      "slug": "/Buner_Dagai_Kalasang_Mera-12569",
+      "slug_l1": "/Buner_Dagai_Kalasang_Mera-12569",
+      "_geoloc": {
+          "lat": 34.185787,
+          "lng": 72.519613
+      },
+      "geography": {
+          "lat": 34.185787,
+          "lng": 72.519613
+      },
+      "geo_point": [
+          72.519613,
+          34.185787
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6254,
+              "level": 3,
+              "externalID": "12568",
+              "name": "Dagai",
+              "name_l1": "داگی",
+              "slug": "/Buner_Dagai-12568",
+              "slug_l1": "/Buner_Dagai-12568"
+          },
+          {
+              "id": 9373,
+              "level": 4,
+              "externalID": "12569",
+              "name": "Kalasang Mera",
+              "name_l1": "کالاسنگ میرا",
+              "slug": "/Buner_Dagai_Kalasang_Mera-12569",
+              "slug_l1": "/Buner_Dagai_Kalasang_Mera-12569"
+          }
+      ],
+      "hierarchyPath": "Kalasang Mera Dagai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12569",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9373",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalasang Mera",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9370,
+      "name": "Kas Kooroona",
+      "name_l1": "کس کرونہ",
+      "externalID": "12565",
+      "slug": "/Buner_Totalai_Kas_Kooroona-12565",
+      "slug_l1": "/Buner_Totalai_Kas_Kooroona-12565",
+      "_geoloc": {
+          "lat": 34.190443,
+          "lng": 72.466196
+      },
+      "geography": {
+          "lat": 34.190443,
+          "lng": 72.466196
+      },
+      "geo_point": [
+          72.466196,
+          34.190443
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6253,
+              "level": 3,
+              "externalID": "12562",
+              "name": "Totalai",
+              "name_l1": "توتالی",
+              "slug": "/Buner_Totalai-12562",
+              "slug_l1": "/Buner_Totalai-12562"
+          },
+          {
+              "id": 9370,
+              "level": 4,
+              "externalID": "12565",
+              "name": "Kas Kooroona",
+              "name_l1": "کس کرونہ",
+              "slug": "/Buner_Totalai_Kas_Kooroona-12565",
+              "slug_l1": "/Buner_Totalai_Kas_Kooroona-12565"
+          }
+      ],
+      "hierarchyPath": "Kas Kooroona Totalai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12565",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9370",
+      "_highlightResult": {
+          "name": {
+              "value": "Kas Kooroona",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6255,
+      "name": "Khali Kalay",
+      "name_l1": "خالی کالے",
+      "externalID": "12570",
+      "slug": "/Buner_Khali_Kalay-12570",
+      "slug_l1": "/Buner_Khali_Kalay-12570",
+      "_geoloc": {
+          "lat": 34.211809,
+          "lng": 72.506546
+      },
+      "geography": {
+          "lat": 34.211809,
+          "lng": 72.506546
+      },
+      "geo_point": [
+          72.506546,
+          34.211809
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6255,
+              "level": 3,
+              "externalID": "12570",
+              "name": "Khali Kalay",
+              "name_l1": "خالی کالے",
+              "slug": "/Buner_Khali_Kalay-12570",
+              "slug_l1": "/Buner_Khali_Kalay-12570"
+          }
+      ],
+      "hierarchyPath": "Khali Kalay Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12570",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6255",
+      "_highlightResult": {
+          "name": {
+              "value": "Khali Kalay",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9371,
+      "name": "Landi Kas",
+      "name_l1": "لنڈی کاس",
+      "externalID": "12566",
+      "slug": "/Buner_Totalai_Landi_Kas-12566",
+      "slug_l1": "/Buner_Totalai_Landi_Kas-12566",
+      "_geoloc": {
+          "lat": 34.196758,
+          "lng": 72.496227
+      },
+      "geography": {
+          "lat": 34.196758,
+          "lng": 72.496227
+      },
+      "geo_point": [
+          72.496227,
+          34.196758
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6253,
+              "level": 3,
+              "externalID": "12562",
+              "name": "Totalai",
+              "name_l1": "توتالی",
+              "slug": "/Buner_Totalai-12562",
+              "slug_l1": "/Buner_Totalai-12562"
+          },
+          {
+              "id": 9371,
+              "level": 4,
+              "externalID": "12566",
+              "name": "Landi Kas",
+              "name_l1": "لنڈی کاس",
+              "slug": "/Buner_Totalai_Landi_Kas-12566",
+              "slug_l1": "/Buner_Totalai_Landi_Kas-12566"
+          }
+      ],
+      "hierarchyPath": "Landi Kas Totalai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12566",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9371",
+      "_highlightResult": {
+          "name": {
+              "value": "Landi Kas",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9369,
+      "name": "Mahsool Kotey",
+      "name_l1": "محصول کوٹے",
+      "externalID": "12564",
+      "slug": "/Buner_Totalai_Mahsool_Kotey-12564",
+      "slug_l1": "/Buner_Totalai_Mahsool_Kotey-12564",
+      "_geoloc": {
+          "lat": 34.191183,
+          "lng": 72.482166
+      },
+      "geography": {
+          "lat": 34.191183,
+          "lng": 72.482166
+      },
+      "geo_point": [
+          72.482166,
+          34.191183
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6253,
+              "level": 3,
+              "externalID": "12562",
+              "name": "Totalai",
+              "name_l1": "توتالی",
+              "slug": "/Buner_Totalai-12562",
+              "slug_l1": "/Buner_Totalai-12562"
+          },
+          {
+              "id": 9369,
+              "level": 4,
+              "externalID": "12564",
+              "name": "Mahsool Kotey",
+              "name_l1": "محصول کوٹے",
+              "slug": "/Buner_Totalai_Mahsool_Kotey-12564",
+              "slug_l1": "/Buner_Totalai_Mahsool_Kotey-12564"
+          }
+      ],
+      "hierarchyPath": "Mahsool Kotey Totalai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12564",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9369",
+      "_highlightResult": {
+          "name": {
+              "value": "Mahsool Kotey",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9372,
+      "name": "Nogram Mera",
+      "name_l1": "نوگرام میرا",
+      "externalID": "12567",
+      "slug": "/Buner_Totalai_Nogram_Mera-12567",
+      "slug_l1": "/Buner_Totalai_Nogram_Mera-12567",
+      "_geoloc": {
+          "lat": 34.213074,
+          "lng": 72.427288
+      },
+      "geography": {
+          "lat": 34.213074,
+          "lng": 72.427288
+      },
+      "geo_point": [
+          72.427288,
+          34.213074
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6253,
+              "level": 3,
+              "externalID": "12562",
+              "name": "Totalai",
+              "name_l1": "توتالی",
+              "slug": "/Buner_Totalai-12562",
+              "slug_l1": "/Buner_Totalai-12562"
+          },
+          {
+              "id": 9372,
+              "level": 4,
+              "externalID": "12567",
+              "name": "Nogram Mera",
+              "name_l1": "نوگرام میرا",
+              "slug": "/Buner_Totalai_Nogram_Mera-12567",
+              "slug_l1": "/Buner_Totalai_Nogram_Mera-12567"
+          }
+      ],
+      "hierarchyPath": "Nogram Mera Totalai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12567",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9372",
+      "_highlightResult": {
+          "name": {
+              "value": "Nogram Mera",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6252,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "12561",
+      "slug": "/Buner_Others-12561",
+      "slug_l1": "/Buner_Others-12561",
+      "_geoloc": {
+          "lat": 34.484036,
+          "lng": 72.528422
+      },
+      "geography": {
+          "lat": 34.484036,
+          "lng": 72.528422
+      },
+      "geo_point": [
+          72.528422,
+          34.484036
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6252,
+              "level": 3,
+              "externalID": "12561",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Buner_Others-12561",
+              "slug_l1": "/Buner_Others-12561"
+          }
+      ],
+      "hierarchyPath": "Others Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12561",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6252",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6257,
+      "name": "Panjtar",
+      "name_l1": "پنجتر",
+      "externalID": "12572",
+      "slug": "/Buner_Panjtar-12572",
+      "slug_l1": "/Buner_Panjtar-12572",
+      "_geoloc": {
+          "lat": 34.222656,
+          "lng": 72.523917
+      },
+      "geography": {
+          "lat": 34.222656,
+          "lng": 72.523917
+      },
+      "geo_point": [
+          72.523917,
+          34.222656
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6257,
+              "level": 3,
+              "externalID": "12572",
+              "name": "Panjtar",
+              "name_l1": "پنجتر",
+              "slug": "/Buner_Panjtar-12572",
+              "slug_l1": "/Buner_Panjtar-12572"
+          }
+      ],
+      "hierarchyPath": "Panjtar Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12572",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6257",
+      "_highlightResult": {
+          "name": {
+              "value": "Panjtar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6261,
+      "name": "Sowari",
+      "name_l1": "سوواری",
+      "externalID": "12577",
+      "slug": "/Buner_Sowari-12577",
+      "slug_l1": "/Buner_Sowari-12577",
+      "_geoloc": {
+          "lat": 34.477055,
+          "lng": 72.484085
+      },
+      "geography": {
+          "lat": 34.477055,
+          "lng": 72.484085
+      },
+      "geo_point": [
+          72.484085,
+          34.477055
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6261,
+              "level": 3,
+              "externalID": "12577",
+              "name": "Sowari",
+              "name_l1": "سوواری",
+              "slug": "/Buner_Sowari-12577",
+              "slug_l1": "/Buner_Sowari-12577"
+          }
+      ],
+      "hierarchyPath": "Sowari Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12577",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6261",
+      "_highlightResult": {
+          "name": {
+              "value": "Sowari",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9368,
+      "name": "Sumbal",
+      "name_l1": "سمبل",
+      "externalID": "12563",
+      "slug": "/Buner_Totalai_Sumbal-12563",
+      "slug_l1": "/Buner_Totalai_Sumbal-12563",
+      "_geoloc": {
+          "lat": 34.199591,
+          "lng": 72.50397
+      },
+      "geography": {
+          "lat": 34.199591,
+          "lng": 72.50397
+      },
+      "geo_point": [
+          72.50397,
+          34.199591
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6253,
+              "level": 3,
+              "externalID": "12562",
+              "name": "Totalai",
+              "name_l1": "توتالی",
+              "slug": "/Buner_Totalai-12562",
+              "slug_l1": "/Buner_Totalai-12562"
+          },
+          {
+              "id": 9368,
+              "level": 4,
+              "externalID": "12563",
+              "name": "Sumbal",
+              "name_l1": "سمبل",
+              "slug": "/Buner_Totalai_Sumbal-12563",
+              "slug_l1": "/Buner_Totalai_Sumbal-12563"
+          }
+      ],
+      "hierarchyPath": "Sumbal Totalai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12563",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9368",
+      "_highlightResult": {
+          "name": {
+              "value": "Sumbal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6253,
+      "name": "Totalai",
+      "name_l1": "توتالی",
+      "externalID": "12562",
+      "slug": "/Buner_Totalai-12562",
+      "slug_l1": "/Buner_Totalai-12562",
+      "_geoloc": {
+          "lat": 34.192484,
+          "lng": 72.499024
+      },
+      "geography": {
+          "lat": 34.192484,
+          "lng": 72.499024
+      },
+      "geo_point": [
+          72.499024,
+          34.192484
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 168,
+              "level": 2,
+              "externalID": "11286",
+              "name": "Buner",
+              "name_l1": "بونیر",
+              "slug": "/Buner-11286",
+              "slug_l1": "/Buner-11286"
+          },
+          {
+              "id": 6253,
+              "level": 3,
+              "externalID": "12562",
+              "name": "Totalai",
+              "name_l1": "توتالی",
+              "slug": "/Buner_Totalai-12562",
+              "slug_l1": "/Buner_Totalai-12562"
+          }
+      ],
+      "hierarchyPath": "Totalai Buner Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12562",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "6253",
+      "_highlightResult": {
+          "name": {
+              "value": "Totalai",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

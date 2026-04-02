@@ -1,18 +1,23 @@
 # React app (auto)
 auto/node_modules/
 auto/build/
+auto/.pnp
+auto/.pnp.js
+auto/coverage/
 auto/.env
 auto/.env.*
+auto/.env.development.local
+auto/.env.test.local
+auto/.env.production.local
 auto/npm-debug.log*
 auto/yarn-debug.log*
 auto/yarn-error.log*
-auto/coverage/
 
 # OS / editor
 .DS_Store
 Thumbs.db
 *.log
 
-# Secrets
+# Secrets (repo root)
 .env
 .env.local

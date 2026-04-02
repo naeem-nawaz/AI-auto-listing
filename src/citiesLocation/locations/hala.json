@@ -1,0 +1,387 @@
+[
+  {
+      "id": 12120,
+      "name": "Hala",
+      "name_l1": "ہالا",
+      "externalID": "13607",
+      "slug": "/Hala-13607",
+      "slug_l1": "/Hala-13607",
+      "_geoloc": {
+          "lat": 25.800955,
+          "lng": 68.418162
+      },
+      "geography": {
+          "lat": 25.800955,
+          "lng": 68.418162
+      },
+      "geo_point": [
+          68.418162,
+          25.800955
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12120,
+              "level": 2,
+              "externalID": "13607",
+              "name": "Hala",
+              "name_l1": "ہالا",
+              "slug": "/Hala-13607",
+              "slug_l1": "/Hala-13607"
+          }
+      ],
+      "hierarchyPath": "Hala Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13607",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12120",
+      "_highlightResult": {
+          "name": {
+              "value": "Hala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20996,
+      "name": "karachi",
+      "name_l1": "ھجدسا",
+      "externalID": "21593",
+      "slug": "/Chaghi_Others_salman___-21593",
+      "slug_l1": "/Chaghi_Others_salman___-21593",
+      "_geoloc": {
+          "lat": 31.0,
+          "lng": 72.0
+      },
+      "geography": {
+          "lat": 31.0,
+          "lng": 72.0
+      },
+      "geo_point": [
+          72.0,
+          31.0
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12120,
+              "level": 2,
+              "externalID": "13607",
+              "name": "Hala",
+              "name_l1": "ہالا",
+              "slug": "/Hala-13607",
+              "slug_l1": "/Hala-13607"
+          },
+          {
+              "id": 12128,
+              "level": 3,
+              "externalID": "13608",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Hala_Others-13608",
+              "slug_l1": "/Hala_Others-13608"
+          },
+          {
+              "id": 20996,
+              "level": 4,
+              "externalID": "21593",
+              "name": "karachi",
+              "name_l1": "ھجدسا",
+              "slug": "/Chaghi_Others_salman___-21593",
+              "slug_l1": "/Chaghi_Others_salman___-21593"
+          }
+      ],
+      "hierarchyPath": "karachi Others Hala Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21593",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20996",
+      "_highlightResult": {
+          "name": {
+              "value": "karachi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12129,
+      "name": "Old Hala Road",
+      "name_l1": "اولڈ ہالا روڈ",
+      "externalID": "13609",
+      "slug": "/Hala_Old_Hala_Road-13609",
+      "slug_l1": "/Hala_Old_Hala_Road-13609",
+      "_geoloc": {
+          "lat": 25.806795,
+          "lng": 68.40717
+      },
+      "geography": {
+          "lat": 25.806795,
+          "lng": 68.40717
+      },
+      "geo_point": [
+          68.40717,
+          25.806795
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12120,
+              "level": 2,
+              "externalID": "13607",
+              "name": "Hala",
+              "name_l1": "ہالا",
+              "slug": "/Hala-13607",
+              "slug_l1": "/Hala-13607"
+          },
+          {
+              "id": 12129,
+              "level": 3,
+              "externalID": "13609",
+              "name": "Old Hala Road",
+              "name_l1": "اولڈ ہالا روڈ",
+              "slug": "/Hala_Old_Hala_Road-13609",
+              "slug_l1": "/Hala_Old_Hala_Road-13609"
+          }
+      ],
+      "hierarchyPath": "Old Hala Road Hala Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13609",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12129",
+      "_highlightResult": {
+          "name": {
+              "value": "Old Hala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12128,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13608",
+      "slug": "/Hala_Others-13608",
+      "slug_l1": "/Hala_Others-13608",
+      "_geoloc": {
+          "lat": 25.806487,
+          "lng": 68.416367
+      },
+      "geography": {
+          "lat": 25.806487,
+          "lng": 68.416367
+      },
+      "geo_point": [
+          68.416367,
+          25.806487
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12120,
+              "level": 2,
+              "externalID": "13607",
+              "name": "Hala",
+              "name_l1": "ہالا",
+              "slug": "/Hala-13607",
+              "slug_l1": "/Hala-13607"
+          },
+          {
+              "id": 12128,
+              "level": 3,
+              "externalID": "13608",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Hala_Others-13608",
+              "slug_l1": "/Hala_Others-13608"
+          }
+      ],
+      "hierarchyPath": "Others Hala Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13608",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12128",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12130,
+      "name": "Talib Ul Mola Colony",
+      "name_l1": "طالب ال مولا کالونی",
+      "externalID": "13610",
+      "slug": "/Hala_Talib_Ul_Mola_Colony-13610",
+      "slug_l1": "/Hala_Talib_Ul_Mola_Colony-13610",
+      "_geoloc": {
+          "lat": 25.809252,
+          "lng": 68.417477
+      },
+      "geography": {
+          "lat": 25.809252,
+          "lng": 68.417477
+      },
+      "geo_point": [
+          68.417477,
+          25.809252
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12120,
+              "level": 2,
+              "externalID": "13607",
+              "name": "Hala",
+              "name_l1": "ہالا",
+              "slug": "/Hala-13607",
+              "slug_l1": "/Hala-13607"
+          },
+          {
+              "id": 12130,
+              "level": 3,
+              "externalID": "13610",
+              "name": "Talib Ul Mola Colony",
+              "name_l1": "طالب ال مولا کالونی",
+              "slug": "/Hala_Talib_Ul_Mola_Colony-13610",
+              "slug_l1": "/Hala_Talib_Ul_Mola_Colony-13610"
+          }
+      ],
+      "hierarchyPath": "Talib Ul Mola Colony Hala Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13610",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12130",
+      "_highlightResult": {
+          "name": {
+              "value": "Talib Ul Mola Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

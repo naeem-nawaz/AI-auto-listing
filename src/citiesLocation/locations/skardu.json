@@ -1,0 +1,1687 @@
+[
+  {
+      "id": 78,
+      "name": "Skardu",
+      "name_l1": "سکردو",
+      "externalID": "1545",
+      "slug": "/Skardu-1545",
+      "slug_l1": "/Skardu-1545",
+      "_geoloc": {
+          "lat": 35.297229,
+          "lng": 75.626571
+      },
+      "geography": {
+          "lat": 35.297229,
+          "lng": 75.626571
+      },
+      "geo_point": [
+          75.626571,
+          35.297229
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          }
+      ],
+      "hierarchyPath": "Skardu Gilgit Baltistan Pakistan",
+      "adCount": 18,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1545",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "78",
+      "_highlightResult": {
+          "name": {
+              "value": "Skardu",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3971,
+      "name": "Shigar Baltistan",
+      "name_l1": "شگر بلتستان",
+      "externalID": "8112",
+      "slug": "/Skardu_Shigar_Baltistan-8112",
+      "slug_l1": "/Skardu_Shigar_Baltistan-8112",
+      "_geoloc": {
+          "lat": 35.418713,
+          "lng": 75.733452
+      },
+      "geography": {
+          "lat": 35.418713,
+          "lng": 75.733452
+      },
+      "geo_point": [
+          75.733452,
+          35.418713
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3971,
+              "level": 3,
+              "externalID": "8112",
+              "name": "Shigar Baltistan",
+              "name_l1": "شگر بلتستان",
+              "slug": "/Skardu_Shigar_Baltistan-8112",
+              "slug_l1": "/Skardu_Shigar_Baltistan-8112"
+          }
+      ],
+      "hierarchyPath": "Shigar Baltistan Skardu Gilgit Baltistan Pakistan",
+      "adCount": 12,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8112",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3971",
+      "_highlightResult": {
+          "name": {
+              "value": "Shigar Baltistan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3954,
+      "name": "Airport Road",
+      "name_l1": "ائیرپورٹ روڈ",
+      "externalID": "8095",
+      "slug": "/Skardu_Airport_Road-8095",
+      "slug_l1": "/Skardu_Airport_Road-8095",
+      "_geoloc": {
+          "lat": 35.299593,
+          "lng": 75.611447
+      },
+      "geography": {
+          "lat": 35.299593,
+          "lng": 75.611447
+      },
+      "geo_point": [
+          75.611447,
+          35.299593
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3954,
+              "level": 3,
+              "externalID": "8095",
+              "name": "Airport Road",
+              "name_l1": "ائیرپورٹ روڈ",
+              "slug": "/Skardu_Airport_Road-8095",
+              "slug_l1": "/Skardu_Airport_Road-8095"
+          }
+      ],
+      "hierarchyPath": "Airport Road Skardu Gilgit Baltistan Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8095",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3954",
+      "_highlightResult": {
+          "name": {
+              "value": "Airport Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3959,
+      "name": "Gilgit to Skardu Road",
+      "name_l1": "گلگت - سکردو روڈ",
+      "externalID": "8100",
+      "slug": "/Skardu_Gilgit_to_Skardu_Road-8100",
+      "slug_l1": "/Skardu_Gilgit_to_Skardu_Road-8100",
+      "_geoloc": {
+          "lat": 35.294637,
+          "lng": 75.606194
+      },
+      "geography": {
+          "lat": 35.294637,
+          "lng": 75.606194
+      },
+      "geo_point": [
+          75.606194,
+          35.294637
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3959,
+              "level": 3,
+              "externalID": "8100",
+              "name": "Gilgit to Skardu Road",
+              "name_l1": "گلگت - سکردو روڈ",
+              "slug": "/Skardu_Gilgit_to_Skardu_Road-8100",
+              "slug_l1": "/Skardu_Gilgit_to_Skardu_Road-8100"
+          }
+      ],
+      "hierarchyPath": "Gilgit to Skardu Road Skardu Gilgit Baltistan Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8100",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3959",
+      "_highlightResult": {
+          "name": {
+              "value": "Gilgit to Skardu Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3955,
+      "name": "Alamdar Road",
+      "name_l1": "علمدار روڈ",
+      "externalID": "8096",
+      "slug": "/Skardu_Alamdar_Road-8096",
+      "slug_l1": "/Skardu_Alamdar_Road-8096",
+      "_geoloc": {
+          "lat": 35.289803,
+          "lng": 75.63956
+      },
+      "geography": {
+          "lat": 35.289803,
+          "lng": 75.63956
+      },
+      "geo_point": [
+          75.63956,
+          35.289803
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3955,
+              "level": 3,
+              "externalID": "8096",
+              "name": "Alamdar Road",
+              "name_l1": "علمدار روڈ",
+              "slug": "/Skardu_Alamdar_Road-8096",
+              "slug_l1": "/Skardu_Alamdar_Road-8096"
+          }
+      ],
+      "hierarchyPath": "Alamdar Road Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8096",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3955",
+      "_highlightResult": {
+          "name": {
+              "value": "Alamdar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3956,
+      "name": "Alchori",
+      "name_l1": "الچوری",
+      "externalID": "8097",
+      "slug": "/Skardu_Alchori-8097",
+      "slug_l1": "/Skardu_Alchori-8097",
+      "_geoloc": {
+          "lat": 35.532226,
+          "lng": 75.645561
+      },
+      "geography": {
+          "lat": 35.532226,
+          "lng": 75.645561
+      },
+      "geo_point": [
+          75.645561,
+          35.532226
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3956,
+              "level": 3,
+              "externalID": "8097",
+              "name": "Alchori",
+              "name_l1": "الچوری",
+              "slug": "/Skardu_Alchori-8097",
+              "slug_l1": "/Skardu_Alchori-8097"
+          }
+      ],
+      "hierarchyPath": "Alchori Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8097",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3956",
+      "_highlightResult": {
+          "name": {
+              "value": "Alchori",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16525,
+      "name": "Askole",
+      "name_l1": "اسکولے",
+      "externalID": "17766",
+      "slug": "/Skardu_Askole-17766",
+      "slug_l1": "/Skardu_Askole-17766",
+      "_geoloc": {
+          "lat": 35.682041,
+          "lng": 75.81731
+      },
+      "geography": {
+          "lat": 35.682041,
+          "lng": 75.81731
+      },
+      "geo_point": [
+          75.81731,
+          35.682041
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 16525,
+              "level": 3,
+              "externalID": "17766",
+              "name": "Askole",
+              "name_l1": "اسکولے",
+              "slug": "/Skardu_Askole-17766",
+              "slug_l1": "/Skardu_Askole-17766"
+          }
+      ],
+      "hierarchyPath": "Askole Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17766",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16525",
+      "_highlightResult": {
+          "name": {
+              "value": "Askole",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18706,
+      "name": "Barah Valley",
+      "name_l1": "بارہ ویلی",
+      "externalID": "19621",
+      "slug": "/Skardu_Barah_Valley-19621",
+      "slug_l1": "/Skardu_Barah_Valley-19621",
+      "_geoloc": {
+          "lat": 35.204797,
+          "lng": 76.260553
+      },
+      "geography": {
+          "lat": 35.204797,
+          "lng": 76.260553
+      },
+      "geo_point": [
+          76.260553,
+          35.204797
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 18706,
+              "level": 3,
+              "externalID": "19621",
+              "name": "Barah Valley",
+              "name_l1": "بارہ ویلی",
+              "slug": "/Skardu_Barah_Valley-19621",
+              "slug_l1": "/Skardu_Barah_Valley-19621"
+          }
+      ],
+      "hierarchyPath": "Barah Valley Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19621",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18706",
+      "_highlightResult": {
+          "name": {
+              "value": "Barah Valley",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3957,
+      "name": "College Road",
+      "name_l1": "کالج روڈ",
+      "externalID": "8098",
+      "slug": "/Skardu_College_Road-8098",
+      "slug_l1": "/Skardu_College_Road-8098",
+      "_geoloc": {
+          "lat": 35.301554,
+          "lng": 75.627712
+      },
+      "geography": {
+          "lat": 35.301554,
+          "lng": 75.627712
+      },
+      "geo_point": [
+          75.627712,
+          35.301554
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3957,
+              "level": 3,
+              "externalID": "8098",
+              "name": "College Road",
+              "name_l1": "کالج روڈ",
+              "slug": "/Skardu_College_Road-8098",
+              "slug_l1": "/Skardu_College_Road-8098"
+          }
+      ],
+      "hierarchyPath": "College Road Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8098",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3957",
+      "_highlightResult": {
+          "name": {
+              "value": "College Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3958,
+      "name": "Gangs Singy",
+      "name_l1": "گینگز سِنگی",
+      "externalID": "8099",
+      "slug": "/Skardu_Gangs_Singy-8099",
+      "slug_l1": "/Skardu_Gangs_Singy-8099",
+      "_geoloc": {
+          "lat": 35.337534,
+          "lng": 75.430641
+      },
+      "geography": {
+          "lat": 35.337534,
+          "lng": 75.430641
+      },
+      "geo_point": [
+          75.430641,
+          35.337534
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3958,
+              "level": 3,
+              "externalID": "8099",
+              "name": "Gangs Singy",
+              "name_l1": "گینگز سِنگی",
+              "slug": "/Skardu_Gangs_Singy-8099",
+              "slug_l1": "/Skardu_Gangs_Singy-8099"
+          }
+      ],
+      "hierarchyPath": "Gangs Singy Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8099",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3958",
+      "_highlightResult": {
+          "name": {
+              "value": "Gangs Singy",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3960,
+      "name": "Hameed Garh Road",
+      "name_l1": "حمید گڑھ روڈ",
+      "externalID": "8101",
+      "slug": "/Skardu_Hameed_Garh_Road-8101",
+      "slug_l1": "/Skardu_Hameed_Garh_Road-8101",
+      "_geoloc": {
+          "lat": 35.296493,
+          "lng": 75.644882
+      },
+      "geography": {
+          "lat": 35.296493,
+          "lng": 75.644882
+      },
+      "geo_point": [
+          75.644882,
+          35.296493
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3960,
+              "level": 3,
+              "externalID": "8101",
+              "name": "Hameed Garh Road",
+              "name_l1": "حمید گڑھ روڈ",
+              "slug": "/Skardu_Hameed_Garh_Road-8101",
+              "slug_l1": "/Skardu_Hameed_Garh_Road-8101"
+          }
+      ],
+      "hierarchyPath": "Hameed Garh Road Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8101",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3960",
+      "_highlightResult": {
+          "name": {
+              "value": "Hameed Garh Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3961,
+      "name": "Hashupi",
+      "name_l1": "ہشوپی",
+      "externalID": "8102",
+      "slug": "/Skardu_Hashupi-8102",
+      "slug_l1": "/Skardu_Hashupi-8102",
+      "_geoloc": {
+          "lat": 35.49981,
+          "lng": 75.673027
+      },
+      "geography": {
+          "lat": 35.49981,
+          "lng": 75.673027
+      },
+      "geo_point": [
+          75.673027,
+          35.49981
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3961,
+              "level": 3,
+              "externalID": "8102",
+              "name": "Hashupi",
+              "name_l1": "ہشوپی",
+              "slug": "/Skardu_Hashupi-8102",
+              "slug_l1": "/Skardu_Hashupi-8102"
+          }
+      ],
+      "hierarchyPath": "Hashupi Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8102",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3961",
+      "_highlightResult": {
+          "name": {
+              "value": "Hashupi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3962,
+      "name": "Hota Burq",
+      "name_l1": "ہوتا برق",
+      "externalID": "8103",
+      "slug": "/Skardu_Hota_Burq-8103",
+      "slug_l1": "/Skardu_Hota_Burq-8103",
+      "_geoloc": {
+          "lat": 35.392968,
+          "lng": 75.442314
+      },
+      "geography": {
+          "lat": 35.392968,
+          "lng": 75.442314
+      },
+      "geo_point": [
+          75.442314,
+          35.392968
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3962,
+              "level": 3,
+              "externalID": "8103",
+              "name": "Hota Burq",
+              "name_l1": "ہوتا برق",
+              "slug": "/Skardu_Hota_Burq-8103",
+              "slug_l1": "/Skardu_Hota_Burq-8103"
+          }
+      ],
+      "hierarchyPath": "Hota Burq Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8103",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3962",
+      "_highlightResult": {
+          "name": {
+              "value": "Hota Burq",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3963,
+      "name": "Hoto",
+      "name_l1": "ہوتو",
+      "externalID": "8104",
+      "slug": "/Skardu_Hoto-8104",
+      "slug_l1": "/Skardu_Hoto-8104",
+      "_geoloc": {
+          "lat": 35.371135,
+          "lng": 75.49736
+      },
+      "geography": {
+          "lat": 35.371135,
+          "lng": 75.49736
+      },
+      "geo_point": [
+          75.49736,
+          35.371135
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3963,
+              "level": 3,
+              "externalID": "8104",
+              "name": "Hoto",
+              "name_l1": "ہوتو",
+              "slug": "/Skardu_Hoto-8104",
+              "slug_l1": "/Skardu_Hoto-8104"
+          }
+      ],
+      "hierarchyPath": "Hoto Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8104",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3963",
+      "_highlightResult": {
+          "name": {
+              "value": "Hoto",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3964,
+      "name": "Link Road",
+      "name_l1": "لِنک روڈ",
+      "externalID": "8105",
+      "slug": "/Skardu_Link_Road-8105",
+      "slug_l1": "/Skardu_Link_Road-8105",
+      "_geoloc": {
+          "lat": 35.282324,
+          "lng": 75.638165
+      },
+      "geography": {
+          "lat": 35.282324,
+          "lng": 75.638165
+      },
+      "geo_point": [
+          75.638165,
+          35.282324
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3964,
+              "level": 3,
+              "externalID": "8105",
+              "name": "Link Road",
+              "name_l1": "لِنک روڈ",
+              "slug": "/Skardu_Link_Road-8105",
+              "slug_l1": "/Skardu_Link_Road-8105"
+          }
+      ],
+      "hierarchyPath": "Link Road Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8105",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3964",
+      "_highlightResult": {
+          "name": {
+              "value": "Link Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3965,
+      "name": "Manthal",
+      "name_l1": "مَنٹھال",
+      "externalID": "8106",
+      "slug": "/Skardu_Manthal-8106",
+      "slug_l1": "/Skardu_Manthal-8106",
+      "_geoloc": {
+          "lat": 35.264263,
+          "lng": 75.634511
+      },
+      "geography": {
+          "lat": 35.264263,
+          "lng": 75.634511
+      },
+      "geo_point": [
+          75.634511,
+          35.264263
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3965,
+              "level": 3,
+              "externalID": "8106",
+              "name": "Manthal",
+              "name_l1": "مَنٹھال",
+              "slug": "/Skardu_Manthal-8106",
+              "slug_l1": "/Skardu_Manthal-8106"
+          }
+      ],
+      "hierarchyPath": "Manthal Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8106",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3965",
+      "_highlightResult": {
+          "name": {
+              "value": "Manthal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3966,
+      "name": "Na Guli Spong Road",
+      "name_l1": "نا گُلی سپُنج روڈ",
+      "externalID": "8107",
+      "slug": "/Skardu_Na_Guli_Spong_Road-8107",
+      "slug_l1": "/Skardu_Na_Guli_Spong_Road-8107",
+      "_geoloc": {
+          "lat": 35.290206,
+          "lng": 75.631428
+      },
+      "geography": {
+          "lat": 35.290206,
+          "lng": 75.631428
+      },
+      "geo_point": [
+          75.631428,
+          35.290206
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3966,
+              "level": 3,
+              "externalID": "8107",
+              "name": "Na Guli Spong Road",
+              "name_l1": "نا گُلی سپُنج روڈ",
+              "slug": "/Skardu_Na_Guli_Spong_Road-8107",
+              "slug_l1": "/Skardu_Na_Guli_Spong_Road-8107"
+          }
+      ],
+      "hierarchyPath": "Na Guli Spong Road Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8107",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3966",
+      "_highlightResult": {
+          "name": {
+              "value": "Na Guli Spong Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3967,
+      "name": "Olding Road",
+      "name_l1": "اولڈنگ روڈ",
+      "externalID": "8108",
+      "slug": "/Skardu_Olding_Road-8108",
+      "slug_l1": "/Skardu_Olding_Road-8108",
+      "_geoloc": {
+          "lat": 35.278558,
+          "lng": 75.64726
+      },
+      "geography": {
+          "lat": 35.278558,
+          "lng": 75.64726
+      },
+      "geo_point": [
+          75.64726,
+          35.278558
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3967,
+              "level": 3,
+              "externalID": "8108",
+              "name": "Olding Road",
+              "name_l1": "اولڈنگ روڈ",
+              "slug": "/Skardu_Olding_Road-8108",
+              "slug_l1": "/Skardu_Olding_Road-8108"
+          }
+      ],
+      "hierarchyPath": "Olding Road Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8108",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3967",
+      "_highlightResult": {
+          "name": {
+              "value": "Olding Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3968,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "8109",
+      "slug": "/Skardu_Others-8109",
+      "slug_l1": "/Skardu_Others-8109",
+      "_geoloc": {
+          "lat": 35.2901,
+          "lng": 75.6453
+      },
+      "geography": {
+          "lat": 35.2901,
+          "lng": 75.6453
+      },
+      "geo_point": [
+          75.6453,
+          35.2901
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3968,
+              "level": 3,
+              "externalID": "8109",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Skardu_Others-8109",
+              "slug_l1": "/Skardu_Others-8109"
+          }
+      ],
+      "hierarchyPath": "Others Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8109",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3968",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3969,
+      "name": "Qomra Skardu",
+      "name_l1": "قومرہ سکردو",
+      "externalID": "8110",
+      "slug": "/Skardu_Qomra_Skardu-8110",
+      "slug_l1": "/Skardu_Qomra_Skardu-8110",
+      "_geoloc": {
+          "lat": 35.413677,
+          "lng": 75.51178
+      },
+      "geography": {
+          "lat": 35.413677,
+          "lng": 75.51178
+      },
+      "geo_point": [
+          75.51178,
+          35.413677
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3969,
+              "level": 3,
+              "externalID": "8110",
+              "name": "Qomra Skardu",
+              "name_l1": "قومرہ سکردو",
+              "slug": "/Skardu_Qomra_Skardu-8110",
+              "slug_l1": "/Skardu_Qomra_Skardu-8110"
+          }
+      ],
+      "hierarchyPath": "Qomra Skardu Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8110",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3969",
+      "_highlightResult": {
+          "name": {
+              "value": "Qomra Skardu",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3970,
+      "name": "Sadpara Road",
+      "name_l1": "سیدپرا روڈ",
+      "externalID": "8111",
+      "slug": "/Skardu_Sadpara_Road-8111",
+      "slug_l1": "/Skardu_Sadpara_Road-8111",
+      "_geoloc": {
+          "lat": 35.281816,
+          "lng": 75.641448
+      },
+      "geography": {
+          "lat": 35.281816,
+          "lng": 75.641448
+      },
+      "geo_point": [
+          75.641448,
+          35.281816
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3970,
+              "level": 3,
+              "externalID": "8111",
+              "name": "Sadpara Road",
+              "name_l1": "سیدپرا روڈ",
+              "slug": "/Skardu_Sadpara_Road-8111",
+              "slug_l1": "/Skardu_Sadpara_Road-8111"
+          }
+      ],
+      "hierarchyPath": "Sadpara Road Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8111",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3970",
+      "_highlightResult": {
+          "name": {
+              "value": "Sadpara Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3972,
+      "name": "Thumgo Shigar",
+      "name_l1": "تھمگو شگِر",
+      "externalID": "8113",
+      "slug": "/Skardu_Thumgo_Shigar-8113",
+      "slug_l1": "/Skardu_Thumgo_Shigar-8113",
+      "_geoloc": {
+          "lat": 35.45284,
+          "lng": 75.714912
+      },
+      "geography": {
+          "lat": 35.45284,
+          "lng": 75.714912
+      },
+      "geo_point": [
+          75.714912,
+          35.45284
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "1526",
+              "name": "Gilgit Baltistan",
+              "name_l1": "گلگت بلتستان",
+              "slug": "/Gilgit_Baltistan-1526",
+              "slug_l1": "/Gilgit_Baltistan-1526"
+          },
+          {
+              "id": 78,
+              "level": 2,
+              "externalID": "1545",
+              "name": "Skardu",
+              "name_l1": "سکردو",
+              "slug": "/Skardu-1545",
+              "slug_l1": "/Skardu-1545"
+          },
+          {
+              "id": 3972,
+              "level": 3,
+              "externalID": "8113",
+              "name": "Thumgo Shigar",
+              "name_l1": "تھمگو شگِر",
+              "slug": "/Skardu_Thumgo_Shigar-8113",
+              "slug_l1": "/Skardu_Thumgo_Shigar-8113"
+          }
+      ],
+      "hierarchyPath": "Thumgo Shigar Skardu Gilgit Baltistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8113",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3972",
+      "_highlightResult": {
+          "name": {
+              "value": "Thumgo Shigar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

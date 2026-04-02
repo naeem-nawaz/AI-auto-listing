@@ -1,0 +1,704 @@
+[
+    {
+        "id": 59,
+        "name": "Naran",
+        "name_l1": "ناران",
+        "externalID": "1258",
+        "slug": "/Naran-1258",
+        "slug_l1": "/Naran-1258",
+        "_geoloc": {
+            "lat": 34.9077,
+            "lng": 73.6492
+        },
+        "geography": {
+            "lat": 34.9077,
+            "lng": 73.6492
+        },
+        "geo_point": [
+            73.6492,
+            34.9077
+        ],
+        "level": 2,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "خیبر پختون خواہ",
+                "slug": "/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 59,
+                "level": 2,
+                "externalID": "1258",
+                "name": "Naran",
+                "name_l1": "ناران",
+                "slug": "/Naran-1258",
+                "slug_l1": "/Naran-1258"
+            }
+        ],
+        "hierarchyPath": "Naran Khyber Pakhtunkhwa Pakistan",
+        "adCount": 129,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "1258",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "59",
+        "_highlightResult": {
+            "name": {
+                "value": "Naran",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 3482,
+        "name": "Saiful Muluk Road",
+        "name_l1": "سیف الملوک روڈ",
+        "externalID": "7553",
+        "slug": "/Naran_Saiful_Muluk_Road-7553",
+        "slug_l1": "/Naran_Saiful_Muluk_Road-7553",
+        "_geoloc": {
+            "lat": 34.908792,
+            "lng": 73.652869
+        },
+        "geography": {
+            "lat": 34.908792,
+            "lng": 73.652869
+        },
+        "geo_point": [
+            73.652869,
+            34.908792
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "خیبر پختون خواہ",
+                "slug": "/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 59,
+                "level": 2,
+                "externalID": "1258",
+                "name": "Naran",
+                "name_l1": "ناران",
+                "slug": "/Naran-1258",
+                "slug_l1": "/Naran-1258"
+            },
+            {
+                "id": 3482,
+                "level": 3,
+                "externalID": "7553",
+                "name": "Saiful Muluk Road",
+                "name_l1": "سیف الملوک روڈ",
+                "slug": "/Naran_Saiful_Muluk_Road-7553",
+                "slug_l1": "/Naran_Saiful_Muluk_Road-7553"
+            }
+        ],
+        "hierarchyPath": "Saiful Muluk Road Naran Khyber Pakhtunkhwa Pakistan",
+        "adCount": 126,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "7553",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "3482",
+        "_highlightResult": {
+            "name": {
+                "value": "Saiful Muluk Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 19556,
+        "name": "Mountain Village",
+        "name_l1": "ماؤنٹین ولیج",
+        "externalID": "20405",
+        "slug": "/Naran_Saiful_Muluk_Road_Mountain_Village-20405",
+        "slug_l1": "/Naran_Saiful_Muluk_Road_Mountain_Village-20405",
+        "_geoloc": {
+            "lat": 34.908021168529,
+            "lng": 73.67964077545
+        },
+        "geography": {
+            "lat": 34.908021168529,
+            "lng": 73.67964077545
+        },
+        "geo_point": [
+            73.67964077545,
+            34.908021168529
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "خیبر پختون خواہ",
+                "slug": "/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 59,
+                "level": 2,
+                "externalID": "1258",
+                "name": "Naran",
+                "name_l1": "ناران",
+                "slug": "/Naran-1258",
+                "slug_l1": "/Naran-1258"
+            },
+            {
+                "id": 3482,
+                "level": 3,
+                "externalID": "7553",
+                "name": "Saiful Muluk Road",
+                "name_l1": "سیف الملوک روڈ",
+                "slug": "/Naran_Saiful_Muluk_Road-7553",
+                "slug_l1": "/Naran_Saiful_Muluk_Road-7553"
+            },
+            {
+                "id": 19556,
+                "level": 4,
+                "externalID": "20405",
+                "name": "Mountain Village",
+                "name_l1": "ماؤنٹین ولیج",
+                "slug": "/Naran_Saiful_Muluk_Road_Mountain_Village-20405",
+                "slug_l1": "/Naran_Saiful_Muluk_Road_Mountain_Village-20405"
+            }
+        ],
+        "hierarchyPath": "Mountain Village Saiful Muluk Road Naran Khyber Pakhtunkhwa Pakistan",
+        "adCount": 48,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "20405",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "19556",
+        "_highlightResult": {
+            "name": {
+                "value": "Mountain Village",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 22197,
+        "name": "Lakeway Cottages",
+        "name_l1": "لیک وے کاٹیجز",
+        "externalID": "22261",
+        "slug": "/Naran_Saiful_Muluk_Road_Lakeway_Cottages-22261",
+        "slug_l1": "/Naran_Saiful_Muluk_Road_Lakeway_Cottages-22261",
+        "_geoloc": {
+            "lat": 34.904233,
+            "lng": 73.678795
+        },
+        "geography": {
+            "lat": 34.904233,
+            "lng": 73.678795
+        },
+        "geo_point": [
+            73.678795,
+            34.904233
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "خیبر پختون خواہ",
+                "slug": "/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 59,
+                "level": 2,
+                "externalID": "1258",
+                "name": "Naran",
+                "name_l1": "ناران",
+                "slug": "/Naran-1258",
+                "slug_l1": "/Naran-1258"
+            },
+            {
+                "id": 3482,
+                "level": 3,
+                "externalID": "7553",
+                "name": "Saiful Muluk Road",
+                "name_l1": "سیف الملوک روڈ",
+                "slug": "/Naran_Saiful_Muluk_Road-7553",
+                "slug_l1": "/Naran_Saiful_Muluk_Road-7553"
+            },
+            {
+                "id": 22197,
+                "level": 4,
+                "externalID": "22261",
+                "name": "Lakeway Cottages",
+                "name_l1": "لیک وے کاٹیجز",
+                "slug": "/Naran_Saiful_Muluk_Road_Lakeway_Cottages-22261",
+                "slug_l1": "/Naran_Saiful_Muluk_Road_Lakeway_Cottages-22261"
+            }
+        ],
+        "hierarchyPath": "Lakeway Cottages Saiful Muluk Road Naran Khyber Pakhtunkhwa Pakistan",
+        "adCount": 24,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "22261",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "22197",
+        "_highlightResult": {
+            "name": {
+                "value": "Lakeway Cottages",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1022,
+        "name": "Others",
+        "name_l1": "دیگر",
+        "externalID": "1259",
+        "slug": "/Naran_Others-1259",
+        "slug_l1": "/Naran_Others-1259",
+        "_geoloc": {
+            "lat": 34.9077,
+            "lng": 73.6492
+        },
+        "geography": {
+            "lat": 34.9077,
+            "lng": 73.6492
+        },
+        "geo_point": [
+            73.6492,
+            34.9077
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "خیبر پختون خواہ",
+                "slug": "/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 59,
+                "level": 2,
+                "externalID": "1258",
+                "name": "Naran",
+                "name_l1": "ناران",
+                "slug": "/Naran-1258",
+                "slug_l1": "/Naran-1258"
+            },
+            {
+                "id": 1022,
+                "level": 3,
+                "externalID": "1259",
+                "name": "Others",
+                "name_l1": "دیگر",
+                "slug": "/Naran_Others-1259",
+                "slug_l1": "/Naran_Others-1259"
+            }
+        ],
+        "hierarchyPath": "Others Naran Khyber Pakhtunkhwa Pakistan",
+        "adCount": 3,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "1259",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1022",
+        "_highlightResult": {
+            "name": {
+                "value": "Others",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 4497,
+        "name": "Batakundi",
+        "name_l1": "بٹہ کنڈی",
+        "externalID": "9203",
+        "slug": "/Naran_Batakundi-9203",
+        "slug_l1": "/Naran_Batakundi-9203",
+        "_geoloc": {
+            "lat": 34.933705,
+            "lng": 73.7727
+        },
+        "geography": {
+            "lat": 34.933705,
+            "lng": 73.7727
+        },
+        "geo_point": [
+            73.7727,
+            34.933705
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "خیبر پختون خواہ",
+                "slug": "/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 59,
+                "level": 2,
+                "externalID": "1258",
+                "name": "Naran",
+                "name_l1": "ناران",
+                "slug": "/Naran-1258",
+                "slug_l1": "/Naran-1258"
+            },
+            {
+                "id": 4497,
+                "level": 3,
+                "externalID": "9203",
+                "name": "Batakundi",
+                "name_l1": "بٹہ کنڈی",
+                "slug": "/Naran_Batakundi-9203",
+                "slug_l1": "/Naran_Batakundi-9203"
+            }
+        ],
+        "hierarchyPath": "Batakundi Naran Khyber Pakhtunkhwa Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "9203",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "4497",
+        "_highlightResult": {
+            "name": {
+                "value": "Batakundi",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 3479,
+        "name": "Katha Naran",
+        "name_l1": "کٹھہ ناران",
+        "externalID": "7550",
+        "slug": "/Naran_Katha_Naran-7550",
+        "slug_l1": "/Naran_Katha_Naran-7550",
+        "_geoloc": {
+            "lat": 34.907754,
+            "lng": 73.668137
+        },
+        "geography": {
+            "lat": 34.907754,
+            "lng": 73.668137
+        },
+        "geo_point": [
+            73.668137,
+            34.907754
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "خیبر پختون خواہ",
+                "slug": "/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 59,
+                "level": 2,
+                "externalID": "1258",
+                "name": "Naran",
+                "name_l1": "ناران",
+                "slug": "/Naran-1258",
+                "slug_l1": "/Naran-1258"
+            },
+            {
+                "id": 3479,
+                "level": 3,
+                "externalID": "7550",
+                "name": "Katha Naran",
+                "name_l1": "کٹھہ ناران",
+                "slug": "/Naran_Katha_Naran-7550",
+                "slug_l1": "/Naran_Katha_Naran-7550"
+            }
+        ],
+        "hierarchyPath": "Katha Naran Naran Khyber Pakhtunkhwa Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "7550",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "3479",
+        "_highlightResult": {
+            "name": {
+                "value": "Katha Naran",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 3480,
+        "name": "Mansehra - Naran - Jalkhad - Chilas Road",
+        "name_l1": "مانسہرہ ۔ ناران ۔ جلکھڈ ۔ چلاس روڈ",
+        "externalID": "7551",
+        "slug": "/Naran_Mansehra_Naran_Jalkhad_Chilas_Road-7551",
+        "slug_l1": "/Naran_Mansehra_Naran_Jalkhad_Chilas_Road-7551",
+        "_geoloc": {
+            "lat": 34.904727,
+            "lng": 73.648717
+        },
+        "geography": {
+            "lat": 34.904727,
+            "lng": 73.648717
+        },
+        "geo_point": [
+            73.648717,
+            34.904727
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "خیبر پختون خواہ",
+                "slug": "/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 59,
+                "level": 2,
+                "externalID": "1258",
+                "name": "Naran",
+                "name_l1": "ناران",
+                "slug": "/Naran-1258",
+                "slug_l1": "/Naran-1258"
+            },
+            {
+                "id": 3480,
+                "level": 3,
+                "externalID": "7551",
+                "name": "Mansehra - Naran - Jalkhad - Chilas Road",
+                "name_l1": "مانسہرہ ۔ ناران ۔ جلکھڈ ۔ چلاس روڈ",
+                "slug": "/Naran_Mansehra_Naran_Jalkhad_Chilas_Road-7551",
+                "slug_l1": "/Naran_Mansehra_Naran_Jalkhad_Chilas_Road-7551"
+            }
+        ],
+        "hierarchyPath": "Mansehra - Naran - Jalkhad - Chilas Road Naran Khyber Pakhtunkhwa Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "7551",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "3480",
+        "_highlightResult": {
+            "name": {
+                "value": "Mansehra - Naran - Jalkhad - Chilas Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 3481,
+        "name": "Motel Area",
+        "name_l1": "موٹل ایریا",
+        "externalID": "7552",
+        "slug": "/Naran_Motel_Area-7552",
+        "slug_l1": "/Naran_Motel_Area-7552",
+        "_geoloc": {
+            "lat": 34.910921,
+            "lng": 73.652673
+        },
+        "geography": {
+            "lat": 34.910921,
+            "lng": 73.652673
+        },
+        "geo_point": [
+            73.652673,
+            34.910921
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 7,
+                "level": 1,
+                "externalID": "1525",
+                "name": "Khyber Pakhtunkhwa",
+                "name_l1": "خیبر پختون خواہ",
+                "slug": "/Khyber_Pakhtunkhwa-1525",
+                "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+            },
+            {
+                "id": 59,
+                "level": 2,
+                "externalID": "1258",
+                "name": "Naran",
+                "name_l1": "ناران",
+                "slug": "/Naran-1258",
+                "slug_l1": "/Naran-1258"
+            },
+            {
+                "id": 3481,
+                "level": 3,
+                "externalID": "7552",
+                "name": "Motel Area",
+                "name_l1": "موٹل ایریا",
+                "slug": "/Naran_Motel_Area-7552",
+                "slug_l1": "/Naran_Motel_Area-7552"
+            }
+        ],
+        "hierarchyPath": "Motel Area Naran Khyber Pakhtunkhwa Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "7552",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "3481",
+        "_highlightResult": {
+            "name": {
+                "value": "Motel Area",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }
+]

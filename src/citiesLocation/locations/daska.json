@@ -1,0 +1,4359 @@
+[
+    {
+        "id": 71,
+        "name": "Daska",
+        "name_l1": "ڈسکہ",
+        "externalID": "1509",
+        "slug": "/Daska-1509",
+        "slug_l1": "/Daska-1509",
+        "_geoloc": {
+            "lat": 32.342841356393,
+            "lng": 74.343795776367
+        },
+        "geography": {
+            "lat": 32.342841356393,
+            "lng": 74.343795776367
+        },
+        "geo_point": [
+            74.343795776367,
+            32.342841356393
+        ],
+        "level": 2,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            }
+        ],
+        "hierarchyPath": "Daska Punjab Pakistan",
+        "adCount": 138,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "1509",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "71",
+        "_highlightResult": {
+            "name": {
+                "value": "Daska",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 19942,
+        "name": "Meraj Housing Society",
+        "name_l1": "معراج ہاؤسنگ سوسائٹی",
+        "externalID": "20723",
+        "slug": "/Daska_Meraj_Housing_Society-20723",
+        "slug_l1": "/Daska_Meraj_Housing_Society-20723",
+        "_geoloc": {
+            "lat": 32.356708,
+            "lng": 74.396182
+        },
+        "geography": {
+            "lat": 32.356708,
+            "lng": 74.396182
+        },
+        "geo_point": [
+            74.396182,
+            32.356708
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 19942,
+                "level": 3,
+                "externalID": "20723",
+                "name": "Meraj Housing Society",
+                "name_l1": "معراج ہاؤسنگ سوسائٹی",
+                "slug": "/Daska_Meraj_Housing_Society-20723",
+                "slug_l1": "/Daska_Meraj_Housing_Society-20723"
+            }
+        ],
+        "hierarchyPath": "Meraj Housing Society Daska Punjab Pakistan",
+        "adCount": 81,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "20723",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "19942",
+        "_highlightResult": {
+            "name": {
+                "value": "Meraj Housing Society",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 14456,
+        "name": "Pasrur Road",
+        "name_l1": "پسرور روڈ",
+        "externalID": "15971",
+        "slug": "/Daska_Pasrur_Road-15971",
+        "slug_l1": "/Daska_Pasrur_Road-15971",
+        "_geoloc": {
+            "lat": 32.320693,
+            "lng": 74.393202
+        },
+        "geography": {
+            "lat": 32.320693,
+            "lng": 74.393202
+        },
+        "geo_point": [
+            74.393202,
+            32.320693
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 14456,
+                "level": 3,
+                "externalID": "15971",
+                "name": "Pasrur Road",
+                "name_l1": "پسرور روڈ",
+                "slug": "/Daska_Pasrur_Road-15971",
+                "slug_l1": "/Daska_Pasrur_Road-15971"
+            }
+        ],
+        "hierarchyPath": "Pasrur Road Daska Punjab Pakistan",
+        "adCount": 30,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "15971",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "14456",
+        "_highlightResult": {
+            "name": {
+                "value": "Pasrur Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1754,
+        "name": "College Road",
+        "name_l1": "کالج روڈ",
+        "externalID": "4814",
+        "slug": "/Daska_College_Road-4814",
+        "slug_l1": "/Daska_College_Road-4814",
+        "_geoloc": {
+            "lat": 32.333378,
+            "lng": 74.357522
+        },
+        "geography": {
+            "lat": 32.333378,
+            "lng": 74.357522
+        },
+        "geo_point": [
+            74.357522,
+            32.333378
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1754,
+                "level": 3,
+                "externalID": "4814",
+                "name": "College Road",
+                "name_l1": "کالج روڈ",
+                "slug": "/Daska_College_Road-4814",
+                "slug_l1": "/Daska_College_Road-4814"
+            }
+        ],
+        "hierarchyPath": "College Road Daska Punjab Pakistan",
+        "adCount": 9,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4814",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1754",
+        "_highlightResult": {
+            "name": {
+                "value": "College Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1767,
+        "name": "Kachehri Road",
+        "name_l1": "کچہری روڈ",
+        "externalID": "4827",
+        "slug": "/Daska_Kachehri_Road-4827",
+        "slug_l1": "/Daska_Kachehri_Road-4827",
+        "_geoloc": {
+            "lat": 32.331673,
+            "lng": 74.351513
+        },
+        "geography": {
+            "lat": 32.331673,
+            "lng": 74.351513
+        },
+        "geo_point": [
+            74.351513,
+            32.331673
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1767,
+                "level": 3,
+                "externalID": "4827",
+                "name": "Kachehri Road",
+                "name_l1": "کچہری روڈ",
+                "slug": "/Daska_Kachehri_Road-4827",
+                "slug_l1": "/Daska_Kachehri_Road-4827"
+            }
+        ],
+        "hierarchyPath": "Kachehri Road Daska Punjab Pakistan",
+        "adCount": 6,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4827",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1767",
+        "_highlightResult": {
+            "name": {
+                "value": "Kachehri Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1778,
+        "name": "Sabzi Mandi Bypass",
+        "name_l1": "سبزی منڈی بائی پاس",
+        "externalID": "4838",
+        "slug": "/Daska_Sabzi_Mandi_Bypass-4838",
+        "slug_l1": "/Daska_Sabzi_Mandi_Bypass-4838",
+        "_geoloc": {
+            "lat": 32.317748,
+            "lng": 74.354818
+        },
+        "geography": {
+            "lat": 32.317748,
+            "lng": 74.354818
+        },
+        "geo_point": [
+            74.354818,
+            32.317748
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1778,
+                "level": 3,
+                "externalID": "4838",
+                "name": "Sabzi Mandi Bypass",
+                "name_l1": "سبزی منڈی بائی پاس",
+                "slug": "/Daska_Sabzi_Mandi_Bypass-4838",
+                "slug_l1": "/Daska_Sabzi_Mandi_Bypass-4838"
+            }
+        ],
+        "hierarchyPath": "Sabzi Mandi Bypass Daska Punjab Pakistan",
+        "adCount": 6,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4838",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1778",
+        "_highlightResult": {
+            "name": {
+                "value": "Sabzi Mandi Bypass",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 21020,
+        "name": "Badiana Road",
+        "name_l1": "بڈیانہ روڈ",
+        "externalID": "21617",
+        "slug": "/Daska_Badiana_Road-21617",
+        "slug_l1": "/Daska_Badiana_Road-21617",
+        "_geoloc": {
+            "lat": 32.380341798479,
+            "lng": 74.436569314929
+        },
+        "geography": {
+            "lat": 32.380341798479,
+            "lng": 74.436569314929
+        },
+        "geo_point": [
+            74.436569314929,
+            32.380341798479
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 21020,
+                "level": 3,
+                "externalID": "21617",
+                "name": "Badiana Road",
+                "name_l1": "بڈیانہ روڈ",
+                "slug": "/Daska_Badiana_Road-21617",
+                "slug_l1": "/Daska_Badiana_Road-21617"
+            }
+        ],
+        "hierarchyPath": "Badiana Road Daska Punjab Pakistan",
+        "adCount": 3,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "21617",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "21020",
+        "_highlightResult": {
+            "name": {
+                "value": "Badiana Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1786,
+        "name": "Wazirabad Road",
+        "name_l1": "وزیر آباد روڈ",
+        "externalID": "4846",
+        "slug": "/Daska_Wazirabad_Road-4846",
+        "slug_l1": "/Daska_Wazirabad_Road-4846",
+        "_geoloc": {
+            "lat": 32.328482,
+            "lng": 74.338553
+        },
+        "geography": {
+            "lat": 32.328482,
+            "lng": 74.338553
+        },
+        "geo_point": [
+            74.338553,
+            32.328482
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1786,
+                "level": 3,
+                "externalID": "4846",
+                "name": "Wazirabad Road",
+                "name_l1": "وزیر آباد روڈ",
+                "slug": "/Daska_Wazirabad_Road-4846",
+                "slug_l1": "/Daska_Wazirabad_Road-4846"
+            }
+        ],
+        "hierarchyPath": "Wazirabad Road Daska Punjab Pakistan",
+        "adCount": 3,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4846",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "1786",
+        "_highlightResult": {
+            "name": {
+                "value": "Wazirabad Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 20340,
+        "name": "Al Fazal Garden",
+        "name_l1": "الفضل گارڈن",
+        "externalID": "21051",
+        "slug": "/Daska_Circular_Road_Al_Fazal_Garden-21051",
+        "slug_l1": "/Daska_Circular_Road_Al_Fazal_Garden-21051",
+        "_geoloc": {
+            "lat": 32.33750375456,
+            "lng": 74.363981666665
+        },
+        "geography": {
+            "lat": 32.33750375456,
+            "lng": 74.363981666665
+        },
+        "geo_point": [
+            74.363981666665,
+            32.33750375456
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1753,
+                "level": 3,
+                "externalID": "4813",
+                "name": "Circular Road",
+                "name_l1": "سرکلر روڈ",
+                "slug": "/Daska_Circular_Road-4813",
+                "slug_l1": "/Daska_Circular_Road-4813"
+            },
+            {
+                "id": 20340,
+                "level": 4,
+                "externalID": "21051",
+                "name": "Al Fazal Garden",
+                "name_l1": "الفضل گارڈن",
+                "slug": "/Daska_Circular_Road_Al_Fazal_Garden-21051",
+                "slug_l1": "/Daska_Circular_Road_Al_Fazal_Garden-21051"
+            }
+        ],
+        "hierarchyPath": "Al Fazal Garden Circular Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "21051",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "20340",
+        "_highlightResult": {
+            "name": {
+                "value": "Al Fazal Garden",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16375,
+        "name": "Apna Town Housing Scheme",
+        "name_l1": "اپنا ٹاؤن ہاؤسنگ سکیم",
+        "externalID": "17617",
+        "slug": "/Daska_Apna_Town_Housing_Scheme-17617",
+        "slug_l1": "/Daska_Apna_Town_Housing_Scheme-17617",
+        "_geoloc": {
+            "lat": 32.329285,
+            "lng": 74.3315731
+        },
+        "geography": {
+            "lat": 32.329285,
+            "lng": 74.3315731
+        },
+        "geo_point": [
+            74.3315731,
+            32.329285
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 16375,
+                "level": 3,
+                "externalID": "17617",
+                "name": "Apna Town Housing Scheme",
+                "name_l1": "اپنا ٹاؤن ہاؤسنگ سکیم",
+                "slug": "/Daska_Apna_Town_Housing_Scheme-17617",
+                "slug_l1": "/Daska_Apna_Town_Housing_Scheme-17617"
+            }
+        ],
+        "hierarchyPath": "Apna Town Housing Scheme Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "17617",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "16375",
+        "_highlightResult": {
+            "name": {
+                "value": "Apna Town Housing Scheme",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 11932,
+        "name": "Awami Road",
+        "name_l1": "عوامی روڈ",
+        "externalID": "13453",
+        "slug": "/Daska_Awami_Road-13453",
+        "slug_l1": "/Daska_Awami_Road-13453",
+        "_geoloc": {
+            "lat": 32.322613,
+            "lng": 74.353853
+        },
+        "geography": {
+            "lat": 32.322613,
+            "lng": 74.353853
+        },
+        "geo_point": [
+            74.353853,
+            32.322613
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 11932,
+                "level": 3,
+                "externalID": "13453",
+                "name": "Awami Road",
+                "name_l1": "عوامی روڈ",
+                "slug": "/Daska_Awami_Road-13453",
+                "slug_l1": "/Daska_Awami_Road-13453"
+            }
+        ],
+        "hierarchyPath": "Awami Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "13453",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "11932",
+        "_highlightResult": {
+            "name": {
+                "value": "Awami Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 17047,
+        "name": "Bank Road",
+        "name_l1": "بینک روڈ",
+        "externalID": "18199",
+        "slug": "/Daska_Bank_Road-18199",
+        "slug_l1": "/Daska_Bank_Road-18199",
+        "_geoloc": {
+            "lat": 32.3289241,
+            "lng": 74.3463117
+        },
+        "geography": {
+            "lat": 32.3289241,
+            "lng": 74.3463117
+        },
+        "geo_point": [
+            74.3463117,
+            32.3289241
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 17047,
+                "level": 3,
+                "externalID": "18199",
+                "name": "Bank Road",
+                "name_l1": "بینک روڈ",
+                "slug": "/Daska_Bank_Road-18199",
+                "slug_l1": "/Daska_Bank_Road-18199"
+            }
+        ],
+        "hierarchyPath": "Bank Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "18199",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "17047",
+        "_highlightResult": {
+            "name": {
+                "value": "Bank Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1750,
+        "name": "Barkat Town",
+        "name_l1": "برکت ٹاؤن",
+        "externalID": "4810",
+        "slug": "/Daska_Barkat_Town-4810",
+        "slug_l1": "/Daska_Barkat_Town-4810",
+        "_geoloc": {
+            "lat": 32.329534,
+            "lng": 74.369924
+        },
+        "geography": {
+            "lat": 32.329534,
+            "lng": 74.369924
+        },
+        "geo_point": [
+            74.369924,
+            32.329534
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1750,
+                "level": 3,
+                "externalID": "4810",
+                "name": "Barkat Town",
+                "name_l1": "برکت ٹاؤن",
+                "slug": "/Daska_Barkat_Town-4810",
+                "slug_l1": "/Daska_Barkat_Town-4810"
+            }
+        ],
+        "hierarchyPath": "Barkat Town Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4810",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1750",
+        "_highlightResult": {
+            "name": {
+                "value": "Barkat Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1751,
+        "name": "Canal Colony",
+        "name_l1": "کینال کالونی",
+        "externalID": "4811",
+        "slug": "/Daska_Canal_Colony-4811",
+        "slug_l1": "/Daska_Canal_Colony-4811",
+        "_geoloc": {
+            "lat": 32.326959,
+            "lng": 74.3416
+        },
+        "geography": {
+            "lat": 32.326959,
+            "lng": 74.3416
+        },
+        "geo_point": [
+            74.3416,
+            32.326959
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1751,
+                "level": 3,
+                "externalID": "4811",
+                "name": "Canal Colony",
+                "name_l1": "کینال کالونی",
+                "slug": "/Daska_Canal_Colony-4811",
+                "slug_l1": "/Daska_Canal_Colony-4811"
+            }
+        ],
+        "hierarchyPath": "Canal Colony Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4811",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1751",
+        "_highlightResult": {
+            "name": {
+                "value": "Canal Colony",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 13896,
+        "name": "Canal Valley",
+        "name_l1": "کنال ویلی",
+        "externalID": "15367",
+        "slug": "/Daska_Wazirabad_Road_Canal_Valley-15367",
+        "slug_l1": "/Daska_Wazirabad_Road_Canal_Valley-15367",
+        "_geoloc": {
+            "lat": 32.35068577,
+            "lng": 74.30796995
+        },
+        "geography": {
+            "lat": 32.35068577,
+            "lng": 74.30796995
+        },
+        "geo_point": [
+            74.30796995,
+            32.35068577
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1786,
+                "level": 3,
+                "externalID": "4846",
+                "name": "Wazirabad Road",
+                "name_l1": "وزیر آباد روڈ",
+                "slug": "/Daska_Wazirabad_Road-4846",
+                "slug_l1": "/Daska_Wazirabad_Road-4846"
+            },
+            {
+                "id": 13896,
+                "level": 4,
+                "externalID": "15367",
+                "name": "Canal Valley",
+                "name_l1": "کنال ویلی",
+                "slug": "/Daska_Wazirabad_Road_Canal_Valley-15367",
+                "slug_l1": "/Daska_Wazirabad_Road_Canal_Valley-15367"
+            }
+        ],
+        "hierarchyPath": "Canal Valley Wazirabad Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "15367",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "13896",
+        "_highlightResult": {
+            "name": {
+                "value": "Canal Valley",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1752,
+        "name": "Canal View Town",
+        "name_l1": "کینال ویو ٹاؤن",
+        "externalID": "4812",
+        "slug": "/Daska_Canal_View_Town-4812",
+        "slug_l1": "/Daska_Canal_View_Town-4812",
+        "_geoloc": {
+            "lat": 32.331565,
+            "lng": 74.331386
+        },
+        "geography": {
+            "lat": 32.331565,
+            "lng": 74.331386
+        },
+        "geo_point": [
+            74.331386,
+            32.331565
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1752,
+                "level": 3,
+                "externalID": "4812",
+                "name": "Canal View Town",
+                "name_l1": "کینال ویو ٹاؤن",
+                "slug": "/Daska_Canal_View_Town-4812",
+                "slug_l1": "/Daska_Canal_View_Town-4812"
+            }
+        ],
+        "hierarchyPath": "Canal View Town Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4812",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1752",
+        "_highlightResult": {
+            "name": {
+                "value": "Canal View Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1753,
+        "name": "Circular Road",
+        "name_l1": "سرکلر روڈ",
+        "externalID": "4813",
+        "slug": "/Daska_Circular_Road-4813",
+        "slug_l1": "/Daska_Circular_Road-4813",
+        "_geoloc": {
+            "lat": 32.329407,
+            "lng": 74.344844
+        },
+        "geography": {
+            "lat": 32.329407,
+            "lng": 74.344844
+        },
+        "geo_point": [
+            74.344844,
+            32.329407
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1753,
+                "level": 3,
+                "externalID": "4813",
+                "name": "Circular Road",
+                "name_l1": "سرکلر روڈ",
+                "slug": "/Daska_Circular_Road-4813",
+                "slug_l1": "/Daska_Circular_Road-4813"
+            }
+        ],
+        "hierarchyPath": "Circular Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4813",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "1753",
+        "_highlightResult": {
+            "name": {
+                "value": "Circular Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1755,
+        "name": "Faisal Town",
+        "name_l1": "فیصل ٹاؤن",
+        "externalID": "4815",
+        "slug": "/Daska_Faisal_Town-4815",
+        "slug_l1": "/Daska_Faisal_Town-4815",
+        "_geoloc": {
+            "lat": 32.346576,
+            "lng": 74.354732
+        },
+        "geography": {
+            "lat": 32.346576,
+            "lng": 74.354732
+        },
+        "geo_point": [
+            74.354732,
+            32.346576
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1755,
+                "level": 3,
+                "externalID": "4815",
+                "name": "Faisal Town",
+                "name_l1": "فیصل ٹاؤن",
+                "slug": "/Daska_Faisal_Town-4815",
+                "slug_l1": "/Daska_Faisal_Town-4815"
+            }
+        ],
+        "hierarchyPath": "Faisal Town Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4815",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1755",
+        "_highlightResult": {
+            "name": {
+                "value": "Faisal Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1756,
+        "name": "Garden Town",
+        "name_l1": "گارڈن ٹاؤن",
+        "externalID": "4816",
+        "slug": "/Daska_Garden_Town-4816",
+        "slug_l1": "/Daska_Garden_Town-4816",
+        "_geoloc": {
+            "lat": 32.321918,
+            "lng": 74.356148
+        },
+        "geography": {
+            "lat": 32.321918,
+            "lng": 74.356148
+        },
+        "geo_point": [
+            74.356148,
+            32.321918
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1756,
+                "level": 3,
+                "externalID": "4816",
+                "name": "Garden Town",
+                "name_l1": "گارڈن ٹاؤن",
+                "slug": "/Daska_Garden_Town-4816",
+                "slug_l1": "/Daska_Garden_Town-4816"
+            }
+        ],
+        "hierarchyPath": "Garden Town Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4816",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1756",
+        "_highlightResult": {
+            "name": {
+                "value": "Garden Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1757,
+        "name": "Ghani Pura",
+        "name_l1": "غنی پورہ",
+        "externalID": "4817",
+        "slug": "/Daska_Ghani_Pura-4817",
+        "slug_l1": "/Daska_Ghani_Pura-4817",
+        "_geoloc": {
+            "lat": 32.343675,
+            "lng": 74.353874
+        },
+        "geography": {
+            "lat": 32.343675,
+            "lng": 74.353874
+        },
+        "geo_point": [
+            74.353874,
+            32.343675
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1757,
+                "level": 3,
+                "externalID": "4817",
+                "name": "Ghani Pura",
+                "name_l1": "غنی پورہ",
+                "slug": "/Daska_Ghani_Pura-4817",
+                "slug_l1": "/Daska_Ghani_Pura-4817"
+            }
+        ],
+        "hierarchyPath": "Ghani Pura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4817",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1757",
+        "_highlightResult": {
+            "name": {
+                "value": "Ghani Pura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 15075,
+        "name": "Gold Land Garden Phase 2",
+        "name_l1": "گولڈ لینڈ گارڈن فیز 2",
+        "externalID": "16588",
+        "slug": "/Daska_Sambrial_Road_Gold_Land_Garden_Phase_2-16588",
+        "slug_l1": "/Daska_Sambrial_Road_Gold_Land_Garden_Phase_2-16588",
+        "_geoloc": {
+            "lat": 32.397522,
+            "lng": 74.364406
+        },
+        "geography": {
+            "lat": 32.397522,
+            "lng": 74.364406
+        },
+        "geo_point": [
+            74.364406,
+            32.397522
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1780,
+                "level": 3,
+                "externalID": "4840",
+                "name": "Sambrial Road",
+                "name_l1": "سمبڑیال روڈ",
+                "slug": "/Daska_Sambrial_Road-4840",
+                "slug_l1": "/Daska_Sambrial_Road-4840"
+            },
+            {
+                "id": 15075,
+                "level": 4,
+                "externalID": "16588",
+                "name": "Gold Land Garden Phase 2",
+                "name_l1": "گولڈ لینڈ گارڈن فیز 2",
+                "slug": "/Daska_Sambrial_Road_Gold_Land_Garden_Phase_2-16588",
+                "slug_l1": "/Daska_Sambrial_Road_Gold_Land_Garden_Phase_2-16588"
+            }
+        ],
+        "hierarchyPath": "Gold Land Garden Phase 2 Sambrial Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "16588",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "15075",
+        "_highlightResult": {
+            "name": {
+                "value": "Gold Land Garden Phase 2",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 20743,
+        "name": "Green Residencia",
+        "name_l1": "گرین ریذیڈنشیا",
+        "externalID": "21377",
+        "slug": "/Daska_Sambrial_Road_Green_Residencia-21377",
+        "slug_l1": "/Daska_Sambrial_Road_Green_Residencia-21377",
+        "_geoloc": {
+            "lat": 32.420193,
+            "lng": 74.360566
+        },
+        "geography": {
+            "lat": 32.420193,
+            "lng": 74.360566
+        },
+        "geo_point": [
+            74.360566,
+            32.420193
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1780,
+                "level": 3,
+                "externalID": "4840",
+                "name": "Sambrial Road",
+                "name_l1": "سمبڑیال روڈ",
+                "slug": "/Daska_Sambrial_Road-4840",
+                "slug_l1": "/Daska_Sambrial_Road-4840"
+            },
+            {
+                "id": 20743,
+                "level": 4,
+                "externalID": "21377",
+                "name": "Green Residencia",
+                "name_l1": "گرین ریذیڈنشیا",
+                "slug": "/Daska_Sambrial_Road_Green_Residencia-21377",
+                "slug_l1": "/Daska_Sambrial_Road_Green_Residencia-21377"
+            }
+        ],
+        "hierarchyPath": "Green Residencia Sambrial Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "21377",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "20743",
+        "_highlightResult": {
+            "name": {
+                "value": "Green Residencia",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1758,
+        "name": "Gujranwala Road",
+        "name_l1": "گوجرانوالہ روڈ",
+        "externalID": "4818",
+        "slug": "/Daska_Gujranwala_Road-4818",
+        "slug_l1": "/Daska_Gujranwala_Road-4818",
+        "_geoloc": {
+            "lat": 32.322208,
+            "lng": 74.33748
+        },
+        "geography": {
+            "lat": 32.322208,
+            "lng": 74.33748
+        },
+        "geo_point": [
+            74.33748,
+            32.322208
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1758,
+                "level": 3,
+                "externalID": "4818",
+                "name": "Gujranwala Road",
+                "name_l1": "گوجرانوالہ روڈ",
+                "slug": "/Daska_Gujranwala_Road-4818",
+                "slug_l1": "/Daska_Gujranwala_Road-4818"
+            }
+        ],
+        "hierarchyPath": "Gujranwala Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4818",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1758",
+        "_highlightResult": {
+            "name": {
+                "value": "Gujranwala Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1759,
+        "name": "Gulistan Town",
+        "name_l1": "گلستان ٹاؤن",
+        "externalID": "4819",
+        "slug": "/Daska_Gulistan_Town-4819",
+        "slug_l1": "/Daska_Gulistan_Town-4819",
+        "_geoloc": {
+            "lat": 32.332399,
+            "lng": 74.366148
+        },
+        "geography": {
+            "lat": 32.332399,
+            "lng": 74.366148
+        },
+        "geo_point": [
+            74.366148,
+            32.332399
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1759,
+                "level": 3,
+                "externalID": "4819",
+                "name": "Gulistan Town",
+                "name_l1": "گلستان ٹاؤن",
+                "slug": "/Daska_Gulistan_Town-4819",
+                "slug_l1": "/Daska_Gulistan_Town-4819"
+            }
+        ],
+        "hierarchyPath": "Gulistan Town Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4819",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1759",
+        "_highlightResult": {
+            "name": {
+                "value": "Gulistan Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1760,
+        "name": "Gulshan Colony",
+        "name_l1": "گلشن کالونی",
+        "externalID": "4820",
+        "slug": "/Daska_Gulshan_Colony-4820",
+        "slug_l1": "/Daska_Gulshan_Colony-4820",
+        "_geoloc": {
+            "lat": 32.330005,
+            "lng": 74.340656
+        },
+        "geography": {
+            "lat": 32.330005,
+            "lng": 74.340656
+        },
+        "geo_point": [
+            74.340656,
+            32.330005
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1760,
+                "level": 3,
+                "externalID": "4820",
+                "name": "Gulshan Colony",
+                "name_l1": "گلشن کالونی",
+                "slug": "/Daska_Gulshan_Colony-4820",
+                "slug_l1": "/Daska_Gulshan_Colony-4820"
+            }
+        ],
+        "hierarchyPath": "Gulshan Colony Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4820",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1760",
+        "_highlightResult": {
+            "name": {
+                "value": "Gulshan Colony",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1761,
+        "name": "Habib Pura",
+        "name_l1": "حبیب پورہ",
+        "externalID": "4821",
+        "slug": "/Daska_Habib_Pura-4821",
+        "slug_l1": "/Daska_Habib_Pura-4821",
+        "_geoloc": {
+            "lat": 32.33704,
+            "lng": 74.341857
+        },
+        "geography": {
+            "lat": 32.33704,
+            "lng": 74.341857
+        },
+        "geo_point": [
+            74.341857,
+            32.33704
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1761,
+                "level": 3,
+                "externalID": "4821",
+                "name": "Habib Pura",
+                "name_l1": "حبیب پورہ",
+                "slug": "/Daska_Habib_Pura-4821",
+                "slug_l1": "/Daska_Habib_Pura-4821"
+            }
+        ],
+        "hierarchyPath": "Habib Pura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4821",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1761",
+        "_highlightResult": {
+            "name": {
+                "value": "Habib Pura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1762,
+        "name": "Haji Pura",
+        "name_l1": "حاجی پورہ",
+        "externalID": "4822",
+        "slug": "/Daska_Haji_Pura-4822",
+        "slug_l1": "/Daska_Haji_Pura-4822",
+        "_geoloc": {
+            "lat": 32.34324,
+            "lng": 74.358208
+        },
+        "geography": {
+            "lat": 32.34324,
+            "lng": 74.358208
+        },
+        "geo_point": [
+            74.358208,
+            32.34324
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1762,
+                "level": 3,
+                "externalID": "4822",
+                "name": "Haji Pura",
+                "name_l1": "حاجی پورہ",
+                "slug": "/Daska_Haji_Pura-4822",
+                "slug_l1": "/Daska_Haji_Pura-4822"
+            }
+        ],
+        "hierarchyPath": "Haji Pura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4822",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1762",
+        "_highlightResult": {
+            "name": {
+                "value": "Haji Pura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1763,
+        "name": "Hameed Colony",
+        "name_l1": "حمید کالونی",
+        "externalID": "4823",
+        "slug": "/Daska_Hameed_Colony-4823",
+        "slug_l1": "/Daska_Hameed_Colony-4823",
+        "_geoloc": {
+            "lat": 32.324928,
+            "lng": 74.354818
+        },
+        "geography": {
+            "lat": 32.324928,
+            "lng": 74.354818
+        },
+        "geo_point": [
+            74.354818,
+            32.324928
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1763,
+                "level": 3,
+                "externalID": "4823",
+                "name": "Hameed Colony",
+                "name_l1": "حمید کالونی",
+                "slug": "/Daska_Hameed_Colony-4823",
+                "slug_l1": "/Daska_Hameed_Colony-4823"
+            }
+        ],
+        "hierarchyPath": "Hameed Colony Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4823",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1763",
+        "_highlightResult": {
+            "name": {
+                "value": "Hameed Colony",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1764,
+        "name": "Haq Pura",
+        "name_l1": "حق پورہ",
+        "externalID": "4824",
+        "slug": "/Daska_Haq_Pura-4824",
+        "slug_l1": "/Daska_Haq_Pura-4824",
+        "_geoloc": {
+            "lat": 32.335445,
+            "lng": 74.347994
+        },
+        "geography": {
+            "lat": 32.335445,
+            "lng": 74.347994
+        },
+        "geo_point": [
+            74.347994,
+            32.335445
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1764,
+                "level": 3,
+                "externalID": "4824",
+                "name": "Haq Pura",
+                "name_l1": "حق پورہ",
+                "slug": "/Daska_Haq_Pura-4824",
+                "slug_l1": "/Daska_Haq_Pura-4824"
+            }
+        ],
+        "hierarchyPath": "Haq Pura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4824",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1764",
+        "_highlightResult": {
+            "name": {
+                "value": "Haq Pura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 14457,
+        "name": "Ideal Avenue",
+        "name_l1": "آئیڈیل ایوینیو",
+        "externalID": "15972",
+        "slug": "/Daska_Pasrur_Road_Ideal_Avenue-15972",
+        "slug_l1": "/Daska_Pasrur_Road_Ideal_Avenue-15972",
+        "_geoloc": {
+            "lat": 32.297994,
+            "lng": 74.500591
+        },
+        "geography": {
+            "lat": 32.297994,
+            "lng": 74.500591
+        },
+        "geo_point": [
+            74.500591,
+            32.297994
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 14456,
+                "level": 3,
+                "externalID": "15971",
+                "name": "Pasrur Road",
+                "name_l1": "پسرور روڈ",
+                "slug": "/Daska_Pasrur_Road-15971",
+                "slug_l1": "/Daska_Pasrur_Road-15971"
+            },
+            {
+                "id": 14457,
+                "level": 4,
+                "externalID": "15972",
+                "name": "Ideal Avenue",
+                "name_l1": "آئیڈیل ایوینیو",
+                "slug": "/Daska_Pasrur_Road_Ideal_Avenue-15972",
+                "slug_l1": "/Daska_Pasrur_Road_Ideal_Avenue-15972"
+            }
+        ],
+        "hierarchyPath": "Ideal Avenue Pasrur Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "15972",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "14457",
+        "_highlightResult": {
+            "name": {
+                "value": "Ideal Avenue",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1765,
+        "name": "Islam Pura",
+        "name_l1": "اسلام پورہ",
+        "externalID": "4825",
+        "slug": "/Daska_Islam_Pura-4825",
+        "slug_l1": "/Daska_Islam_Pura-4825",
+        "_geoloc": {
+            "lat": 32.329171,
+            "lng": 74.356363
+        },
+        "geography": {
+            "lat": 32.329171,
+            "lng": 74.356363
+        },
+        "geo_point": [
+            74.356363,
+            32.329171
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1765,
+                "level": 3,
+                "externalID": "4825",
+                "name": "Islam Pura",
+                "name_l1": "اسلام پورہ",
+                "slug": "/Daska_Islam_Pura-4825",
+                "slug_l1": "/Daska_Islam_Pura-4825"
+            }
+        ],
+        "hierarchyPath": "Islam Pura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4825",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1765",
+        "_highlightResult": {
+            "name": {
+                "value": "Islam Pura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1766,
+        "name": "Jamke Road",
+        "name_l1": "جامکے روڈ",
+        "externalID": "4826",
+        "slug": "/Daska_Jamke_Road-4826",
+        "slug_l1": "/Daska_Jamke_Road-4826",
+        "_geoloc": {
+            "lat": 32.34034,
+            "lng": 74.365207
+        },
+        "geography": {
+            "lat": 32.34034,
+            "lng": 74.365207
+        },
+        "geo_point": [
+            74.365207,
+            32.34034
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1766,
+                "level": 3,
+                "externalID": "4826",
+                "name": "Jamke Road",
+                "name_l1": "جامکے روڈ",
+                "slug": "/Daska_Jamke_Road-4826",
+                "slug_l1": "/Daska_Jamke_Road-4826"
+            }
+        ],
+        "hierarchyPath": "Jamke Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4826",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1766",
+        "_highlightResult": {
+            "name": {
+                "value": "Jamke Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1768,
+        "name": "Khalid Town",
+        "name_l1": "خالد ٹاؤن",
+        "externalID": "4828",
+        "slug": "/Daska_Khalid_Town-4828",
+        "slug_l1": "/Daska_Khalid_Town-4828",
+        "_geoloc": {
+            "lat": 32.326198,
+            "lng": 74.335635
+        },
+        "geography": {
+            "lat": 32.326198,
+            "lng": 74.335635
+        },
+        "geo_point": [
+            74.335635,
+            32.326198
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1768,
+                "level": 3,
+                "externalID": "4828",
+                "name": "Khalid Town",
+                "name_l1": "خالد ٹاؤن",
+                "slug": "/Daska_Khalid_Town-4828",
+                "slug_l1": "/Daska_Khalid_Town-4828"
+            }
+        ],
+        "hierarchyPath": "Khalid Town Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4828",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1768",
+        "_highlightResult": {
+            "name": {
+                "value": "Khalid Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1769,
+        "name": "Mianwali Bangla Road",
+        "name_l1": "میانوالی بنگلہ روڈ",
+        "externalID": "4829",
+        "slug": "/Daska_Mianwali_Bangla_Road-4829",
+        "slug_l1": "/Daska_Mianwali_Bangla_Road-4829",
+        "_geoloc": {
+            "lat": 32.322354,
+            "lng": 74.344475
+        },
+        "geography": {
+            "lat": 32.322354,
+            "lng": 74.344475
+        },
+        "geo_point": [
+            74.344475,
+            32.322354
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1769,
+                "level": 3,
+                "externalID": "4829",
+                "name": "Mianwali Bangla Road",
+                "name_l1": "میانوالی بنگلہ روڈ",
+                "slug": "/Daska_Mianwali_Bangla_Road-4829",
+                "slug_l1": "/Daska_Mianwali_Bangla_Road-4829"
+            }
+        ],
+        "hierarchyPath": "Mianwali Bangla Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4829",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "1769",
+        "_highlightResult": {
+            "name": {
+                "value": "Mianwali Bangla Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 6040,
+        "name": "Mitranwali",
+        "name_l1": "مترانوالی",
+        "externalID": "12115",
+        "slug": "/Daska_Mitranwali-12115",
+        "slug_l1": "/Daska_Mitranwali-12115",
+        "_geoloc": {
+            "lat": 32.366867,
+            "lng": 74.239801
+        },
+        "geography": {
+            "lat": 32.366867,
+            "lng": 74.239801
+        },
+        "geo_point": [
+            74.239801,
+            32.366867
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 6040,
+                "level": 3,
+                "externalID": "12115",
+                "name": "Mitranwali",
+                "name_l1": "مترانوالی",
+                "slug": "/Daska_Mitranwali-12115",
+                "slug_l1": "/Daska_Mitranwali-12115"
+            }
+        ],
+        "hierarchyPath": "Mitranwali Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "12115",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "6040",
+        "_highlightResult": {
+            "name": {
+                "value": "Mitranwali",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1770,
+        "name": "Model Town",
+        "name_l1": "ماڈل ٹاؤن",
+        "externalID": "4830",
+        "slug": "/Daska_Model_Town-4830",
+        "slug_l1": "/Daska_Model_Town-4830",
+        "_geoloc": {
+            "lat": 32.329498,
+            "lng": 74.349411
+        },
+        "geography": {
+            "lat": 32.329498,
+            "lng": 74.349411
+        },
+        "geo_point": [
+            74.349411,
+            32.329498
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1770,
+                "level": 3,
+                "externalID": "4830",
+                "name": "Model Town",
+                "name_l1": "ماڈل ٹاؤن",
+                "slug": "/Daska_Model_Town-4830",
+                "slug_l1": "/Daska_Model_Town-4830"
+            }
+        ],
+        "hierarchyPath": "Model Town Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4830",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1770",
+        "_highlightResult": {
+            "name": {
+                "value": "Model Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 21245,
+        "name": "Motra",
+        "name_l1": "موترہ",
+        "externalID": "21835",
+        "slug": "/Daska_Motra-21835",
+        "slug_l1": "/Daska_Motra-21835",
+        "_geoloc": {
+            "lat": 32.383702547435,
+            "lng": 74.423572801633
+        },
+        "geography": {
+            "lat": 32.383702547435,
+            "lng": 74.423572801633
+        },
+        "geo_point": [
+            74.423572801633,
+            32.383702547435
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 21245,
+                "level": 3,
+                "externalID": "21835",
+                "name": "Motra",
+                "name_l1": "موترہ",
+                "slug": "/Daska_Motra-21835",
+                "slug_l1": "/Daska_Motra-21835"
+            }
+        ],
+        "hierarchyPath": "Motra Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "21835",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "21245",
+        "_highlightResult": {
+            "name": {
+                "value": "Motra",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1771,
+        "name": "Mughal Pura",
+        "name_l1": "مغل پورہ",
+        "externalID": "4831",
+        "slug": "/Daska_Mughal_Pura-4831",
+        "slug_l1": "/Daska_Mughal_Pura-4831",
+        "_geoloc": {
+            "lat": 32.338744,
+            "lng": 74.352372
+        },
+        "geography": {
+            "lat": 32.338744,
+            "lng": 74.352372
+        },
+        "geo_point": [
+            74.352372,
+            32.338744
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1771,
+                "level": 3,
+                "externalID": "4831",
+                "name": "Mughal Pura",
+                "name_l1": "مغل پورہ",
+                "slug": "/Daska_Mughal_Pura-4831",
+                "slug_l1": "/Daska_Mughal_Pura-4831"
+            }
+        ],
+        "hierarchyPath": "Mughal Pura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4831",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1771",
+        "_highlightResult": {
+            "name": {
+                "value": "Mughal Pura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1772,
+        "name": "Nazirabad Colony",
+        "name_l1": "نذیر آباد کالونی",
+        "externalID": "4832",
+        "slug": "/Daska_Nazirabad_Colony-4832",
+        "slug_l1": "/Daska_Nazirabad_Colony-4832",
+        "_geoloc": {
+            "lat": 32.323913,
+            "lng": 74.335763
+        },
+        "geography": {
+            "lat": 32.323913,
+            "lng": 74.335763
+        },
+        "geo_point": [
+            74.335763,
+            32.323913
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1772,
+                "level": 3,
+                "externalID": "4832",
+                "name": "Nazirabad Colony",
+                "name_l1": "نذیر آباد کالونی",
+                "slug": "/Daska_Nazirabad_Colony-4832",
+                "slug_l1": "/Daska_Nazirabad_Colony-4832"
+            }
+        ],
+        "hierarchyPath": "Nazirabad Colony Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4832",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1772",
+        "_highlightResult": {
+            "name": {
+                "value": "Nazirabad Colony",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 11936,
+        "name": "Nisbat Road",
+        "name_l1": "نسبت روڈ",
+        "externalID": "13457",
+        "slug": "/Daska_Nisbat_Road-13457",
+        "slug_l1": "/Daska_Nisbat_Road-13457",
+        "_geoloc": {
+            "lat": 32.327789,
+            "lng": 74.35047
+        },
+        "geography": {
+            "lat": 32.327789,
+            "lng": 74.35047
+        },
+        "geo_point": [
+            74.35047,
+            32.327789
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 11936,
+                "level": 3,
+                "externalID": "13457",
+                "name": "Nisbat Road",
+                "name_l1": "نسبت روڈ",
+                "slug": "/Daska_Nisbat_Road-13457",
+                "slug_l1": "/Daska_Nisbat_Road-13457"
+            }
+        ],
+        "hierarchyPath": "Nisbat Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "13457",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "11936",
+        "_highlightResult": {
+            "name": {
+                "value": "Nisbat Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1200,
+        "name": "Others",
+        "name_l1": "دیگر",
+        "externalID": "1510",
+        "slug": "/Daska_Others-1510",
+        "slug_l1": "/Daska_Others-1510",
+        "_geoloc": {
+            "lat": 32.335,
+            "lng": 74.3529
+        },
+        "geography": {
+            "lat": 32.335,
+            "lng": 74.3529
+        },
+        "geo_point": [
+            74.3529,
+            32.335
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1200,
+                "level": 3,
+                "externalID": "1510",
+                "name": "Others",
+                "name_l1": "دیگر",
+                "slug": "/Daska_Others-1510",
+                "slug_l1": "/Daska_Others-1510"
+            }
+        ],
+        "hierarchyPath": "Others Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "1510",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1200",
+        "_highlightResult": {
+            "name": {
+                "value": "Others",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1773,
+        "name": "Qazi Town",
+        "name_l1": "قاضی ٹاؤن",
+        "externalID": "4833",
+        "slug": "/Daska_Qazi_Town-4833",
+        "slug_l1": "/Daska_Qazi_Town-4833",
+        "_geoloc": {
+            "lat": 32.331746,
+            "lng": 74.343317
+        },
+        "geography": {
+            "lat": 32.331746,
+            "lng": 74.343317
+        },
+        "geo_point": [
+            74.343317,
+            32.331746
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1773,
+                "level": 3,
+                "externalID": "4833",
+                "name": "Qazi Town",
+                "name_l1": "قاضی ٹاؤن",
+                "slug": "/Daska_Qazi_Town-4833",
+                "slug_l1": "/Daska_Qazi_Town-4833"
+            }
+        ],
+        "hierarchyPath": "Qazi Town Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4833",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1773",
+        "_highlightResult": {
+            "name": {
+                "value": "Qazi Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1774,
+        "name": "Raham Colony",
+        "name_l1": "راحام کالونی",
+        "externalID": "4834",
+        "slug": "/Daska_Raham_Colony-4834",
+        "slug_l1": "/Daska_Raham_Colony-4834",
+        "_geoloc": {
+            "lat": 32.321447,
+            "lng": 74.338896
+        },
+        "geography": {
+            "lat": 32.321447,
+            "lng": 74.338896
+        },
+        "geo_point": [
+            74.338896,
+            32.321447
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1774,
+                "level": 3,
+                "externalID": "4834",
+                "name": "Raham Colony",
+                "name_l1": "راحام کالونی",
+                "slug": "/Daska_Raham_Colony-4834",
+                "slug_l1": "/Daska_Raham_Colony-4834"
+            }
+        ],
+        "hierarchyPath": "Raham Colony Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4834",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1774",
+        "_highlightResult": {
+            "name": {
+                "value": "Raham Colony",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1775,
+        "name": "Rahmat Pura",
+        "name_l1": "رحمت پورہ",
+        "externalID": "4835",
+        "slug": "/Daska_Rahmat_Pura-4835",
+        "slug_l1": "/Daska_Rahmat_Pura-4835",
+        "_geoloc": {
+            "lat": 32.343494,
+            "lng": 74.351213
+        },
+        "geography": {
+            "lat": 32.343494,
+            "lng": 74.351213
+        },
+        "geo_point": [
+            74.351213,
+            32.343494
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1775,
+                "level": 3,
+                "externalID": "4835",
+                "name": "Rahmat Pura",
+                "name_l1": "رحمت پورہ",
+                "slug": "/Daska_Rahmat_Pura-4835",
+                "slug_l1": "/Daska_Rahmat_Pura-4835"
+            }
+        ],
+        "hierarchyPath": "Rahmat Pura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4835",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1775",
+        "_highlightResult": {
+            "name": {
+                "value": "Rahmat Pura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1776,
+        "name": "Ramzan Town",
+        "name_l1": "رمضان ٹاؤن",
+        "externalID": "4836",
+        "slug": "/Daska_Ramzan_Town-4836",
+        "slug_l1": "/Daska_Ramzan_Town-4836",
+        "_geoloc": {
+            "lat": 32.335481,
+            "lng": 74.336064
+        },
+        "geography": {
+            "lat": 32.335481,
+            "lng": 74.336064
+        },
+        "geo_point": [
+            74.336064,
+            32.335481
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1776,
+                "level": 3,
+                "externalID": "4836",
+                "name": "Ramzan Town",
+                "name_l1": "رمضان ٹاؤن",
+                "slug": "/Daska_Ramzan_Town-4836",
+                "slug_l1": "/Daska_Ramzan_Town-4836"
+            }
+        ],
+        "hierarchyPath": "Ramzan Town Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4836",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1776",
+        "_highlightResult": {
+            "name": {
+                "value": "Ramzan Town",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1777,
+        "name": "Rehman Pura",
+        "name_l1": "رحمان پورہ",
+        "externalID": "4837",
+        "slug": "/Daska_Rehman_Pura-4837",
+        "slug_l1": "/Daska_Rehman_Pura-4837",
+        "_geoloc": {
+            "lat": 32.345198,
+            "lng": 74.349539
+        },
+        "geography": {
+            "lat": 32.345198,
+            "lng": 74.349539
+        },
+        "geo_point": [
+            74.349539,
+            32.345198
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1777,
+                "level": 3,
+                "externalID": "4837",
+                "name": "Rehman Pura",
+                "name_l1": "رحمان پورہ",
+                "slug": "/Daska_Rehman_Pura-4837",
+                "slug_l1": "/Daska_Rehman_Pura-4837"
+            }
+        ],
+        "hierarchyPath": "Rehman Pura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4837",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1777",
+        "_highlightResult": {
+            "name": {
+                "value": "Rehman Pura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1779,
+        "name": "Sabzi Mandi Colony",
+        "name_l1": "سبزی منڈی کالونی",
+        "externalID": "4839",
+        "slug": "/Daska_Sabzi_Mandi_Colony-4839",
+        "slug_l1": "/Daska_Sabzi_Mandi_Colony-4839",
+        "_geoloc": {
+            "lat": 32.326415,
+            "lng": 74.36486
+        },
+        "geography": {
+            "lat": 32.326415,
+            "lng": 74.36486
+        },
+        "geo_point": [
+            74.36486,
+            32.326415
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1779,
+                "level": 3,
+                "externalID": "4839",
+                "name": "Sabzi Mandi Colony",
+                "name_l1": "سبزی منڈی کالونی",
+                "slug": "/Daska_Sabzi_Mandi_Colony-4839",
+                "slug_l1": "/Daska_Sabzi_Mandi_Colony-4839"
+            }
+        ],
+        "hierarchyPath": "Sabzi Mandi Colony Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4839",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1779",
+        "_highlightResult": {
+            "name": {
+                "value": "Sabzi Mandi Colony",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1780,
+        "name": "Sambrial Road",
+        "name_l1": "سمبڑیال روڈ",
+        "externalID": "4840",
+        "slug": "/Daska_Sambrial_Road-4840",
+        "slug_l1": "/Daska_Sambrial_Road-4840",
+        "_geoloc": {
+            "lat": 32.339759,
+            "lng": 74.355122
+        },
+        "geography": {
+            "lat": 32.339759,
+            "lng": 74.355122
+        },
+        "geo_point": [
+            74.355122,
+            32.339759
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1780,
+                "level": 3,
+                "externalID": "4840",
+                "name": "Sambrial Road",
+                "name_l1": "سمبڑیال روڈ",
+                "slug": "/Daska_Sambrial_Road-4840",
+                "slug_l1": "/Daska_Sambrial_Road-4840"
+            }
+        ],
+        "hierarchyPath": "Sambrial Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4840",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": true,
+        "polygon": null,
+        "objectID": "1780",
+        "_highlightResult": {
+            "name": {
+                "value": "Sambrial Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1781,
+        "name": "Shadpura",
+        "name_l1": "شادپورہ",
+        "externalID": "4841",
+        "slug": "/Daska_Shadpura-4841",
+        "slug_l1": "/Daska_Shadpura-4841",
+        "_geoloc": {
+            "lat": 32.325255,
+            "lng": 74.344604
+        },
+        "geography": {
+            "lat": 32.325255,
+            "lng": 74.344604
+        },
+        "geo_point": [
+            74.344604,
+            32.325255
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1781,
+                "level": 3,
+                "externalID": "4841",
+                "name": "Shadpura",
+                "name_l1": "شادپورہ",
+                "slug": "/Daska_Shadpura-4841",
+                "slug_l1": "/Daska_Shadpura-4841"
+            }
+        ],
+        "hierarchyPath": "Shadpura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4841",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1781",
+        "_highlightResult": {
+            "name": {
+                "value": "Shadpura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1782,
+        "name": "Shahab Pura",
+        "name_l1": "شہاب پورہ",
+        "externalID": "4842",
+        "slug": "/Daska_Shahab_Pura-4842",
+        "slug_l1": "/Daska_Shahab_Pura-4842",
+        "_geoloc": {
+            "lat": 32.341173,
+            "lng": 74.362156
+        },
+        "geography": {
+            "lat": 32.341173,
+            "lng": 74.362156
+        },
+        "geo_point": [
+            74.362156,
+            32.341173
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1782,
+                "level": 3,
+                "externalID": "4842",
+                "name": "Shahab Pura",
+                "name_l1": "شہاب پورہ",
+                "slug": "/Daska_Shahab_Pura-4842",
+                "slug_l1": "/Daska_Shahab_Pura-4842"
+            }
+        ],
+        "hierarchyPath": "Shahab Pura Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4842",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1782",
+        "_highlightResult": {
+            "name": {
+                "value": "Shahab Pura",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 4611,
+        "name": "Stadium Road",
+        "name_l1": "اسٹیڈیم روڈ",
+        "externalID": "9448",
+        "slug": "/Daska_Stadium_Road-9448",
+        "slug_l1": "/Daska_Stadium_Road-9448",
+        "_geoloc": {
+            "lat": 32.33613,
+            "lng": 74.341091
+        },
+        "geography": {
+            "lat": 32.33613,
+            "lng": 74.341091
+        },
+        "geo_point": [
+            74.341091,
+            32.33613
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 4611,
+                "level": 3,
+                "externalID": "9448",
+                "name": "Stadium Road",
+                "name_l1": "اسٹیڈیم روڈ",
+                "slug": "/Daska_Stadium_Road-9448",
+                "slug_l1": "/Daska_Stadium_Road-9448"
+            }
+        ],
+        "hierarchyPath": "Stadium Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "9448",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "4611",
+        "_highlightResult": {
+            "name": {
+                "value": "Stadium Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1783,
+        "name": "Tariq Abad",
+        "name_l1": "طارق آباد",
+        "externalID": "4843",
+        "slug": "/Daska_Tariq_Abad-4843",
+        "slug_l1": "/Daska_Tariq_Abad-4843",
+        "_geoloc": {
+            "lat": 32.318654,
+            "lng": 74.329197
+        },
+        "geography": {
+            "lat": 32.318654,
+            "lng": 74.329197
+        },
+        "geo_point": [
+            74.329197,
+            32.318654
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1783,
+                "level": 3,
+                "externalID": "4843",
+                "name": "Tariq Abad",
+                "name_l1": "طارق آباد",
+                "slug": "/Daska_Tariq_Abad-4843",
+                "slug_l1": "/Daska_Tariq_Abad-4843"
+            }
+        ],
+        "hierarchyPath": "Tariq Abad Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4843",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1783",
+        "_highlightResult": {
+            "name": {
+                "value": "Tariq Abad",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1784,
+        "name": "Tootianwala",
+        "name_l1": "ٹوٹیاں والا",
+        "externalID": "4844",
+        "slug": "/Daska_Tootianwala-4844",
+        "slug_l1": "/Daska_Tootianwala-4844",
+        "_geoloc": {
+            "lat": 32.322898,
+            "lng": 74.346364
+        },
+        "geography": {
+            "lat": 32.322898,
+            "lng": 74.346364
+        },
+        "geo_point": [
+            74.346364,
+            32.322898
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1784,
+                "level": 3,
+                "externalID": "4844",
+                "name": "Tootianwala",
+                "name_l1": "ٹوٹیاں والا",
+                "slug": "/Daska_Tootianwala-4844",
+                "slug_l1": "/Daska_Tootianwala-4844"
+            }
+        ],
+        "hierarchyPath": "Tootianwala Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4844",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1784",
+        "_highlightResult": {
+            "name": {
+                "value": "Tootianwala",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1785,
+        "name": "Wadala Road",
+        "name_l1": "وڈالہ روڈ",
+        "externalID": "4845",
+        "slug": "/Daska_Wadala_Road-4845",
+        "slug_l1": "/Daska_Wadala_Road-4845",
+        "_geoloc": {
+            "lat": 32.325364,
+            "lng": 74.350698
+        },
+        "geography": {
+            "lat": 32.325364,
+            "lng": 74.350698
+        },
+        "geo_point": [
+            74.350698,
+            32.325364
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1785,
+                "level": 3,
+                "externalID": "4845",
+                "name": "Wadala Road",
+                "name_l1": "وڈالہ روڈ",
+                "slug": "/Daska_Wadala_Road-4845",
+                "slug_l1": "/Daska_Wadala_Road-4845"
+            }
+        ],
+        "hierarchyPath": "Wadala Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4845",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1785",
+        "_highlightResult": {
+            "name": {
+                "value": "Wadala Road",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 16040,
+        "name": "Welcome City",
+        "name_l1": "ویلکم سٹی",
+        "externalID": "17324",
+        "slug": "/Daska_Mianwali_Bangla_Road_Welcome_City-17324",
+        "slug_l1": "/Daska_Mianwali_Bangla_Road_Welcome_City-17324",
+        "_geoloc": {
+            "lat": 32.3111303,
+            "lng": 74.3553028
+        },
+        "geography": {
+            "lat": 32.3111303,
+            "lng": 74.3553028
+        },
+        "geo_point": [
+            74.3553028,
+            32.3111303
+        ],
+        "level": 4,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1769,
+                "level": 3,
+                "externalID": "4829",
+                "name": "Mianwali Bangla Road",
+                "name_l1": "میانوالی بنگلہ روڈ",
+                "slug": "/Daska_Mianwali_Bangla_Road-4829",
+                "slug_l1": "/Daska_Mianwali_Bangla_Road-4829"
+            },
+            {
+                "id": 16040,
+                "level": 4,
+                "externalID": "17324",
+                "name": "Welcome City",
+                "name_l1": "ویلکم سٹی",
+                "slug": "/Daska_Mianwali_Bangla_Road_Welcome_City-17324",
+                "slug_l1": "/Daska_Mianwali_Bangla_Road_Welcome_City-17324"
+            }
+        ],
+        "hierarchyPath": "Welcome City Mianwali Bangla Road Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "17324",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "16040",
+        "_highlightResult": {
+            "name": {
+                "value": "Welcome City",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "id": 1787,
+        "name": "Younas Abad",
+        "name_l1": "یونس آباد",
+        "externalID": "4847",
+        "slug": "/Daska_Younas_Abad-4847",
+        "slug_l1": "/Daska_Younas_Abad-4847",
+        "_geoloc": {
+            "lat": 32.335481,
+            "lng": 74.372542
+        },
+        "geography": {
+            "lat": 32.335481,
+            "lng": 74.372542
+        },
+        "geo_point": [
+            74.372542,
+            32.335481
+        ],
+        "level": 3,
+        "hierarchy": [
+            {
+                "id": 2,
+                "level": 0,
+                "externalID": "1521",
+                "name": "Pakistan",
+                "name_l1": "پاکستان",
+                "slug": "/Pakistan-1521",
+                "slug_l1": "/Pakistan-1521"
+            },
+            {
+                "id": 4,
+                "level": 1,
+                "externalID": "1522",
+                "name": "Punjab",
+                "name_l1": "پنجاب",
+                "slug": "/Punjab-1522",
+                "slug_l1": "/Punjab-1522"
+            },
+            {
+                "id": 71,
+                "level": 2,
+                "externalID": "1509",
+                "name": "Daska",
+                "name_l1": "ڈسکہ",
+                "slug": "/Daska-1509",
+                "slug_l1": "/Daska-1509"
+            },
+            {
+                "id": 1787,
+                "level": 3,
+                "externalID": "4847",
+                "name": "Younas Abad",
+                "name_l1": "یونس آباد",
+                "slug": "/Daska_Younas_Abad-4847",
+                "slug_l1": "/Daska_Younas_Abad-4847"
+            }
+        ],
+        "hierarchyPath": "Younas Abad Daska Punjab Pakistan",
+        "adCount": 0,
+        "aliases": [],
+        "type": null,
+        "hasBuilding": false,
+        "trackID": "4847",
+        "roles": null,
+        "completionStatus": null,
+        "hasChildren": false,
+        "polygon": null,
+        "objectID": "1787",
+        "_highlightResult": {
+            "name": {
+                "value": "Younas Abad",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }
+]

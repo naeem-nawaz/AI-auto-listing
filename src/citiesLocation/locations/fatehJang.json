@@ -1,0 +1,2008 @@
+[
+  {
+      "id": 60,
+      "name": "Fateh Jang",
+      "name_l1": "فتح جھنگ",
+      "externalID": "1293",
+      "slug": "/Fateh_Jang-1293",
+      "slug_l1": "/Fateh_Jang-1293",
+      "_geoloc": {
+          "lat": 33.568584,
+          "lng": 72.639068
+      },
+      "geography": {
+          "lat": 33.568584,
+          "lng": 72.639068
+      },
+      "geo_point": [
+          72.639068,
+          33.568584
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          }
+      ],
+      "hierarchyPath": "Fateh Jang Punjab Pakistan",
+      "adCount": 60,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1293",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "60",
+      "_highlightResult": {
+          "name": {
+              "value": "Fateh Jang",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21281,
+      "name": "Kohat - Fateh Jang Road",
+      "name_l1": "کوہاٹ۔ فتح جنگ روڈ",
+      "externalID": "21870",
+      "slug": "/Fateh_Jang_Kohat___Fateh_Jang_Road-21870",
+      "slug_l1": "/Fateh_Jang_Kohat___Fateh_Jang_Road-21870",
+      "_geoloc": {
+          "lat": 33.561133359097,
+          "lng": 72.62460560663
+      },
+      "geography": {
+          "lat": 33.561133359097,
+          "lng": 72.62460560663
+      },
+      "geo_point": [
+          72.62460560663,
+          33.561133359097
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 21281,
+              "level": 3,
+              "externalID": "21870",
+              "name": "Kohat - Fateh Jang Road",
+              "name_l1": "کوہاٹ۔ فتح جنگ روڈ",
+              "slug": "/Fateh_Jang_Kohat___Fateh_Jang_Road-21870",
+              "slug_l1": "/Fateh_Jang_Kohat___Fateh_Jang_Road-21870"
+          }
+      ],
+      "hierarchyPath": "Kohat - Fateh Jang Road Fateh Jang Punjab Pakistan",
+      "adCount": 24,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21870",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21281",
+      "_highlightResult": {
+          "name": {
+              "value": "Kohat - Fateh Jang Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11121,
+      "name": "Bango Road",
+      "name_l1": "بنگو روڈ",
+      "externalID": "12721",
+      "slug": "/Fateh_Jang_Bango_Road-12721",
+      "slug_l1": "/Fateh_Jang_Bango_Road-12721",
+      "_geoloc": {
+          "lat": 33.531528,
+          "lng": 72.761095
+      },
+      "geography": {
+          "lat": 33.531528,
+          "lng": 72.761095
+      },
+      "geo_point": [
+          72.761095,
+          33.531528
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 11121,
+              "level": 3,
+              "externalID": "12721",
+              "name": "Bango Road",
+              "name_l1": "بنگو روڈ",
+              "slug": "/Fateh_Jang_Bango_Road-12721",
+              "slug_l1": "/Fateh_Jang_Bango_Road-12721"
+          }
+      ],
+      "hierarchyPath": "Bango Road Fateh Jang Punjab Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12721",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11121",
+      "_highlightResult": {
+          "name": {
+              "value": "Bango Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11916,
+      "name": "Airport Avenue Housing Scheme",
+      "name_l1": "ائیرپورٹ ایونیو ہاؤسنگ سکیم",
+      "externalID": "13437",
+      "slug": "/Fateh_Jang_Airport_Avenue_Housing_Scheme-13437",
+      "slug_l1": "/Fateh_Jang_Airport_Avenue_Housing_Scheme-13437",
+      "_geoloc": {
+          "lat": 33.536288,
+          "lng": 72.754955
+      },
+      "geography": {
+          "lat": 33.536288,
+          "lng": 72.754955
+      },
+      "geo_point": [
+          72.754955,
+          33.536288
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 11916,
+              "level": 3,
+              "externalID": "13437",
+              "name": "Airport Avenue Housing Scheme",
+              "name_l1": "ائیرپورٹ ایونیو ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_Airport_Avenue_Housing_Scheme-13437",
+              "slug_l1": "/Fateh_Jang_Airport_Avenue_Housing_Scheme-13437"
+          }
+      ],
+      "hierarchyPath": "Airport Avenue Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13437",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11916",
+      "_highlightResult": {
+          "name": {
+              "value": "Airport Avenue Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21274,
+      "name": "Attock Road",
+      "name_l1": "اٹک روڈ",
+      "externalID": "21863",
+      "slug": "/Fateh_Jang_Attock_Road-21863",
+      "slug_l1": "/Fateh_Jang_Attock_Road-21863",
+      "_geoloc": {
+          "lat": 33.572818,
+          "lng": 72.630756
+      },
+      "geography": {
+          "lat": 33.572818,
+          "lng": 72.630756
+      },
+      "geo_point": [
+          72.630756,
+          33.572818
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 21274,
+              "level": 3,
+              "externalID": "21863",
+              "name": "Attock Road",
+              "name_l1": "اٹک روڈ",
+              "slug": "/Fateh_Jang_Attock_Road-21863",
+              "slug_l1": "/Fateh_Jang_Attock_Road-21863"
+          }
+      ],
+      "hierarchyPath": "Attock Road Fateh Jang Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21863",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21274",
+      "_highlightResult": {
+          "name": {
+              "value": "Attock Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5441,
+      "name": "Qutbal",
+      "name_l1": "قطبل",
+      "externalID": "10920",
+      "slug": "/Fateh_Jang_Qutbal-10920",
+      "slug_l1": "/Fateh_Jang_Qutbal-10920",
+      "_geoloc": {
+          "lat": 33.596736,
+          "lng": 72.760222
+      },
+      "geography": {
+          "lat": 33.596736,
+          "lng": 72.760222
+      },
+      "geo_point": [
+          72.760222,
+          33.596736
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 5441,
+              "level": 3,
+              "externalID": "10920",
+              "name": "Qutbal",
+              "name_l1": "قطبل",
+              "slug": "/Fateh_Jang_Qutbal-10920",
+              "slug_l1": "/Fateh_Jang_Qutbal-10920"
+          }
+      ],
+      "hierarchyPath": "Qutbal Fateh Jang Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10920",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5441",
+      "_highlightResult": {
+          "name": {
+              "value": "Qutbal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4906,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "9945",
+      "slug": "/Fateh_Jang_GT_Road-9945",
+      "slug_l1": "/Fateh_Jang_GT_Road-9945",
+      "_geoloc": {
+          "lat": 33.64499,
+          "lng": 72.785161
+      },
+      "geography": {
+          "lat": 33.64499,
+          "lng": 72.785161
+      },
+      "geo_point": [
+          72.785161,
+          33.64499
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 4906,
+              "level": 3,
+              "externalID": "9945",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Fateh_Jang_GT_Road-9945",
+              "slug_l1": "/Fateh_Jang_GT_Road-9945"
+          }
+      ],
+      "hierarchyPath": "GT Road Fateh Jang Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9945",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4906",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4905,
+      "name": "Shahpur Dam",
+      "name_l1": "شاہ پور ڈیم",
+      "externalID": "9944",
+      "slug": "/Fateh_Jang_Shahpur_Dam-9944",
+      "slug_l1": "/Fateh_Jang_Shahpur_Dam-9944",
+      "_geoloc": {
+          "lat": 33.616575,
+          "lng": 72.683297
+      },
+      "geography": {
+          "lat": 33.616575,
+          "lng": 72.683297
+      },
+      "geo_point": [
+          72.683297,
+          33.616575
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 4905,
+              "level": 3,
+              "externalID": "9944",
+              "name": "Shahpur Dam",
+              "name_l1": "شاہ پور ڈیم",
+              "slug": "/Fateh_Jang_Shahpur_Dam-9944",
+              "slug_l1": "/Fateh_Jang_Shahpur_Dam-9944"
+          }
+      ],
+      "hierarchyPath": "Shahpur Dam Fateh Jang Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "9944",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4905",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahpur Dam",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13630,
+      "name": "The Avenue 3 Housing Scheme",
+      "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+      "externalID": "15099",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+      "_geoloc": {
+          "lat": 33.574035,
+          "lng": 72.66723
+      },
+      "geography": {
+          "lat": 33.574035,
+          "lng": 72.66723
+      },
+      "geo_point": [
+          72.66723,
+          33.574035
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15099",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "13630",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17663,
+      "name": "The Avenue 3 Housing Scheme - Block D",
+      "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک ڈی",
+      "externalID": "18741",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_D-18741",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_D-18741",
+      "_geoloc": {
+          "lat": 33.57002253,
+          "lng": 72.66890523
+      },
+      "geography": {
+          "lat": 33.57002253,
+          "lng": 72.66890523
+      },
+      "geo_point": [
+          72.66890523,
+          33.57002253
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          },
+          {
+              "id": 17663,
+              "level": 4,
+              "externalID": "18741",
+              "name": "The Avenue 3 Housing Scheme - Block D",
+              "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک ڈی",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_D-18741",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_D-18741"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme - Block D The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18741",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17663",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme - Block D",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17057,
+      "name": "Awanpur",
+      "name_l1": "اعوان پور",
+      "externalID": "18208",
+      "slug": "/Fateh_Jang_Awanpur-18208",
+      "slug_l1": "/Fateh_Jang_Awanpur-18208",
+      "_geoloc": {
+          "lat": 33.5687858,
+          "lng": 72.6162256
+      },
+      "geography": {
+          "lat": 33.5687858,
+          "lng": 72.6162256
+      },
+      "geo_point": [
+          72.6162256,
+          33.5687858
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 17057,
+              "level": 3,
+              "externalID": "18208",
+              "name": "Awanpur",
+              "name_l1": "اعوان پور",
+              "slug": "/Fateh_Jang_Awanpur-18208",
+              "slug_l1": "/Fateh_Jang_Awanpur-18208"
+          }
+      ],
+      "hierarchyPath": "Awanpur Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18208",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17057",
+      "_highlightResult": {
+          "name": {
+              "value": "Awanpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11417,
+      "name": "Green Acre Farm Houses",
+      "name_l1": "گرین ایکڑ فارم ہاؤسز",
+      "externalID": "12973",
+      "slug": "/Fateh_Jang_Bango_Road_Green_Acre_Farm_Houses-12973",
+      "slug_l1": "/Fateh_Jang_Bango_Road_Green_Acre_Farm_Houses-12973",
+      "_geoloc": {
+          "lat": 33.528057,
+          "lng": 72.763868
+      },
+      "geography": {
+          "lat": 33.528057,
+          "lng": 72.763868
+      },
+      "geo_point": [
+          72.763868,
+          33.528057
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 11121,
+              "level": 3,
+              "externalID": "12721",
+              "name": "Bango Road",
+              "name_l1": "بنگو روڈ",
+              "slug": "/Fateh_Jang_Bango_Road-12721",
+              "slug_l1": "/Fateh_Jang_Bango_Road-12721"
+          },
+          {
+              "id": 11417,
+              "level": 4,
+              "externalID": "12973",
+              "name": "Green Acre Farm Houses",
+              "name_l1": "گرین ایکڑ فارم ہاؤسز",
+              "slug": "/Fateh_Jang_Bango_Road_Green_Acre_Farm_Houses-12973",
+              "slug_l1": "/Fateh_Jang_Bango_Road_Green_Acre_Farm_Houses-12973"
+          }
+      ],
+      "hierarchyPath": "Green Acre Farm Houses Bango Road Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12973",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11417",
+      "_highlightResult": {
+          "name": {
+              "value": "Green Acre Farm Houses",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16541,
+      "name": "Gulyal",
+      "name_l1": "گلیال",
+      "externalID": "17783",
+      "slug": "/Fateh_Jang_Gulyal-17783",
+      "slug_l1": "/Fateh_Jang_Gulyal-17783",
+      "_geoloc": {
+          "lat": 33.509366,
+          "lng": 72.521823
+      },
+      "geography": {
+          "lat": 33.509366,
+          "lng": 72.521823
+      },
+      "geo_point": [
+          72.521823,
+          33.509366
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 16541,
+              "level": 3,
+              "externalID": "17783",
+              "name": "Gulyal",
+              "name_l1": "گلیال",
+              "slug": "/Fateh_Jang_Gulyal-17783",
+              "slug_l1": "/Fateh_Jang_Gulyal-17783"
+          }
+      ],
+      "hierarchyPath": "Gulyal Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17783",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16541",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulyal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16142,
+      "name": "Khayaban-e-Ateeq",
+      "name_l1": "خیابان عتیق",
+      "externalID": "17419",
+      "slug": "/Fateh_Jang_Khayaban_e_Ateeq-17419",
+      "slug_l1": "/Fateh_Jang_Khayaban_e_Ateeq-17419",
+      "_geoloc": {
+          "lat": 33.556142,
+          "lng": 72.617011
+      },
+      "geography": {
+          "lat": 33.556142,
+          "lng": 72.617011
+      },
+      "geo_point": [
+          72.617011,
+          33.556142
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 16142,
+              "level": 3,
+              "externalID": "17419",
+              "name": "Khayaban-e-Ateeq",
+              "name_l1": "خیابان عتیق",
+              "slug": "/Fateh_Jang_Khayaban_e_Ateeq-17419",
+              "slug_l1": "/Fateh_Jang_Khayaban_e_Ateeq-17419"
+          }
+      ],
+      "hierarchyPath": "Khayaban-e-Ateeq Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17419",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16142",
+      "_highlightResult": {
+          "name": {
+              "value": "Khayaban-e-Ateeq",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20890,
+      "name": "Kot Fateh Khan",
+      "name_l1": "کوٹ فتح خان",
+      "externalID": "21501",
+      "slug": "/Fateh_Jang_Kot_Fateh_Khan-21501",
+      "slug_l1": "/Fateh_Jang_Kot_Fateh_Khan-21501",
+      "_geoloc": {
+          "lat": 33.462918426307,
+          "lng": 72.50670759748
+      },
+      "geography": {
+          "lat": 33.462918426307,
+          "lng": 72.50670759748
+      },
+      "geo_point": [
+          72.50670759748,
+          33.462918426307
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 20890,
+              "level": 3,
+              "externalID": "21501",
+              "name": "Kot Fateh Khan",
+              "name_l1": "کوٹ فتح خان",
+              "slug": "/Fateh_Jang_Kot_Fateh_Khan-21501",
+              "slug_l1": "/Fateh_Jang_Kot_Fateh_Khan-21501"
+          }
+      ],
+      "hierarchyPath": "Kot Fateh Khan Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21501",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20890",
+      "_highlightResult": {
+          "name": {
+              "value": "Kot Fateh Khan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21388,
+      "name": "New Airport City",
+      "name_l1": "نیو ایئرپورٹ سٹی",
+      "externalID": "21976",
+      "slug": "/Fateh_Jang_New_Airport_City-21976",
+      "slug_l1": "/Fateh_Jang_New_Airport_City-21976",
+      "_geoloc": {
+          "lat": 33.561355110437,
+          "lng": 72.742258200643
+      },
+      "geography": {
+          "lat": 33.561355110437,
+          "lng": 72.742258200643
+      },
+      "geo_point": [
+          72.742258200643,
+          33.561355110437
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 21388,
+              "level": 3,
+              "externalID": "21976",
+              "name": "New Airport City",
+              "name_l1": "نیو ایئرپورٹ سٹی",
+              "slug": "/Fateh_Jang_New_Airport_City-21976",
+              "slug_l1": "/Fateh_Jang_New_Airport_City-21976"
+          }
+      ],
+      "hierarchyPath": "New Airport City Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21976",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21388",
+      "_highlightResult": {
+          "name": {
+              "value": "New Airport City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16547,
+      "name": "Royal Farms & Residency",
+      "name_l1": "رائل فارمز اینڈ ریزیڈنسی",
+      "externalID": "17789",
+      "slug": "/Fateh_Jang_Royal_Farms___Residency-17789",
+      "slug_l1": "/Fateh_Jang_Royal_Farms___Residency-17789",
+      "_geoloc": {
+          "lat": 33.501618,
+          "lng": 72.541608
+      },
+      "geography": {
+          "lat": 33.501618,
+          "lng": 72.541608
+      },
+      "geo_point": [
+          72.541608,
+          33.501618
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 16547,
+              "level": 3,
+              "externalID": "17789",
+              "name": "Royal Farms & Residency",
+              "name_l1": "رائل فارمز اینڈ ریزیڈنسی",
+              "slug": "/Fateh_Jang_Royal_Farms___Residency-17789",
+              "slug_l1": "/Fateh_Jang_Royal_Farms___Residency-17789"
+          }
+      ],
+      "hierarchyPath": "Royal Farms & Residency Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17789",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16547",
+      "_highlightResult": {
+          "name": {
+              "value": "Royal Farms & Residency",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17658,
+      "name": "The Avenue 3 Housing Scheme - Block A",
+      "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک اے",
+      "externalID": "18736",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_A-18736",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_A-18736",
+      "_geoloc": {
+          "lat": 33.57545025,
+          "lng": 72.66490727
+      },
+      "geography": {
+          "lat": 33.57545025,
+          "lng": 72.66490727
+      },
+      "geo_point": [
+          72.66490727,
+          33.57545025
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          },
+          {
+              "id": 17658,
+              "level": 4,
+              "externalID": "18736",
+              "name": "The Avenue 3 Housing Scheme - Block A",
+              "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک اے",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_A-18736",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_A-18736"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme - Block A The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18736",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17658",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme - Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17659,
+      "name": "The Avenue 3 Housing Scheme - Block A Commercial",
+      "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک اے کمرشل",
+      "externalID": "18737",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_A_Commercial-18737",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_A_Commercial-18737",
+      "_geoloc": {
+          "lat": 33.57322981,
+          "lng": 72.66660724
+      },
+      "geography": {
+          "lat": 33.57322981,
+          "lng": 72.66660724
+      },
+      "geo_point": [
+          72.66660724,
+          33.57322981
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          },
+          {
+              "id": 17659,
+              "level": 4,
+              "externalID": "18737",
+              "name": "The Avenue 3 Housing Scheme - Block A Commercial",
+              "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک اے کمرشل",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_A_Commercial-18737",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_A_Commercial-18737"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme - Block A Commercial The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18737",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17659",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme - Block A Commercial",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17660,
+      "name": "The Avenue 3 Housing Scheme - Block B",
+      "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک بی",
+      "externalID": "18738",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_B-18738",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_B-18738",
+      "_geoloc": {
+          "lat": 33.57639455,
+          "lng": 72.66627438
+      },
+      "geography": {
+          "lat": 33.57639455,
+          "lng": 72.66627438
+      },
+      "geo_point": [
+          72.66627438,
+          33.57639455
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          },
+          {
+              "id": 17660,
+              "level": 4,
+              "externalID": "18738",
+              "name": "The Avenue 3 Housing Scheme - Block B",
+              "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک بی",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_B-18738",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_B-18738"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme - Block B The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18738",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17660",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme - Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17661,
+      "name": "The Avenue 3 Housing Scheme - Block B Commercial",
+      "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک بی کمرشل",
+      "externalID": "18739",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_B_Commercial-18739",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_B_Commercial-18739",
+      "_geoloc": {
+          "lat": 33.56742583,
+          "lng": 72.66836104
+      },
+      "geography": {
+          "lat": 33.56742583,
+          "lng": 72.66836104
+      },
+      "geo_point": [
+          72.66836104,
+          33.56742583
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          },
+          {
+              "id": 17661,
+              "level": 4,
+              "externalID": "18739",
+              "name": "The Avenue 3 Housing Scheme - Block B Commercial",
+              "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک بی کمرشل",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_B_Commercial-18739",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_B_Commercial-18739"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme - Block B Commercial The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18739",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17661",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme - Block B Commercial",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17662,
+      "name": "The Avenue 3 Housing Scheme - Block C",
+      "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک سی",
+      "externalID": "18740",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_C-18740",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_C-18740",
+      "_geoloc": {
+          "lat": 33.57245826,
+          "lng": 72.66495586
+      },
+      "geography": {
+          "lat": 33.57245826,
+          "lng": 72.66495586
+      },
+      "geo_point": [
+          72.66495586,
+          33.57245826
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          },
+          {
+              "id": 17662,
+              "level": 4,
+              "externalID": "18740",
+              "name": "The Avenue 3 Housing Scheme - Block C",
+              "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک سی",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_C-18740",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_C-18740"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme - Block C The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18740",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17662",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme - Block C",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17664,
+      "name": "The Avenue 3 Housing Scheme - Block E",
+      "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک ای",
+      "externalID": "18742",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_E-18742",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_E-18742",
+      "_geoloc": {
+          "lat": 33.56895737,
+          "lng": 72.66613929
+      },
+      "geography": {
+          "lat": 33.56895737,
+          "lng": 72.66613929
+      },
+      "geo_point": [
+          72.66613929,
+          33.56895737
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          },
+          {
+              "id": 17664,
+              "level": 4,
+              "externalID": "18742",
+              "name": "The Avenue 3 Housing Scheme - Block E",
+              "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک ای",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_E-18742",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_E-18742"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme - Block E The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18742",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17664",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme - Block E",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17665,
+      "name": "The Avenue 3 Housing Scheme - Block F",
+      "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک ایف",
+      "externalID": "18743",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_F-18743",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_F-18743",
+      "_geoloc": {
+          "lat": 33.56617695,
+          "lng": 72.66548255
+      },
+      "geography": {
+          "lat": 33.56617695,
+          "lng": 72.66548255
+      },
+      "geo_point": [
+          72.66548255,
+          33.56617695
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          },
+          {
+              "id": 17665,
+              "level": 4,
+              "externalID": "18743",
+              "name": "The Avenue 3 Housing Scheme - Block F",
+              "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک ایف",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_F-18743",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_F-18743"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme - Block F The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18743",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17665",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme - Block F",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 17666,
+      "name": "The Avenue 3 Housing Scheme - Block G",
+      "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک جی",
+      "externalID": "18744",
+      "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_G-18744",
+      "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_G-18744",
+      "_geoloc": {
+          "lat": 33.56814176,
+          "lng": 72.67146875
+      },
+      "geography": {
+          "lat": 33.56814176,
+          "lng": 72.67146875
+      },
+      "geo_point": [
+          72.67146875,
+          33.56814176
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 60,
+              "level": 2,
+              "externalID": "1293",
+              "name": "Fateh Jang",
+              "name_l1": "فتح جھنگ",
+              "slug": "/Fateh_Jang-1293",
+              "slug_l1": "/Fateh_Jang-1293"
+          },
+          {
+              "id": 13630,
+              "level": 3,
+              "externalID": "15099",
+              "name": "The Avenue 3 Housing Scheme",
+              "name_l1": "دی ایوینیو 3 ہاؤسنگ سکیم",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme-15099"
+          },
+          {
+              "id": 17666,
+              "level": 4,
+              "externalID": "18744",
+              "name": "The Avenue 3 Housing Scheme - Block G",
+              "name_l1": "دی ایونیو 3 ہاؤسنگ سکیم - بلاک جی",
+              "slug": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_G-18744",
+              "slug_l1": "/Fateh_Jang_The_Avenue_3_Housing_Scheme_The_Avenue_3_Housing_Scheme___Block_G-18744"
+          }
+      ],
+      "hierarchyPath": "The Avenue 3 Housing Scheme - Block G The Avenue 3 Housing Scheme Fateh Jang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "18744",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "17666",
+      "_highlightResult": {
+          "name": {
+              "value": "The Avenue 3 Housing Scheme - Block G",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+      "id": 125,
+      "name": "Khairpur",
+      "name_l1": "خیر پور",
+      "externalID": "8806",
+      "slug": "/Khairpur-8806",
+      "slug_l1": "/Khairpur-8806",
+      "_geoloc": {
+          "lat": 27.530619,
+          "lng": 68.758235
+      },
+      "geography": {
+          "lat": 27.530619,
+          "lng": 68.758235
+      },
+      "geo_point": [
+          68.758235,
+          27.530619
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 125,
+              "level": 2,
+              "externalID": "8806",
+              "name": "Khairpur",
+              "name_l1": "خیر پور",
+              "slug": "/Khairpur-8806",
+              "slug_l1": "/Khairpur-8806"
+          }
+      ],
+      "hierarchyPath": "Khairpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8806",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "125",
+      "_highlightResult": {
+          "name": {
+              "value": "Khairpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5640,
+      "name": "Khairpur Green Residency",
+      "name_l1": "خیر پُور ریزیڈینسی",
+      "externalID": "11280",
+      "slug": "/Khairpur_Khairpur_Green_Residency-11280",
+      "slug_l1": "/Khairpur_Khairpur_Green_Residency-11280",
+      "_geoloc": {
+          "lat": 27.54039185,
+          "lng": 68.76330132
+      },
+      "geography": {
+          "lat": 27.54039185,
+          "lng": 68.76330132
+      },
+      "geo_point": [
+          68.76330132,
+          27.54039185
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 125,
+              "level": 2,
+              "externalID": "8806",
+              "name": "Khairpur",
+              "name_l1": "خیر پور",
+              "slug": "/Khairpur-8806",
+              "slug_l1": "/Khairpur-8806"
+          },
+          {
+              "id": 5640,
+              "level": 3,
+              "externalID": "11280",
+              "name": "Khairpur Green Residency",
+              "name_l1": "خیر پُور ریزیڈینسی",
+              "slug": "/Khairpur_Khairpur_Green_Residency-11280",
+              "slug_l1": "/Khairpur_Khairpur_Green_Residency-11280"
+          }
+      ],
+      "hierarchyPath": "Khairpur Green Residency Khairpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11280",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5640",
+      "_highlightResult": {
+          "name": {
+              "value": "Khairpur Green Residency",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6206,
+      "name": "Khairpur Road",
+      "name_l1": "خیرپور روڈ",
+      "externalID": "12444",
+      "slug": "/Khairpur_Khairpur_Road-12444",
+      "slug_l1": "/Khairpur_Khairpur_Road-12444",
+      "_geoloc": {
+          "lat": 27.567006,
+          "lng": 68.696292
+      },
+      "geography": {
+          "lat": 27.567006,
+          "lng": 68.696292
+      },
+      "geo_point": [
+          68.696292,
+          27.567006
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 125,
+              "level": 2,
+              "externalID": "8806",
+              "name": "Khairpur",
+              "name_l1": "خیر پور",
+              "slug": "/Khairpur-8806",
+              "slug_l1": "/Khairpur-8806"
+          },
+          {
+              "id": 6206,
+              "level": 3,
+              "externalID": "12444",
+              "name": "Khairpur Road",
+              "name_l1": "خیرپور روڈ",
+              "slug": "/Khairpur_Khairpur_Road-12444",
+              "slug_l1": "/Khairpur_Khairpur_Road-12444"
+          }
+      ],
+      "hierarchyPath": "Khairpur Road Khairpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12444",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6206",
+      "_highlightResult": {
+          "name": {
+              "value": "Khairpur Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18319,
+      "name": "Model Town",
+      "name_l1": "ماڈل ٹاؤن",
+      "externalID": "19299",
+      "slug": "/Khairpur_Model_Town-19299",
+      "slug_l1": "/Khairpur_Model_Town-19299",
+      "_geoloc": {
+          "lat": 27.536676,
+          "lng": 68.749318
+      },
+      "geography": {
+          "lat": 27.536676,
+          "lng": 68.749318
+      },
+      "geo_point": [
+          68.749318,
+          27.536676
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 125,
+              "level": 2,
+              "externalID": "8806",
+              "name": "Khairpur",
+              "name_l1": "خیر پور",
+              "slug": "/Khairpur-8806",
+              "slug_l1": "/Khairpur-8806"
+          },
+          {
+              "id": 18319,
+              "level": 3,
+              "externalID": "19299",
+              "name": "Model Town",
+              "name_l1": "ماڈل ٹاؤن",
+              "slug": "/Khairpur_Model_Town-19299",
+              "slug_l1": "/Khairpur_Model_Town-19299"
+          }
+      ],
+      "hierarchyPath": "Model Town Khairpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19299",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18319",
+      "_highlightResult": {
+          "name": {
+              "value": "Model Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4348,
+      "name": "Ranipur",
+      "name_l1": "رانی پور",
+      "externalID": "8807",
+      "slug": "/Khairpur_Ranipur-8807",
+      "slug_l1": "/Khairpur_Ranipur-8807",
+      "_geoloc": {
+          "lat": 27.285241,
+          "lng": 68.507567
+      },
+      "geography": {
+          "lat": 27.285241,
+          "lng": 68.507567
+      },
+      "geo_point": [
+          68.507567,
+          27.285241
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 125,
+              "level": 2,
+              "externalID": "8806",
+              "name": "Khairpur",
+              "name_l1": "خیر پور",
+              "slug": "/Khairpur-8806",
+              "slug_l1": "/Khairpur-8806"
+          },
+          {
+              "id": 4348,
+              "level": 3,
+              "externalID": "8807",
+              "name": "Ranipur",
+              "name_l1": "رانی پور",
+              "slug": "/Khairpur_Ranipur-8807",
+              "slug_l1": "/Khairpur_Ranipur-8807"
+          }
+      ],
+      "hierarchyPath": "Ranipur Khairpur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8807",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4348",
+      "_highlightResult": {
+          "name": {
+              "value": "Ranipur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

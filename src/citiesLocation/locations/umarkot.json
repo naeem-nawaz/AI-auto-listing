@@ -1,0 +1,70 @@
+[
+  {
+      "id": 16500,
+      "name": "Umarkot",
+      "name_l1": "عمرکوٹ",
+      "externalID": "17742",
+      "slug": "/Umarkot-17742",
+      "slug_l1": "/Umarkot-17742",
+      "_geoloc": {
+          "lat": 25.361121,
+          "lng": 69.739115
+      },
+      "geography": {
+          "lat": 25.361121,
+          "lng": 69.739115
+      },
+      "geo_point": [
+          69.739115,
+          25.361121
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 16500,
+              "level": 2,
+              "externalID": "17742",
+              "name": "Umarkot",
+              "name_l1": "عمرکوٹ",
+              "slug": "/Umarkot-17742",
+              "slug_l1": "/Umarkot-17742"
+          }
+      ],
+      "hierarchyPath": "Umarkot Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17742",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16500",
+      "_highlightResult": {
+          "name": {
+              "value": "Umarkot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

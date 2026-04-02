@@ -1,0 +1,396 @@
+[
+  {
+      "id": 12358,
+      "name": "Hyderabad - Mirpurkhas Road",
+      "name_l1": "حیدرآباد - میرپورخاص روڈ",
+      "externalID": "13839",
+      "slug": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road-13839",
+      "slug_l1": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road-13839",
+      "_geoloc": {
+          "lat": 25.467106,
+          "lng": 68.699972
+      },
+      "geography": {
+          "lat": 25.467106,
+          "lng": 68.699972
+      },
+      "geo_point": [
+          68.699972,
+          25.467106
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 169,
+              "level": 2,
+              "externalID": "11315",
+              "name": "Tando Allahyar",
+              "name_l1": "ٹنڈو الہ یار",
+              "slug": "/Tando_Allahyar-11315",
+              "slug_l1": "/Tando_Allahyar-11315"
+          },
+          {
+              "id": 12358,
+              "level": 3,
+              "externalID": "13839",
+              "name": "Hyderabad - Mirpurkhas Road",
+              "name_l1": "حیدرآباد - میرپورخاص روڈ",
+              "slug": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road-13839",
+              "slug_l1": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road-13839"
+          }
+      ],
+      "hierarchyPath": "Hyderabad - Mirpurkhas Road Tando Allahyar Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13839",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12358",
+      "_highlightResult": {
+          "name": {
+              "value": "Hyderabad - Mirpurkhas Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 169,
+      "name": "Tando Allahyar",
+      "name_l1": "ٹنڈو الہ یار",
+      "externalID": "11315",
+      "slug": "/Tando_Allahyar-11315",
+      "slug_l1": "/Tando_Allahyar-11315",
+      "_geoloc": {
+          "lat": 25.458741,
+          "lng": 68.719859
+      },
+      "geography": {
+          "lat": 25.458741,
+          "lng": 68.719859
+      },
+      "geo_point": [
+          68.719859,
+          25.458741
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 169,
+              "level": 2,
+              "externalID": "11315",
+              "name": "Tando Allahyar",
+              "name_l1": "ٹنڈو الہ یار",
+              "slug": "/Tando_Allahyar-11315",
+              "slug_l1": "/Tando_Allahyar-11315"
+          }
+      ],
+      "hierarchyPath": "Tando Allahyar Sindh Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11315",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "169",
+      "_highlightResult": {
+          "name": {
+              "value": "Tando Allahyar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20542,
+      "name": "Chambar Road",
+      "name_l1": "چمبڑ روڈ",
+      "externalID": "21215",
+      "slug": "/Tando_Allahyar_Chambar_Road-21215",
+      "slug_l1": "/Tando_Allahyar_Chambar_Road-21215",
+      "_geoloc": {
+          "lat": 25.430893,
+          "lng": 68.747554
+      },
+      "geography": {
+          "lat": 25.430893,
+          "lng": 68.747554
+      },
+      "geo_point": [
+          68.747554,
+          25.430893
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 169,
+              "level": 2,
+              "externalID": "11315",
+              "name": "Tando Allahyar",
+              "name_l1": "ٹنڈو الہ یار",
+              "slug": "/Tando_Allahyar-11315",
+              "slug_l1": "/Tando_Allahyar-11315"
+          },
+          {
+              "id": 20542,
+              "level": 3,
+              "externalID": "21215",
+              "name": "Chambar Road",
+              "name_l1": "چمبڑ روڈ",
+              "slug": "/Tando_Allahyar_Chambar_Road-21215",
+              "slug_l1": "/Tando_Allahyar_Chambar_Road-21215"
+          }
+      ],
+      "hierarchyPath": "Chambar Road Tando Allahyar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21215",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "20542",
+      "_highlightResult": {
+          "name": {
+              "value": "Chambar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20543,
+      "name": "Japan Green Life City",
+      "name_l1": "جاپان گرین لائف سٹی",
+      "externalID": "21216",
+      "slug": "/Tando_Allahyar_Chambar_Road_Japan_Green_Life_City-21216",
+      "slug_l1": "/Tando_Allahyar_Chambar_Road_Japan_Green_Life_City-21216",
+      "_geoloc": {
+          "lat": 25.43064632,
+          "lng": 68.74274702
+      },
+      "geography": {
+          "lat": 25.43064632,
+          "lng": 68.74274702
+      },
+      "geo_point": [
+          68.74274702,
+          25.43064632
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 169,
+              "level": 2,
+              "externalID": "11315",
+              "name": "Tando Allahyar",
+              "name_l1": "ٹنڈو الہ یار",
+              "slug": "/Tando_Allahyar-11315",
+              "slug_l1": "/Tando_Allahyar-11315"
+          },
+          {
+              "id": 20542,
+              "level": 3,
+              "externalID": "21215",
+              "name": "Chambar Road",
+              "name_l1": "چمبڑ روڈ",
+              "slug": "/Tando_Allahyar_Chambar_Road-21215",
+              "slug_l1": "/Tando_Allahyar_Chambar_Road-21215"
+          },
+          {
+              "id": 20543,
+              "level": 4,
+              "externalID": "21216",
+              "name": "Japan Green Life City",
+              "name_l1": "جاپان گرین لائف سٹی",
+              "slug": "/Tando_Allahyar_Chambar_Road_Japan_Green_Life_City-21216",
+              "slug_l1": "/Tando_Allahyar_Chambar_Road_Japan_Green_Life_City-21216"
+          }
+      ],
+      "hierarchyPath": "Japan Green Life City Chambar Road Tando Allahyar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21216",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20543",
+      "_highlightResult": {
+          "name": {
+              "value": "Japan Green Life City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12356,
+      "name": "Mango City",
+      "name_l1": "منگو سٹی",
+      "externalID": "13837",
+      "slug": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road_Mango_City-13837",
+      "slug_l1": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road_Mango_City-13837",
+      "_geoloc": {
+          "lat": 25.459181,
+          "lng": 68.675973
+      },
+      "geography": {
+          "lat": 25.459181,
+          "lng": 68.675973
+      },
+      "geo_point": [
+          68.675973,
+          25.459181
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 169,
+              "level": 2,
+              "externalID": "11315",
+              "name": "Tando Allahyar",
+              "name_l1": "ٹنڈو الہ یار",
+              "slug": "/Tando_Allahyar-11315",
+              "slug_l1": "/Tando_Allahyar-11315"
+          },
+          {
+              "id": 12358,
+              "level": 3,
+              "externalID": "13839",
+              "name": "Hyderabad - Mirpurkhas Road",
+              "name_l1": "حیدرآباد - میرپورخاص روڈ",
+              "slug": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road-13839",
+              "slug_l1": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road-13839"
+          },
+          {
+              "id": 12356,
+              "level": 4,
+              "externalID": "13837",
+              "name": "Mango City",
+              "name_l1": "منگو سٹی",
+              "slug": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road_Mango_City-13837",
+              "slug_l1": "/Tando_Allahyar_Hyderabad___Mirpurkhas_Road_Mango_City-13837"
+          }
+      ],
+      "hierarchyPath": "Mango City Hyderabad - Mirpurkhas Road Tando Allahyar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13837",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12356",
+      "_highlightResult": {
+          "name": {
+              "value": "Mango City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

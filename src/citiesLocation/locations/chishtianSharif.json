@@ -1,0 +1,763 @@
+[
+  {
+      "id": 11825,
+      "name": "Bahawalpur - Bahawalnagar Road",
+      "name_l1": "بہاولپور - بہاولنگر روڈ",
+      "externalID": "13348",
+      "slug": "/Chishtian_Sharif_Bahawalpur___Bahawalnagar_Road-13348",
+      "slug_l1": "/Chishtian_Sharif_Bahawalpur___Bahawalnagar_Road-13348",
+      "_geoloc": {
+          "lat": 29.781198,
+          "lng": 72.83
+      },
+      "geography": {
+          "lat": 29.781198,
+          "lng": 72.83
+      },
+      "geo_point": [
+          72.83,
+          29.781198
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          },
+          {
+              "id": 11825,
+              "level": 3,
+              "externalID": "13348",
+              "name": "Bahawalpur - Bahawalnagar Road",
+              "name_l1": "بہاولپور - بہاولنگر روڈ",
+              "slug": "/Chishtian_Sharif_Bahawalpur___Bahawalnagar_Road-13348",
+              "slug_l1": "/Chishtian_Sharif_Bahawalpur___Bahawalnagar_Road-13348"
+          }
+      ],
+      "hierarchyPath": "Bahawalpur - Bahawalnagar Road Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13348",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11825",
+      "_highlightResult": {
+          "name": {
+              "value": "Bahawalpur - Bahawalnagar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18484,
+      "name": "Baldia Colony",
+      "name_l1": "بلدیہ کالونی",
+      "externalID": "19398",
+      "slug": "/Chishtian_Sharif_Baldia_Colony-19398",
+      "slug_l1": "/Chishtian_Sharif_Baldia_Colony-19398",
+      "_geoloc": {
+          "lat": 29.795517,
+          "lng": 72.865636
+      },
+      "geography": {
+          "lat": 29.795517,
+          "lng": 72.865636
+      },
+      "geo_point": [
+          72.865636,
+          29.795517
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          },
+          {
+              "id": 18484,
+              "level": 3,
+              "externalID": "19398",
+              "name": "Baldia Colony",
+              "name_l1": "بلدیہ کالونی",
+              "slug": "/Chishtian_Sharif_Baldia_Colony-19398",
+              "slug_l1": "/Chishtian_Sharif_Baldia_Colony-19398"
+          }
+      ],
+      "hierarchyPath": "Baldia Colony Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19398",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18484",
+      "_highlightResult": {
+          "name": {
+              "value": "Baldia Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 158,
+      "name": "Chishtian Sharif",
+      "name_l1": "چشتیاں شریف",
+      "externalID": "10512",
+      "slug": "/Chishtian_Sharif-10512",
+      "slug_l1": "/Chishtian_Sharif-10512",
+      "_geoloc": {
+          "lat": 29.797273,
+          "lng": 72.857294
+      },
+      "geography": {
+          "lat": 29.797273,
+          "lng": 72.857294
+      },
+      "geo_point": [
+          72.857294,
+          29.797273
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          }
+      ],
+      "hierarchyPath": "Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10512",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "158",
+      "_highlightResult": {
+          "name": {
+              "value": "Chishtian Sharif",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18486,
+      "name": "Farooq Colony",
+      "name_l1": "فاروق کالونی",
+      "externalID": "19400",
+      "slug": "/Chishtian_Sharif_Farooq_Colony-19400",
+      "slug_l1": "/Chishtian_Sharif_Farooq_Colony-19400",
+      "_geoloc": {
+          "lat": 29.790102,
+          "lng": 72.868077
+      },
+      "geography": {
+          "lat": 29.790102,
+          "lng": 72.868077
+      },
+      "geo_point": [
+          72.868077,
+          29.790102
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          },
+          {
+              "id": 18486,
+              "level": 3,
+              "externalID": "19400",
+              "name": "Farooq Colony",
+              "name_l1": "فاروق کالونی",
+              "slug": "/Chishtian_Sharif_Farooq_Colony-19400",
+              "slug_l1": "/Chishtian_Sharif_Farooq_Colony-19400"
+          }
+      ],
+      "hierarchyPath": "Farooq Colony Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19400",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18486",
+      "_highlightResult": {
+          "name": {
+              "value": "Farooq Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18485,
+      "name": "Ittefaq City",
+      "name_l1": "اتفاق سٹی",
+      "externalID": "19399",
+      "slug": "/Chishtian_Sharif_Ittefaq_City-19399",
+      "slug_l1": "/Chishtian_Sharif_Ittefaq_City-19399",
+      "_geoloc": {
+          "lat": 29.7809399,
+          "lng": 72.8727912
+      },
+      "geography": {
+          "lat": 29.7809399,
+          "lng": 72.8727912
+      },
+      "geo_point": [
+          72.8727912,
+          29.7809399
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          },
+          {
+              "id": 18485,
+              "level": 3,
+              "externalID": "19399",
+              "name": "Ittefaq City",
+              "name_l1": "اتفاق سٹی",
+              "slug": "/Chishtian_Sharif_Ittefaq_City-19399",
+              "slug_l1": "/Chishtian_Sharif_Ittefaq_City-19399"
+          }
+      ],
+      "hierarchyPath": "Ittefaq City Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19399",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18485",
+      "_highlightResult": {
+          "name": {
+              "value": "Ittefaq City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6307,
+      "name": "New Satellite Town",
+      "name_l1": "نیو سیٹلائٹ ٹاؤن",
+      "externalID": "12689",
+      "slug": "/Chishtian_Sharif_New_Satellite_Town-12689",
+      "slug_l1": "/Chishtian_Sharif_New_Satellite_Town-12689",
+      "_geoloc": {
+          "lat": 29.81011,
+          "lng": 72.85936
+      },
+      "geography": {
+          "lat": 29.81011,
+          "lng": 72.85936
+      },
+      "geo_point": [
+          72.85936,
+          29.81011
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          },
+          {
+              "id": 6307,
+              "level": 3,
+              "externalID": "12689",
+              "name": "New Satellite Town",
+              "name_l1": "نیو سیٹلائٹ ٹاؤن",
+              "slug": "/Chishtian_Sharif_New_Satellite_Town-12689",
+              "slug_l1": "/Chishtian_Sharif_New_Satellite_Town-12689"
+          }
+      ],
+      "hierarchyPath": "New Satellite Town Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12689",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6307",
+      "_highlightResult": {
+          "name": {
+              "value": "New Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6309,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "12691",
+      "slug": "/Chishtian_Sharif_Others-12691",
+      "slug_l1": "/Chishtian_Sharif_Others-12691",
+      "_geoloc": {
+          "lat": 29.800811,
+          "lng": 72.856693
+      },
+      "geography": {
+          "lat": 29.800811,
+          "lng": 72.856693
+      },
+      "geo_point": [
+          72.856693,
+          29.800811
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          },
+          {
+              "id": 6309,
+              "level": 3,
+              "externalID": "12691",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Chishtian_Sharif_Others-12691",
+              "slug_l1": "/Chishtian_Sharif_Others-12691"
+          }
+      ],
+      "hierarchyPath": "Others Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12691",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6309",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6308,
+      "name": "Satellite Town",
+      "name_l1": "سیٹلائٹ ٹاؤن",
+      "externalID": "12690",
+      "slug": "/Chishtian_Sharif_Satellite_Town-12690",
+      "slug_l1": "/Chishtian_Sharif_Satellite_Town-12690",
+      "_geoloc": {
+          "lat": 29.806837,
+          "lng": 72.856618
+      },
+      "geography": {
+          "lat": 29.806837,
+          "lng": 72.856618
+      },
+      "geo_point": [
+          72.856618,
+          29.806837
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          },
+          {
+              "id": 6308,
+              "level": 3,
+              "externalID": "12690",
+              "name": "Satellite Town",
+              "name_l1": "سیٹلائٹ ٹاؤن",
+              "slug": "/Chishtian_Sharif_Satellite_Town-12690",
+              "slug_l1": "/Chishtian_Sharif_Satellite_Town-12690"
+          }
+      ],
+      "hierarchyPath": "Satellite Town Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12690",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6308",
+      "_highlightResult": {
+          "name": {
+              "value": "Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18487,
+      "name": "Sukh Chan Garden",
+      "name_l1": "سکھ چین گارڈن",
+      "externalID": "19401",
+      "slug": "/Chishtian_Sharif_Sukh_Chan_Garden-19401",
+      "slug_l1": "/Chishtian_Sharif_Sukh_Chan_Garden-19401",
+      "_geoloc": {
+          "lat": 29.8088763,
+          "lng": 72.8766985
+      },
+      "geography": {
+          "lat": 29.8088763,
+          "lng": 72.8766985
+      },
+      "geo_point": [
+          72.8766985,
+          29.8088763
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          },
+          {
+              "id": 18487,
+              "level": 3,
+              "externalID": "19401",
+              "name": "Sukh Chan Garden",
+              "name_l1": "سکھ چین گارڈن",
+              "slug": "/Chishtian_Sharif_Sukh_Chan_Garden-19401",
+              "slug_l1": "/Chishtian_Sharif_Sukh_Chan_Garden-19401"
+          }
+      ],
+      "hierarchyPath": "Sukh Chan Garden Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19401",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18487",
+      "_highlightResult": {
+          "name": {
+              "value": "Sukh Chan Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18483,
+      "name": "Zameendara Colony",
+      "name_l1": "زمیندارا کالونی",
+      "externalID": "19397",
+      "slug": "/Chishtian_Sharif_Zameendara_Colony-19397",
+      "slug_l1": "/Chishtian_Sharif_Zameendara_Colony-19397",
+      "_geoloc": {
+          "lat": 29.804277,
+          "lng": 72.856425
+      },
+      "geography": {
+          "lat": 29.804277,
+          "lng": 72.856425
+      },
+      "geo_point": [
+          72.856425,
+          29.804277
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 158,
+              "level": 2,
+              "externalID": "10512",
+              "name": "Chishtian Sharif",
+              "name_l1": "چشتیاں شریف",
+              "slug": "/Chishtian_Sharif-10512",
+              "slug_l1": "/Chishtian_Sharif-10512"
+          },
+          {
+              "id": 18483,
+              "level": 3,
+              "externalID": "19397",
+              "name": "Zameendara Colony",
+              "name_l1": "زمیندارا کالونی",
+              "slug": "/Chishtian_Sharif_Zameendara_Colony-19397",
+              "slug_l1": "/Chishtian_Sharif_Zameendara_Colony-19397"
+          }
+      ],
+      "hierarchyPath": "Zameendara Colony Chishtian Sharif Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19397",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18483",
+      "_highlightResult": {
+          "name": {
+              "value": "Zameendara Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

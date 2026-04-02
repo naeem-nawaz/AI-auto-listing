@@ -1,0 +1,2474 @@
+[
+  {
+      "id": 112,
+      "name": "Muridke",
+      "name_l1": "مُرِيدكے",
+      "externalID": "8116",
+      "slug": "/Muridke-8116",
+      "slug_l1": "/Muridke-8116",
+      "_geoloc": {
+          "lat": 31.802601,
+          "lng": 74.259067
+      },
+      "geography": {
+          "lat": 31.802601,
+          "lng": 74.259067
+      },
+      "geo_point": [
+          74.259067,
+          31.802601
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          }
+      ],
+      "hierarchyPath": "Muridke Punjab Pakistan",
+      "adCount": 210,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8116",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "112",
+      "_highlightResult": {
+          "name": {
+              "value": "Muridke",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18495,
+      "name": "Narowal - Muridike Road",
+      "name_l1": "نارووال - مریدکے روڈ",
+      "externalID": "19413",
+      "slug": "/Muridke_Narowal___Muridike_Road-19413",
+      "slug_l1": "/Muridke_Narowal___Muridike_Road-19413",
+      "_geoloc": {
+          "lat": 31.842528,
+          "lng": 74.292222
+      },
+      "geography": {
+          "lat": 31.842528,
+          "lng": 74.292222
+      },
+      "geo_point": [
+          74.292222,
+          31.842528
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 18495,
+              "level": 3,
+              "externalID": "19413",
+              "name": "Narowal - Muridike Road",
+              "name_l1": "نارووال - مریدکے روڈ",
+              "slug": "/Muridke_Narowal___Muridike_Road-19413",
+              "slug_l1": "/Muridke_Narowal___Muridike_Road-19413"
+          }
+      ],
+      "hierarchyPath": "Narowal - Muridike Road Muridke Punjab Pakistan",
+      "adCount": 183,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19413",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18495",
+      "_highlightResult": {
+          "name": {
+              "value": "Narowal - Muridike Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20089,
+      "name": "Urban City",
+      "name_l1": "اربن سٹی",
+      "externalID": "20831",
+      "slug": "/Muridke_Narowal___Muridike_Road_Urban_City-20831",
+      "slug_l1": "/Muridke_Narowal___Muridike_Road_Urban_City-20831",
+      "_geoloc": {
+          "lat": 31.823873765644,
+          "lng": 74.282863112215
+      },
+      "geography": {
+          "lat": 31.823873765644,
+          "lng": 74.282863112215
+      },
+      "geo_point": [
+          74.282863112215,
+          31.823873765644
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 18495,
+              "level": 3,
+              "externalID": "19413",
+              "name": "Narowal - Muridike Road",
+              "name_l1": "نارووال - مریدکے روڈ",
+              "slug": "/Muridke_Narowal___Muridike_Road-19413",
+              "slug_l1": "/Muridke_Narowal___Muridike_Road-19413"
+          },
+          {
+              "id": 20089,
+              "level": 4,
+              "externalID": "20831",
+              "name": "Urban City",
+              "name_l1": "اربن سٹی",
+              "slug": "/Muridke_Narowal___Muridike_Road_Urban_City-20831",
+              "slug_l1": "/Muridke_Narowal___Muridike_Road_Urban_City-20831"
+          }
+      ],
+      "hierarchyPath": "Urban City Narowal - Muridike Road Muridke Punjab Pakistan",
+      "adCount": 177,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20831",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "20089",
+      "_highlightResult": {
+          "name": {
+              "value": "Urban City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21012,
+      "name": "Urban City - City Venture",
+      "name_l1": "اربن سٹی - سٹی وینچر",
+      "externalID": "21609",
+      "slug": "/Lahore_GT_Road_City_Venture___Urban_City-21609",
+      "slug_l1": "/Lahore_GT_Road_City_Venture___Urban_City-21609",
+      "_geoloc": {
+          "lat": 31.752916365866,
+          "lng": 74.269131233854
+      },
+      "geography": {
+          "lat": 31.752916365866,
+          "lng": 74.269131233854
+      },
+      "geo_point": [
+          74.269131233854,
+          31.752916365866
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 18495,
+              "level": 3,
+              "externalID": "19413",
+              "name": "Narowal - Muridike Road",
+              "name_l1": "نارووال - مریدکے روڈ",
+              "slug": "/Muridke_Narowal___Muridike_Road-19413",
+              "slug_l1": "/Muridke_Narowal___Muridike_Road-19413"
+          },
+          {
+              "id": 20089,
+              "level": 4,
+              "externalID": "20831",
+              "name": "Urban City",
+              "name_l1": "اربن سٹی",
+              "slug": "/Muridke_Narowal___Muridike_Road_Urban_City-20831",
+              "slug_l1": "/Muridke_Narowal___Muridike_Road_Urban_City-20831"
+          },
+          {
+              "id": 21012,
+              "level": 5,
+              "externalID": "21609",
+              "name": "Urban City - City Venture",
+              "name_l1": "اربن سٹی - سٹی وینچر",
+              "slug": "/Lahore_GT_Road_City_Venture___Urban_City-21609",
+              "slug_l1": "/Lahore_GT_Road_City_Venture___Urban_City-21609"
+          }
+      ],
+      "hierarchyPath": "Urban City - City Venture Urban City Narowal - Muridike Road Muridke Punjab Pakistan",
+      "adCount": 87,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21609",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21012",
+      "_highlightResult": {
+          "name": {
+              "value": "Urban City - City Venture",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5519,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "11071",
+      "slug": "/Muridke_GT_Road-11071",
+      "slug_l1": "/Muridke_GT_Road-11071",
+      "_geoloc": {
+          "lat": 31.926604,
+          "lng": 74.231307
+      },
+      "geography": {
+          "lat": 31.926604,
+          "lng": 74.231307
+      },
+      "geo_point": [
+          74.231307,
+          31.926604
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          }
+      ],
+      "hierarchyPath": "GT Road Muridke Punjab Pakistan",
+      "adCount": 15,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11071",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5519",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 16134,
+      "name": "Muridke - Sheikhupura Road",
+      "name_l1": "مریدکے ۔ شیخوپورہ روڈ",
+      "externalID": "17412",
+      "slug": "/Muridke_Muridke___Sheikhupura_Road-17412",
+      "slug_l1": "/Muridke_Muridke___Sheikhupura_Road-17412",
+      "_geoloc": {
+          "lat": 31.80938,
+          "lng": 74.239946
+      },
+      "geography": {
+          "lat": 31.80938,
+          "lng": 74.239946
+      },
+      "geo_point": [
+          74.239946,
+          31.80938
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 16134,
+              "level": 3,
+              "externalID": "17412",
+              "name": "Muridke - Sheikhupura Road",
+              "name_l1": "مریدکے ۔ شیخوپورہ روڈ",
+              "slug": "/Muridke_Muridke___Sheikhupura_Road-17412",
+              "slug_l1": "/Muridke_Muridke___Sheikhupura_Road-17412"
+          }
+      ],
+      "hierarchyPath": "Muridke - Sheikhupura Road Muridke Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17412",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "16134",
+      "_highlightResult": {
+          "name": {
+              "value": "Muridke - Sheikhupura Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11662,
+      "name": "Sadhoke",
+      "name_l1": "سادھوکے",
+      "externalID": "13187",
+      "slug": "/Muridke_Sadhoke-13187",
+      "slug_l1": "/Muridke_Sadhoke-13187",
+      "_geoloc": {
+          "lat": 31.906539,
+          "lng": 74.235074
+      },
+      "geography": {
+          "lat": 31.906539,
+          "lng": 74.235074
+      },
+      "geo_point": [
+          74.235074,
+          31.906539
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 11662,
+              "level": 3,
+              "externalID": "13187",
+              "name": "Sadhoke",
+              "name_l1": "سادھوکے",
+              "slug": "/Muridke_Sadhoke-13187",
+              "slug_l1": "/Muridke_Sadhoke-13187"
+          }
+      ],
+      "hierarchyPath": "Sadhoke Muridke Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13187",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11662",
+      "_highlightResult": {
+          "name": {
+              "value": "Sadhoke",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15714,
+      "name": "Garden City",
+      "name_l1": "گارڈن سٹی",
+      "externalID": "17138",
+      "slug": "/Muridke_Muridke___Sheikhupura_Road_Garden_City-17138",
+      "slug_l1": "/Muridke_Muridke___Sheikhupura_Road_Garden_City-17138",
+      "_geoloc": {
+          "lat": 31.816916,
+          "lng": 74.243642
+      },
+      "geography": {
+          "lat": 31.816916,
+          "lng": 74.243642
+      },
+      "geo_point": [
+          74.243642,
+          31.816916
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 16134,
+              "level": 3,
+              "externalID": "17412",
+              "name": "Muridke - Sheikhupura Road",
+              "name_l1": "مریدکے ۔ شیخوپورہ روڈ",
+              "slug": "/Muridke_Muridke___Sheikhupura_Road-17412",
+              "slug_l1": "/Muridke_Muridke___Sheikhupura_Road-17412"
+          },
+          {
+              "id": 15714,
+              "level": 4,
+              "externalID": "17138",
+              "name": "Garden City",
+              "name_l1": "گارڈن سٹی",
+              "slug": "/Muridke_Muridke___Sheikhupura_Road_Garden_City-17138",
+              "slug_l1": "/Muridke_Muridke___Sheikhupura_Road_Garden_City-17138"
+          }
+      ],
+      "hierarchyPath": "Garden City Muridke - Sheikhupura Road Muridke Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17138",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15714",
+      "_highlightResult": {
+          "name": {
+              "value": "Garden City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18515,
+      "name": "Supreme City",
+      "name_l1": "سپریم سٹی",
+      "externalID": "19424",
+      "slug": "/Muridke_GT_Road_Supreme_City-19424",
+      "slug_l1": "/Muridke_GT_Road_Supreme_City-19424",
+      "_geoloc": {
+          "lat": 31.8254347,
+          "lng": 74.2505676
+      },
+      "geography": {
+          "lat": 31.8254347,
+          "lng": 74.2505676
+      },
+      "geo_point": [
+          74.2505676,
+          31.8254347
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          },
+          {
+              "id": 18515,
+              "level": 4,
+              "externalID": "19424",
+              "name": "Supreme City",
+              "name_l1": "سپریم سٹی",
+              "slug": "/Muridke_GT_Road_Supreme_City-19424",
+              "slug_l1": "/Muridke_GT_Road_Supreme_City-19424"
+          }
+      ],
+      "hierarchyPath": "Supreme City GT Road Muridke Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19424",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18515",
+      "_highlightResult": {
+          "name": {
+              "value": "Supreme City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20323,
+      "name": "Al Aziz Residencia",
+      "name_l1": "العزیز ریذیڈنشیا",
+      "externalID": "21036",
+      "slug": "/Muridke_GT_Road_Al_Aziz_Residencia-21036",
+      "slug_l1": "/Muridke_GT_Road_Al_Aziz_Residencia-21036",
+      "_geoloc": {
+          "lat": 31.912016532556,
+          "lng": 74.231732614463
+      },
+      "geography": {
+          "lat": 31.912016532556,
+          "lng": 74.231732614463
+      },
+      "geo_point": [
+          74.231732614463,
+          31.912016532556
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          },
+          {
+              "id": 20323,
+              "level": 4,
+              "externalID": "21036",
+              "name": "Al Aziz Residencia",
+              "name_l1": "العزیز ریذیڈنشیا",
+              "slug": "/Muridke_GT_Road_Al_Aziz_Residencia-21036",
+              "slug_l1": "/Muridke_GT_Road_Al_Aziz_Residencia-21036"
+          }
+      ],
+      "hierarchyPath": "Al Aziz Residencia GT Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21036",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20323",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Aziz Residencia",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11663,
+      "name": "Al Baseer Royal Garden",
+      "name_l1": "البسیر رائل گارڈن",
+      "externalID": "13188",
+      "slug": "/Muridke_Sadhoke_Al_Baseer_Royal_Garden-13188",
+      "slug_l1": "/Muridke_Sadhoke_Al_Baseer_Royal_Garden-13188",
+      "_geoloc": {
+          "lat": 31.912861,
+          "lng": 74.233556
+      },
+      "geography": {
+          "lat": 31.912861,
+          "lng": 74.233556
+      },
+      "geo_point": [
+          74.233556,
+          31.912861
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 11662,
+              "level": 3,
+              "externalID": "13187",
+              "name": "Sadhoke",
+              "name_l1": "سادھوکے",
+              "slug": "/Muridke_Sadhoke-13187",
+              "slug_l1": "/Muridke_Sadhoke-13187"
+          },
+          {
+              "id": 11663,
+              "level": 4,
+              "externalID": "13188",
+              "name": "Al Baseer Royal Garden",
+              "name_l1": "البسیر رائل گارڈن",
+              "slug": "/Muridke_Sadhoke_Al_Baseer_Royal_Garden-13188",
+              "slug_l1": "/Muridke_Sadhoke_Al_Baseer_Royal_Garden-13188"
+          }
+      ],
+      "hierarchyPath": "Al Baseer Royal Garden Sadhoke Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13188",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11663",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Baseer Royal Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9351,
+      "name": "Al Wahab Garden Housing Scheme",
+      "name_l1": "الوهاب گارڈن هاوسنگ سکیم",
+      "externalID": "12513",
+      "slug": "/Muridke_GT_Road_Al_Wahab_Garden_Housing_Scheme-12513",
+      "slug_l1": "/Muridke_GT_Road_Al_Wahab_Garden_Housing_Scheme-12513",
+      "_geoloc": {
+          "lat": 31.825855,
+          "lng": 74.249262
+      },
+      "geography": {
+          "lat": 31.825855,
+          "lng": 74.249262
+      },
+      "geo_point": [
+          74.249262,
+          31.825855
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          },
+          {
+              "id": 9351,
+              "level": 4,
+              "externalID": "12513",
+              "name": "Al Wahab Garden Housing Scheme",
+              "name_l1": "الوهاب گارڈن هاوسنگ سکیم",
+              "slug": "/Muridke_GT_Road_Al_Wahab_Garden_Housing_Scheme-12513",
+              "slug_l1": "/Muridke_GT_Road_Al_Wahab_Garden_Housing_Scheme-12513"
+          }
+      ],
+      "hierarchyPath": "Al Wahab Garden Housing Scheme GT Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12513",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9351",
+      "_highlightResult": {
+          "name": {
+              "value": "Al Wahab Garden Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11892,
+      "name": "Canal Road",
+      "name_l1": "کینال روڈ",
+      "externalID": "13415",
+      "slug": "/Muridke_Canal_Road-13415",
+      "slug_l1": "/Muridke_Canal_Road-13415",
+      "_geoloc": {
+          "lat": 31.801758,
+          "lng": 74.250117
+      },
+      "geography": {
+          "lat": 31.801758,
+          "lng": 74.250117
+      },
+      "geo_point": [
+          74.250117,
+          31.801758
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 11892,
+              "level": 3,
+              "externalID": "13415",
+              "name": "Canal Road",
+              "name_l1": "کینال روڈ",
+              "slug": "/Muridke_Canal_Road-13415",
+              "slug_l1": "/Muridke_Canal_Road-13415"
+          }
+      ],
+      "hierarchyPath": "Canal Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13415",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11892",
+      "_highlightResult": {
+          "name": {
+              "value": "Canal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12735,
+      "name": "DA Market",
+      "name_l1": "ڈی اے مارکیٹ",
+      "externalID": "14219",
+      "slug": "/Muridke_GT_Road_DA_Market-14219",
+      "slug_l1": "/Muridke_GT_Road_DA_Market-14219",
+      "_geoloc": {
+          "lat": 31.817395,
+          "lng": 74.251559
+      },
+      "geography": {
+          "lat": 31.817395,
+          "lng": 74.251559
+      },
+      "geo_point": [
+          74.251559,
+          31.817395
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          },
+          {
+              "id": 12735,
+              "level": 4,
+              "externalID": "14219",
+              "name": "DA Market",
+              "name_l1": "ڈی اے مارکیٹ",
+              "slug": "/Muridke_GT_Road_DA_Market-14219",
+              "slug_l1": "/Muridke_GT_Road_DA_Market-14219"
+          }
+      ],
+      "hierarchyPath": "DA Market GT Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "14219",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12735",
+      "_highlightResult": {
+          "name": {
+              "value": "DA Market",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11841,
+      "name": "Galla Mandi",
+      "name_l1": "گلہ منڈی",
+      "externalID": "13364",
+      "slug": "/Muridke_Galla_Mandi-13364",
+      "slug_l1": "/Muridke_Galla_Mandi-13364",
+      "_geoloc": {
+          "lat": 31.789544,
+          "lng": 74.220699
+      },
+      "geography": {
+          "lat": 31.789544,
+          "lng": 74.220699
+      },
+      "geo_point": [
+          74.220699,
+          31.789544
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 11841,
+              "level": 3,
+              "externalID": "13364",
+              "name": "Galla Mandi",
+              "name_l1": "گلہ منڈی",
+              "slug": "/Muridke_Galla_Mandi-13364",
+              "slug_l1": "/Muridke_Galla_Mandi-13364"
+          }
+      ],
+      "hierarchyPath": "Galla Mandi Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13364",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11841",
+      "_highlightResult": {
+          "name": {
+              "value": "Galla Mandi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20394,
+      "name": "Government Housing Scheme",
+      "name_l1": "گورنمنٹ ہاؤسنگ سکیم",
+      "externalID": "21105",
+      "slug": "/Muridke_GT_Road_Government_Housing_Scheme-21105",
+      "slug_l1": "/Muridke_GT_Road_Government_Housing_Scheme-21105",
+      "_geoloc": {
+          "lat": 31.791249,
+          "lng": 74.25195
+      },
+      "geography": {
+          "lat": 31.791249,
+          "lng": 74.25195
+      },
+      "geo_point": [
+          74.25195,
+          31.791249
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          },
+          {
+              "id": 20394,
+              "level": 4,
+              "externalID": "21105",
+              "name": "Government Housing Scheme",
+              "name_l1": "گورنمنٹ ہاؤسنگ سکیم",
+              "slug": "/Muridke_GT_Road_Government_Housing_Scheme-21105",
+              "slug_l1": "/Muridke_GT_Road_Government_Housing_Scheme-21105"
+          }
+      ],
+      "hierarchyPath": "Government Housing Scheme GT Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21105",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20394",
+      "_highlightResult": {
+          "name": {
+              "value": "Government Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11893,
+      "name": "Gulshan-e-Zafar Colony",
+      "name_l1": "گلشن۔اے۔ظفر کالونی",
+      "externalID": "13416",
+      "slug": "/Muridke_Gulshan_e_Zafar_Colony-13416",
+      "slug_l1": "/Muridke_Gulshan_e_Zafar_Colony-13416",
+      "_geoloc": {
+          "lat": 31.797247,
+          "lng": 74.249199
+      },
+      "geography": {
+          "lat": 31.797247,
+          "lng": 74.249199
+      },
+      "geo_point": [
+          74.249199,
+          31.797247
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 11893,
+              "level": 3,
+              "externalID": "13416",
+              "name": "Gulshan-e-Zafar Colony",
+              "name_l1": "گلشن۔اے۔ظفر کالونی",
+              "slug": "/Muridke_Gulshan_e_Zafar_Colony-13416",
+              "slug_l1": "/Muridke_Gulshan_e_Zafar_Colony-13416"
+          }
+      ],
+      "hierarchyPath": "Gulshan-e-Zafar Colony Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13416",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11893",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan-e-Zafar Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14316,
+      "name": "Imperial Citi",
+      "name_l1": "امپیریل سٹی",
+      "externalID": "15802",
+      "slug": "/Muridke_GT_Road_Imperial_Citi-15802",
+      "slug_l1": "/Muridke_GT_Road_Imperial_Citi-15802",
+      "_geoloc": {
+          "lat": 31.792028,
+          "lng": 74.261944
+      },
+      "geography": {
+          "lat": 31.792028,
+          "lng": 74.261944
+      },
+      "geo_point": [
+          74.261944,
+          31.792028
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          },
+          {
+              "id": 14316,
+              "level": 4,
+              "externalID": "15802",
+              "name": "Imperial Citi",
+              "name_l1": "امپیریل سٹی",
+              "slug": "/Muridke_GT_Road_Imperial_Citi-15802",
+              "slug_l1": "/Muridke_GT_Road_Imperial_Citi-15802"
+          }
+      ],
+      "hierarchyPath": "Imperial Citi GT Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15802",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "14316",
+      "_highlightResult": {
+          "name": {
+              "value": "Imperial Citi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18507,
+      "name": "Jay Singh Wala",
+      "name_l1": "جے سنگھ والا",
+      "externalID": "19423",
+      "slug": "/Muridke_Jay_Singh_Wala-19423",
+      "slug_l1": "/Muridke_Jay_Singh_Wala-19423",
+      "_geoloc": {
+          "lat": 31.957033,
+          "lng": 74.587511
+      },
+      "geography": {
+          "lat": 31.957033,
+          "lng": 74.587511
+      },
+      "geo_point": [
+          74.587511,
+          31.957033
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 18507,
+              "level": 3,
+              "externalID": "19423",
+              "name": "Jay Singh Wala",
+              "name_l1": "جے سنگھ والا",
+              "slug": "/Muridke_Jay_Singh_Wala-19423",
+              "slug_l1": "/Muridke_Jay_Singh_Wala-19423"
+          }
+      ],
+      "hierarchyPath": "Jay Singh Wala Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19423",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18507",
+      "_highlightResult": {
+          "name": {
+              "value": "Jay Singh Wala",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13588,
+      "name": "Khayaban Tower",
+      "name_l1": "خیابان ٹاور",
+      "externalID": "15048",
+      "slug": "/Muridke_GT_Road_Khayaban_Tower-15048",
+      "slug_l1": "/Muridke_GT_Road_Khayaban_Tower-15048",
+      "_geoloc": {
+          "lat": 74.2556231,
+          "lng": 31.7947609
+      },
+      "geography": {
+          "lat": 74.2556231,
+          "lng": 31.7947609
+      },
+      "geo_point": [
+          31.7947609,
+          74.2556231
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          },
+          {
+              "id": 13588,
+              "level": 4,
+              "externalID": "15048",
+              "name": "Khayaban Tower",
+              "name_l1": "خیابان ٹاور",
+              "slug": "/Muridke_GT_Road_Khayaban_Tower-15048",
+              "slug_l1": "/Muridke_GT_Road_Khayaban_Tower-15048"
+          }
+      ],
+      "hierarchyPath": "Khayaban Tower GT Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15048",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13588",
+      "_highlightResult": {
+          "name": {
+              "value": "Khayaban Tower",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19941,
+      "name": "Lahore Entertainment City",
+      "name_l1": "لاہور انٹرٹینمنٹ سٹی",
+      "externalID": "20722",
+      "slug": "/Muridke_GT_Road_Lahore_Entertainment_City-20722",
+      "slug_l1": "/Muridke_GT_Road_Lahore_Entertainment_City-20722",
+      "_geoloc": {
+          "lat": 31.831517,
+          "lng": 74.248036
+      },
+      "geography": {
+          "lat": 31.831517,
+          "lng": 74.248036
+      },
+      "geo_point": [
+          74.248036,
+          31.831517
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          },
+          {
+              "id": 19941,
+              "level": 4,
+              "externalID": "20722",
+              "name": "Lahore Entertainment City",
+              "name_l1": "لاہور انٹرٹینمنٹ سٹی",
+              "slug": "/Muridke_GT_Road_Lahore_Entertainment_City-20722",
+              "slug_l1": "/Muridke_GT_Road_Lahore_Entertainment_City-20722"
+          }
+      ],
+      "hierarchyPath": "Lahore Entertainment City GT Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20722",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19941",
+      "_highlightResult": {
+          "name": {
+              "value": "Lahore Entertainment City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 14409,
+      "name": "Luxurion Gardens",
+      "name_l1": "لگژورئن گارڈنز",
+      "externalID": "15913",
+      "slug": "/Muridke_Canal_Road_Luxurion_Gardens-15913",
+      "slug_l1": "/Muridke_Canal_Road_Luxurion_Gardens-15913",
+      "_geoloc": {
+          "lat": 31.797554,
+          "lng": 74.243803
+      },
+      "geography": {
+          "lat": 31.797554,
+          "lng": 74.243803
+      },
+      "geo_point": [
+          74.243803,
+          31.797554
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 11892,
+              "level": 3,
+              "externalID": "13415",
+              "name": "Canal Road",
+              "name_l1": "کینال روڈ",
+              "slug": "/Muridke_Canal_Road-13415",
+              "slug_l1": "/Muridke_Canal_Road-13415"
+          },
+          {
+              "id": 14409,
+              "level": 4,
+              "externalID": "15913",
+              "name": "Luxurion Gardens",
+              "name_l1": "لگژورئن گارڈنز",
+              "slug": "/Muridke_Canal_Road_Luxurion_Gardens-15913",
+              "slug_l1": "/Muridke_Canal_Road_Luxurion_Gardens-15913"
+          }
+      ],
+      "hierarchyPath": "Luxurion Gardens Canal Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15913",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "14409",
+      "_highlightResult": {
+          "name": {
+              "value": "Luxurion Gardens",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15540,
+      "name": "Luxurion Gardens - Block A",
+      "name_l1": "لگرژرین گارڈنز - بلاک اے",
+      "externalID": "16980",
+      "slug": "/Muridke_Canal_Road_Luxurion_Gardens_Luxurion_Gardens___Block_A-16980",
+      "slug_l1": "/Muridke_Canal_Road_Luxurion_Gardens_Luxurion_Gardens___Block_A-16980",
+      "_geoloc": {
+          "lat": 31.79677266,
+          "lng": 74.24450457
+      },
+      "geography": {
+          "lat": 31.79677266,
+          "lng": 74.24450457
+      },
+      "geo_point": [
+          74.24450457,
+          31.79677266
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 11892,
+              "level": 3,
+              "externalID": "13415",
+              "name": "Canal Road",
+              "name_l1": "کینال روڈ",
+              "slug": "/Muridke_Canal_Road-13415",
+              "slug_l1": "/Muridke_Canal_Road-13415"
+          },
+          {
+              "id": 14409,
+              "level": 4,
+              "externalID": "15913",
+              "name": "Luxurion Gardens",
+              "name_l1": "لگژورئن گارڈنز",
+              "slug": "/Muridke_Canal_Road_Luxurion_Gardens-15913",
+              "slug_l1": "/Muridke_Canal_Road_Luxurion_Gardens-15913"
+          },
+          {
+              "id": 15540,
+              "level": 5,
+              "externalID": "16980",
+              "name": "Luxurion Gardens - Block A",
+              "name_l1": "لگرژرین گارڈنز - بلاک اے",
+              "slug": "/Muridke_Canal_Road_Luxurion_Gardens_Luxurion_Gardens___Block_A-16980",
+              "slug_l1": "/Muridke_Canal_Road_Luxurion_Gardens_Luxurion_Gardens___Block_A-16980"
+          }
+      ],
+      "hierarchyPath": "Luxurion Gardens - Block A Luxurion Gardens Canal Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16980",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15540",
+      "_highlightResult": {
+          "name": {
+              "value": "Luxurion Gardens - Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15541,
+      "name": "Luxurion Gardens - Block B",
+      "name_l1": "لگرژرین گارڈنز - بلاک بی",
+      "externalID": "16981",
+      "slug": "/Muridke_Canal_Road_Luxurion_Gardens_Luxurion_Gardens___Block_B-16981",
+      "slug_l1": "/Muridke_Canal_Road_Luxurion_Gardens_Luxurion_Gardens___Block_B-16981",
+      "_geoloc": {
+          "lat": 31.79654801,
+          "lng": 74.24270477
+      },
+      "geography": {
+          "lat": 31.79654801,
+          "lng": 74.24270477
+      },
+      "geo_point": [
+          74.24270477,
+          31.79654801
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 11892,
+              "level": 3,
+              "externalID": "13415",
+              "name": "Canal Road",
+              "name_l1": "کینال روڈ",
+              "slug": "/Muridke_Canal_Road-13415",
+              "slug_l1": "/Muridke_Canal_Road-13415"
+          },
+          {
+              "id": 14409,
+              "level": 4,
+              "externalID": "15913",
+              "name": "Luxurion Gardens",
+              "name_l1": "لگژورئن گارڈنز",
+              "slug": "/Muridke_Canal_Road_Luxurion_Gardens-15913",
+              "slug_l1": "/Muridke_Canal_Road_Luxurion_Gardens-15913"
+          },
+          {
+              "id": 15541,
+              "level": 5,
+              "externalID": "16981",
+              "name": "Luxurion Gardens - Block B",
+              "name_l1": "لگرژرین گارڈنز - بلاک بی",
+              "slug": "/Muridke_Canal_Road_Luxurion_Gardens_Luxurion_Gardens___Block_B-16981",
+              "slug_l1": "/Muridke_Canal_Road_Luxurion_Gardens_Luxurion_Gardens___Block_B-16981"
+          }
+      ],
+      "hierarchyPath": "Luxurion Gardens - Block B Luxurion Gardens Canal Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "16981",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15541",
+      "_highlightResult": {
+          "name": {
+              "value": "Luxurion Gardens - Block B",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18506,
+      "name": "Malkan Wala Bazar",
+      "name_l1": "ملکان والا بازار",
+      "externalID": "19422",
+      "slug": "/Muridke_Malkan_Wala_Bazar-19422",
+      "slug_l1": "/Muridke_Malkan_Wala_Bazar-19422",
+      "_geoloc": {
+          "lat": 31.803943,
+          "lng": 74.24873
+      },
+      "geography": {
+          "lat": 31.803943,
+          "lng": 74.24873
+      },
+      "geo_point": [
+          74.24873,
+          31.803943
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 18506,
+              "level": 3,
+              "externalID": "19422",
+              "name": "Malkan Wala Bazar",
+              "name_l1": "ملکان والا بازار",
+              "slug": "/Muridke_Malkan_Wala_Bazar-19422",
+              "slug_l1": "/Muridke_Malkan_Wala_Bazar-19422"
+          }
+      ],
+      "hierarchyPath": "Malkan Wala Bazar Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19422",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18506",
+      "_highlightResult": {
+          "name": {
+              "value": "Malkan Wala Bazar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18497,
+      "name": "Model City",
+      "name_l1": "ماڈل سٹی",
+      "externalID": "19415",
+      "slug": "/Muridke_Model_City-19415",
+      "slug_l1": "/Muridke_Model_City-19415",
+      "_geoloc": {
+          "lat": 31.820365,
+          "lng": 74.24742
+      },
+      "geography": {
+          "lat": 31.820365,
+          "lng": 74.24742
+      },
+      "geo_point": [
+          74.24742,
+          31.820365
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 18497,
+              "level": 3,
+              "externalID": "19415",
+              "name": "Model City",
+              "name_l1": "ماڈل سٹی",
+              "slug": "/Muridke_Model_City-19415",
+              "slug_l1": "/Muridke_Model_City-19415"
+          }
+      ],
+      "hierarchyPath": "Model City Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19415",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18497",
+      "_highlightResult": {
+          "name": {
+              "value": "Model City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18496,
+      "name": "Mohalla Iqbal Park",
+      "name_l1": "محلہ اقبال پارک",
+      "externalID": "19414",
+      "slug": "/Muridke_Mohalla_Iqbal_Park-19414",
+      "slug_l1": "/Muridke_Mohalla_Iqbal_Park-19414",
+      "_geoloc": {
+          "lat": 31.796819,
+          "lng": 74.265776
+      },
+      "geography": {
+          "lat": 31.796819,
+          "lng": 74.265776
+      },
+      "geo_point": [
+          74.265776,
+          31.796819
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 18496,
+              "level": 3,
+              "externalID": "19414",
+              "name": "Mohalla Iqbal Park",
+              "name_l1": "محلہ اقبال پارک",
+              "slug": "/Muridke_Mohalla_Iqbal_Park-19414",
+              "slug_l1": "/Muridke_Mohalla_Iqbal_Park-19414"
+          }
+      ],
+      "hierarchyPath": "Mohalla Iqbal Park Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19414",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18496",
+      "_highlightResult": {
+          "name": {
+              "value": "Mohalla Iqbal Park",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6156,
+      "name": "Others",
+      "name_l1": "ادرذ",
+      "externalID": "12333",
+      "slug": "/Muridke_Others-12333",
+      "slug_l1": "/Muridke_Others-12333",
+      "_geoloc": {
+          "lat": 31.806734,
+          "lng": 74.254782
+      },
+      "geography": {
+          "lat": 31.806734,
+          "lng": 74.254782
+      },
+      "geo_point": [
+          74.254782,
+          31.806734
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 6156,
+              "level": 3,
+              "externalID": "12333",
+              "name": "Others",
+              "name_l1": "ادرذ",
+              "slug": "/Muridke_Others-12333",
+              "slug_l1": "/Muridke_Others-12333"
+          }
+      ],
+      "hierarchyPath": "Others Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12333",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6156",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18502,
+      "name": "Purana Narang Road",
+      "name_l1": "پرانا نارنگ روڈ",
+      "externalID": "19416",
+      "slug": "/Muridke_Purana_Narang_Road-19416",
+      "slug_l1": "/Muridke_Purana_Narang_Road-19416",
+      "_geoloc": {
+          "lat": 31.803553,
+          "lng": 74.256585
+      },
+      "geography": {
+          "lat": 31.803553,
+          "lng": 74.256585
+      },
+      "geo_point": [
+          74.256585,
+          31.803553
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 18502,
+              "level": 3,
+              "externalID": "19416",
+              "name": "Purana Narang Road",
+              "name_l1": "پرانا نارنگ روڈ",
+              "slug": "/Muridke_Purana_Narang_Road-19416",
+              "slug_l1": "/Muridke_Purana_Narang_Road-19416"
+          }
+      ],
+      "hierarchyPath": "Purana Narang Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19416",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18502",
+      "_highlightResult": {
+          "name": {
+              "value": "Purana Narang Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 9392,
+      "name": "Satellite Town",
+      "name_l1": "سیٹلائٹ ٹاؤن",
+      "externalID": "12606",
+      "slug": "/Muridke_GT_Road_Satellite_Town-12606",
+      "slug_l1": "/Muridke_GT_Road_Satellite_Town-12606",
+      "_geoloc": {
+          "lat": 31.822343,
+          "lng": 74.253235
+      },
+      "geography": {
+          "lat": 31.822343,
+          "lng": 74.253235
+      },
+      "geo_point": [
+          74.253235,
+          31.822343
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 112,
+              "level": 2,
+              "externalID": "8116",
+              "name": "Muridke",
+              "name_l1": "مُرِيدكے",
+              "slug": "/Muridke-8116",
+              "slug_l1": "/Muridke-8116"
+          },
+          {
+              "id": 5519,
+              "level": 3,
+              "externalID": "11071",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Muridke_GT_Road-11071",
+              "slug_l1": "/Muridke_GT_Road-11071"
+          },
+          {
+              "id": 9392,
+              "level": 4,
+              "externalID": "12606",
+              "name": "Satellite Town",
+              "name_l1": "سیٹلائٹ ٹاؤن",
+              "slug": "/Muridke_GT_Road_Satellite_Town-12606",
+              "slug_l1": "/Muridke_GT_Road_Satellite_Town-12606"
+          }
+      ],
+      "hierarchyPath": "Satellite Town GT Road Muridke Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12606",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "9392",
+      "_highlightResult": {
+          "name": {
+              "value": "Satellite Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

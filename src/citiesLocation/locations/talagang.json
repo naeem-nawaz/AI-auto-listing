@@ -1,0 +1,686 @@
+[
+  {
+      "id": 177,
+      "name": "Talagang",
+      "name_l1": "تلہ گینگ",
+      "externalID": "12137",
+      "slug": "/Talagang-12137",
+      "slug_l1": "/Talagang-12137",
+      "_geoloc": {
+          "lat": 32.930036,
+          "lng": 72.419855
+      },
+      "geography": {
+          "lat": 32.930036,
+          "lng": 72.419855
+      },
+      "geo_point": [
+          72.419855,
+          32.930036
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 177,
+              "level": 2,
+              "externalID": "12137",
+              "name": "Talagang",
+              "name_l1": "تلہ گینگ",
+              "slug": "/Talagang-12137",
+              "slug_l1": "/Talagang-12137"
+          }
+      ],
+      "hierarchyPath": "Talagang Punjab Pakistan",
+      "adCount": 12,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12137",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "177",
+      "_highlightResult": {
+          "name": {
+              "value": "Talagang",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13968,
+      "name": "Ward No 8",
+      "name_l1": "وارڈ نمبر 8",
+      "externalID": "15446",
+      "slug": "/Talagang_Ward_No_8-15446",
+      "slug_l1": "/Talagang_Ward_No_8-15446",
+      "_geoloc": {
+          "lat": 32.925302,
+          "lng": 72.416802
+      },
+      "geography": {
+          "lat": 32.925302,
+          "lng": 72.416802
+      },
+      "geo_point": [
+          72.416802,
+          32.925302
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 177,
+              "level": 2,
+              "externalID": "12137",
+              "name": "Talagang",
+              "name_l1": "تلہ گینگ",
+              "slug": "/Talagang-12137",
+              "slug_l1": "/Talagang-12137"
+          },
+          {
+              "id": 13968,
+              "level": 3,
+              "externalID": "15446",
+              "name": "Ward No 8",
+              "name_l1": "وارڈ نمبر 8",
+              "slug": "/Talagang_Ward_No_8-15446",
+              "slug_l1": "/Talagang_Ward_No_8-15446"
+          }
+      ],
+      "hierarchyPath": "Ward No 8 Talagang Punjab Pakistan",
+      "adCount": 6,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15446",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13968",
+      "_highlightResult": {
+          "name": {
+              "value": "Ward No 8",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13970,
+      "name": "Malakwal Talagang Road",
+      "name_l1": "ملاکوال تالا گنگ روڈ",
+      "externalID": "15448",
+      "slug": "/Talagang_Malakwal_Talagang_Road-15448",
+      "slug_l1": "/Talagang_Malakwal_Talagang_Road-15448",
+      "_geoloc": {
+          "lat": 32.920116,
+          "lng": 72.406973
+      },
+      "geography": {
+          "lat": 32.920116,
+          "lng": 72.406973
+      },
+      "geo_point": [
+          72.406973,
+          32.920116
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 177,
+              "level": 2,
+              "externalID": "12137",
+              "name": "Talagang",
+              "name_l1": "تلہ گینگ",
+              "slug": "/Talagang-12137",
+              "slug_l1": "/Talagang-12137"
+          },
+          {
+              "id": 13970,
+              "level": 3,
+              "externalID": "15448",
+              "name": "Malakwal Talagang Road",
+              "name_l1": "ملاکوال تالا گنگ روڈ",
+              "slug": "/Talagang_Malakwal_Talagang_Road-15448",
+              "slug_l1": "/Talagang_Malakwal_Talagang_Road-15448"
+          }
+      ],
+      "hierarchyPath": "Malakwal Talagang Road Talagang Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15448",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13970",
+      "_highlightResult": {
+          "name": {
+              "value": "Malakwal Talagang Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22275,
+      "name": "Tamman",
+      "name_l1": "ٹمن",
+      "externalID": "22330",
+      "slug": "/Talagang_Tamman-22330",
+      "slug_l1": "/Talagang_Tamman-22330",
+      "_geoloc": {
+          "lat": 33.005081,
+          "lng": 72.103078
+      },
+      "geography": {
+          "lat": 33.005081,
+          "lng": 72.103078
+      },
+      "geo_point": [
+          72.103078,
+          33.005081
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 177,
+              "level": 2,
+              "externalID": "12137",
+              "name": "Talagang",
+              "name_l1": "تلہ گینگ",
+              "slug": "/Talagang-12137",
+              "slug_l1": "/Talagang-12137"
+          },
+          {
+              "id": 22275,
+              "level": 3,
+              "externalID": "22330",
+              "name": "Tamman",
+              "name_l1": "ٹمن",
+              "slug": "/Talagang_Tamman-22330",
+              "slug_l1": "/Talagang_Tamman-22330"
+          }
+      ],
+      "hierarchyPath": "Tamman Talagang Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22330",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22275",
+      "_highlightResult": {
+          "name": {
+              "value": "Tamman",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22273,
+      "name": "Jabbi Shah Dilawer",
+      "name_l1": "جببی شاہ دلاور",
+      "externalID": "22328",
+      "slug": "/Talagang_Jabbi_Shah_Dilawer-22328",
+      "slug_l1": "/Talagang_Jabbi_Shah_Dilawer-22328",
+      "_geoloc": {
+          "lat": 33.094157,
+          "lng": 71.990812
+      },
+      "geography": {
+          "lat": 33.094157,
+          "lng": 71.990812
+      },
+      "geo_point": [
+          71.990812,
+          33.094157
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 177,
+              "level": 2,
+              "externalID": "12137",
+              "name": "Talagang",
+              "name_l1": "تلہ گینگ",
+              "slug": "/Talagang-12137",
+              "slug_l1": "/Talagang-12137"
+          },
+          {
+              "id": 22273,
+              "level": 3,
+              "externalID": "22328",
+              "name": "Jabbi Shah Dilawer",
+              "name_l1": "جببی شاہ دلاور",
+              "slug": "/Talagang_Jabbi_Shah_Dilawer-22328",
+              "slug_l1": "/Talagang_Jabbi_Shah_Dilawer-22328"
+          }
+      ],
+      "hierarchyPath": "Jabbi Shah Dilawer Talagang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22328",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22273",
+      "_highlightResult": {
+          "name": {
+              "value": "Jabbi Shah Dilawer",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13969,
+      "name": "Malakwal",
+      "name_l1": "ملاکوال",
+      "externalID": "15447",
+      "slug": "/Talagang_Malakwal-15447",
+      "slug_l1": "/Talagang_Malakwal-15447",
+      "_geoloc": {
+          "lat": 32.913343,
+          "lng": 72.399034
+      },
+      "geography": {
+          "lat": 32.913343,
+          "lng": 72.399034
+      },
+      "geo_point": [
+          72.399034,
+          32.913343
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 177,
+              "level": 2,
+              "externalID": "12137",
+              "name": "Talagang",
+              "name_l1": "تلہ گینگ",
+              "slug": "/Talagang-12137",
+              "slug_l1": "/Talagang-12137"
+          },
+          {
+              "id": 13969,
+              "level": 3,
+              "externalID": "15447",
+              "name": "Malakwal",
+              "name_l1": "ملاکوال",
+              "slug": "/Talagang_Malakwal-15447",
+              "slug_l1": "/Talagang_Malakwal-15447"
+          }
+      ],
+      "hierarchyPath": "Malakwal Talagang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15447",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13969",
+      "_highlightResult": {
+          "name": {
+              "value": "Malakwal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 22274,
+      "name": "Multan Khurd",
+      "name_l1": "ملتان خورد",
+      "externalID": "22329",
+      "slug": "/Talagang_Multan_Khurd-22329",
+      "slug_l1": "/Talagang_Multan_Khurd-22329",
+      "_geoloc": {
+          "lat": 33.03881,
+          "lng": 72.009225
+      },
+      "geography": {
+          "lat": 33.03881,
+          "lng": 72.009225
+      },
+      "geo_point": [
+          72.009225,
+          33.03881
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 177,
+              "level": 2,
+              "externalID": "12137",
+              "name": "Talagang",
+              "name_l1": "تلہ گینگ",
+              "slug": "/Talagang-12137",
+              "slug_l1": "/Talagang-12137"
+          },
+          {
+              "id": 22274,
+              "level": 3,
+              "externalID": "22329",
+              "name": "Multan Khurd",
+              "name_l1": "ملتان خورد",
+              "slug": "/Talagang_Multan_Khurd-22329",
+              "slug_l1": "/Talagang_Multan_Khurd-22329"
+          }
+      ],
+      "hierarchyPath": "Multan Khurd Talagang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "22329",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "22274",
+      "_highlightResult": {
+          "name": {
+              "value": "Multan Khurd",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20952,
+      "name": "New Ghalla Mandi",
+      "name_l1": "نیو غلہ منڈی",
+      "externalID": "21550",
+      "slug": "/Talagang_New_Ghalla_Mandi-21550",
+      "slug_l1": "/Talagang_New_Ghalla_Mandi-21550",
+      "_geoloc": {
+          "lat": 32.935291176839,
+          "lng": 72.396164528985
+      },
+      "geography": {
+          "lat": 32.935291176839,
+          "lng": 72.396164528985
+      },
+      "geo_point": [
+          72.396164528985,
+          32.935291176839
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 177,
+              "level": 2,
+              "externalID": "12137",
+              "name": "Talagang",
+              "name_l1": "تلہ گینگ",
+              "slug": "/Talagang-12137",
+              "slug_l1": "/Talagang-12137"
+          },
+          {
+              "id": 20952,
+              "level": 3,
+              "externalID": "21550",
+              "name": "New Ghalla Mandi",
+              "name_l1": "نیو غلہ منڈی",
+              "slug": "/Talagang_New_Ghalla_Mandi-21550",
+              "slug_l1": "/Talagang_New_Ghalla_Mandi-21550"
+          }
+      ],
+      "hierarchyPath": "New Ghalla Mandi Talagang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21550",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20952",
+      "_highlightResult": {
+          "name": {
+              "value": "New Ghalla Mandi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 13971,
+      "name": "Tableeghi Markaz",
+      "name_l1": "تبلیغی مرکز",
+      "externalID": "15449",
+      "slug": "/Talagang_Tableeghi_Markaz-15449",
+      "slug_l1": "/Talagang_Tableeghi_Markaz-15449",
+      "_geoloc": {
+          "lat": 32.92755,
+          "lng": 72.387868
+      },
+      "geography": {
+          "lat": 32.92755,
+          "lng": 72.387868
+      },
+      "geo_point": [
+          72.387868,
+          32.92755
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 177,
+              "level": 2,
+              "externalID": "12137",
+              "name": "Talagang",
+              "name_l1": "تلہ گینگ",
+              "slug": "/Talagang-12137",
+              "slug_l1": "/Talagang-12137"
+          },
+          {
+              "id": 13971,
+              "level": 3,
+              "externalID": "15449",
+              "name": "Tableeghi Markaz",
+              "name_l1": "تبلیغی مرکز",
+              "slug": "/Talagang_Tableeghi_Markaz-15449",
+              "slug_l1": "/Talagang_Tableeghi_Markaz-15449"
+          }
+      ],
+      "hierarchyPath": "Tableeghi Markaz Talagang Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "15449",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "13971",
+      "_highlightResult": {
+          "name": {
+              "value": "Tableeghi Markaz",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

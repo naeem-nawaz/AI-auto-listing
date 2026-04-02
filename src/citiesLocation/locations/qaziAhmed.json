@@ -1,0 +1,147 @@
+[
+  {
+      "id": 12135,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13618",
+      "slug": "/Qazi_Ahmed_Others-13618",
+      "slug_l1": "/Qazi_Ahmed_Others-13618",
+      "_geoloc": {
+          "lat": 26.298194,
+          "lng": 68.110422
+      },
+      "geography": {
+          "lat": 26.298194,
+          "lng": 68.110422
+      },
+      "geo_point": [
+          68.110422,
+          26.298194
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12123,
+              "level": 2,
+              "externalID": "13617",
+              "name": "Qazi Ahmed",
+              "name_l1": "قاضی احمد",
+              "slug": "/Qazi_Ahmed-13617",
+              "slug_l1": "/Qazi_Ahmed-13617"
+          },
+          {
+              "id": 12135,
+              "level": 3,
+              "externalID": "13618",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Qazi_Ahmed_Others-13618",
+              "slug_l1": "/Qazi_Ahmed_Others-13618"
+          }
+      ],
+      "hierarchyPath": "Others Qazi Ahmed Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13618",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12135",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12123,
+      "name": "Qazi Ahmed",
+      "name_l1": "قاضی احمد",
+      "externalID": "13617",
+      "slug": "/Qazi_Ahmed-13617",
+      "slug_l1": "/Qazi_Ahmed-13617",
+      "_geoloc": {
+          "lat": 26.298202,
+          "lng": 68.102337
+      },
+      "geography": {
+          "lat": 26.298202,
+          "lng": 68.102337
+      },
+      "geo_point": [
+          68.102337,
+          26.298202
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12123,
+              "level": 2,
+              "externalID": "13617",
+              "name": "Qazi Ahmed",
+              "name_l1": "قاضی احمد",
+              "slug": "/Qazi_Ahmed-13617",
+              "slug_l1": "/Qazi_Ahmed-13617"
+          }
+      ],
+      "hierarchyPath": "Qazi Ahmed Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13617",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12123",
+      "_highlightResult": {
+          "name": {
+              "value": "Qazi Ahmed",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

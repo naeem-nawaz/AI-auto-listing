@@ -1,0 +1,1596 @@
+[
+  {
+      "id": 116,
+      "name": "Gujar Khan",
+      "name_l1": "گوجر خان",
+      "externalID": "8338",
+      "slug": "/Gujar_Khan-8338",
+      "slug_l1": "/Gujar_Khan-8338",
+      "_geoloc": {
+          "lat": 33.256938,
+          "lng": 73.304769
+      },
+      "geography": {
+          "lat": 33.256938,
+          "lng": 73.304769
+      },
+      "geo_point": [
+          73.304769,
+          33.256938
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          }
+      ],
+      "hierarchyPath": "Gujar Khan Punjab Pakistan",
+      "adCount": 90,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8338",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "116",
+      "_highlightResult": {
+          "name": {
+              "value": "Gujar Khan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18776,
+      "name": "New Metro City",
+      "name_l1": "نیو میٹرو سٹی",
+      "externalID": "19691",
+      "slug": "/Gujar_Khan_New_Metro_City-19691",
+      "slug_l1": "/Gujar_Khan_New_Metro_City-19691",
+      "_geoloc": {
+          "lat": 33.21482,
+          "lng": 73.334486
+      },
+      "geography": {
+          "lat": 33.21482,
+          "lng": 73.334486
+      },
+      "geo_point": [
+          73.334486,
+          33.21482
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18776,
+              "level": 3,
+              "externalID": "19691",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Gujar_Khan_New_Metro_City-19691",
+              "slug_l1": "/Gujar_Khan_New_Metro_City-19691"
+          }
+      ],
+      "hierarchyPath": "New Metro City Gujar Khan Punjab Pakistan",
+      "adCount": 72,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19691",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18776",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20428,
+      "name": "New Metro City Sector 1",
+      "name_l1": "نیو میٹرو سٹی سیکٹر 1",
+      "externalID": "21139",
+      "slug": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1-21139",
+      "slug_l1": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1-21139",
+      "_geoloc": {
+          "lat": 33.21452042,
+          "lng": 73.34213934
+      },
+      "geography": {
+          "lat": 33.21452042,
+          "lng": 73.34213934
+      },
+      "geo_point": [
+          73.34213934,
+          33.21452042
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18776,
+              "level": 3,
+              "externalID": "19691",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Gujar_Khan_New_Metro_City-19691",
+              "slug_l1": "/Gujar_Khan_New_Metro_City-19691"
+          },
+          {
+              "id": 20428,
+              "level": 4,
+              "externalID": "21139",
+              "name": "New Metro City Sector 1",
+              "name_l1": "نیو میٹرو سٹی سیکٹر 1",
+              "slug": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1-21139",
+              "slug_l1": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1-21139"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 New Metro City Gujar Khan Punjab Pakistan",
+      "adCount": 42,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21139",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "20428",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20432,
+      "name": "New Metro City Sector 1 - Early Bird Block A",
+      "name_l1": "نیو میٹرو سٹی سیکٹر 1 - ارلی برڈ بلاک اے",
+      "externalID": "21140",
+      "slug": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1_New_Metro_City_Sector_1___Early_Bird_Block_A-21140",
+      "slug_l1": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1_New_Metro_City_Sector_1___Early_Bird_Block_A-21140",
+      "_geoloc": {
+          "lat": 33.21504056,
+          "lng": 73.34132572
+      },
+      "geography": {
+          "lat": 33.21504056,
+          "lng": 73.34132572
+      },
+      "geo_point": [
+          73.34132572,
+          33.21504056
+      ],
+      "level": 5,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18776,
+              "level": 3,
+              "externalID": "19691",
+              "name": "New Metro City",
+              "name_l1": "نیو میٹرو سٹی",
+              "slug": "/Gujar_Khan_New_Metro_City-19691",
+              "slug_l1": "/Gujar_Khan_New_Metro_City-19691"
+          },
+          {
+              "id": 20428,
+              "level": 4,
+              "externalID": "21139",
+              "name": "New Metro City Sector 1",
+              "name_l1": "نیو میٹرو سٹی سیکٹر 1",
+              "slug": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1-21139",
+              "slug_l1": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1-21139"
+          },
+          {
+              "id": 20432,
+              "level": 5,
+              "externalID": "21140",
+              "name": "New Metro City Sector 1 - Early Bird Block A",
+              "name_l1": "نیو میٹرو سٹی سیکٹر 1 - ارلی برڈ بلاک اے",
+              "slug": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1_New_Metro_City_Sector_1___Early_Bird_Block_A-21140",
+              "slug_l1": "/Gujar_Khan_New_Metro_City_New_Metro_City_Sector_1_New_Metro_City_Sector_1___Early_Bird_Block_A-21140"
+          }
+      ],
+      "hierarchyPath": "New Metro City Sector 1 - Early Bird Block A New Metro City Sector 1 New Metro City Gujar Khan Punjab Pakistan",
+      "adCount": 33,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21140",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20432",
+      "_highlightResult": {
+          "name": {
+              "value": "New Metro City Sector 1 - Early Bird Block A",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11494,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "13021",
+      "slug": "/Gujar_Khan_GT_Road-13021",
+      "slug_l1": "/Gujar_Khan_GT_Road-13021",
+      "_geoloc": {
+          "lat": 33.251795,
+          "lng": 73.309445
+      },
+      "geography": {
+          "lat": 33.251795,
+          "lng": 73.309445
+      },
+      "geo_point": [
+          73.309445,
+          33.251795
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 11494,
+              "level": 3,
+              "externalID": "13021",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Gujar_Khan_GT_Road-13021",
+              "slug_l1": "/Gujar_Khan_GT_Road-13021"
+          }
+      ],
+      "hierarchyPath": "GT Road Gujar Khan Punjab Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13021",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11494",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6123,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "12266",
+      "slug": "/Gujar_Khan_Others-12266",
+      "slug_l1": "/Gujar_Khan_Others-12266",
+      "_geoloc": {
+          "lat": 33.259804,
+          "lng": 73.304493
+      },
+      "geography": {
+          "lat": 33.259804,
+          "lng": 73.304493
+      },
+      "geo_point": [
+          73.304493,
+          33.259804
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 6123,
+              "level": 3,
+              "externalID": "12266",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Gujar_Khan_Others-12266",
+              "slug_l1": "/Gujar_Khan_Others-12266"
+          }
+      ],
+      "hierarchyPath": "Others Gujar Khan Punjab Pakistan",
+      "adCount": 9,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12266",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6123",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19357,
+      "name": "Mega City",
+      "name_l1": "میگا سٹی",
+      "externalID": "20239",
+      "slug": "/Gujar_Khan_GT_Road_Mega_City-20239",
+      "slug_l1": "/Gujar_Khan_GT_Road_Mega_City-20239",
+      "_geoloc": {
+          "lat": 33.20014,
+          "lng": 73.339256
+      },
+      "geography": {
+          "lat": 33.20014,
+          "lng": 73.339256
+      },
+      "geo_point": [
+          73.339256,
+          33.20014
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 11494,
+              "level": 3,
+              "externalID": "13021",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Gujar_Khan_GT_Road-13021",
+              "slug_l1": "/Gujar_Khan_GT_Road-13021"
+          },
+          {
+              "id": 19357,
+              "level": 4,
+              "externalID": "20239",
+              "name": "Mega City",
+              "name_l1": "میگا سٹی",
+              "slug": "/Gujar_Khan_GT_Road_Mega_City-20239",
+              "slug_l1": "/Gujar_Khan_GT_Road_Mega_City-20239"
+          }
+      ],
+      "hierarchyPath": "Mega City GT Road Gujar Khan Punjab Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20239",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19357",
+      "_highlightResult": {
+          "name": {
+              "value": "Mega City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18512,
+      "name": "Bihari Colony",
+      "name_l1": "بہاری کالونی",
+      "externalID": "19429",
+      "slug": "/Gujar_Khan_Bihari_Colony-19429",
+      "slug_l1": "/Gujar_Khan_Bihari_Colony-19429",
+      "_geoloc": {
+          "lat": 33.261841,
+          "lng": 73.305961
+      },
+      "geography": {
+          "lat": 33.261841,
+          "lng": 73.305961
+      },
+      "geo_point": [
+          73.305961,
+          33.261841
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18512,
+              "level": 3,
+              "externalID": "19429",
+              "name": "Bihari Colony",
+              "name_l1": "بہاری کالونی",
+              "slug": "/Gujar_Khan_Bihari_Colony-19429",
+              "slug_l1": "/Gujar_Khan_Bihari_Colony-19429"
+          }
+      ],
+      "hierarchyPath": "Bihari Colony Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19429",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18512",
+      "_highlightResult": {
+          "name": {
+              "value": "Bihari Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18511,
+      "name": "Dhoke Amb",
+      "name_l1": "ڈھوک امب",
+      "externalID": "19428",
+      "slug": "/Gujar_Khan_Dhoke_Amb-19428",
+      "slug_l1": "/Gujar_Khan_Dhoke_Amb-19428",
+      "_geoloc": {
+          "lat": 33.10027,
+          "lng": 73.292171
+      },
+      "geography": {
+          "lat": 33.10027,
+          "lng": 73.292171
+      },
+      "geo_point": [
+          73.292171,
+          33.10027
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18511,
+              "level": 3,
+              "externalID": "19428",
+              "name": "Dhoke Amb",
+              "name_l1": "ڈھوک امب",
+              "slug": "/Gujar_Khan_Dhoke_Amb-19428",
+              "slug_l1": "/Gujar_Khan_Dhoke_Amb-19428"
+          }
+      ],
+      "hierarchyPath": "Dhoke Amb Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19428",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18511",
+      "_highlightResult": {
+          "name": {
+              "value": "Dhoke Amb",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18509,
+      "name": "Dhoke Chohan",
+      "name_l1": "ڈھوک چوہان",
+      "externalID": "19426",
+      "slug": "/Gujar_Khan_Dhoke_Chohan-19426",
+      "slug_l1": "/Gujar_Khan_Dhoke_Chohan-19426",
+      "_geoloc": {
+          "lat": 33.3684292,
+          "lng": 73.3321846
+      },
+      "geography": {
+          "lat": 33.3684292,
+          "lng": 73.3321846
+      },
+      "geo_point": [
+          73.3321846,
+          33.3684292
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18509,
+              "level": 3,
+              "externalID": "19426",
+              "name": "Dhoke Chohan",
+              "name_l1": "ڈھوک چوہان",
+              "slug": "/Gujar_Khan_Dhoke_Chohan-19426",
+              "slug_l1": "/Gujar_Khan_Dhoke_Chohan-19426"
+          }
+      ],
+      "hierarchyPath": "Dhoke Chohan Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19426",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18509",
+      "_highlightResult": {
+          "name": {
+              "value": "Dhoke Chohan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18508,
+      "name": "Gulyana",
+      "name_l1": "گلیانہ",
+      "externalID": "19425",
+      "slug": "/Gujar_Khan_Gulyana-19425",
+      "slug_l1": "/Gujar_Khan_Gulyana-19425",
+      "_geoloc": {
+          "lat": 33.208693,
+          "lng": 73.275827
+      },
+      "geography": {
+          "lat": 33.208693,
+          "lng": 73.275827
+      },
+      "geo_point": [
+          73.275827,
+          33.208693
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18508,
+              "level": 3,
+              "externalID": "19425",
+              "name": "Gulyana",
+              "name_l1": "گلیانہ",
+              "slug": "/Gujar_Khan_Gulyana-19425",
+              "slug_l1": "/Gujar_Khan_Gulyana-19425"
+          }
+      ],
+      "hierarchyPath": "Gulyana Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19425",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18508",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulyana",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18514,
+      "name": "Gulyana Road",
+      "name_l1": "گلیانہ روڈ",
+      "externalID": "19431",
+      "slug": "/Gujar_Khan_Gulyana_Road-19431",
+      "slug_l1": "/Gujar_Khan_Gulyana_Road-19431",
+      "_geoloc": {
+          "lat": 33.244845,
+          "lng": 73.315313
+      },
+      "geography": {
+          "lat": 33.244845,
+          "lng": 73.315313
+      },
+      "geo_point": [
+          73.315313,
+          33.244845
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18514,
+              "level": 3,
+              "externalID": "19431",
+              "name": "Gulyana Road",
+              "name_l1": "گلیانہ روڈ",
+              "slug": "/Gujar_Khan_Gulyana_Road-19431",
+              "slug_l1": "/Gujar_Khan_Gulyana_Road-19431"
+          }
+      ],
+      "hierarchyPath": "Gulyana Road Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19431",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18514",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulyana Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6114,
+      "name": "Habib Kanyal",
+      "name_l1": "حبیب کنیال",
+      "externalID": "12249",
+      "slug": "/Gujar_Khan_Habib_Kanyal-12249",
+      "slug_l1": "/Gujar_Khan_Habib_Kanyal-12249",
+      "_geoloc": {
+          "lat": 33.266163,
+          "lng": 73.314112
+      },
+      "geography": {
+          "lat": 33.266163,
+          "lng": 73.314112
+      },
+      "geo_point": [
+          73.314112,
+          33.266163
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 6114,
+              "level": 3,
+              "externalID": "12249",
+              "name": "Habib Kanyal",
+              "name_l1": "حبیب کنیال",
+              "slug": "/Gujar_Khan_Habib_Kanyal-12249",
+              "slug_l1": "/Gujar_Khan_Habib_Kanyal-12249"
+          }
+      ],
+      "hierarchyPath": "Habib Kanyal Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12249",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6114",
+      "_highlightResult": {
+          "name": {
+              "value": "Habib Kanyal",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18510,
+      "name": "Housing Scheme 2",
+      "name_l1": "ہاؤسنگ سکیم 2",
+      "externalID": "19427",
+      "slug": "/Gujar_Khan_Housing_Scheme_2-19427",
+      "slug_l1": "/Gujar_Khan_Housing_Scheme_2-19427",
+      "_geoloc": {
+          "lat": 33.256176,
+          "lng": 73.3067567
+      },
+      "geography": {
+          "lat": 33.256176,
+          "lng": 73.3067567
+      },
+      "geo_point": [
+          73.3067567,
+          33.256176
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18510,
+              "level": 3,
+              "externalID": "19427",
+              "name": "Housing Scheme 2",
+              "name_l1": "ہاؤسنگ سکیم 2",
+              "slug": "/Gujar_Khan_Housing_Scheme_2-19427",
+              "slug_l1": "/Gujar_Khan_Housing_Scheme_2-19427"
+          }
+      ],
+      "hierarchyPath": "Housing Scheme 2 Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19427",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18510",
+      "_highlightResult": {
+          "name": {
+              "value": "Housing Scheme 2",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5590,
+      "name": "Islamabad - Lahore Road",
+      "name_l1": "اسلام آباد۔لاہور روڈ",
+      "externalID": "11190",
+      "slug": "/Gujar_Khan_Islamabad___Lahore_Road-11190",
+      "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road-11190",
+      "_geoloc": {
+          "lat": 33.256433,
+          "lng": 73.304522
+      },
+      "geography": {
+          "lat": 33.256433,
+          "lng": 73.304522
+      },
+      "geo_point": [
+          73.304522,
+          33.256433
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 5590,
+              "level": 3,
+              "externalID": "11190",
+              "name": "Islamabad - Lahore Road",
+              "name_l1": "اسلام آباد۔لاہور روڈ",
+              "slug": "/Gujar_Khan_Islamabad___Lahore_Road-11190",
+              "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road-11190"
+          }
+      ],
+      "hierarchyPath": "Islamabad - Lahore Road Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11190",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "5590",
+      "_highlightResult": {
+          "name": {
+              "value": "Islamabad - Lahore Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18513,
+      "name": "Jandi Road",
+      "name_l1": "جنڈی روڈ",
+      "externalID": "19430",
+      "slug": "/Gujar_Khan_Jandi_Road-19430",
+      "slug_l1": "/Gujar_Khan_Jandi_Road-19430",
+      "_geoloc": {
+          "lat": 33.2409663,
+          "lng": 73.3292186
+      },
+      "geography": {
+          "lat": 33.2409663,
+          "lng": 73.3292186
+      },
+      "geo_point": [
+          73.3292186,
+          33.2409663
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 18513,
+              "level": 3,
+              "externalID": "19430",
+              "name": "Jandi Road",
+              "name_l1": "جنڈی روڈ",
+              "slug": "/Gujar_Khan_Jandi_Road-19430",
+              "slug_l1": "/Gujar_Khan_Jandi_Road-19430"
+          }
+      ],
+      "hierarchyPath": "Jandi Road Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19430",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18513",
+      "_highlightResult": {
+          "name": {
+              "value": "Jandi Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 8881,
+      "name": "Model Town Housing Scheme",
+      "name_l1": "ماڈل ٹاون ہاوسِنگ سکیم",
+      "externalID": "11191",
+      "slug": "/Gujar_Khan_Islamabad___Lahore_Road_Model_Town_Housing_Scheme-11191",
+      "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road_Model_Town_Housing_Scheme-11191",
+      "_geoloc": {
+          "lat": 33.301501,
+          "lng": 73.259153
+      },
+      "geography": {
+          "lat": 33.301501,
+          "lng": 73.259153
+      },
+      "geo_point": [
+          73.259153,
+          33.301501
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 5590,
+              "level": 3,
+              "externalID": "11190",
+              "name": "Islamabad - Lahore Road",
+              "name_l1": "اسلام آباد۔لاہور روڈ",
+              "slug": "/Gujar_Khan_Islamabad___Lahore_Road-11190",
+              "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road-11190"
+          },
+          {
+              "id": 8881,
+              "level": 4,
+              "externalID": "11191",
+              "name": "Model Town Housing Scheme",
+              "name_l1": "ماڈل ٹاون ہاوسِنگ سکیم",
+              "slug": "/Gujar_Khan_Islamabad___Lahore_Road_Model_Town_Housing_Scheme-11191",
+              "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road_Model_Town_Housing_Scheme-11191"
+          }
+      ],
+      "hierarchyPath": "Model Town Housing Scheme Islamabad - Lahore Road Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11191",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "8881",
+      "_highlightResult": {
+          "name": {
+              "value": "Model Town Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19142,
+      "name": "Prism Town",
+      "name_l1": "پرزم ٹاؤن",
+      "externalID": "20056",
+      "slug": "/Gujar_Khan_Islamabad___Lahore_Road_Prism_Town-20056",
+      "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road_Prism_Town-20056",
+      "_geoloc": {
+          "lat": 33.293803,
+          "lng": 73.27387
+      },
+      "geography": {
+          "lat": 33.293803,
+          "lng": 73.27387
+      },
+      "geo_point": [
+          73.27387,
+          33.293803
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 5590,
+              "level": 3,
+              "externalID": "11190",
+              "name": "Islamabad - Lahore Road",
+              "name_l1": "اسلام آباد۔لاہور روڈ",
+              "slug": "/Gujar_Khan_Islamabad___Lahore_Road-11190",
+              "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road-11190"
+          },
+          {
+              "id": 19142,
+              "level": 4,
+              "externalID": "20056",
+              "name": "Prism Town",
+              "name_l1": "پرزم ٹاؤن",
+              "slug": "/Gujar_Khan_Islamabad___Lahore_Road_Prism_Town-20056",
+              "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road_Prism_Town-20056"
+          }
+      ],
+      "hierarchyPath": "Prism Town Islamabad - Lahore Road Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20056",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19142",
+      "_highlightResult": {
+          "name": {
+              "value": "Prism Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 19995,
+      "name": "Tariq Sharif Smart City",
+      "name_l1": "طارق شریف اسمارٹ سٹی",
+      "externalID": "20774",
+      "slug": "/Gujar_Khan_Islamabad___Lahore_Road_Tariq_Sharif_Smart_City-20774",
+      "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road_Tariq_Sharif_Smart_City-20774",
+      "_geoloc": {
+          "lat": 33.272443,
+          "lng": 73.292285
+      },
+      "geography": {
+          "lat": 33.272443,
+          "lng": 73.292285
+      },
+      "geo_point": [
+          73.292285,
+          33.272443
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 5590,
+              "level": 3,
+              "externalID": "11190",
+              "name": "Islamabad - Lahore Road",
+              "name_l1": "اسلام آباد۔لاہور روڈ",
+              "slug": "/Gujar_Khan_Islamabad___Lahore_Road-11190",
+              "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road-11190"
+          },
+          {
+              "id": 19995,
+              "level": 4,
+              "externalID": "20774",
+              "name": "Tariq Sharif Smart City",
+              "name_l1": "طارق شریف اسمارٹ سٹی",
+              "slug": "/Gujar_Khan_Islamabad___Lahore_Road_Tariq_Sharif_Smart_City-20774",
+              "slug_l1": "/Gujar_Khan_Islamabad___Lahore_Road_Tariq_Sharif_Smart_City-20774"
+          }
+      ],
+      "hierarchyPath": "Tariq Sharif Smart City Islamabad - Lahore Road Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "20774",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "19995",
+      "_highlightResult": {
+          "name": {
+              "value": "Tariq Sharif Smart City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 6113,
+      "name": "Ward No. 8",
+      "name_l1": "وارڈ نمبر 8",
+      "externalID": "12248",
+      "slug": "/Gujar_Khan_Ward_No._8-12248",
+      "slug_l1": "/Gujar_Khan_Ward_No._8-12248",
+      "_geoloc": {
+          "lat": 33.250842,
+          "lng": 73.305613
+      },
+      "geography": {
+          "lat": 33.250842,
+          "lng": 73.305613
+      },
+      "geo_point": [
+          73.305613,
+          33.250842
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 116,
+              "level": 2,
+              "externalID": "8338",
+              "name": "Gujar Khan",
+              "name_l1": "گوجر خان",
+              "slug": "/Gujar_Khan-8338",
+              "slug_l1": "/Gujar_Khan-8338"
+          },
+          {
+              "id": 6113,
+              "level": 3,
+              "externalID": "12248",
+              "name": "Ward No. 8",
+              "name_l1": "وارڈ نمبر 8",
+              "slug": "/Gujar_Khan_Ward_No._8-12248",
+              "slug_l1": "/Gujar_Khan_Ward_No._8-12248"
+          }
+      ],
+      "hierarchyPath": "Ward No. 8 Gujar Khan Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12248",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6113",
+      "_highlightResult": {
+          "name": {
+              "value": "Ward No. 8",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

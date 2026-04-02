@@ -1,0 +1,455 @@
+[
+  {
+      "id": 6205,
+      "name": "Jamrao Head",
+      "name_l1": "جمراو ہیڈ",
+      "externalID": "12443",
+      "slug": "/Sanghar_Jamrao_Head-12443",
+      "slug_l1": "/Sanghar_Jamrao_Head-12443",
+      "_geoloc": {
+          "lat": 26.432454,
+          "lng": 68.855465
+      },
+      "geography": {
+          "lat": 26.432454,
+          "lng": 68.855465
+      },
+      "geo_point": [
+          68.855465,
+          26.432454
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 123,
+              "level": 2,
+              "externalID": "8609",
+              "name": "Sanghar",
+              "name_l1": "سانگھڑ",
+              "slug": "/Sanghar-8609",
+              "slug_l1": "/Sanghar-8609"
+          },
+          {
+              "id": 6205,
+              "level": 3,
+              "externalID": "12443",
+              "name": "Jamrao Head",
+              "name_l1": "جمراو ہیڈ",
+              "slug": "/Sanghar_Jamrao_Head-12443",
+              "slug_l1": "/Sanghar_Jamrao_Head-12443"
+          }
+      ],
+      "hierarchyPath": "Jamrao Head Sanghar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12443",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "6205",
+      "_highlightResult": {
+          "name": {
+              "value": "Jamrao Head",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11605,
+      "name": "MA Jinnah Road",
+      "name_l1": "ایم اے جناح روڈ",
+      "externalID": "13130",
+      "slug": "/Sanghar_MA_Jinnah_Road-13130",
+      "slug_l1": "/Sanghar_MA_Jinnah_Road-13130",
+      "_geoloc": {
+          "lat": 26.047495,
+          "lng": 68.952718
+      },
+      "geography": {
+          "lat": 26.047495,
+          "lng": 68.952718
+      },
+      "geo_point": [
+          68.952718,
+          26.047495
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 123,
+              "level": 2,
+              "externalID": "8609",
+              "name": "Sanghar",
+              "name_l1": "سانگھڑ",
+              "slug": "/Sanghar-8609",
+              "slug_l1": "/Sanghar-8609"
+          },
+          {
+              "id": 11605,
+              "level": 3,
+              "externalID": "13130",
+              "name": "MA Jinnah Road",
+              "name_l1": "ایم اے جناح روڈ",
+              "slug": "/Sanghar_MA_Jinnah_Road-13130",
+              "slug_l1": "/Sanghar_MA_Jinnah_Road-13130"
+          }
+      ],
+      "hierarchyPath": "MA Jinnah Road Sanghar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13130",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11605",
+      "_highlightResult": {
+          "name": {
+              "value": "MA Jinnah Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11606,
+      "name": "Nawabshah Road",
+      "name_l1": "نوابشاہ روڈ",
+      "externalID": "13131",
+      "slug": "/Sanghar_Nawabshah_Road-13131",
+      "slug_l1": "/Sanghar_Nawabshah_Road-13131",
+      "_geoloc": {
+          "lat": 26.045706,
+          "lng": 68.944739
+      },
+      "geography": {
+          "lat": 26.045706,
+          "lng": 68.944739
+      },
+      "geo_point": [
+          68.944739,
+          26.045706
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 123,
+              "level": 2,
+              "externalID": "8609",
+              "name": "Sanghar",
+              "name_l1": "سانگھڑ",
+              "slug": "/Sanghar-8609",
+              "slug_l1": "/Sanghar-8609"
+          },
+          {
+              "id": 11606,
+              "level": 3,
+              "externalID": "13131",
+              "name": "Nawabshah Road",
+              "name_l1": "نوابشاہ روڈ",
+              "slug": "/Sanghar_Nawabshah_Road-13131",
+              "slug_l1": "/Sanghar_Nawabshah_Road-13131"
+          }
+      ],
+      "hierarchyPath": "Nawabshah Road Sanghar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13131",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11606",
+      "_highlightResult": {
+          "name": {
+              "value": "Nawabshah Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 123,
+      "name": "Sanghar",
+      "name_l1": "سانگھڑ",
+      "externalID": "8609",
+      "slug": "/Sanghar-8609",
+      "slug_l1": "/Sanghar-8609",
+      "_geoloc": {
+          "lat": 26.049707,
+          "lng": 68.946047
+      },
+      "geography": {
+          "lat": 26.049707,
+          "lng": 68.946047
+      },
+      "geo_point": [
+          68.946047,
+          26.049707
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 123,
+              "level": 2,
+              "externalID": "8609",
+              "name": "Sanghar",
+              "name_l1": "سانگھڑ",
+              "slug": "/Sanghar-8609",
+              "slug_l1": "/Sanghar-8609"
+          }
+      ],
+      "hierarchyPath": "Sanghar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8609",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "123",
+      "_highlightResult": {
+          "name": {
+              "value": "Sanghar",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4154,
+      "name": "Shahdadpur",
+      "name_l1": "شہداد پور",
+      "externalID": "8611",
+      "slug": "/Sanghar_Shahdadpur-8611",
+      "slug_l1": "/Sanghar_Shahdadpur-8611",
+      "_geoloc": {
+          "lat": 25.9234,
+          "lng": 68.621504
+      },
+      "geography": {
+          "lat": 25.9234,
+          "lng": 68.621504
+      },
+      "geo_point": [
+          68.621504,
+          25.9234
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 123,
+              "level": 2,
+              "externalID": "8609",
+              "name": "Sanghar",
+              "name_l1": "سانگھڑ",
+              "slug": "/Sanghar-8609",
+              "slug_l1": "/Sanghar-8609"
+          },
+          {
+              "id": 4154,
+              "level": 3,
+              "externalID": "8611",
+              "name": "Shahdadpur",
+              "name_l1": "شہداد پور",
+              "slug": "/Sanghar_Shahdadpur-8611",
+              "slug_l1": "/Sanghar_Shahdadpur-8611"
+          }
+      ],
+      "hierarchyPath": "Shahdadpur Sanghar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8611",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4154",
+      "_highlightResult": {
+          "name": {
+              "value": "Shahdadpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 4153,
+      "name": "Tando Adam",
+      "name_l1": "ٹنڈو آدم",
+      "externalID": "8610",
+      "slug": "/Sanghar_Tando_Adam-8610",
+      "slug_l1": "/Sanghar_Tando_Adam-8610",
+      "_geoloc": {
+          "lat": 25.768687,
+          "lng": 68.665209
+      },
+      "geography": {
+          "lat": 25.768687,
+          "lng": 68.665209
+      },
+      "geo_point": [
+          68.665209,
+          25.768687
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 123,
+              "level": 2,
+              "externalID": "8609",
+              "name": "Sanghar",
+              "name_l1": "سانگھڑ",
+              "slug": "/Sanghar-8609",
+              "slug_l1": "/Sanghar-8609"
+          },
+          {
+              "id": 4153,
+              "level": 3,
+              "externalID": "8610",
+              "name": "Tando Adam",
+              "name_l1": "ٹنڈو آدم",
+              "slug": "/Sanghar_Tando_Adam-8610",
+              "slug_l1": "/Sanghar_Tando_Adam-8610"
+          }
+      ],
+      "hierarchyPath": "Tando Adam Sanghar Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8610",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "4153",
+      "_highlightResult": {
+          "name": {
+              "value": "Tando Adam",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

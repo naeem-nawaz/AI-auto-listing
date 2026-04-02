@@ -1,0 +1,618 @@
+[
+  {
+      "id": 11959,
+      "name": "Makan Bagh",
+      "name_l1": "مکان باغ",
+      "externalID": "13480",
+      "slug": "/Mingora_Makan_Bagh-13480",
+      "slug_l1": "/Mingora_Makan_Bagh-13480",
+      "_geoloc": {
+          "lat": 34.768235,
+          "lng": 72.357647
+      },
+      "geography": {
+          "lat": 34.768235,
+          "lng": 72.357647
+      },
+      "geo_point": [
+          72.357647,
+          34.768235
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 11954,
+              "level": 2,
+              "externalID": "13476",
+              "name": "Mingora",
+              "name_l1": "مینگورہ",
+              "slug": "/Mingora-13476",
+              "slug_l1": "/Mingora-13476"
+          },
+          {
+              "id": 11959,
+              "level": 3,
+              "externalID": "13480",
+              "name": "Makan Bagh",
+              "name_l1": "مکان باغ",
+              "slug": "/Mingora_Makan_Bagh-13480",
+              "slug_l1": "/Mingora_Makan_Bagh-13480"
+          }
+      ],
+      "hierarchyPath": "Makan Bagh Mingora Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13480",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11959",
+      "_highlightResult": {
+          "name": {
+              "value": "Makan Bagh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11954,
+      "name": "Mingora",
+      "name_l1": "مینگورہ",
+      "externalID": "13476",
+      "slug": "/Mingora-13476",
+      "slug_l1": "/Mingora-13476",
+      "_geoloc": {
+          "lat": 34.772393,
+          "lng": 72.360077
+      },
+      "geography": {
+          "lat": 34.772393,
+          "lng": 72.360077
+      },
+      "geo_point": [
+          72.360077,
+          34.772393
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 11954,
+              "level": 2,
+              "externalID": "13476",
+              "name": "Mingora",
+              "name_l1": "مینگورہ",
+              "slug": "/Mingora-13476",
+              "slug_l1": "/Mingora-13476"
+          }
+      ],
+      "hierarchyPath": "Mingora Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13476",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "11954",
+      "_highlightResult": {
+          "name": {
+              "value": "Mingora",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18450,
+      "name": "Amankot",
+      "name_l1": "امان کوٹ",
+      "externalID": "19355",
+      "slug": "/Mingora_GT_Road_Amankot-19355",
+      "slug_l1": "/Mingora_GT_Road_Amankot-19355",
+      "_geoloc": {
+          "lat": 34.769784,
+          "lng": 72.349529
+      },
+      "geography": {
+          "lat": 34.769784,
+          "lng": 72.349529
+      },
+      "geo_point": [
+          72.349529,
+          34.769784
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 11954,
+              "level": 2,
+              "externalID": "13476",
+              "name": "Mingora",
+              "name_l1": "مینگورہ",
+              "slug": "/Mingora-13476",
+              "slug_l1": "/Mingora-13476"
+          },
+          {
+              "id": 18440,
+              "level": 3,
+              "externalID": "19354",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Mingora_GT_Road-19354",
+              "slug_l1": "/Mingora_GT_Road-19354"
+          },
+          {
+              "id": 18450,
+              "level": 4,
+              "externalID": "19355",
+              "name": "Amankot",
+              "name_l1": "امان کوٹ",
+              "slug": "/Mingora_GT_Road_Amankot-19355",
+              "slug_l1": "/Mingora_GT_Road_Amankot-19355"
+          }
+      ],
+      "hierarchyPath": "Amankot GT Road Mingora Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19355",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18450",
+      "_highlightResult": {
+          "name": {
+              "value": "Amankot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11958,
+      "name": "Bangladesh",
+      "name_l1": "بنگلہ دیش",
+      "externalID": "13479",
+      "slug": "/Mingora_Bangladesh-13479",
+      "slug_l1": "/Mingora_Bangladesh-13479",
+      "_geoloc": {
+          "lat": 34.768469,
+          "lng": 72.366234
+      },
+      "geography": {
+          "lat": 34.768469,
+          "lng": 72.366234
+      },
+      "geo_point": [
+          72.366234,
+          34.768469
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 11954,
+              "level": 2,
+              "externalID": "13476",
+              "name": "Mingora",
+              "name_l1": "مینگورہ",
+              "slug": "/Mingora-13476",
+              "slug_l1": "/Mingora-13476"
+          },
+          {
+              "id": 11958,
+              "level": 3,
+              "externalID": "13479",
+              "name": "Bangladesh",
+              "name_l1": "بنگلہ دیش",
+              "slug": "/Mingora_Bangladesh-13479",
+              "slug_l1": "/Mingora_Bangladesh-13479"
+          }
+      ],
+      "hierarchyPath": "Bangladesh Mingora Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13479",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11958",
+      "_highlightResult": {
+          "name": {
+              "value": "Bangladesh",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18440,
+      "name": "GT Road",
+      "name_l1": "جی ٹی روڈ",
+      "externalID": "19354",
+      "slug": "/Mingora_GT_Road-19354",
+      "slug_l1": "/Mingora_GT_Road-19354",
+      "_geoloc": {
+          "lat": 34.7716566,
+          "lng": 72.34816
+      },
+      "geography": {
+          "lat": 34.7716566,
+          "lng": 72.34816
+      },
+      "geo_point": [
+          72.34816,
+          34.7716566
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 11954,
+              "level": 2,
+              "externalID": "13476",
+              "name": "Mingora",
+              "name_l1": "مینگورہ",
+              "slug": "/Mingora-13476",
+              "slug_l1": "/Mingora-13476"
+          },
+          {
+              "id": 18440,
+              "level": 3,
+              "externalID": "19354",
+              "name": "GT Road",
+              "name_l1": "جی ٹی روڈ",
+              "slug": "/Mingora_GT_Road-19354",
+              "slug_l1": "/Mingora_GT_Road-19354"
+          }
+      ],
+      "hierarchyPath": "GT Road Mingora Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19354",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18440",
+      "_highlightResult": {
+          "name": {
+              "value": "GT Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11957,
+      "name": "Haji Baba Road",
+      "name_l1": "حاجی بابا روڈ",
+      "externalID": "13478",
+      "slug": "/Mingora_Haji_Baba_Road-13478",
+      "slug_l1": "/Mingora_Haji_Baba_Road-13478",
+      "_geoloc": {
+          "lat": 34.769924,
+          "lng": 72.367311
+      },
+      "geography": {
+          "lat": 34.769924,
+          "lng": 72.367311
+      },
+      "geo_point": [
+          72.367311,
+          34.769924
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 11954,
+              "level": 2,
+              "externalID": "13476",
+              "name": "Mingora",
+              "name_l1": "مینگورہ",
+              "slug": "/Mingora-13476",
+              "slug_l1": "/Mingora-13476"
+          },
+          {
+              "id": 11957,
+              "level": 3,
+              "externalID": "13478",
+              "name": "Haji Baba Road",
+              "name_l1": "حاجی بابا روڈ",
+              "slug": "/Mingora_Haji_Baba_Road-13478",
+              "slug_l1": "/Mingora_Haji_Baba_Road-13478"
+          }
+      ],
+      "hierarchyPath": "Haji Baba Road Mingora Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13478",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11957",
+      "_highlightResult": {
+          "name": {
+              "value": "Haji Baba Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18439,
+      "name": "Malam Jabba Road",
+      "name_l1": "مالم جبہ روڈ",
+      "externalID": "19353",
+      "slug": "/Mingora_Malam_Jabba_Road-19353",
+      "slug_l1": "/Mingora_Malam_Jabba_Road-19353",
+      "_geoloc": {
+          "lat": 34.808914,
+          "lng": 72.432496
+      },
+      "geography": {
+          "lat": 34.808914,
+          "lng": 72.432496
+      },
+      "geo_point": [
+          72.432496,
+          34.808914
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 11954,
+              "level": 2,
+              "externalID": "13476",
+              "name": "Mingora",
+              "name_l1": "مینگورہ",
+              "slug": "/Mingora-13476",
+              "slug_l1": "/Mingora-13476"
+          },
+          {
+              "id": 18439,
+              "level": 3,
+              "externalID": "19353",
+              "name": "Malam Jabba Road",
+              "name_l1": "مالم جبہ روڈ",
+              "slug": "/Mingora_Malam_Jabba_Road-19353",
+              "slug_l1": "/Mingora_Malam_Jabba_Road-19353"
+          }
+      ],
+      "hierarchyPath": "Malam Jabba Road Mingora Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19353",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18439",
+      "_highlightResult": {
+          "name": {
+              "value": "Malam Jabba Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11956,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13477",
+      "slug": "/Mingora_Others-13477",
+      "slug_l1": "/Mingora_Others-13477",
+      "_geoloc": {
+          "lat": 34.775849,
+          "lng": 72.359517
+      },
+      "geography": {
+          "lat": 34.775849,
+          "lng": 72.359517
+      },
+      "geo_point": [
+          72.359517,
+          34.775849
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 11954,
+              "level": 2,
+              "externalID": "13476",
+              "name": "Mingora",
+              "name_l1": "مینگورہ",
+              "slug": "/Mingora-13476",
+              "slug_l1": "/Mingora-13476"
+          },
+          {
+              "id": 11956,
+              "level": 3,
+              "externalID": "13477",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Mingora_Others-13477",
+              "slug_l1": "/Mingora_Others-13477"
+          }
+      ],
+      "hierarchyPath": "Others Mingora Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13477",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11956",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

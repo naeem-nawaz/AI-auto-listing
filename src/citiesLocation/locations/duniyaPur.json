@@ -1,0 +1,224 @@
+[
+  {
+      "id": 117,
+      "name": "Duniya Pur",
+      "name_l1": "دنیا پور",
+      "externalID": "8474",
+      "slug": "/Duniya_Pur-8474",
+      "slug_l1": "/Duniya_Pur-8474",
+      "_geoloc": {
+          "lat": 29.804231,
+          "lng": 71.740108
+      },
+      "geography": {
+          "lat": 29.804231,
+          "lng": 71.740108
+      },
+      "geo_point": [
+          71.740108,
+          29.804231
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 117,
+              "level": 2,
+              "externalID": "8474",
+              "name": "Duniya Pur",
+              "name_l1": "دنیا پور",
+              "slug": "/Duniya_Pur-8474",
+              "slug_l1": "/Duniya_Pur-8474"
+          }
+      ],
+      "hierarchyPath": "Duniya Pur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8474",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "117",
+      "_highlightResult": {
+          "name": {
+              "value": "Duniya Pur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18482,
+      "name": "Gulshan E Mehndi",
+      "name_l1": "گلشن مہندی",
+      "externalID": "19396",
+      "slug": "/Duniya_Pur_Gulshan_E_Mehndi-19396",
+      "slug_l1": "/Duniya_Pur_Gulshan_E_Mehndi-19396",
+      "_geoloc": {
+          "lat": 29.7993918,
+          "lng": 71.7532948
+      },
+      "geography": {
+          "lat": 29.7993918,
+          "lng": 71.7532948
+      },
+      "geo_point": [
+          71.7532948,
+          29.7993918
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 117,
+              "level": 2,
+              "externalID": "8474",
+              "name": "Duniya Pur",
+              "name_l1": "دنیا پور",
+              "slug": "/Duniya_Pur-8474",
+              "slug_l1": "/Duniya_Pur-8474"
+          },
+          {
+              "id": 18482,
+              "level": 3,
+              "externalID": "19396",
+              "name": "Gulshan E Mehndi",
+              "name_l1": "گلشن مہندی",
+              "slug": "/Duniya_Pur_Gulshan_E_Mehndi-19396",
+              "slug_l1": "/Duniya_Pur_Gulshan_E_Mehndi-19396"
+          }
+      ],
+      "hierarchyPath": "Gulshan E Mehndi Duniya Pur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19396",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18482",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan E Mehndi",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 11133,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "12726",
+      "slug": "/Duniya_Pur_Others-12726",
+      "slug_l1": "/Duniya_Pur_Others-12726",
+      "_geoloc": {
+          "lat": 29.803835,
+          "lng": 71.743075
+      },
+      "geography": {
+          "lat": 29.803835,
+          "lng": 71.743075
+      },
+      "geo_point": [
+          71.743075,
+          29.803835
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 117,
+              "level": 2,
+              "externalID": "8474",
+              "name": "Duniya Pur",
+              "name_l1": "دنیا پور",
+              "slug": "/Duniya_Pur-8474",
+              "slug_l1": "/Duniya_Pur-8474"
+          },
+          {
+              "id": 11133,
+              "level": 3,
+              "externalID": "12726",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Duniya_Pur_Others-12726",
+              "slug_l1": "/Duniya_Pur_Others-12726"
+          }
+      ],
+      "hierarchyPath": "Others Duniya Pur Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "12726",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "11133",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

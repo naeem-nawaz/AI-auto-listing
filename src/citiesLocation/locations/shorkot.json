@@ -1,0 +1,532 @@
+[
+  {
+      "id": 5875,
+      "name": "Darbar Road",
+      "name_l1": "دربار روڈ",
+      "externalID": "11796",
+      "slug": "/Shorkot_Darbar_Road-11796",
+      "slug_l1": "/Shorkot_Darbar_Road-11796",
+      "_geoloc": {
+          "lat": 30.830434,
+          "lng": 72.072341
+      },
+      "geography": {
+          "lat": 30.830434,
+          "lng": 72.072341
+      },
+      "geo_point": [
+          72.072341,
+          30.830434
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 152,
+              "level": 2,
+              "externalID": "10334",
+              "name": "Shorkot",
+              "name_l1": "شورکوٹ",
+              "slug": "/Shorkot-10334",
+              "slug_l1": "/Shorkot-10334"
+          },
+          {
+              "id": 5875,
+              "level": 3,
+              "externalID": "11796",
+              "name": "Darbar Road",
+              "name_l1": "دربار روڈ",
+              "slug": "/Shorkot_Darbar_Road-11796",
+              "slug_l1": "/Shorkot_Darbar_Road-11796"
+          }
+      ],
+      "hierarchyPath": "Darbar Road Shorkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11796",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5875",
+      "_highlightResult": {
+          "name": {
+              "value": "Darbar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5873,
+      "name": "Gharh Mahraja Road",
+      "name_l1": "گڑھ مہاراجہ روڈ",
+      "externalID": "11794",
+      "slug": "/Shorkot_Gharh_Mahraja_Road-11794",
+      "slug_l1": "/Shorkot_Gharh_Mahraja_Road-11794",
+      "_geoloc": {
+          "lat": 30.828303,
+          "lng": 72.059288
+      },
+      "geography": {
+          "lat": 30.828303,
+          "lng": 72.059288
+      },
+      "geo_point": [
+          72.059288,
+          30.828303
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 152,
+              "level": 2,
+              "externalID": "10334",
+              "name": "Shorkot",
+              "name_l1": "شورکوٹ",
+              "slug": "/Shorkot-10334",
+              "slug_l1": "/Shorkot-10334"
+          },
+          {
+              "id": 5873,
+              "level": 3,
+              "externalID": "11794",
+              "name": "Gharh Mahraja Road",
+              "name_l1": "گڑھ مہاراجہ روڈ",
+              "slug": "/Shorkot_Gharh_Mahraja_Road-11794",
+              "slug_l1": "/Shorkot_Gharh_Mahraja_Road-11794"
+          }
+      ],
+      "hierarchyPath": "Gharh Mahraja Road Shorkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11794",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5873",
+      "_highlightResult": {
+          "name": {
+              "value": "Gharh Mahraja Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5874,
+      "name": "Jhang Road",
+      "name_l1": "جھنگ روڈ",
+      "externalID": "11795",
+      "slug": "/Shorkot_Jhang_Road-11795",
+      "slug_l1": "/Shorkot_Jhang_Road-11795",
+      "_geoloc": {
+          "lat": 30.820546,
+          "lng": 72.068006
+      },
+      "geography": {
+          "lat": 30.820546,
+          "lng": 72.068006
+      },
+      "geo_point": [
+          72.068006,
+          30.820546
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 152,
+              "level": 2,
+              "externalID": "10334",
+              "name": "Shorkot",
+              "name_l1": "شورکوٹ",
+              "slug": "/Shorkot-10334",
+              "slug_l1": "/Shorkot-10334"
+          },
+          {
+              "id": 5874,
+              "level": 3,
+              "externalID": "11795",
+              "name": "Jhang Road",
+              "name_l1": "جھنگ روڈ",
+              "slug": "/Shorkot_Jhang_Road-11795",
+              "slug_l1": "/Shorkot_Jhang_Road-11795"
+          }
+      ],
+      "hierarchyPath": "Jhang Road Shorkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11795",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5874",
+      "_highlightResult": {
+          "name": {
+              "value": "Jhang Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5871,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "11792",
+      "slug": "/Shorkot_Others-11792",
+      "slug_l1": "/Shorkot_Others-11792",
+      "_geoloc": {
+          "lat": 30.833523,
+          "lng": 72.074518
+      },
+      "geography": {
+          "lat": 30.833523,
+          "lng": 72.074518
+      },
+      "geo_point": [
+          72.074518,
+          30.833523
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 152,
+              "level": 2,
+              "externalID": "10334",
+              "name": "Shorkot",
+              "name_l1": "شورکوٹ",
+              "slug": "/Shorkot-10334",
+              "slug_l1": "/Shorkot-10334"
+          },
+          {
+              "id": 5871,
+              "level": 3,
+              "externalID": "11792",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Shorkot_Others-11792",
+              "slug_l1": "/Shorkot_Others-11792"
+          }
+      ],
+      "hierarchyPath": "Others Shorkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11792",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5871",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18516,
+      "name": "Royal Garden",
+      "name_l1": "رائل گارڈن",
+      "externalID": "19432",
+      "slug": "/Shorkot_Royal_Garden-19432",
+      "slug_l1": "/Shorkot_Royal_Garden-19432",
+      "_geoloc": {
+          "lat": 30.79378,
+          "lng": 72.2441083
+      },
+      "geography": {
+          "lat": 30.79378,
+          "lng": 72.2441083
+      },
+      "geo_point": [
+          72.2441083,
+          30.79378
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 152,
+              "level": 2,
+              "externalID": "10334",
+              "name": "Shorkot",
+              "name_l1": "شورکوٹ",
+              "slug": "/Shorkot-10334",
+              "slug_l1": "/Shorkot-10334"
+          },
+          {
+              "id": 18516,
+              "level": 3,
+              "externalID": "19432",
+              "name": "Royal Garden",
+              "name_l1": "رائل گارڈن",
+              "slug": "/Shorkot_Royal_Garden-19432",
+              "slug_l1": "/Shorkot_Royal_Garden-19432"
+          }
+      ],
+      "hierarchyPath": "Royal Garden Shorkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19432",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18516",
+      "_highlightResult": {
+          "name": {
+              "value": "Royal Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 152,
+      "name": "Shorkot",
+      "name_l1": "شورکوٹ",
+      "externalID": "10334",
+      "slug": "/Shorkot-10334",
+      "slug_l1": "/Shorkot-10334",
+      "_geoloc": {
+          "lat": 30.83173,
+          "lng": 72.076363
+      },
+      "geography": {
+          "lat": 30.83173,
+          "lng": 72.076363
+      },
+      "geo_point": [
+          72.076363,
+          30.83173
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 152,
+              "level": 2,
+              "externalID": "10334",
+              "name": "Shorkot",
+              "name_l1": "شورکوٹ",
+              "slug": "/Shorkot-10334",
+              "slug_l1": "/Shorkot-10334"
+          }
+      ],
+      "hierarchyPath": "Shorkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "10334",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "152",
+      "_highlightResult": {
+          "name": {
+              "value": "Shorkot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5872,
+      "name": "Shorkot Cantt Road",
+      "name_l1": "شورکوٹ کینٹ روڈ",
+      "externalID": "11793",
+      "slug": "/Shorkot_Shorkot_Cantt_Road-11793",
+      "slug_l1": "/Shorkot_Shorkot_Cantt_Road-11793",
+      "_geoloc": {
+          "lat": 30.82479,
+          "lng": 72.092714
+      },
+      "geography": {
+          "lat": 30.82479,
+          "lng": 72.092714
+      },
+      "geo_point": [
+          72.092714,
+          30.82479
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 4,
+              "level": 1,
+              "externalID": "1522",
+              "name": "Punjab",
+              "name_l1": "پنجاب",
+              "slug": "/Punjab-1522",
+              "slug_l1": "/Punjab-1522"
+          },
+          {
+              "id": 152,
+              "level": 2,
+              "externalID": "10334",
+              "name": "Shorkot",
+              "name_l1": "شورکوٹ",
+              "slug": "/Shorkot-10334",
+              "slug_l1": "/Shorkot-10334"
+          },
+          {
+              "id": 5872,
+              "level": 3,
+              "externalID": "11793",
+              "name": "Shorkot Cantt Road",
+              "name_l1": "شورکوٹ کینٹ روڈ",
+              "slug": "/Shorkot_Shorkot_Cantt_Road-11793",
+              "slug_l1": "/Shorkot_Shorkot_Cantt_Road-11793"
+          }
+      ],
+      "hierarchyPath": "Shorkot Cantt Road Shorkot Punjab Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11793",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5872",
+      "_highlightResult": {
+          "name": {
+              "value": "Shorkot Cantt Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

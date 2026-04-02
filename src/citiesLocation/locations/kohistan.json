@@ -1,0 +1,70 @@
+[
+  {
+      "id": 16491,
+      "name": "Kohistan",
+      "name_l1": "کوہستان",
+      "externalID": "17733",
+      "slug": "/Kohistan-17733",
+      "slug_l1": "/Kohistan-17733",
+      "_geoloc": {
+          "lat": 35.355225,
+          "lng": 73.310371
+      },
+      "geography": {
+          "lat": 35.355225,
+          "lng": 73.310371
+      },
+      "geo_point": [
+          73.310371,
+          35.355225
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 16491,
+              "level": 2,
+              "externalID": "17733",
+              "name": "Kohistan",
+              "name_l1": "کوہستان",
+              "slug": "/Kohistan-17733",
+              "slug_l1": "/Kohistan-17733"
+          }
+      ],
+      "hierarchyPath": "Kohistan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17733",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16491",
+      "_highlightResult": {
+          "name": {
+              "value": "Kohistan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

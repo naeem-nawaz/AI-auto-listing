@@ -1,0 +1,1678 @@
+[
+    {
+        "id": 1,
+        "city": "Abbottabad",
+        "geo_location": {
+            "latitude": 34.1688,
+            "longitude": 73.2215
+        },
+        "zip_code": "22010",
+        "app_code": "PP001"
+    },
+    {
+        "id": 2,
+        "city": "Bahawalpur",
+        "geo_location": {
+            "latitude": 29.3956,
+            "longitude": 71.6836
+        },
+        "zip_code": "63100",
+        "app_code": "PP002"
+    },
+    {
+        "id": 3,
+        "city": "Chitral",
+        "geo_location": {
+            "latitude": 35.8511,
+            "longitude": 71.7864
+        },
+        "zip_code": "17200",
+        "app_code": "PP003"
+    },
+    {
+        "id": 4,
+        "city": "Daska",
+        "geo_location": {
+            "latitude": 32.3243,
+            "longitude": 74.3497
+        },
+        "zip_code": "51010",
+        "app_code": "PP004"
+    },
+    {
+        "id": 5,
+        "city": "Faisalabad",
+        "geo_location": {
+            "latitude": 31.4504,
+            "longitude": 73.135
+        },
+        "zip_code": "38000",
+        "app_code": "PP005"
+    },
+    {
+        "id": 6,
+        "city": "Gilgit",
+        "geo_location": {
+            "latitude": 35.9208,
+            "longitude": 74.3083
+        },
+        "zip_code": "15100",
+        "app_code": "PP006"
+    },
+    {
+        "id": 7,
+        "city": "Gujranwala",
+        "geo_location": {
+            "latitude": 32.1877,
+            "longitude": 74.1945
+        },
+        "zip_code": "52250",
+        "app_code": "PP007"
+    },
+    {
+        "id": 8,
+        "city": "Gujrat",
+        "geo_location": {
+            "latitude": 32.5742,
+            "longitude": 74.0754
+        },
+        "zip_code": "50700",
+        "app_code": "PP008"
+    },
+    {
+        "id": 9,
+        "city": "Gwadar",
+        "geo_location": {
+            "latitude": 25.1266,
+            "longitude": 62.3254
+        },
+        "zip_code": "91200",
+        "app_code": "PP009"
+    },
+    {
+        "id": 10,
+        "city": "Hafizabad",
+        "geo_location": {
+            "latitude": 32.0707,
+            "longitude": 73.688
+        },
+        "zip_code": "52110",
+        "app_code": "PP010"
+    },
+    {
+        "id": 11,
+        "city": "Hunza",
+        "geo_location": {
+            "latitude": 36.3167,
+            "longitude": 74.65
+        },
+        "zip_code": "15600",
+        "app_code": "PP011"
+    },
+    {
+        "id": 12,
+        "city": "Islamabad",
+        "geo_location": {
+            "latitude": 33.6844,
+            "longitude": 73.0479
+        },
+        "zip_code": "44000",
+        "app_code": "PP012"
+    },
+    {
+        "id": 13,
+        "city": "Jhelum",
+        "geo_location": {
+            "latitude": 32.9333,
+            "longitude": 73.7333
+        },
+        "zip_code": "49600",
+        "app_code": "PP013"
+    },
+    {
+        "id": 14,
+        "city": "Karachi",
+        "geo_location": {
+            "latitude": 24.8607,
+            "longitude": 67.0011
+        },
+        "zip_code": "74000",
+        "app_code": "PP014"
+    },
+    {
+        "id": 15,
+        "city": "Kasur",
+        "geo_location": {
+            "latitude": 31.1168,
+            "longitude": 74.4462
+        },
+        "zip_code": "55050",
+        "app_code": "PP015"
+    },
+    {
+        "id": 16,
+        "city": "Lahore",
+        "geo_location": {
+            "latitude": 31.5497,
+            "longitude": 74.3436
+        },
+        "zip_code": "54000",
+        "app_code": "PP016"
+    },
+    {
+        "id": 17,
+        "city": "Mian Channu",
+        "geo_location": {
+            "latitude": 30.4401,
+            "longitude": 72.3564
+        },
+        "zip_code": "58150",
+        "app_code": "PP017"
+    },
+    {
+        "id": 18,
+        "city": "Mianwali",
+        "geo_location": {
+            "latitude": 32.5836,
+            "longitude": 71.5439
+        },
+        "zip_code": "42200",
+        "app_code": "PP018"
+    },
+    {
+        "id": 19,
+        "city": "Multan",
+        "geo_location": {
+            "latitude": 30.1575,
+            "longitude": 71.5249
+        },
+        "zip_code": "60000",
+        "app_code": "PP019"
+    },
+    {
+        "id": 20,
+        "city": "Murree",
+        "geo_location": {
+            "latitude": 33.9064,
+            "longitude": 73.3943
+        },
+        "zip_code": "47150",
+        "app_code": "PP020"
+    },
+    {
+        "id": 21,
+        "city": "Naran",
+        "geo_location": {
+            "latitude": 34.9041,
+            "longitude": 73.658
+        },
+        "zip_code": "21200",
+        "app_code": "PP021"
+    },
+    {
+        "id": 22,
+        "city": "Narowal",
+        "geo_location": {
+            "latitude": 32.1011,
+            "longitude": 74.8741
+        },
+        "zip_code": "51600",
+        "app_code": "PP022"
+    },
+    {
+        "id": 23,
+        "city": "Okara",
+        "geo_location": {
+            "latitude": 30.8081,
+            "longitude": 73.4458
+        },
+        "zip_code": "56300",
+        "app_code": "PP023"
+    },
+    {
+        "id": 24,
+        "city": "Peshawar",
+        "geo_location": {
+            "latitude": 34.0151,
+            "longitude": 71.5249
+        },
+        "zip_code": "25000",
+        "app_code": "PP024"
+    },
+    {
+        "id": 25,
+        "city": "Quetta",
+        "geo_location": {
+            "latitude": 30.1798,
+            "longitude": 66.975
+        },
+        "zip_code": "87300",
+        "app_code": "PP025"
+    },
+    {
+        "id": 26,
+        "city": "Rahim Yar Khan",
+        "geo_location": {
+            "latitude": 28.4202,
+            "longitude": 70.2989
+        },
+        "zip_code": "64200",
+        "app_code": "PP026"
+    },
+    {
+        "id": 27,
+        "city": "Rawalpindi",
+        "geo_location": {
+            "latitude": 33.6844,
+            "longitude": 73.0479
+        },
+        "zip_code": "46000",
+        "app_code": "PP027"
+    },
+    {
+        "id": 28,
+        "city": "Sahiwal",
+        "geo_location": {
+            "latitude": 30.6709,
+            "longitude": 73.1066
+        },
+        "zip_code": "57000",
+        "app_code": "PP028"
+    },
+    {
+        "id": 29,
+        "city": "Sheikhupura",
+        "geo_location": {
+            "latitude": 31.7131,
+            "longitude": 73.9783
+        },
+        "zip_code": "39350",
+        "app_code": "PP029"
+    },
+    {
+        "id": 30,
+        "city": "Sialkot",
+        "geo_location": {
+            "latitude": 32.4945,
+            "longitude": 74.5229
+        },
+        "zip_code": "51310",
+        "app_code": "PP030"
+    },
+    {
+        "id": 31,
+        "city": "Toba Tek Singh",
+        "geo_location": {
+            "latitude": 30.9743,
+            "longitude": 72.4827
+        },
+        "zip_code": "36050",
+        "app_code": "PP031"
+    },
+    {
+        "id": 32,
+        "city": "Wazirabad",
+        "geo_location": {
+            "latitude": 32.4458,
+            "longitude": 74.1136
+        },
+        "zip_code": "52000",
+        "app_code": "PP032"
+    } ,
+      {
+            "id": 33,
+            "city": "Abdul Hakim",
+            "geo_location": { "latitude": 30.5531, "longitude": 72.1270 },
+            "zip_code": "58030",
+            "app_code": "PP033"
+        },
+        {
+            "id": 34,
+            "city": "Ahmedpur East",
+            "geo_location": { "latitude": 29.1451, "longitude": 71.2595 },
+            "zip_code": "62450",
+            "app_code": "PP034"
+        },
+        {
+            "id": 35,
+            "city": "Ali Masjid",
+            "geo_location": { "latitude": 34.9606, "longitude": 71.0826 },
+            "zip_code": "",
+            "app_code": "PP035"
+        },
+        {
+            "id": 36,
+            "city": "Alipur",
+            "geo_location": { "latitude": 29.3855, "longitude": 70.9103 },
+            "zip_code": "34450",
+            "app_code": "PP036"
+        },
+        {
+            "id": 37,
+            "city": "Arifwala",
+            "geo_location": { "latitude": 30.2956, "longitude": 73.0662 },
+            "zip_code": "57450",
+            "app_code": "PP037"
+        },
+        {
+            "id": 38,
+            "city": "Astore",
+            "geo_location": { "latitude": 35.3453, "longitude": 74.8957 },
+            "zip_code": "",
+            "app_code": "PP038"
+        },
+        {
+            "id": 39,
+            "city": "Attock",
+            "geo_location": { "latitude": 33.7732, "longitude": 72.3595 },
+            "zip_code": "43600",
+            "app_code": "PP039"
+        },
+        {
+            "id": 40,
+            "city": "Awaran",
+            "geo_location": { "latitude": 26.4667, "longitude": 65.2333 },
+            "zip_code": "",
+            "app_code": "PP040"
+        },
+        {
+            "id": 41,
+            "city": "Badin",
+            "geo_location": { "latitude": 24.6557, "longitude": 68.8381 },
+            "zip_code": "72200",
+            "app_code": "PP041"
+        },
+        {
+            "id": 42,
+            "city": "Bagh",
+            "geo_location": { "latitude": 33.9742, "longitude": 73.7677 },
+            "zip_code": "",
+            "app_code": "PP042"
+        },
+        {
+            "id": 43,
+            "city": "Bahawalnagar",
+            "geo_location": { "latitude": 29.9987, "longitude": 73.2536 },
+            "zip_code": "62300",
+            "app_code": "PP043"
+        },
+        {
+            "id": 44,
+            "city": "Balakot",
+            "geo_location": { "latitude": 34.5500, "longitude": 73.3500 },
+            "zip_code": "",
+            "app_code": "PP044"
+        },
+        {
+            "id": 45,
+            "city": "Bannu",
+            "geo_location": { "latitude": 32.9851, "longitude": 70.6027 },
+            "zip_code": "28100",
+            "app_code": "PP045"
+        },
+        {
+            "id": 46,
+            "city": "Barnala",
+            "geo_location": { "latitude": 32.3742, "longitude": 74.3631 },
+            "zip_code": "",
+            "app_code": "PP046"
+        },
+        {
+            "id": 47,
+            "city": "Batkhela",
+            "geo_location": { "latitude": 34.6167, "longitude": 71.9833 },
+            "zip_code": "23020",
+            "app_code": "PP047"
+        },
+        {
+            "id": 48,
+            "city": "Battagram",
+            "geo_location": { "latitude": 34.6796, "longitude": 73.0279 },
+            "zip_code": "21040",
+            "app_code": "PP048"
+        },
+        {
+            "id": 49,
+            "city": "Bhakkar",
+            "geo_location": { "latitude": 31.6337, "longitude": 71.0657 },
+            "zip_code": "30000",
+            "app_code": "PP049"
+        },
+        {
+            "id": 50,
+            "city": "Bhalwal",
+            "geo_location": { "latitude": 32.2654, "longitude": 72.8962 },
+            "zip_code": "40410",
+            "app_code": "PP050"
+        },
+        {
+            "id": 51,
+            "city": "Bhimber",
+            "geo_location": { "latitude": 32.9752, "longitude": 74.0792 },
+            "zip_code": "",
+            "app_code": "PP051"
+        },
+        {
+            "id": 52,
+            "city": "Buner",
+            "geo_location": { "latitude": 34.5333, "longitude": 72.4333 },
+            "zip_code": "",
+            "app_code": "PP052"
+        },
+        {
+            "id": 53,
+            "city": "Burewala",
+            "geo_location": { "latitude": 30.1667, "longitude": 72.6500 },
+            "zip_code": "61010",
+            "app_code": "PP053"
+        },
+        {
+            "id": 54,
+            "city": "Chaghi",
+            "geo_location": { "latitude": 29.0196, "longitude": 64.7657 },
+            "zip_code": "",
+            "app_code": "PP054"
+        },
+        {
+            "id": 55,
+            "city": "Chakwal",
+            "geo_location": { "latitude": 32.9331, "longitude": 72.8576 },
+            "zip_code": "48800",
+            "app_code": "PP055"
+        },
+        {
+            "id": 56,
+            "city": "Charsadda",
+            "geo_location": { "latitude": 34.1483, "longitude": 71.7333 },
+            "zip_code": "24450",
+            "app_code": "PP056"
+        },
+        {
+            "id": 57,
+            "city": "Chichawatni",
+            "geo_location": { "latitude": 30.5305, "longitude": 72.7053 },
+            "zip_code": "57200",
+            "app_code": "PP057"
+        },
+        {
+            "id": 58,
+            "city": "Chilas",
+            "geo_location": { "latitude": 35.4206, "longitude": 74.0961 },
+            "zip_code": "",
+            "app_code": "PP058"
+        },
+        {
+            "id": 59,
+            "city": "Chiniot",
+            "geo_location": { "latitude": 31.7200, "longitude": 72.9789 },
+            "zip_code": "35400",
+            "app_code": "PP059"
+        },
+        {
+            "id": 60,
+            "city": "Chishtian",
+            "geo_location": { "latitude": 29.8000, "longitude": 72.8667 },
+            "zip_code": "62050",
+            "app_code": "PP060"
+        },
+        {
+            "id": 61,
+            "city": "Chishtian Sharif",
+            "geo_location": { "latitude": 29.8, "longitude": 72.8667 },
+            "zip_code": "62050",
+            "app_code": "PP061"
+        },
+        {
+            "id": 62,
+            "city": "Choa Saidan Shah",
+            "geo_location": { "latitude": 32.7206, "longitude": 72.9817 },
+            "zip_code": "48700",
+            "app_code": "PP062"
+        },
+        {
+            "id": 63,
+            "city": "Chunian",
+            "geo_location": { "latitude": 30.9667, "longitude": 73.8 },
+            "zip_code": "55200",
+            "app_code": "PP063"
+        },
+        {
+            "id": 64,
+            "city": "Dadu",
+            "geo_location": { "latitude": 26.7333, "longitude": 67.7833 },
+            "zip_code": "76300",
+            "app_code": "PP064"
+        },
+        {
+            "id": 65,
+            "city": "Daharki",
+            "geo_location": { "latitude": 28.4333, "longitude": 69.5833 },
+            "zip_code": "65030",
+            "app_code": "PP065"
+        },
+        {
+            "id": 66,
+            "city": "Daur",
+            "geo_location": { "latitude": 26.45, "longitude": 68.3167 },
+            "zip_code": "",
+            "app_code": "PP066"
+        },
+        {
+            "id": 67,
+            "city": "Depalpur",
+            "geo_location": { "latitude": 30.6706, "longitude": 73.6518 },
+            "zip_code": "56000",
+            "app_code": "PP067"
+        },
+        {
+            "id": 68,
+            "city": "Dera Ghazi Khan",
+            "geo_location": { "latitude": 30.0561, "longitude": 70.6342 },
+            "zip_code": "32200",
+            "app_code": "PP068"
+        },
+        {
+            "id": 69,
+            "city": "Dera Ismail Khan",
+            "geo_location": { "latitude": 31.8338, "longitude": 70.9024 },
+            "zip_code": "29050",
+            "app_code": "PP069"
+        },
+        {
+            "id": 70,
+            "city": "Dijkot",
+            "geo_location": { "latitude": 31.2177, "longitude": 72.9961 },
+            "zip_code": "37000",
+            "app_code": "PP070"
+        },
+        {
+            "id": 71,
+            "city": "Dina",
+            "geo_location": { "latitude": 33.0147, "longitude": 73.6034 },
+            "zip_code": "49400",
+            "app_code": "PP071"
+        },
+        {
+            "id": 72,
+            "city": "Dinga",
+            "geo_location": { "latitude": 32.6412, "longitude": 73.7227 },
+            "zip_code": "50280",
+            "app_code": "PP072"
+        },
+        {
+            "id": 73,
+            "city": "Dobian",
+            "geo_location": { "latitude": 34.2518, "longitude": 72.8629 },
+            "zip_code": "",
+            "app_code": "PP073"
+        },
+        {
+            "id": 74,
+            "city": "Duniya Pur",
+            "geo_location": { "latitude": 29.802, "longitude": 71.6893 },
+            "zip_code": "",
+            "app_code": "PP074"
+        },
+        {
+            "id": 75,
+            "city": "FATA",
+            "geo_location": { "latitude": 32.5, "longitude": 69.8 },
+            "zip_code": "",
+            "app_code": "PP075"
+        },
+        {
+            "id": 76,
+            "city": "Fateh Jang",
+            "geo_location": { "latitude": 33.5639, "longitude": 72.6361 },
+            "zip_code": "43450",
+            "app_code": "PP076"
+        },
+        {
+            "id": 77,
+            "city": "Gaddani",
+            "geo_location": { "latitude": 25.1153, "longitude": 66.7136 },
+            "zip_code": "",
+            "app_code": "PP077"
+        },
+        {
+            "id": 78,
+            "city": "Gadoon",
+            "geo_location": { "latitude": 34.215, "longitude": 72.6447 },
+            "zip_code": "",
+            "app_code": "PP078"
+        },
+        {
+            "id": 79,
+            "city": "Galyat",
+            "geo_location": { "latitude": 34.0808, "longitude": 73.3954 },
+            "zip_code": "",
+            "app_code": "PP079"
+        },
+        {
+            "id": 80,
+            "city": "Gambat",
+            "geo_location": { "latitude": 27.3515, "longitude": 68.5247 },
+            "zip_code": "66060",
+            "app_code": "PP080"
+        },
+        {
+            "id": 81,
+            "city": "Ghakhar",
+            "geo_location": { "latitude": 32.3137, "longitude": 74.1872 },
+            "zip_code": "52200",
+            "app_code": "PP081"
+        },
+        {
+            "id": 82,
+            "city": "Ghanche",
+            "geo_location": { "latitude": 35.1461, "longitude": 76.1907 },
+            "zip_code": "",
+            "app_code": "PP082"
+        },
+        {
+            "id": 83,
+            "city": "Gharo",
+            "geo_location": { "latitude": 24.7436, "longitude": 67.5856 },
+            "zip_code": "",
+            "app_code": "PP083"
+        },
+        {
+            "id": 84,
+            "city": "Ghizar",
+            "geo_location": { "latitude": 36.3074, "longitude": 73.9426 },
+            "zip_code": "",
+            "app_code": "PP084"
+        },
+        {
+            "id": 85,
+            "city": "Ghotki",
+            "geo_location": { "latitude": 28.0072, "longitude": 69.3151 },
+            "zip_code": "65000",
+            "app_code": "PP085"
+        },
+        {
+            "id": 86,
+            "city": "Gojra",
+            "geo_location": { "latitude": 31.1485, "longitude": 72.6855 },
+            "zip_code": "36120",
+            "app_code": "PP086"
+        },
+        {
+            "id": 87,
+            "city": "Gujar Khan",
+            "geo_location": { "latitude": 33.2554, "longitude": 73.3022 },
+            "zip_code": "48000",
+            "app_code": "PP087"
+        },
+        {
+            "id": 88,
+            "city": "Hala",
+            "geo_location": { "latitude": 25.7995, "longitude": 68.4103 },
+            "zip_code": "70050",
+            "app_code": "PP088"
+        },
+        {
+            "id": 89,
+            "city": "Hangu",
+            "geo_location": { "latitude": 33.5262, "longitude": 71.0636 },
+            "zip_code": "",
+            "app_code": "PP089"
+        },
+        {
+            "id": 90,
+            "city": "Harappa",
+            "geo_location": { "latitude": 30.5919, "longitude": 72.8741 },
+            "zip_code": "57150",
+            "app_code": "PP090"
+        },
+        {
+            "id": 91,
+            "city": "Haripur",
+            "geo_location": { "latitude": 33.9994, "longitude": 72.9342 },
+            "zip_code": "22620",
+            "app_code": "PP091"
+        },
+        {
+            "id": 92,
+            "city": "Haroonabad",
+            "geo_location": { "latitude": 29.6102, "longitude": 73.1321 },
+            "zip_code": "62100",
+            "app_code": "PP092"
+        },
+        {
+            "id": 93,
+            "city": "Hasilpur",
+            "geo_location": { "latitude": 29.6967, "longitude": 72.5542 },
+            "zip_code": "63050",
+            "app_code": "PP093"
+        },
+        {
+            "id": 94,
+            "city": "Hassan Abdal",
+            "geo_location": { "latitude": 33.8183, "longitude": 72.6890 },
+            "zip_code": "",
+            "app_code": "PP094"
+        },
+        {
+            "id": 95,
+            "city": "Haveli Lakha",
+            "geo_location": { "latitude": 30.4500, "longitude": 73.7000 },
+            "zip_code": "",
+            "app_code": "PP095"
+        },
+        {
+            "id": 96,
+            "city": "Hazro",
+            "geo_location": { "latitude": 33.9094, "longitude": 72.4926 },
+            "zip_code": "43410",
+            "app_code": "PP096"
+        },
+        {
+            "id": 97,
+            "city": "Hub Chowki",
+            "geo_location": { "latitude": 25.0271, "longitude": 66.8617 },
+            "zip_code": "90250",
+            "app_code": "PP097"
+        },
+        {
+            "id": 98,
+            "city": "Hujra Shah Muqeem",
+            "geo_location": { "latitude": 30.7401, "longitude": 73.8214 },
+            "zip_code": "56170",
+            "app_code": "PP098"
+        },
+        {
+            "id": 99,
+            "city": "Hyderabad",
+            "geo_location": { "latitude": 25.3969, "longitude": 68.3772 },
+            "zip_code": "71000",
+            "app_code": "PP099"
+        },
+        {
+            "id": 100,
+            "city": "Jacobabad",
+            "geo_location": { "latitude": 28.2810, "longitude": 68.4383 },
+            "zip_code": "79000",
+            "app_code": "PP100"
+        },
+        {
+            "id": 101,
+            "city": "Jahanian",
+            "geo_location": { "latitude": 30.2747, "longitude": 71.8452 },
+            "zip_code": "58200",
+            "app_code": "PP101"
+        },
+        {
+            "id": 102,
+            "city": "Jalalpur Jattan",
+            "geo_location": { "latitude": 32.6412, "longitude": 74.2057 },
+            "zip_code": "50790",
+            "app_code": "PP102"
+        },
+        {
+            "id": 103,
+            "city": "Jampur",
+            "geo_location": { "latitude": 29.6447, "longitude": 70.5939 },
+            "zip_code": "33600",
+            "app_code": "PP103"
+        },
+        {
+            "id": 104,
+            "city": "Jamshoro",
+            "geo_location": { "latitude": 25.4167, "longitude": 68.2500 },
+            "zip_code": "76090",
+            "app_code": "PP104"
+        },
+        {
+            "id": 105,
+            "city": "Jandola",
+            "geo_location": { "latitude": 32.3024, "longitude": 69.9041 },
+            "zip_code": "",
+            "app_code": "PP105"
+        },
+        {
+            "id": 106,
+            "city": "Jaranwala",
+            "geo_location": { "latitude": 31.3333, "longitude": 73.4333 },
+            "zip_code": "37250",
+            "app_code": "PP106"
+        },
+        {
+            "id": 107,
+            "city": "Jatoi",
+            "geo_location": { "latitude": 29.5167, "longitude": 70.8494 },
+            "zip_code": "34400",
+            "app_code": "PP107"
+        },
+        {
+            "id": 108,
+            "city": "Jauharabad",
+            "geo_location": { "latitude": 32.2863, "longitude": 72.2811 },
+            "zip_code": "41300",
+            "app_code": "PP108"
+        },
+        {
+            "id": 109,
+            "city": "Jhang",
+            "geo_location": { "latitude": 31.2743, "longitude": 72.3162 },
+            "zip_code": "35200",
+            "app_code": "PP109"
+        },
+        {
+            "id": 110,
+            "city": "Kabirwala",
+            "geo_location": { "latitude": 30.4064, "longitude": 71.8667 },
+            "zip_code": "58150",
+            "app_code": "PP110"
+        },
+        {
+            "id": 111,
+            "city": "Kaghan",
+            "geo_location": { "latitude": 34.592, "longitude": 73.4872 },
+            "zip_code": "",
+            "app_code": "PP111"
+        },
+        {
+            "id": 112,
+            "city": "Kahror Pakka",
+            "geo_location": { "latitude": 29.6238, "longitude": 71.9116 },
+            "zip_code": "59300",
+            "app_code": "PP112"
+        },
+        {
+            "id": 113,
+            "city": "Kalat",
+            "geo_location": { "latitude": 29.0258, "longitude": 66.5939 },
+            "zip_code": "88300",
+            "app_code": "PP113"
+        },
+        {
+            "id": 114,
+            "city": "Kamalia",
+            "geo_location": { "latitude": 30.7333, "longitude": 72.6500 },
+            "zip_code": "36350",
+            "app_code": "PP114"
+        },
+        {
+            "id": 115,
+            "city": "Kamoki",
+            "geo_location": { "latitude": 31.9744, "longitude": 74.2239 },
+            "zip_code": "50661",
+            "app_code": "PP115"
+        },
+        {
+            "id": 116,
+            "city": "Kandiaro",
+            "geo_location": { "latitude": 26.1531, "longitude": 68.2087 },
+            "zip_code": "",
+            "app_code": "PP116"
+        },
+        {
+            "id": 117,
+            "city": "Karak",
+            "geo_location": { "latitude": 33.1157, "longitude": 71.0942 },
+            "zip_code": "27200",
+            "app_code": "PP117"
+        },
+        {
+            "id": 118,
+            "city": "Khairpur",
+            "geo_location": { "latitude": 27.5295, "longitude": 68.7592 },
+            "zip_code": "66020",
+            "app_code": "PP118"
+        },
+        {
+            "id": 119,
+            "city": "Khanewal",
+            "geo_location": { "latitude": 30.3017, "longitude": 71.9325 },
+            "zip_code": "58150",
+            "app_code": "PP119"
+        },
+        {
+            "id": 120,
+            "city": "Khanpur",
+            "geo_location": { "latitude": 28.6471, "longitude": 70.6647 },
+            "zip_code": "64100",
+            "app_code": "PP120"
+        },
+        {
+            "id": 121,
+            "city": "Khaplu",
+            "geo_location": { "latitude": 35.1551, "longitude": 76.3310 },
+            "zip_code": "",
+            "app_code": "PP121"
+        },
+        {
+            "id": 122,
+            "city": "Kharian",
+            "geo_location": { "latitude": 32.8137, "longitude": 73.8636 },
+            "zip_code": "50090",
+            "app_code": "PP122"
+        },
+        {
+            "id": 123,
+            "city": "Khipro",
+            "geo_location": { "latitude": 26.1503, "longitude": 69.0472 },
+            "zip_code": "",
+            "app_code": "PP123"
+        },
+        {
+            "id": 124,
+            "city": "Khushab",
+            "geo_location": { "latitude": 32.2951, "longitude": 72.3507 },
+            "zip_code": "41000",
+            "app_code": "PP124"
+        },
+        {
+            "id": 125,
+            "city": "Khuzdar",
+            "geo_location": { "latitude": 27.8167, "longitude": 66.6167 },
+            "zip_code": "89100",
+            "app_code": "PP125"
+        },
+        {
+            "id": 126,
+            "city": "Kohat",
+            "geo_location": { "latitude": 33.5860, "longitude": 71.4351 },
+            "zip_code": "26000",
+            "app_code": "PP126"
+        },
+        {
+            "id": 127,
+            "city": "Kohistan",
+            "geo_location": { "latitude": 35.1682, "longitude": 73.2376 },
+            "zip_code": "",
+            "app_code": "PP127"
+        },
+        {
+            "id": 128,
+            "city": "Kot Addu",
+            "geo_location": { "latitude": 30.4700, "longitude": 70.9667 },
+            "zip_code": "34050",
+            "app_code": "PP128"
+        },
+        {
+            "id": 129,
+            "city": "Kotli",
+            "geo_location": { "latitude": 33.5167, "longitude": 73.9167 },
+            "zip_code": "",
+            "app_code": "PP129"
+        },
+        {
+            "id": 130,
+            "city": "Kotri",
+            "geo_location": { "latitude": 25.3647, "longitude": 68.3019 },
+            "zip_code": "",
+            "app_code": "PP130"
+        },
+        {
+            "id": 131,
+            "city": "Lakki Marwat",
+            "geo_location": { "latitude": 32.6083, "longitude": 70.9124 },
+            "zip_code": "28420",
+            "app_code": "PP131"
+        },
+        {
+            "id": 132,
+            "city": "Lalamusa",
+            "geo_location": { "latitude": 32.7029, "longitude": 73.9616 },
+            "zip_code": "50200",
+            "app_code": "PP132"
+        },
+        {
+            "id": 133,
+            "city": "Landi Kotal",
+            "geo_location": { "latitude": 34.1089, "longitude": 71.1474 },
+            "zip_code": "",
+            "app_code": "PP133"
+        },
+        {
+            "id": 134,
+            "city": "Larkana",
+            "geo_location": { "latitude": 27.5544, "longitude": 68.2081 },
+            "zip_code": "77150",
+            "app_code": "PP134"
+        },
+        {
+            "id": 135,
+            "city": "Lasbela",
+            "geo_location": { "latitude": 25.8750, "longitude": 66.4939 },
+            "zip_code": "",
+            "app_code": "PP135"
+        },
+        {
+            "id": 136,
+            "city": "Layyah",
+            "geo_location": { "latitude": 30.9646, "longitude": 70.9397 },
+            "zip_code": "31200",
+            "app_code": "PP136"
+        },
+        {
+            "id": 137,
+            "city": "Liaquatpur",
+            "geo_location": { "latitude": 28.9271, "longitude": 70.9695 },
+            "zip_code": "64200",
+            "app_code": "PP137"
+        },
+        {
+            "id": 138,
+            "city": "Lodhran",
+            "geo_location": { "latitude": 29.5387, "longitude": 71.6336 },
+            "zip_code": "59320",
+            "app_code": "PP138"
+        },
+        {
+            "id": 139,
+            "city": "Loralai",
+            "geo_location": { "latitude": 30.3708, "longitude": 68.5974 },
+            "zip_code": "84800",
+            "app_code": "PP139"
+        },
+        {
+            "id": 140,
+            "city": "Lower Dir",
+            "geo_location": { "latitude": 35.1112, "longitude": 71.9179 },
+            "zip_code": "",
+            "app_code": "PP140"
+        },
+        {
+            "id": 141,
+            "city": "Mailsi",
+            "geo_location": { "latitude": 29.8011, "longitude": 72.1758 },
+            "zip_code": "61300",
+            "app_code": "PP141"
+        },
+        {
+            "id": 142,
+            "city": "Makran",
+            "geo_location": { "latitude": 26.2410, "longitude": 63.7126 },
+            "zip_code": "",
+            "app_code": "PP142"
+        },
+        {
+            "id": 143,
+            "city": "Malakand",
+            "geo_location": { "latitude": 34.5656, "longitude": 71.9309 },
+            "zip_code": "",
+            "app_code": "PP143"
+        },
+        {
+            "id": 144,
+            "city": "Malal",
+            "geo_location": { "latitude": 33.0453, "longitude": 72.8631 },
+            "zip_code": "",
+            "app_code": "PP144"
+        },
+        {
+            "id": 145,
+            "city": "Mandi Bahauddin",
+            "geo_location": { "latitude": 32.5836, "longitude": 73.4846 },
+            "zip_code": "50400",
+            "app_code": "PP145"
+        },
+        {
+            "id": 146,
+            "city": "Mangla",
+            "geo_location": { "latitude": 33.1363, "longitude": 73.6383 },
+            "zip_code": "",
+            "app_code": "PP146"
+        },
+        {
+            "id": 147,
+            "city": "Mansehra",
+            "geo_location": { "latitude": 34.3333, "longitude": 73.2000 },
+            "zip_code": "21300",
+            "app_code": "PP147"
+        },
+        {
+            "id": 148,
+            "city": "Mardan",
+            "geo_location": { "latitude": 34.1990, "longitude": 72.0448 },
+            "zip_code": "23200",
+            "app_code": "PP148"
+        },
+        {
+            "id": 149,
+            "city": "Matiari",
+            "geo_location": { "latitude": 25.5941, "longitude": 68.4467 },
+            "zip_code": "",
+            "app_code": "PP149"
+        },
+        {
+            "id": 150,
+            "city": "Matli",
+            "geo_location": { "latitude": 25.0516, "longitude": 68.2665 },
+            "zip_code": "",
+            "app_code": "PP150"
+        },
+        {
+            "id": 151,
+            "city": "Mehrabpur",
+            "geo_location": { "latitude": 27.1784, "longitude": 68.0166 },
+            "zip_code": "67060",
+            "app_code": "PP151"
+        },
+        {
+            "id": 152,
+            "city": "Mingora",
+            "geo_location": { "latitude": 35.1996, "longitude": 72.0476 },
+            "zip_code": "",
+            "app_code": "PP152"
+        },
+        {
+            "id": 153,
+            "city": "Miran Shah",
+            "geo_location": { "latitude": 33.0028, "longitude": 70.0631 },
+            "zip_code": "",
+            "app_code": "PP153"
+        },
+        {
+            "id": 154,
+            "city": "Mirpur",
+            "geo_location": { "latitude": 33.1464, "longitude": 73.7477 },
+            "zip_code": "",
+            "app_code": "PP154"
+        },
+        {
+            "id": 155,
+            "city": "Mirpur Khas",
+            "geo_location": { "latitude": 25.5280, "longitude": 69.0111 },
+            "zip_code": "69000",
+            "app_code": "PP155"
+        },
+        {
+            "id": 156,
+            "city": "Mirpur Sakro",
+            "geo_location": { "latitude": 24.6167, "longitude": 67.4833 },
+            "zip_code": "",
+            "app_code": "PP156"
+        },
+        {
+            "id": 157,
+            "city": "Mitha Tiwana",
+            "geo_location": { "latitude": 32.2483, "longitude": 71.4845 },
+            "zip_code": "",
+            "app_code": "PP157"
+        },
+        {
+            "id": 158,
+            "city": "Moro",
+            "geo_location": { "latitude": 26.6667, "longitude": 68.0000 },
+            "zip_code": "67070",
+            "app_code": "PP158"
+        },
+        {
+            "id": 159,
+            "city": "Muridke",
+            "geo_location": { "latitude": 31.8022, "longitude": 74.2612 },
+            "zip_code": "39000",
+            "app_code": "PP159"
+        },
+        {
+            "id": 160,
+            "city": "Muzaffarabad",
+            "geo_location": { "latitude": 34.3700, "longitude": 73.4700 },
+            "zip_code": "",
+            "app_code": "PP160"
+        },
+        {
+            "id": 161,
+            "city": "Muzaffargarh",
+            "geo_location": { "latitude": 30.0703, "longitude": 71.1933 },
+            "zip_code": "34200",
+            "app_code": "PP161"
+        },
+        {
+            "id": 162,
+            "city": "Nankana Sahib",
+            "geo_location": { "latitude": 31.4492, "longitude": 73.7124 },
+            "zip_code": "39100",
+            "app_code": "PP162"
+        },
+        {
+            "id": 163,
+            "city": "Nasirabad",
+            "geo_location": { "latitude": 27.3856, "longitude": 68.3606 },
+            "zip_code": "",
+            "app_code": "PP163"
+        },
+        {
+            "id": 164,
+            "city": "Naushahro Feroze",
+            "geo_location": { "latitude": 26.8424, "longitude": 68.1227 },
+            "zip_code": "67370",
+            "app_code": "PP164"
+        },
+        {
+            "id": 165,
+            "city": "Nawabshah",
+            "geo_location": { "latitude": 26.2456, "longitude": 68.4109 },
+            "zip_code": "67450",
+            "app_code": "PP165"
+        },
+        {
+            "id": 166,
+            "city": "Neelum",
+            "geo_location": { "latitude": 34.5869, "longitude": 73.9371 },
+            "zip_code": "",
+            "app_code": "PP166"
+        },
+        {
+            "id": 167,
+            "city": "Nowshera",
+            "geo_location": { "latitude": 34.0101, "longitude": 71.9789 },
+            "zip_code": "24110",
+            "app_code": "PP167"
+        },
+        {
+            "id": 168,
+            "city": "Pakpattan",
+            "geo_location": { "latitude": 30.3410, "longitude": 73.3866 },
+            "zip_code": "57400",
+            "app_code": "PP168"
+        },
+        {
+            "id": 169,
+            "city": "Pallandri",
+            "geo_location": { "latitude": 33.7171, "longitude": 73.6902 },
+            "zip_code": "",
+            "app_code": "PP169"
+        },
+        {
+            "id": 170,
+            "city": "Parachinar",
+            "geo_location": { "latitude": 33.8992, "longitude": 70.1008 },
+            "zip_code": "",
+            "app_code": "PP170"
+        },
+        {
+            "id": 171,
+            "city": "Pasrur",
+            "geo_location": { "latitude": 32.2645, "longitude": 74.6687 },
+            "zip_code": "51480",
+            "app_code": "PP171"
+        },
+        {
+            "id": 172,
+            "city": "Pattoki",
+            "geo_location": { "latitude": 31.0214, "longitude": 73.8416 },
+            "zip_code": "55300",
+            "app_code": "PP172"
+        },
+        {
+            "id": 173,
+            "city": "Pind Dadan Khan",
+            "geo_location": { "latitude": 32.6383, "longitude": 73.0544 },
+            "zip_code": "49070",
+            "app_code": "PP173"
+        },
+        {
+            "id": 174,
+            "city": "Pindi Bhattian",
+            "geo_location": { "latitude": 31.8975, "longitude": 73.2731 },
+            "zip_code": "52180",
+            "app_code": "PP174"
+        },
+        {
+            "id": 175,
+            "city": "Pir Mahal",
+            "geo_location": { "latitude": 30.7688, "longitude": 72.4346 },
+            "zip_code": "36360",
+            "app_code": "PP175"
+        },
+        {
+            "id": 176,
+            "city": "Poonch",
+            "geo_location": { "latitude": 33.7736, "longitude": 74.0984 },
+            "zip_code": "",
+            "app_code": "PP176"
+        },
+        {
+            "id": 177,
+            "city": "Qazi Ahmed",
+            "geo_location": { "latitude": 26.9500, "longitude": 68.2833 },
+            "zip_code": "",
+            "app_code": "PP177"
+        },
+        {
+            "id": 178,
+            "city": "Raiwind",
+            "geo_location": { "latitude": 31.2476, "longitude": 74.2205 },
+            "zip_code": "55150",
+            "app_code": "PP178"
+        },
+        {
+            "id": 179,
+            "city": "Rajanpur",
+            "geo_location": { "latitude": 29.1035, "longitude": 70.3250 },
+            "zip_code": "33500",
+            "app_code": "PP179"
+        },
+        {
+            "id": 180,
+            "city": "Rato Dero",
+            "geo_location": { "latitude": 27.5662, "longitude": 68.0481 },
+            "zip_code": "77190",
+            "app_code": "PP180"
+        },
+        {
+            "id": 181,
+            "city": "Rawalakot",
+            "geo_location": { "latitude": 33.8581, "longitude": 73.7604 },
+            "zip_code": "",
+            "app_code": "PP181"
+        },
+        {
+            "id": 182,
+            "city": "Renala Khurd",
+            "geo_location": { "latitude": 30.8872, "longitude": 73.5986 },
+            "zip_code": "56130",
+            "app_code": "PP182"
+        },
+        {
+            "id": 183,
+            "city": "Rohri",
+            "geo_location": { "latitude": 27.6833, "longitude": 68.9000 },
+            "zip_code": "65180",
+            "app_code": "PP183"
+        },
+        {
+            "id": 184,
+            "city": "Sadiqabad",
+            "geo_location": { "latitude": 28.3062, "longitude": 70.1302 },
+            "zip_code": "64350",
+            "app_code": "PP184"
+        },
+        {
+            "id": 185,
+            "city": "Sakrand",
+            "geo_location": { "latitude": 26.1387, "longitude": 68.2739 },
+            "zip_code": "",
+            "app_code": "PP185"
+        },
+        {
+            "id": 186,
+            "city": "Samundri",
+            "geo_location": { "latitude": 31.0639, "longitude": 72.9611 },
+            "zip_code": "37300",
+            "app_code": "PP186"
+        },
+        {
+            "id": 187,
+            "city": "Sanghar",
+            "geo_location": { "latitude": 26.0462, "longitude": 68.9481 },
+            "zip_code": "68100",
+            "app_code": "PP187"
+        },
+        {
+            "id": 188,
+            "city": "Sangla Hill",
+            "geo_location": { "latitude": 31.7167, "longitude": 73.3833 },
+            "zip_code": "37200",
+            "app_code": "PP188"
+        },
+        {
+            "id": 189,
+            "city": "Sarai Alamgir",
+            "geo_location": { "latitude": 32.9008, "longitude": 73.7604 },
+            "zip_code": "50300",
+            "app_code": "PP189"
+        },
+        {
+            "id": 190,
+            "city": "Sargodha",
+            "geo_location": { "latitude": 32.0836, "longitude": 72.6711 },
+            "zip_code": "40100",
+            "app_code": "PP190"
+        },
+        {
+            "id": 191,
+            "city": "Sehwan",
+            "geo_location": { "latitude": 26.4279, "longitude": 67.8591 },
+            "zip_code": "76140",
+            "app_code": "PP191"
+        },
+        {
+            "id": 192,
+            "city": "Shabqadar",
+            "geo_location": { "latitude": 34.2206, "longitude": 71.5522 },
+            "zip_code": "",
+            "app_code": "PP192"
+        },
+        {
+            "id": 193,
+            "city": "Shahdadpur",
+            "geo_location": { "latitude": 27.8473, "longitude": 68.6386 },
+            "zip_code": "68050",
+            "app_code": "PP193"
+        },
+        {
+            "id": 194,
+            "city": "Shahkot",
+            "geo_location": { "latitude": 31.5705, "longitude": 73.4803 },
+            "zip_code": "37570",
+            "app_code": "PP194"
+        },
+        {
+            "id": 195,
+            "city": "Shahpur Chakar",
+            "geo_location": { "latitude": 26.1764, "longitude": 68.6503 },
+            "zip_code": "",
+            "app_code": "PP195"
+        },
+        {
+            "id": 196,
+            "city": "Shakargarh",
+            "geo_location": { "latitude": 32.2667, "longitude": 75.1667 },
+            "zip_code": "51800",
+            "app_code": "PP196"
+        },
+        {
+            "id": 197,
+            "city": "Shangla",
+            "geo_location": { "latitude": 35.3200, "longitude": 72.6560 },
+            "zip_code": "",
+            "app_code": "PP197"
+        },
+        {
+            "id": 198,
+            "city": "Shehr Sultan",
+            "geo_location": { "latitude": 30.4011, "longitude": 71.8134 },
+            "zip_code": "",
+            "app_code": "PP198"
+        },
+        {
+            "id": 199,
+            "city": "Sher Garh",
+            "geo_location": { "latitude": 30.8024, "longitude": 73.7511 },
+            "zip_code": "",
+            "app_code": "PP199"
+        },
+        {
+            "id": 200,
+            "city": "Shikarpur",
+            "geo_location": { "latitude": 27.9545, "longitude": 68.6380 },
+            "zip_code": "78100",
+            "app_code": "PP200"
+        },
+        {
+            "id": 201,
+            "city": "Shorkot",
+            "geo_location": { "latitude": 30.5089, "longitude": 72.9831 },
+            "zip_code": "35260",
+            "app_code": "PP201"
+        },
+        {
+            "id": 202,
+            "city": "Sibi",
+            "geo_location": { "latitude": 29.5442, "longitude": 67.8764 },
+            "zip_code": "82010",
+            "app_code": "PP202"
+        },
+        {
+            "id": 203,
+            "city": "Skardu",
+            "geo_location": { "latitude": 35.3075, "longitude": 75.5850 },
+            "zip_code": "16100",
+            "app_code": "PP203"
+        },
+        {
+            "id": 204,
+            "city": "Sudhnoti",
+            "geo_location": { "latitude": 33.6339, "longitude": 73.8001 },
+            "zip_code": "",
+            "app_code": "PP204"
+        },
+        {
+            "id": 205,
+            "city": "Sujawal",
+            "geo_location": { "latitude": 24.6054, "longitude": 68.0786 },
+            "zip_code": "",
+            "app_code": "PP205"
+        },
+        {
+            "id": 206,
+            "city": "Swabi",
+            "geo_location": { "latitude": 34.1197, "longitude": 72.4698 },
+            "zip_code": "",
+            "app_code": "PP206"
+        },
+        {
+            "id": 207,
+            "city": "Swat",
+            "geo_location": { "latitude": 35.2186, "longitude": 72.4258 },
+            "zip_code": "",
+            "app_code": "PP207"
+        },
+        {
+            "id": 208,
+            "city": "Talagang",
+            "geo_location": { "latitude": 32.9297, "longitude": 72.4158 },
+            "zip_code": "48470",
+            "app_code": "PP208"
+        },
+        {
+            "id": 209,
+            "city": "Tando Adam",
+            "geo_location": { "latitude": 25.7637, "longitude": 68.6583 },
+            "zip_code": "67350",
+            "app_code": "PP209"
+        },
+        {
+            "id": 210,
+            "city": "Tando Allahyar",
+            "geo_location": { "latitude": 25.4530, "longitude": 68.7181 },
+            "zip_code": "70100",
+            "app_code": "PP210"
+        },
+        {
+            "id": 211,
+            "city": "Tando Bago",
+            "geo_location": { "latitude": 24.7531, "longitude": 68.9652 },
+            "zip_code": "72120",
+            "app_code": "PP211"
+        },
+        {
+            "id": 212,
+            "city": "Tando Muhammad Khan",
+            "geo_location": { "latitude": 25.1239, "longitude": 68.5342 },
+            "zip_code": "70060",
+            "app_code": "PP212"
+        },
+        {
+            "id": 213,
+            "city": "Tank",
+            "geo_location": { "latitude": 32.2161, "longitude": 70.3831 },
+            "zip_code": "29150",
+            "app_code": "PP213"
+        },
+        {
+            "id": 214,
+            "city": "Taxila",
+            "geo_location": { "latitude": 33.7370, "longitude": 72.8228 },
+            "zip_code": "47080",
+            "app_code": "PP214"
+        },
+        {
+            "id": 215,
+            "city": "Torkham",
+            "geo_location": { "latitude": 34.0922, "longitude": 71.1507 },
+            "zip_code": "",
+            "app_code": "PP215"
+        },
+        {
+            "id": 216,
+            "city": "Turbat",
+            "geo_location": { "latitude": 26.0031, "longitude": 63.0494 },
+            "zip_code": "92600",
+            "app_code": "PP216"
+        },
+        {
+            "id": 217,
+            "city": "Umarkot",
+            "geo_location": { "latitude": 25.3612, "longitude": 69.7361 },
+            "zip_code": "69170",
+            "app_code": "PP217"
+        },
+        {
+            "id": 218,
+            "city": "Upper Dir",
+            "geo_location": { "latitude": 35.2079, "longitude": 71.8768 },
+            "zip_code": "",
+            "app_code": "PP218"
+        },
+        {
+            "id": 219,
+            "city": "Vehari",
+            "geo_location": { "latitude": 30.0419, "longitude": 72.3500 },
+            "zip_code": "61100",
+            "app_code": "PP219"
+        },
+        {
+            "id": 220,
+            "city": "Wah",
+            "geo_location": { "latitude": 33.7361, "longitude": 72.8333 },
+            "zip_code": "47040",
+            "app_code": "PP220"
+        },
+        {
+            "id": 221,
+            "city": "Wana",
+            "geo_location": { "latitude": 32.3036, "longitude": 69.5701 },
+            "zip_code": "",
+            "app_code": "PP221"
+        },
+        {
+            "id": 222,
+            "city": "Winder",
+            "geo_location": { "latitude": 25.0667, "longitude": 66.4333 },
+            "zip_code": "",
+            "app_code": "PP222"
+        },
+        {
+            "id": 223,
+            "city": "Yazman",
+            "geo_location": { "latitude": 28.1197, "longitude": 71.7444 },
+            "zip_code": "63160",
+            "app_code": "PP223"
+        },
+        {
+            "id": 224,
+            "city": "Zhob",
+            "geo_location": { "latitude": 31.3406, "longitude": 69.4499 },
+            "zip_code": "85200",
+            "app_code": "PP224"
+        },
+        {
+            "id": 225,
+            "city": "Abbaspur",
+            "geo_location": { "latitude": 33.7403, "longitude": 74.0736 },
+            "zip_code": "",
+            "app_code": "PP225"
+        }
+       
+    
+    
+    
+]
+ 

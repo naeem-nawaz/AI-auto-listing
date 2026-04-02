@@ -1,0 +1,301 @@
+[
+  {
+      "id": 12118,
+      "name": "Ali Abad",
+      "name_l1": "علی آباد",
+      "externalID": "13601",
+      "slug": "/Daur_Ali_Abad-13601",
+      "slug_l1": "/Daur_Ali_Abad-13601",
+      "_geoloc": {
+          "lat": 26.456242,
+          "lng": 68.318625
+      },
+      "geography": {
+          "lat": 26.456242,
+          "lng": 68.318625
+      },
+      "geo_point": [
+          68.318625,
+          26.456242
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12116,
+              "level": 2,
+              "externalID": "13599",
+              "name": "Daur",
+              "name_l1": "دور",
+              "slug": "/Daur-13599",
+              "slug_l1": "/Daur-13599"
+          },
+          {
+              "id": 12118,
+              "level": 3,
+              "externalID": "13601",
+              "name": "Ali Abad",
+              "name_l1": "علی آباد",
+              "slug": "/Daur_Ali_Abad-13601",
+              "slug_l1": "/Daur_Ali_Abad-13601"
+          }
+      ],
+      "hierarchyPath": "Ali Abad Daur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13601",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12118",
+      "_highlightResult": {
+          "name": {
+              "value": "Ali Abad",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12116,
+      "name": "Daur",
+      "name_l1": "دور",
+      "externalID": "13599",
+      "slug": "/Daur-13599",
+      "slug_l1": "/Daur-13599",
+      "_geoloc": {
+          "lat": 26.456773,
+          "lng": 68.318786
+      },
+      "geography": {
+          "lat": 26.456773,
+          "lng": 68.318786
+      },
+      "geo_point": [
+          68.318786,
+          26.456773
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12116,
+              "level": 2,
+              "externalID": "13599",
+              "name": "Daur",
+              "name_l1": "دور",
+              "slug": "/Daur-13599",
+              "slug_l1": "/Daur-13599"
+          }
+      ],
+      "hierarchyPath": "Daur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13599",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "12116",
+      "_highlightResult": {
+          "name": {
+              "value": "Daur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12117,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "13600",
+      "slug": "/Daur_Others-13600",
+      "slug_l1": "/Daur_Others-13600",
+      "_geoloc": {
+          "lat": 26.455143,
+          "lng": 68.318057
+      },
+      "geography": {
+          "lat": 26.455143,
+          "lng": 68.318057
+      },
+      "geo_point": [
+          68.318057,
+          26.455143
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12116,
+              "level": 2,
+              "externalID": "13599",
+              "name": "Daur",
+              "name_l1": "دور",
+              "slug": "/Daur-13599",
+              "slug_l1": "/Daur-13599"
+          },
+          {
+              "id": 12117,
+              "level": 3,
+              "externalID": "13600",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Daur_Others-13600",
+              "slug_l1": "/Daur_Others-13600"
+          }
+      ],
+      "hierarchyPath": "Others Daur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13600",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12117",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 12124,
+      "name": "Usman Colony",
+      "name_l1": "عثمان کالونی",
+      "externalID": "13602",
+      "slug": "/Daur_Usman_Colony-13602",
+      "slug_l1": "/Daur_Usman_Colony-13602",
+      "_geoloc": {
+          "lat": 26.456622,
+          "lng": 68.312296
+      },
+      "geography": {
+          "lat": 26.456622,
+          "lng": 68.312296
+      },
+      "geo_point": [
+          68.312296,
+          26.456622
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "1523",
+              "name": "Sindh",
+              "name_l1": "سندھ",
+              "slug": "/Sindh-1523",
+              "slug_l1": "/Sindh-1523"
+          },
+          {
+              "id": 12116,
+              "level": 2,
+              "externalID": "13599",
+              "name": "Daur",
+              "name_l1": "دور",
+              "slug": "/Daur-13599",
+              "slug_l1": "/Daur-13599"
+          },
+          {
+              "id": 12124,
+              "level": 3,
+              "externalID": "13602",
+              "name": "Usman Colony",
+              "name_l1": "عثمان کالونی",
+              "slug": "/Daur_Usman_Colony-13602",
+              "slug_l1": "/Daur_Usman_Colony-13602"
+          }
+      ],
+      "hierarchyPath": "Usman Colony Daur Sindh Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "13602",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "12124",
+      "_highlightResult": {
+          "name": {
+              "value": "Usman Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

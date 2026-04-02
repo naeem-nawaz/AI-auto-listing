@@ -1,0 +1,1003 @@
+[
+  {
+      "id": 3755,
+      "name": "Court Area",
+      "name_l1": "کورٹ ایریا",
+      "externalID": "7890",
+      "slug": "/Rawalakot_Court_Area-7890",
+      "slug_l1": "/Rawalakot_Court_Area-7890",
+      "_geoloc": {
+          "lat": 33.859101,
+          "lng": 73.75877
+      },
+      "geography": {
+          "lat": 33.859101,
+          "lng": 73.75877
+      },
+      "geo_point": [
+          73.75877,
+          33.859101
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3755,
+              "level": 3,
+              "externalID": "7890",
+              "name": "Court Area",
+              "name_l1": "کورٹ ایریا",
+              "slug": "/Rawalakot_Court_Area-7890",
+              "slug_l1": "/Rawalakot_Court_Area-7890"
+          }
+      ],
+      "hierarchyPath": "Court Area Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7890",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3755",
+      "_highlightResult": {
+          "name": {
+              "value": "Court Area",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3756,
+      "name": "Ghazi e Millat Road",
+      "name_l1": "غازیء ملت روڈ",
+      "externalID": "7891",
+      "slug": "/Rawalakot_Ghazi_e_Millat_Road-7891",
+      "slug_l1": "/Rawalakot_Ghazi_e_Millat_Road-7891",
+      "_geoloc": {
+          "lat": 33.846378,
+          "lng": 73.749994
+      },
+      "geography": {
+          "lat": 33.846378,
+          "lng": 73.749994
+      },
+      "geo_point": [
+          73.749994,
+          33.846378
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3756,
+              "level": 3,
+              "externalID": "7891",
+              "name": "Ghazi e Millat Road",
+              "name_l1": "غازیء ملت روڈ",
+              "slug": "/Rawalakot_Ghazi_e_Millat_Road-7891",
+              "slug_l1": "/Rawalakot_Ghazi_e_Millat_Road-7891"
+          }
+      ],
+      "hierarchyPath": "Ghazi e Millat Road Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7891",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3756",
+      "_highlightResult": {
+          "name": {
+              "value": "Ghazi e Millat Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3757,
+      "name": "Green Town",
+      "name_l1": "گرین ٹاؤن",
+      "externalID": "7892",
+      "slug": "/Rawalakot_Green_Town-7892",
+      "slug_l1": "/Rawalakot_Green_Town-7892",
+      "_geoloc": {
+          "lat": 33.850067,
+          "lng": 73.758506
+      },
+      "geography": {
+          "lat": 33.850067,
+          "lng": 73.758506
+      },
+      "geo_point": [
+          73.758506,
+          33.850067
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3757,
+              "level": 3,
+              "externalID": "7892",
+              "name": "Green Town",
+              "name_l1": "گرین ٹاؤن",
+              "slug": "/Rawalakot_Green_Town-7892",
+              "slug_l1": "/Rawalakot_Green_Town-7892"
+          }
+      ],
+      "hierarchyPath": "Green Town Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7892",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3757",
+      "_highlightResult": {
+          "name": {
+              "value": "Green Town",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3758,
+      "name": "Kohala Road",
+      "name_l1": "کوہالہ روڈ",
+      "externalID": "7893",
+      "slug": "/Rawalakot_Kohala_Road-7893",
+      "slug_l1": "/Rawalakot_Kohala_Road-7893",
+      "_geoloc": {
+          "lat": 33.864964,
+          "lng": 73.748496
+      },
+      "geography": {
+          "lat": 33.864964,
+          "lng": 73.748496
+      },
+      "geo_point": [
+          73.748496,
+          33.864964
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3758,
+              "level": 3,
+              "externalID": "7893",
+              "name": "Kohala Road",
+              "name_l1": "کوہالہ روڈ",
+              "slug": "/Rawalakot_Kohala_Road-7893",
+              "slug_l1": "/Rawalakot_Kohala_Road-7893"
+          }
+      ],
+      "hierarchyPath": "Kohala Road Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7893",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3758",
+      "_highlightResult": {
+          "name": {
+              "value": "Kohala Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3759,
+      "name": "Main Bazar Road",
+      "name_l1": "مین بازار روڈ",
+      "externalID": "7894",
+      "slug": "/Rawalakot_Main_Bazar_Road-7894",
+      "slug_l1": "/Rawalakot_Main_Bazar_Road-7894",
+      "_geoloc": {
+          "lat": 33.851243,
+          "lng": 73.742999
+      },
+      "geography": {
+          "lat": 33.851243,
+          "lng": 73.742999
+      },
+      "geo_point": [
+          73.742999,
+          33.851243
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3759,
+              "level": 3,
+              "externalID": "7894",
+              "name": "Main Bazar Road",
+              "name_l1": "مین بازار روڈ",
+              "slug": "/Rawalakot_Main_Bazar_Road-7894",
+              "slug_l1": "/Rawalakot_Main_Bazar_Road-7894"
+          }
+      ],
+      "hierarchyPath": "Main Bazar Road Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7894",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3759",
+      "_highlightResult": {
+          "name": {
+              "value": "Main Bazar Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3760,
+      "name": "Nala Bazar Rawalakot",
+      "name_l1": "نالہ بازار راولہ کوٹ",
+      "externalID": "7895",
+      "slug": "/Rawalakot_Nala_Bazar_Rawalakot-7895",
+      "slug_l1": "/Rawalakot_Nala_Bazar_Rawalakot-7895",
+      "_geoloc": {
+          "lat": 33.860438,
+          "lng": 73.760058
+      },
+      "geography": {
+          "lat": 33.860438,
+          "lng": 73.760058
+      },
+      "geo_point": [
+          73.760058,
+          33.860438
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3760,
+              "level": 3,
+              "externalID": "7895",
+              "name": "Nala Bazar Rawalakot",
+              "name_l1": "نالہ بازار راولہ کوٹ",
+              "slug": "/Rawalakot_Nala_Bazar_Rawalakot-7895",
+              "slug_l1": "/Rawalakot_Nala_Bazar_Rawalakot-7895"
+          }
+      ],
+      "hierarchyPath": "Nala Bazar Rawalakot Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7895",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3760",
+      "_highlightResult": {
+          "name": {
+              "value": "Nala Bazar Rawalakot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3761,
+      "name": "New Pearl Housing Scheme",
+      "name_l1": "نیو پرل ہاؤسنگ سکیم",
+      "externalID": "7896",
+      "slug": "/Rawalakot_New_Pearl_Housing_Scheme-7896",
+      "slug_l1": "/Rawalakot_New_Pearl_Housing_Scheme-7896",
+      "_geoloc": {
+          "lat": 33.85127,
+          "lng": 73.750834
+      },
+      "geography": {
+          "lat": 33.85127,
+          "lng": 73.750834
+      },
+      "geo_point": [
+          73.750834,
+          33.85127
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3761,
+              "level": 3,
+              "externalID": "7896",
+              "name": "New Pearl Housing Scheme",
+              "name_l1": "نیو پرل ہاؤسنگ سکیم",
+              "slug": "/Rawalakot_New_Pearl_Housing_Scheme-7896",
+              "slug_l1": "/Rawalakot_New_Pearl_Housing_Scheme-7896"
+          }
+      ],
+      "hierarchyPath": "New Pearl Housing Scheme Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7896",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "3761",
+      "_highlightResult": {
+          "name": {
+              "value": "New Pearl Housing Scheme",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3762,
+      "name": "Officers Colony Rawalakot",
+      "name_l1": "آفیسرز کالونی راولہ کوٹ",
+      "externalID": "7897",
+      "slug": "/Rawalakot_Officers_Colony_Rawalakot-7897",
+      "slug_l1": "/Rawalakot_Officers_Colony_Rawalakot-7897",
+      "_geoloc": {
+          "lat": 33.867975,
+          "lng": 73.755813
+      },
+      "geography": {
+          "lat": 33.867975,
+          "lng": 73.755813
+      },
+      "geo_point": [
+          73.755813,
+          33.867975
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3762,
+              "level": 3,
+              "externalID": "7897",
+              "name": "Officers Colony Rawalakot",
+              "name_l1": "آفیسرز کالونی راولہ کوٹ",
+              "slug": "/Rawalakot_Officers_Colony_Rawalakot-7897",
+              "slug_l1": "/Rawalakot_Officers_Colony_Rawalakot-7897"
+          }
+      ],
+      "hierarchyPath": "Officers Colony Rawalakot Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7897",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3762",
+      "_highlightResult": {
+          "name": {
+              "value": "Officers Colony Rawalakot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3763,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "7898",
+      "slug": "/Rawalakot_Others-7898",
+      "slug_l1": "/Rawalakot_Others-7898",
+      "_geoloc": {
+          "lat": 33.8568,
+          "lng": 73.7589
+      },
+      "geography": {
+          "lat": 33.8568,
+          "lng": 73.7589
+      },
+      "geo_point": [
+          73.7589,
+          33.8568
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3763,
+              "level": 3,
+              "externalID": "7898",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Rawalakot_Others-7898",
+              "slug_l1": "/Rawalakot_Others-7898"
+          }
+      ],
+      "hierarchyPath": "Others Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7898",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3763",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 20907,
+      "name": "Phase 1",
+      "name_l1": "مرحلہ",
+      "externalID": "21511",
+      "slug": "/Rawalakot_New_Pearl_Housing_Scheme_Phase_1-21511",
+      "slug_l1": "/Rawalakot_New_Pearl_Housing_Scheme_Phase_1-21511",
+      "_geoloc": {
+          "lat": 33.85108467,
+          "lng": 73.75220729
+      },
+      "geography": {
+          "lat": 33.85108467,
+          "lng": 73.75220729
+      },
+      "geo_point": [
+          73.75220729,
+          33.85108467
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3761,
+              "level": 3,
+              "externalID": "7896",
+              "name": "New Pearl Housing Scheme",
+              "name_l1": "نیو پرل ہاؤسنگ سکیم",
+              "slug": "/Rawalakot_New_Pearl_Housing_Scheme-7896",
+              "slug_l1": "/Rawalakot_New_Pearl_Housing_Scheme-7896"
+          },
+          {
+              "id": 20907,
+              "level": 4,
+              "externalID": "21511",
+              "name": "Phase 1",
+              "name_l1": "مرحلہ",
+              "slug": "/Rawalakot_New_Pearl_Housing_Scheme_Phase_1-21511",
+              "slug_l1": "/Rawalakot_New_Pearl_Housing_Scheme_Phase_1-21511"
+          }
+      ],
+      "hierarchyPath": "Phase 1 New Pearl Housing Scheme Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21511",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "20907",
+      "_highlightResult": {
+          "name": {
+              "value": "Phase 1",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 50,
+      "name": "Rawalakot",
+      "name_l1": "راولا کوٹ",
+      "externalID": "976",
+      "slug": "/Rawalakot-976",
+      "slug_l1": "/Rawalakot-976",
+      "_geoloc": {
+          "lat": 33.856444,
+          "lng": 73.751628
+      },
+      "geography": {
+          "lat": 33.856444,
+          "lng": 73.751628
+      },
+      "geo_point": [
+          73.751628,
+          33.856444
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          }
+      ],
+      "hierarchyPath": "Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "976",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "50",
+      "_highlightResult": {
+          "name": {
+              "value": "Rawalakot",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3764,
+      "name": "Rawalakot Beldia Adda",
+      "name_l1": "راولہ کوٹ بلدیہ اڈہ",
+      "externalID": "7899",
+      "slug": "/Rawalakot_Beldia_Adda-7899",
+      "slug_l1": "/Rawalakot_Beldia_Adda-7899",
+      "_geoloc": {
+          "lat": 33.8498,
+          "lng": 73.749987
+      },
+      "geography": {
+          "lat": 33.8498,
+          "lng": 73.749987
+      },
+      "geo_point": [
+          73.749987,
+          33.8498
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3764,
+              "level": 3,
+              "externalID": "7899",
+              "name": "Rawalakot Beldia Adda",
+              "name_l1": "راولہ کوٹ بلدیہ اڈہ",
+              "slug": "/Rawalakot_Beldia_Adda-7899",
+              "slug_l1": "/Rawalakot_Beldia_Adda-7899"
+          }
+      ],
+      "hierarchyPath": "Rawalakot Beldia Adda Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7899",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3764",
+      "_highlightResult": {
+          "name": {
+              "value": "Rawalakot Beldia Adda",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 3765,
+      "name": "Rawalakot Stadium Area",
+      "name_l1": "راولہ کوٹ سٹیڈیم ایریا",
+      "externalID": "7900",
+      "slug": "/Rawalakot_Stadium_Area-7900",
+      "slug_l1": "/Rawalakot_Stadium_Area-7900",
+      "_geoloc": {
+          "lat": 33.854629,
+          "lng": 73.74797
+      },
+      "geography": {
+          "lat": 33.854629,
+          "lng": 73.74797
+      },
+      "geo_point": [
+          73.74797,
+          33.854629
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 50,
+              "level": 2,
+              "externalID": "976",
+              "name": "Rawalakot",
+              "name_l1": "راولا کوٹ",
+              "slug": "/Rawalakot-976",
+              "slug_l1": "/Rawalakot-976"
+          },
+          {
+              "id": 3765,
+              "level": 3,
+              "externalID": "7900",
+              "name": "Rawalakot Stadium Area",
+              "name_l1": "راولہ کوٹ سٹیڈیم ایریا",
+              "slug": "/Rawalakot_Stadium_Area-7900",
+              "slug_l1": "/Rawalakot_Stadium_Area-7900"
+          }
+      ],
+      "hierarchyPath": "Rawalakot Stadium Area Rawalakot Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "7900",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "3765",
+      "_highlightResult": {
+          "name": {
+              "value": "Rawalakot Stadium Area",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

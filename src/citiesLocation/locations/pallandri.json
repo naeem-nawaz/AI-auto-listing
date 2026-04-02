@@ -1,0 +1,70 @@
+[
+  {
+      "id": 16494,
+      "name": "Pallandri",
+      "name_l1": "پیلینڈری",
+      "externalID": "17736",
+      "slug": "/Pallandri-17736",
+      "slug_l1": "/Pallandri-17736",
+      "_geoloc": {
+          "lat": 33.713835,
+          "lng": 73.685662
+      },
+      "geography": {
+          "lat": 33.713835,
+          "lng": 73.685662
+      },
+      "geo_point": [
+          73.685662,
+          33.713835
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 3,
+              "level": 1,
+              "externalID": "961",
+              "name": "Azad Kashmir",
+              "name_l1": "آزاد کشمیر",
+              "slug": "/Azad_Kashmir-961",
+              "slug_l1": "/Azad_Kashmir-961"
+          },
+          {
+              "id": 16494,
+              "level": 2,
+              "externalID": "17736",
+              "name": "Pallandri",
+              "name_l1": "پیلینڈری",
+              "slug": "/Pallandri-17736",
+              "slug_l1": "/Pallandri-17736"
+          }
+      ],
+      "hierarchyPath": "Pallandri Azad Kashmir Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17736",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "16494",
+      "_highlightResult": {
+          "name": {
+              "value": "Pallandri",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

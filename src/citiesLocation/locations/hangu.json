@@ -1,0 +1,224 @@
+[
+  {
+      "id": 174,
+      "name": "Hangu",
+      "name_l1": "هنګو",
+      "externalID": "11739",
+      "slug": "/Hangu-11739",
+      "slug_l1": "/Hangu-11739",
+      "_geoloc": {
+          "lat": 33.529484,
+          "lng": 71.068668
+      },
+      "geography": {
+          "lat": 33.529484,
+          "lng": 71.068668
+      },
+      "geo_point": [
+          71.068668,
+          33.529484
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 174,
+              "level": 2,
+              "externalID": "11739",
+              "name": "Hangu",
+              "name_l1": "هنګو",
+              "slug": "/Hangu-11739",
+              "slug_l1": "/Hangu-11739"
+          }
+      ],
+      "hierarchyPath": "Hangu Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11739",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "174",
+      "_highlightResult": {
+          "name": {
+              "value": "Hangu",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18084,
+      "name": "Hangu Township",
+      "name_l1": "ہنگو ٹاؤن شپ",
+      "externalID": "19072",
+      "slug": "/Hangu_Hangu_Township-19072",
+      "slug_l1": "/Hangu_Hangu_Township-19072",
+      "_geoloc": {
+          "lat": 33.52925,
+          "lng": 71.098278
+      },
+      "geography": {
+          "lat": 33.52925,
+          "lng": 71.098278
+      },
+      "geo_point": [
+          71.098278,
+          33.52925
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 174,
+              "level": 2,
+              "externalID": "11739",
+              "name": "Hangu",
+              "name_l1": "هنګو",
+              "slug": "/Hangu-11739",
+              "slug_l1": "/Hangu-11739"
+          },
+          {
+              "id": 18084,
+              "level": 3,
+              "externalID": "19072",
+              "name": "Hangu Township",
+              "name_l1": "ہنگو ٹاؤن شپ",
+              "slug": "/Hangu_Hangu_Township-19072",
+              "slug_l1": "/Hangu_Hangu_Township-19072"
+          }
+      ],
+      "hierarchyPath": "Hangu Township Hangu Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19072",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18084",
+      "_highlightResult": {
+          "name": {
+              "value": "Hangu Township",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5845,
+      "name": "Others",
+      "name_l1": "Others",
+      "externalID": "11740",
+      "slug": "/Hangu_Others-11740",
+      "slug_l1": "/Hangu_Others-11740",
+      "_geoloc": {
+          "lat": 33.529484,
+          "lng": 71.068668
+      },
+      "geography": {
+          "lat": 33.529484,
+          "lng": 71.068668
+      },
+      "geo_point": [
+          71.068668,
+          33.529484
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 174,
+              "level": 2,
+              "externalID": "11739",
+              "name": "Hangu",
+              "name_l1": "هنګو",
+              "slug": "/Hangu-11739",
+              "slug_l1": "/Hangu-11739"
+          },
+          {
+              "id": 5845,
+              "level": 3,
+              "externalID": "11740",
+              "name": "Others",
+              "name_l1": "Others",
+              "slug": "/Hangu_Others-11740",
+              "slug_l1": "/Hangu_Others-11740"
+          }
+      ],
+      "hierarchyPath": "Others Hangu Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11740",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5845",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

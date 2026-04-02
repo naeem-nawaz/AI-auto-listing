@@ -1,0 +1,1397 @@
+[
+  {
+      "id": 114,
+      "name": "Dera Ismail Khan",
+      "name_l1": "ڈیرہ اسماعیل خان",
+      "externalID": "8244",
+      "slug": "/Dera_Ismail_Khan-8244",
+      "slug_l1": "/Dera_Ismail_Khan-8244",
+      "_geoloc": {
+          "lat": 31.824482,
+          "lng": 70.908308
+      },
+      "geography": {
+          "lat": 31.824482,
+          "lng": 70.908308
+      },
+      "geo_point": [
+          70.908308,
+          31.824482
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          }
+      ],
+      "hierarchyPath": "Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 12,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "8244",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "114",
+      "_highlightResult": {
+          "name": {
+              "value": "Dera Ismail Khan",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18537,
+      "name": "Defence View Society",
+      "name_l1": "ڈیفنس ویو سوسائٹی",
+      "externalID": "19458",
+      "slug": "/Dera_Ismail_Khan_Defence_View_Society-19458",
+      "slug_l1": "/Dera_Ismail_Khan_Defence_View_Society-19458",
+      "_geoloc": {
+          "lat": 31.8686278,
+          "lng": 70.8998806
+      },
+      "geography": {
+          "lat": 31.8686278,
+          "lng": 70.8998806
+      },
+      "geo_point": [
+          70.8998806,
+          31.8686278
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18537,
+              "level": 3,
+              "externalID": "19458",
+              "name": "Defence View Society",
+              "name_l1": "ڈیفنس ویو سوسائٹی",
+              "slug": "/Dera_Ismail_Khan_Defence_View_Society-19458",
+              "slug_l1": "/Dera_Ismail_Khan_Defence_View_Society-19458"
+          }
+      ],
+      "hierarchyPath": "Defence View Society Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19458",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18537",
+      "_highlightResult": {
+          "name": {
+              "value": "Defence View Society",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5778,
+      "name": "Grid Station Road",
+      "name_l1": "گرڈ اسٹیشن روڈ",
+      "externalID": "11586",
+      "slug": "/Dera_Ismail_Khan_Grid_Station_Road-11586",
+      "slug_l1": "/Dera_Ismail_Khan_Grid_Station_Road-11586",
+      "_geoloc": {
+          "lat": 31.84636,
+          "lng": 70.898444
+      },
+      "geography": {
+          "lat": 31.84636,
+          "lng": 70.898444
+      },
+      "geo_point": [
+          70.898444,
+          31.84636
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 5778,
+              "level": 3,
+              "externalID": "11586",
+              "name": "Grid Station Road",
+              "name_l1": "گرڈ اسٹیشن روڈ",
+              "slug": "/Dera_Ismail_Khan_Grid_Station_Road-11586",
+              "slug_l1": "/Dera_Ismail_Khan_Grid_Station_Road-11586"
+          }
+      ],
+      "hierarchyPath": "Grid Station Road Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11586",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5778",
+      "_highlightResult": {
+          "name": {
+              "value": "Grid Station Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5777,
+      "name": "Gulshan Colony",
+      "name_l1": "گلشن کالونی",
+      "externalID": "11585",
+      "slug": "/Dera_Ismail_Khan_Gulshan_Colony-11585",
+      "slug_l1": "/Dera_Ismail_Khan_Gulshan_Colony-11585",
+      "_geoloc": {
+          "lat": 31.842283,
+          "lng": 70.897217
+      },
+      "geography": {
+          "lat": 31.842283,
+          "lng": 70.897217
+      },
+      "geo_point": [
+          70.897217,
+          31.842283
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 5777,
+              "level": 3,
+              "externalID": "11585",
+              "name": "Gulshan Colony",
+              "name_l1": "گلشن کالونی",
+              "slug": "/Dera_Ismail_Khan_Gulshan_Colony-11585",
+              "slug_l1": "/Dera_Ismail_Khan_Gulshan_Colony-11585"
+          }
+      ],
+      "hierarchyPath": "Gulshan Colony Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11585",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5777",
+      "_highlightResult": {
+          "name": {
+              "value": "Gulshan Colony",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18557,
+      "name": "North Circular Road",
+      "name_l1": "نارتھ سرکلر روڈ",
+      "externalID": "19475",
+      "slug": "/Dera_Ismail_Khan_North_Circular_Road-19475",
+      "slug_l1": "/Dera_Ismail_Khan_North_Circular_Road-19475",
+      "_geoloc": {
+          "lat": 31.8361357,
+          "lng": 70.9042976
+      },
+      "geography": {
+          "lat": 31.8361357,
+          "lng": 70.9042976
+      },
+      "geo_point": [
+          70.9042976,
+          31.8361357
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18557,
+              "level": 3,
+              "externalID": "19475",
+              "name": "North Circular Road",
+              "name_l1": "نارتھ سرکلر روڈ",
+              "slug": "/Dera_Ismail_Khan_North_Circular_Road-19475",
+              "slug_l1": "/Dera_Ismail_Khan_North_Circular_Road-19475"
+          }
+      ],
+      "hierarchyPath": "North Circular Road Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 3,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19475",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18557",
+      "_highlightResult": {
+          "name": {
+              "value": "North Circular Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18533,
+      "name": "Awami Villas",
+      "name_l1": "عوامی ولاز",
+      "externalID": "19449",
+      "slug": "/Dera_Ismail_Khan_Awami_Villas-19449",
+      "slug_l1": "/Dera_Ismail_Khan_Awami_Villas-19449",
+      "_geoloc": {
+          "lat": 31.7701674,
+          "lng": 70.8839289
+      },
+      "geography": {
+          "lat": 31.7701674,
+          "lng": 70.8839289
+      },
+      "geo_point": [
+          70.8839289,
+          31.7701674
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18533,
+              "level": 3,
+              "externalID": "19449",
+              "name": "Awami Villas",
+              "name_l1": "عوامی ولاز",
+              "slug": "/Dera_Ismail_Khan_Awami_Villas-19449",
+              "slug_l1": "/Dera_Ismail_Khan_Awami_Villas-19449"
+          }
+      ],
+      "hierarchyPath": "Awami Villas Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19449",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18533",
+      "_highlightResult": {
+          "name": {
+              "value": "Awami Villas",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18413,
+      "name": "Cantt",
+      "name_l1": "کینٹ",
+      "externalID": "19327",
+      "slug": "/Dera_Ismail_Khan_Cantt-19327",
+      "slug_l1": "/Dera_Ismail_Khan_Cantt-19327",
+      "_geoloc": {
+          "lat": 31.826342,
+          "lng": 70.917479
+      },
+      "geography": {
+          "lat": 31.826342,
+          "lng": 70.917479
+      },
+      "geo_point": [
+          70.917479,
+          31.826342
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18413,
+              "level": 3,
+              "externalID": "19327",
+              "name": "Cantt",
+              "name_l1": "کینٹ",
+              "slug": "/Dera_Ismail_Khan_Cantt-19327",
+              "slug_l1": "/Dera_Ismail_Khan_Cantt-19327"
+          }
+      ],
+      "hierarchyPath": "Cantt Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19327",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18413",
+      "_highlightResult": {
+          "name": {
+              "value": "Cantt",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5779,
+      "name": "Chashma Right Bank Canal Road",
+      "name_l1": "چشمہ رائٹ بنک کینال روڈ",
+      "externalID": "11587",
+      "slug": "/Dera_Ismail_Khan_Chashma_Right_Bank_Canal_Road-11587",
+      "slug_l1": "/Dera_Ismail_Khan_Chashma_Right_Bank_Canal_Road-11587",
+      "_geoloc": {
+          "lat": 31.773912,
+          "lng": 70.707297
+      },
+      "geography": {
+          "lat": 31.773912,
+          "lng": 70.707297
+      },
+      "geo_point": [
+          70.707297,
+          31.773912
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 5779,
+              "level": 3,
+              "externalID": "11587",
+              "name": "Chashma Right Bank Canal Road",
+              "name_l1": "چشمہ رائٹ بنک کینال روڈ",
+              "slug": "/Dera_Ismail_Khan_Chashma_Right_Bank_Canal_Road-11587",
+              "slug_l1": "/Dera_Ismail_Khan_Chashma_Right_Bank_Canal_Road-11587"
+          }
+      ],
+      "hierarchyPath": "Chashma Right Bank Canal Road Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11587",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5779",
+      "_highlightResult": {
+          "name": {
+              "value": "Chashma Right Bank Canal Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18534,
+      "name": "Chowk Tank Adda",
+      "name_l1": "چوک ٹانک اڈہ",
+      "externalID": "19450",
+      "slug": "/Dera_Ismail_Khan_Chowk_Tank_Adda-19450",
+      "slug_l1": "/Dera_Ismail_Khan_Chowk_Tank_Adda-19450",
+      "_geoloc": {
+          "lat": 31.8313867,
+          "lng": 70.8942711
+      },
+      "geography": {
+          "lat": 31.8313867,
+          "lng": 70.8942711
+      },
+      "geo_point": [
+          70.8942711,
+          31.8313867
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18534,
+              "level": 3,
+              "externalID": "19450",
+              "name": "Chowk Tank Adda",
+              "name_l1": "چوک ٹانک اڈہ",
+              "slug": "/Dera_Ismail_Khan_Chowk_Tank_Adda-19450",
+              "slug_l1": "/Dera_Ismail_Khan_Chowk_Tank_Adda-19450"
+          }
+      ],
+      "hierarchyPath": "Chowk Tank Adda Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19450",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18534",
+      "_highlightResult": {
+          "name": {
+              "value": "Chowk Tank Adda",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15615,
+      "name": "D I Khan New City",
+      "name_l1": "ڈی آئی خان نیو سٹی",
+      "externalID": "17053",
+      "slug": "/Dera_Ismail_Khan_Paharpur_D_I_Khan_New_City-17053",
+      "slug_l1": "/Dera_Ismail_Khan_Paharpur_D_I_Khan_New_City-17053",
+      "_geoloc": {
+          "lat": 32.192836,
+          "lng": 71.032073
+      },
+      "geography": {
+          "lat": 32.192836,
+          "lng": 71.032073
+      },
+      "geo_point": [
+          71.032073,
+          32.192836
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 15800,
+              "level": 3,
+              "externalID": "17157",
+              "name": "Paharpur",
+              "name_l1": "پہاڑ پور",
+              "slug": "/Dera_Ismail_Khan_Paharpur-17157",
+              "slug_l1": "/Dera_Ismail_Khan_Paharpur-17157"
+          },
+          {
+              "id": 15615,
+              "level": 4,
+              "externalID": "17053",
+              "name": "D I Khan New City",
+              "name_l1": "ڈی آئی خان نیو سٹی",
+              "slug": "/Dera_Ismail_Khan_Paharpur_D_I_Khan_New_City-17053",
+              "slug_l1": "/Dera_Ismail_Khan_Paharpur_D_I_Khan_New_City-17053"
+          }
+      ],
+      "hierarchyPath": "D I Khan New City Paharpur Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17053",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "15615",
+      "_highlightResult": {
+          "name": {
+              "value": "D I Khan New City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18554,
+      "name": "East Circular Road",
+      "name_l1": "ایسٹ سرکلر روڈ",
+      "externalID": "19470",
+      "slug": "/Dera_Ismail_Khan_East_Circular_Road-19470",
+      "slug_l1": "/Dera_Ismail_Khan_East_Circular_Road-19470",
+      "_geoloc": {
+          "lat": 31.8284082,
+          "lng": 70.9118059
+      },
+      "geography": {
+          "lat": 31.8284082,
+          "lng": 70.9118059
+      },
+      "geo_point": [
+          70.9118059,
+          31.8284082
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18554,
+              "level": 3,
+              "externalID": "19470",
+              "name": "East Circular Road",
+              "name_l1": "ایسٹ سرکلر روڈ",
+              "slug": "/Dera_Ismail_Khan_East_Circular_Road-19470",
+              "slug_l1": "/Dera_Ismail_Khan_East_Circular_Road-19470"
+          }
+      ],
+      "hierarchyPath": "East Circular Road Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19470",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18554",
+      "_highlightResult": {
+          "name": {
+              "value": "East Circular Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18555,
+      "name": "Hamdan Garden",
+      "name_l1": "ہمدان گارڈن",
+      "externalID": "19471",
+      "slug": "/Dera_Ismail_Khan_Hamdan_Garden-19471",
+      "slug_l1": "/Dera_Ismail_Khan_Hamdan_Garden-19471",
+      "_geoloc": {
+          "lat": 31.8843315,
+          "lng": 70.8888038
+      },
+      "geography": {
+          "lat": 31.8843315,
+          "lng": 70.8888038
+      },
+      "geo_point": [
+          70.8888038,
+          31.8843315
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18555,
+              "level": 3,
+              "externalID": "19471",
+              "name": "Hamdan Garden",
+              "name_l1": "ہمدان گارڈن",
+              "slug": "/Dera_Ismail_Khan_Hamdan_Garden-19471",
+              "slug_l1": "/Dera_Ismail_Khan_Hamdan_Garden-19471"
+          }
+      ],
+      "hierarchyPath": "Hamdan Garden Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19471",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18555",
+      "_highlightResult": {
+          "name": {
+              "value": "Hamdan Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21135,
+      "name": "Kech",
+      "name_l1": "کیچ",
+      "externalID": "21731",
+      "slug": "/Dera_Ismail_Khan_Kech-21731",
+      "slug_l1": "/Dera_Ismail_Khan_Kech-21731",
+      "_geoloc": {
+          "lat": 31.994038256344,
+          "lng": 70.824812182114
+      },
+      "geography": {
+          "lat": 31.994038256344,
+          "lng": 70.824812182114
+      },
+      "geo_point": [
+          70.824812182114,
+          31.994038256344
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 21135,
+              "level": 3,
+              "externalID": "21731",
+              "name": "Kech",
+              "name_l1": "کیچ",
+              "slug": "/Dera_Ismail_Khan_Kech-21731",
+              "slug_l1": "/Dera_Ismail_Khan_Kech-21731"
+          }
+      ],
+      "hierarchyPath": "Kech Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21731",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21135",
+      "_highlightResult": {
+          "name": {
+              "value": "Kech",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 5776,
+      "name": "Others",
+      "name_l1": "ادرز",
+      "externalID": "11584",
+      "slug": "/Dera_Ismail_Khan_Others-11584",
+      "slug_l1": "/Dera_Ismail_Khan_Others-11584",
+      "_geoloc": {
+          "lat": 31.841239,
+          "lng": 70.895965
+      },
+      "geography": {
+          "lat": 31.841239,
+          "lng": 70.895965
+      },
+      "geo_point": [
+          70.895965,
+          31.841239
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 5776,
+              "level": 3,
+              "externalID": "11584",
+              "name": "Others",
+              "name_l1": "ادرز",
+              "slug": "/Dera_Ismail_Khan_Others-11584",
+              "slug_l1": "/Dera_Ismail_Khan_Others-11584"
+          }
+      ],
+      "hierarchyPath": "Others Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "11584",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "5776",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 15800,
+      "name": "Paharpur",
+      "name_l1": "پہاڑ پور",
+      "externalID": "17157",
+      "slug": "/Dera_Ismail_Khan_Paharpur-17157",
+      "slug_l1": "/Dera_Ismail_Khan_Paharpur-17157",
+      "_geoloc": {
+          "lat": 32.105435,
+          "lng": 70.973527
+      },
+      "geography": {
+          "lat": 32.105435,
+          "lng": 70.973527
+      },
+      "geo_point": [
+          70.973527,
+          32.105435
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 15800,
+              "level": 3,
+              "externalID": "17157",
+              "name": "Paharpur",
+              "name_l1": "پہاڑ پور",
+              "slug": "/Dera_Ismail_Khan_Paharpur-17157",
+              "slug_l1": "/Dera_Ismail_Khan_Paharpur-17157"
+          }
+      ],
+      "hierarchyPath": "Paharpur Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "17157",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "15800",
+      "_highlightResult": {
+          "name": {
+              "value": "Paharpur",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18560,
+      "name": "Paroa",
+      "name_l1": "پاروا",
+      "externalID": "19476",
+      "slug": "/Dera_Ismail_Khan_Paroa-19476",
+      "slug_l1": "/Dera_Ismail_Khan_Paroa-19476",
+      "_geoloc": {
+          "lat": 31.554736,
+          "lng": 70.75925
+      },
+      "geography": {
+          "lat": 31.554736,
+          "lng": 70.75925
+      },
+      "geo_point": [
+          70.75925,
+          31.554736
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18560,
+              "level": 3,
+              "externalID": "19476",
+              "name": "Paroa",
+              "name_l1": "پاروا",
+              "slug": "/Dera_Ismail_Khan_Paroa-19476",
+              "slug_l1": "/Dera_Ismail_Khan_Paroa-19476"
+          }
+      ],
+      "hierarchyPath": "Paroa Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19476",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "18560",
+      "_highlightResult": {
+          "name": {
+              "value": "Paroa",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21261,
+      "name": "Sana Garden",
+      "name_l1": "ثناء گارڈن",
+      "externalID": "21850",
+      "slug": "/Dera_Ismail_Khan_Tank_Road_Sana_Garden-21850",
+      "slug_l1": "/Dera_Ismail_Khan_Tank_Road_Sana_Garden-21850",
+      "_geoloc": {
+          "lat": 31.849689051091,
+          "lng": 70.878765816865
+      },
+      "geography": {
+          "lat": 31.849689051091,
+          "lng": 70.878765816865
+      },
+      "geo_point": [
+          70.878765816865,
+          31.849689051091
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18535,
+              "level": 3,
+              "externalID": "19451",
+              "name": "Tank Road",
+              "name_l1": "ٹانک روڈ",
+              "slug": "/Dera_Ismail_Khan_Tank_Road-19451",
+              "slug_l1": "/Dera_Ismail_Khan_Tank_Road-19451"
+          },
+          {
+              "id": 21261,
+              "level": 4,
+              "externalID": "21850",
+              "name": "Sana Garden",
+              "name_l1": "ثناء گارڈن",
+              "slug": "/Dera_Ismail_Khan_Tank_Road_Sana_Garden-21850",
+              "slug_l1": "/Dera_Ismail_Khan_Tank_Road_Sana_Garden-21850"
+          }
+      ],
+      "hierarchyPath": "Sana Garden Tank Road Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21850",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21261",
+      "_highlightResult": {
+          "name": {
+              "value": "Sana Garden",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 18535,
+      "name": "Tank Road",
+      "name_l1": "ٹانک روڈ",
+      "externalID": "19451",
+      "slug": "/Dera_Ismail_Khan_Tank_Road-19451",
+      "slug_l1": "/Dera_Ismail_Khan_Tank_Road-19451",
+      "_geoloc": {
+          "lat": 31.833227,
+          "lng": 70.89161
+      },
+      "geography": {
+          "lat": 31.833227,
+          "lng": 70.89161
+      },
+      "geo_point": [
+          70.89161,
+          31.833227
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 7,
+              "level": 1,
+              "externalID": "1525",
+              "name": "Khyber Pakhtunkhwa",
+              "name_l1": "خیبر پختون خواہ",
+              "slug": "/Khyber_Pakhtunkhwa-1525",
+              "slug_l1": "/Khyber_Pakhtunkhwa-1525"
+          },
+          {
+              "id": 114,
+              "level": 2,
+              "externalID": "8244",
+              "name": "Dera Ismail Khan",
+              "name_l1": "ڈیرہ اسماعیل خان",
+              "slug": "/Dera_Ismail_Khan-8244",
+              "slug_l1": "/Dera_Ismail_Khan-8244"
+          },
+          {
+              "id": 18535,
+              "level": 3,
+              "externalID": "19451",
+              "name": "Tank Road",
+              "name_l1": "ٹانک روڈ",
+              "slug": "/Dera_Ismail_Khan_Tank_Road-19451",
+              "slug_l1": "/Dera_Ismail_Khan_Tank_Road-19451"
+          }
+      ],
+      "hierarchyPath": "Tank Road Dera Ismail Khan Khyber Pakhtunkhwa Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "19451",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "18535",
+      "_highlightResult": {
+          "name": {
+              "value": "Tank Road",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]

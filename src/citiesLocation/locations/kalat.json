@@ -1,0 +1,233 @@
+[
+  {
+      "id": 103,
+      "name": "Kalat",
+      "name_l1": "کلات",
+      "externalID": "1750",
+      "slug": "/Kalat-1750",
+      "slug_l1": "/Kalat-1750",
+      "_geoloc": {
+          "lat": 29.02547852996,
+          "lng": 66.59040927887
+      },
+      "geography": {
+          "lat": 29.02547852996,
+          "lng": 66.59040927887
+      },
+      "geo_point": [
+          66.59040927887,
+          29.02547852996
+      ],
+      "level": 2,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 103,
+              "level": 2,
+              "externalID": "1750",
+              "name": "Kalat",
+              "name_l1": "کلات",
+              "slug": "/Kalat-1750",
+              "slug_l1": "/Kalat-1750"
+          }
+      ],
+      "hierarchyPath": "Kalat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1750",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "103",
+      "_highlightResult": {
+          "name": {
+              "value": "Kalat",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 21357,
+      "name": "Life City",
+      "name_l1": "لائف سٹی",
+      "externalID": "21946",
+      "slug": "/Bhalwal_Others_Life_City-21946",
+      "slug_l1": "/Bhalwal_Others_Life_City-21946",
+      "_geoloc": {
+          "lat": 31.5200075,
+          "lng": 74.36407488
+      },
+      "geography": {
+          "lat": 31.5200075,
+          "lng": 74.36407488
+      },
+      "geo_point": [
+          74.36407488,
+          31.5200075
+      ],
+      "level": 4,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 103,
+              "level": 2,
+              "externalID": "1750",
+              "name": "Kalat",
+              "name_l1": "کلات",
+              "slug": "/Kalat-1750",
+              "slug_l1": "/Kalat-1750"
+          },
+          {
+              "id": 1263,
+              "level": 3,
+              "externalID": "1751",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Kalat_Others-1751",
+              "slug_l1": "/Kalat_Others-1751"
+          },
+          {
+              "id": 21357,
+              "level": 4,
+              "externalID": "21946",
+              "name": "Life City",
+              "name_l1": "لائف سٹی",
+              "slug": "/Bhalwal_Others_Life_City-21946",
+              "slug_l1": "/Bhalwal_Others_Life_City-21946"
+          }
+      ],
+      "hierarchyPath": "Life City Others Kalat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "21946",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": false,
+      "polygon": null,
+      "objectID": "21357",
+      "_highlightResult": {
+          "name": {
+              "value": "Life City",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  },
+  {
+      "id": 1263,
+      "name": "Others",
+      "name_l1": "دیگر",
+      "externalID": "1751",
+      "slug": "/Kalat_Others-1751",
+      "slug_l1": "/Kalat_Others-1751",
+      "_geoloc": {
+          "lat": 29.0304,
+          "lng": 66.5879
+      },
+      "geography": {
+          "lat": 29.0304,
+          "lng": 66.5879
+      },
+      "geo_point": [
+          66.5879,
+          29.0304
+      ],
+      "level": 3,
+      "hierarchy": [
+          {
+              "id": 2,
+              "level": 0,
+              "externalID": "1521",
+              "name": "Pakistan",
+              "name_l1": "پاکستان",
+              "slug": "/Pakistan-1521",
+              "slug_l1": "/Pakistan-1521"
+          },
+          {
+              "id": 6,
+              "level": 1,
+              "externalID": "1524",
+              "name": "Balochistan",
+              "name_l1": "بلوچستان",
+              "slug": "/Balochistan-1524",
+              "slug_l1": "/Balochistan-1524"
+          },
+          {
+              "id": 103,
+              "level": 2,
+              "externalID": "1750",
+              "name": "Kalat",
+              "name_l1": "کلات",
+              "slug": "/Kalat-1750",
+              "slug_l1": "/Kalat-1750"
+          },
+          {
+              "id": 1263,
+              "level": 3,
+              "externalID": "1751",
+              "name": "Others",
+              "name_l1": "دیگر",
+              "slug": "/Kalat_Others-1751",
+              "slug_l1": "/Kalat_Others-1751"
+          }
+      ],
+      "hierarchyPath": "Others Kalat Balochistan Pakistan",
+      "adCount": 0,
+      "aliases": [],
+      "type": null,
+      "hasBuilding": false,
+      "trackID": "1751",
+      "roles": null,
+      "completionStatus": null,
+      "hasChildren": true,
+      "polygon": null,
+      "objectID": "1263",
+      "_highlightResult": {
+          "name": {
+              "value": "Others",
+              "matchLevel": "none",
+              "matchedWords": []
+          }
+      }
+  }
+]
